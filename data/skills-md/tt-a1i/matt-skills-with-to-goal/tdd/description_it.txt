@@ -1,0 +1,1 @@
+Sviluppo guidato dai test. Utilizzare quando l'utente desidera creare funzionalità o correggere bug prima del test, menziona "red-green-refactor" o desidera test di integrazione.

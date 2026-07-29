@@ -1,0 +1,1 @@
+Configura questo repository per le competenze ingegneristiche: imposta il tracker dei problemi, il vocabolario delle etichette di triage e il layout del documento di dominio. Esegui una volta prima del primo utilizzo delle altre abilità ingegneristiche.

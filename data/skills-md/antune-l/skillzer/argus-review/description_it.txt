@@ -1,0 +1,1 @@
+Quando viene chiesto di rivedere un PR o un ramo ("rivedi questo PR", "revisione PR", "argus", prima della fusione), distribuisci la differenza a revisori paralleli di sola lettura e restituisci un verdetto classificato in base alla gravità; facoltativamente pubblica in linea tramite gh.

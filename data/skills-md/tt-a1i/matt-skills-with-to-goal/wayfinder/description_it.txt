@@ -1,0 +1,1 @@
+Pianifica una grande quantità di lavoro (più di una sessione dell'agente può contenere) come una mappa condivisa di ticket decisionali sul tuo tracker dei problemi e risolvili uno alla volta finché la strada verso la destinazione non è libera.

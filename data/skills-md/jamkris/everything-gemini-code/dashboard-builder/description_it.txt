@@ -1,0 +1,1 @@
+Crea dashboard di monitoraggio che rispondono a domande reali degli operatori per Grafana, SigNoz e piattaforme simili. Da utilizzare quando si trasformano le metriche in un dashboard funzionante anziché in una vanity board.

@@ -1,0 +1,1 @@
+Gestisci il flusso di esecuzione su GitHub e Linear valutando problemi e richieste pull, collegando il lavoro attivo e mantenendo GitHub rivolto al pubblico mentre Linear rimane il livello di esecuzione interno. Da utilizzare quando l'utente desidera il controllo del backlog, la valutazione delle PR o il coordinamento da GitHub a Linear.

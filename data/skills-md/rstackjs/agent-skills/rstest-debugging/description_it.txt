@@ -1,0 +1,1 @@
+Eseguire il debug sistematico dei problemi di Rstest, comprese le regressioni delle prestazioni. Determina innanzitutto se il rallentamento riguarda l'avvio della build o l'esecuzione del test, quindi esegui esperimenti di configurazione o codice controllati e confronta i tempi prima/dopo.

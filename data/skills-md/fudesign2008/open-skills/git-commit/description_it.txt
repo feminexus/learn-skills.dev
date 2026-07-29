@@ -1,0 +1,1 @@
+Punto di ingresso unificato del commit Git. Si attiva quando l'utente dice 「提交代码」「git commit」「帮我提交」「写 commit message」「生成commit」「提交一下」「git-commit」「自动提交代码」「git-commit-auto」 (codice di commit / aiutami a commettere / scrivi messaggio di commit / genera commit / commit automatico), o quando richiamato da jira-fix-workflow fase 7.

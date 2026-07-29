@@ -1,0 +1,1 @@
+Esamina le modifiche al codice Logseq, i PR, le patch, gli intervalli di commit o i piani di implementazione attraverso un flusso di lavoro di orchestrazione dell'agente principale che instrada gli agenti secondari di sola lettura attraverso passaggi di revisione indipendenti, quindi deduplica, convalida e segnala i risultati per l'app Web, l'app desktop e la CLI Logseq.

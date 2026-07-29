@@ -1,0 +1,1 @@
+Progetta suite di prova, copertura e precondizioni strutturali e invia il report `QA.planner-execution-summary.md`.

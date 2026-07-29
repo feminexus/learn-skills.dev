@@ -1,0 +1,1 @@
+Controllo delle risorse del codice sorgente cross-stack: classifica ogni file, rileva librerie di terze parti incorporate e fornisce verdetti attuabili su quattro livelli per modulo con report HTML interattivi.

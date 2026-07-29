@@ -1,0 +1,1 @@
+Modelli di conformità delle informazioni sanitarie protette (PHI) e delle informazioni di identificazione personale (PII) per le applicazioni sanitarie. Copre la classificazione dei dati, il controllo degli accessi, gli audit trail, la crittografia e i vettori di perdita comuni.

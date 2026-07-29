@@ -1,0 +1,1 @@
+Progetta interfacce e convalida l'accessibilità rispetto a WCAG 2.1 con controlli supportati da DevTools: un flusso di lavoro UI/UX Designer richiamato dall'utente.

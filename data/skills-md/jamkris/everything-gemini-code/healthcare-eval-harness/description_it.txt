@@ -1,0 +1,1 @@
+Cablaggio di valutazione della sicurezza del paziente per implementazioni di applicazioni sanitarie. Suite di test automatizzati per l'accuratezza CDSS, l'esposizione alle PHI, l'integrità del flusso di lavoro clinico e la conformità dell'integrazione. Blocks deployments on safety failures.

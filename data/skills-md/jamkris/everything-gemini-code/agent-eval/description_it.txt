@@ -1,0 +1,1 @@
+Confronto testa a testa degli agenti di codifica (Gemini CLI, Aider, Codex, ecc.) su attività personalizzate con metriche di velocità di passaggio, costo, tempo e coerenza

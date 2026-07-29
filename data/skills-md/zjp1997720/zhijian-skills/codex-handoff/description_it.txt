@@ -1,0 +1,1 @@
+Trasforma un'attività Codex sovradimensionata o lenta in una nuova attività visibile all'utente con continuità compatta. Utilizzare solo per un trasferimento esplicito o un rollover del contesto; non per la continuazione ordinaria, la delega, i fork della cronologia completa, la migrazione Git o i file di trasferimento.

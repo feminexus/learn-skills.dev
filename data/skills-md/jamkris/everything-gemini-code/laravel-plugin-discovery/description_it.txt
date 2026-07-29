@@ -1,0 +1,1 @@
+Scopri e valuta i pacchetti Laravel tramite LaraPlugins.io MCP. Da utilizzare quando l'utente desidera trovare plug-in, verificare l'integrità del pacchetto o valutare la compatibilità con Laravel/PHP.

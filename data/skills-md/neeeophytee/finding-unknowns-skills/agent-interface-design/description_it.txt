@@ -1,0 +1,1 @@
+Progetta strumenti, script e CLI che un agente chiamerà, in modo che l'interfaccia insegni il proprio utilizzo invece di un muro di prosa ed esempi. Da utilizzare quando si crea un server MCP o una definizione di strumento, si scrive uno script rivolto all'agente o quando un agente continua a utilizzare in modo improprio uno strumento di cui già dispone.

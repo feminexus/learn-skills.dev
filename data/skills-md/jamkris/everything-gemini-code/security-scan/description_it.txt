@@ -1,0 +1,1 @@
+Esegui la scansione della configurazione della CLI Gemini (directory .gemini/) per individuare vulnerabilità della sicurezza, configurazioni errate e rischi di injection utilizzando AgentShield. Controlla GEMINI.md, settings.json, server MCP, hook e definizioni di agenti.

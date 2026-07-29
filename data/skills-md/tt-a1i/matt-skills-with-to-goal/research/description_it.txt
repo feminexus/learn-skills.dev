@@ -1,0 +1,1 @@
+Esamina una domanda rispetto a fonti primarie con elevata attendibilità e acquisisci i risultati come file Markdown nel repository. Da utilizzare quando l'utente desidera che si effettui una ricerca su un argomento, si raccolgano documenti o informazioni sull'API o si voglia leggere un lavoro delegato a un agente in background.

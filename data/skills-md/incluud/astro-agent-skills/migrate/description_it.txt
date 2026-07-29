@@ -1,0 +1,1 @@
+Pianifica ed esegui migrazioni verso Astro o tra versioni Astro con regressioni minime.

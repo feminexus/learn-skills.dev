@@ -1,0 +1,1 @@
+Facilita l'elaborazione del progetto attraverso il dialogo socratico. Trasforma idee progettuali vaghe in intenti strutturati. Si attiva quando qualcuno menziona la pianificazione del progetto, cosa dovrei costruire, la definizione dell'ambito o il chiarimento degli obiettivi.

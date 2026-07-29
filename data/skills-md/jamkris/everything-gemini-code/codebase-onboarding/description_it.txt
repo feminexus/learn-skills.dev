@@ -1,0 +1,1 @@
+Analizza una base di codice sconosciuta e genera una guida di onboarding strutturata con mappa dell'architettura, punti di ingresso chiave, convenzioni e un GEMINI.md iniziale. Da utilizzare quando si partecipa a un nuovo progetto o si configura la CLI Gemini per la prima volta in un repository.

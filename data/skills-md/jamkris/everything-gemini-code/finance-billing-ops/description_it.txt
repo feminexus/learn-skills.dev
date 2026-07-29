@@ -1,0 +1,1 @@
+Flusso di lavoro basato sull'evidenza su entrate, prezzi, rimborsi, fatturazione del team e modello di fatturazione per ECC. Da utilizzare quando l'utente desidera un'istantanea delle vendite, un confronto dei prezzi, una diagnosi di addebiti duplicati o una realtà di fatturazione supportata da codice invece di consigli generici sui pagamenti.

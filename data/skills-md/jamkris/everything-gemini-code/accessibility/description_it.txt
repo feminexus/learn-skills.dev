@@ -1,0 +1,1 @@
+Progettare, implementare e verificare prodotti digitali inclusivi utilizzando gli standard WCAG 2.2 Livello AA. Utilizza questa competenza per generare ARIA semantica per il Web e tratti di accessibilità per piattaforme Web e native (iOS/Android).

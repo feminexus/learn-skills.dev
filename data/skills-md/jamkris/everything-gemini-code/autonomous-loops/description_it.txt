@@ -1,0 +1,1 @@
+Modelli e architetture per loop CLI Gemini autonomi: da semplici pipeline sequenziali a sistemi DAG multi-agente basati su RFC.

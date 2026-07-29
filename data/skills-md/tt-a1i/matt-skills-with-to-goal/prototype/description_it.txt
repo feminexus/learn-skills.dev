@@ -1,0 +1,1 @@
+Costruisci un prototipo usa e getta per rispondere a una domanda di progettazione. Da utilizzare quando l'utente desidera verificare se un modello di stato o una logica sono corretti oppure esplorare come dovrebbe apparire un'interfaccia utente.

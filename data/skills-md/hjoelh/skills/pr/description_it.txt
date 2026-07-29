@@ -1,0 +1,1 @@
+Crea una bozza di richiesta pull GitHub dallo stato git corrente nel ramo predefinito del repository utilizzando la CLI gh. Da utilizzare quando l'utente chiede di aprire o creare un PR, desidera che il ramo di base corrisponda automaticamente al ramo principale/predefinito del repository, desidera un breve riepilogo del PR o dice esplicitamente di omettere un piano di test.

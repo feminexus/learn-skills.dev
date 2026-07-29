@@ -1,0 +1,1 @@
+Cattura le decisioni architetturali prese durante le sessioni Gemini CLI come ADR strutturati. Rileva automaticamente i momenti decisionali, registra il contesto, le alternative considerate e le motivazioni. Mantiene un registro ADR in modo che i futuri sviluppatori comprendano perché la base di codice è modellata così com'è.

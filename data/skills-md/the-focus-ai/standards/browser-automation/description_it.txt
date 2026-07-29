@@ -1,0 +1,1 @@
+Automatizza il browser Chrome tramite il protocollo DevTools. Da utilizzare quando l'utente richiede di acquisire siti Web, acquisire schermate, generare PDF, interagire con pagine Web, estrarre contenuti, compilare moduli o automatizzare le attività del browser.

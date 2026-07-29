@@ -1,0 +1,1 @@
+Utilizza questa abilità durante il recupero dei ticket Jira, l'analisi dei requisiti, l'aggiornamento dello stato dei ticket, l'aggiunta di commenti o la transizione dei problemi. Fornisce modelli API Jira tramite MCP o chiamate REST dirette.

@@ -1,0 +1,1 @@
+Flusso di lavoro di esecuzione del repository "Evidence First" per ECC. Da utilizzare quando l'utente desidera eseguire un comando, controllare un repository, eseguire il debug di un errore CI o inviare una correzione limitata con la prova esatta di ciò che è stato eseguito e verificato.

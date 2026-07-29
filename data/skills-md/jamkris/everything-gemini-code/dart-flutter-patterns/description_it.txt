@@ -1,0 +1,1 @@
+Modelli Dart e Flutter pronti per la produzione che coprono sicurezza nulla, stato immutabile, composizione asincrona, architettura widget, framework di gestione dello stato popolari (BLoC, Riverpod, Provider), navigazione GoRouter, rete Dio, generazione di codice congelato e architettura pulita.

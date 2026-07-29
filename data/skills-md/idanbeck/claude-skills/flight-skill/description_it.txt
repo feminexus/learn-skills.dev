@@ -1,0 +1,1 @@
+Controlla lo stato dei voli in tempo reale, monitora i voli in coincidenza e controlla i ritardi negli aeroporti. Da utilizzare quando l'utente chiede di controllare un volo, monitorare il viaggio di qualcuno o verificare le condizioni dell'aeroporto.

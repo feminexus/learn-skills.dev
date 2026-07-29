@@ -1,0 +1,1 @@
+Modelli di sviluppo EMR/EHR per applicazioni sanitarie. Sicurezza clinica, flussi di lavoro di incontro, generazione di prescrizioni, integrazione del supporto decisionale clinico e interfaccia utente con accessibilità prioritaria per l'immissione di dati medici.

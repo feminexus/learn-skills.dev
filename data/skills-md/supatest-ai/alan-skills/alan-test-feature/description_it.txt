@@ -1,0 +1,1 @@
+Copertura dell'ambito, creazione di una strategia di test, test della funzionalità con il browser dell'agente, acquisizione di screenshot/video (sempre obbligatorio), caricamento su S3 e creazione di un report di test strutturato (non saltare mai)

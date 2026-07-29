@@ -1,0 +1,1 @@
+Estrai automaticamente modelli riutilizzabili dalle sessioni della CLI Gemini e salvali come competenze apprese per un uso futuro.

@@ -1,0 +1,1 @@
+Aggiungi e configura integrazioni Astro, adattatori e strumenti del framework dell'interfaccia utente.

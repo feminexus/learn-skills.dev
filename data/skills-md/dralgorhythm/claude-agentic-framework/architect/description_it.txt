@@ -1,0 +1,1 @@
+Progetta sistemi e registra le decisioni sull'architettura come ADR: un flusso di lavoro Principal Architect richiamato dall'utente.

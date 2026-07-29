@@ -1,0 +1,1 @@
+Analizza il ramo corrente o una richiesta pull GitHub e pianifica uno stack di nuove richieste pull facilmente revisionabili, suddividendo il lavoro solo quando i limiti migliorano materialmente la possibilità di revisione. Da utilizzare quando una modifica può trarre vantaggio da più PR ordinati.

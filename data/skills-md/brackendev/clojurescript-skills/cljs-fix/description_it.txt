@@ -1,0 +1,1 @@
+Correggere un progetto ClojureScript (lint, formato, test, avanzato, dry); il formato scrive per impostazione predefinita

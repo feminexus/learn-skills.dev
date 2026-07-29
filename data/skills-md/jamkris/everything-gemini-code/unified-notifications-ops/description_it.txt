@@ -1,0 +1,1 @@
+Gestisci le notifiche come un unico flusso di lavoro nativo ECC su GitHub, Linear, avvisi desktop, hook e superfici di comunicazione connesse. Da utilizzare quando il vero problema è l'instradamento degli avvisi, la deduplicazione, l'escalation o il collasso della posta in arrivo.

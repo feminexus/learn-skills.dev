@@ -1,0 +1,1 @@
+Esegui una revisione estremamente rigorosa della manutenibilità per qualità di astrazione, file di grandi dimensioni e crescita in condizioni di spaghetti. Utilizzare per una revisione della qualità del codice termonucleare, una revisione termonucleare, un controllo approfondito della qualità del codice o una revisione della manutenibilità particolarmente severa.

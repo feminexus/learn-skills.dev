@@ -1,0 +1,1 @@
+Costruisci e perfeziona il modello di dominio di un progetto. Da utilizzare quando l'utente desidera definire la terminologia del dominio o un linguaggio onnipresente, registrare una decisione architetturale o quando un'altra competenza deve mantenere il modello di dominio.

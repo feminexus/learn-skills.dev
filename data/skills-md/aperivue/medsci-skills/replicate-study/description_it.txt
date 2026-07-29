@@ -1,0 +1,1 @@
+Replicare la metodologia di uno studio di coorte esistente su un database diverso. Estrae il progetto dello studio da un documento di origine, mappa le variabili nel DB di destinazione tramite la tabella di armonizzazione, genera codice di analisi e produce un report sulle differenze di replica.

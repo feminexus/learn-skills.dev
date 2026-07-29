@@ -1,0 +1,1 @@
+Esegue il debug delle applicazioni Meta Quest e Horizon OS VR/MR utilizzando la CLI metavr: visualizza registri, acquisisci screenshot, diagnostica problemi comuni. Da utilizzare per la risoluzione di arresti anomali, errori o comportamenti imprevisti sui dispositivi Quest.

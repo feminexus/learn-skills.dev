@@ -1,0 +1,1 @@
+Modelli di architettura Laravel, routing/controller, Eloquent ORM, livelli di servizio, code, eventi, memorizzazione nella cache e risorse API per app di produzione.

@@ -1,0 +1,1 @@
+Flusso di lavoro di ricerca sullo stato attuale delle prove per l'ECC. Da utilizzare quando l'utente desidera fatti nuovi, confronti, arricchimenti o una raccomandazione basata sulle prove pubbliche attuali e su qualsiasi contesto locale fornito.

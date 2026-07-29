@@ -1,0 +1,1 @@
+Verifica contraddittoria multi-agente con anello di convergenza. Due agenti di revisione indipendenti devono entrambi passare prima della spedizione in uscita.

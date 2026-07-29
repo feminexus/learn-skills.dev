@@ -1,0 +1,1 @@
+Controlla una codebase in modo olistico per rilevare violazioni di SOLID, DRY e coerenza: un flusso di lavoro di Codebase Auditor richiamato dall'utente.

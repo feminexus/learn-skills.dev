@@ -1,0 +1,1 @@
+Da utilizzare quando è necessario risolvere un conflitto di unione/rebase git in corso.

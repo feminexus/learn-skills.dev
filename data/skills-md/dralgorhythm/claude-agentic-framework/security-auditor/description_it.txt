@@ -1,0 +1,1 @@
+Valuta le vulnerabilità e verifica la conformità della sicurezza utilizzando la metodologia OWASP e STRIDE: un flusso di lavoro del controllore di sicurezza richiamato dall'utente.

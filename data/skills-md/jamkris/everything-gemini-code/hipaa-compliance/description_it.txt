@@ -1,0 +1,1 @@
+HIPAA-specific entrypoint for healthcare privacy and security work. Da utilizzare quando un'attività è esplicitamente inquadrata in HIPAA, gestione PHI, entità coperte, BAA, comportamento in caso di violazione o requisiti di conformità sanitaria degli Stati Uniti.

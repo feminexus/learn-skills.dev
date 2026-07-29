@@ -1,0 +1,1 @@
+Analisi dei problemi di performance e flusso di lavoro di ottimizzazione, sei fasi. Tutti i trigger iniziano con 性能 ("prestazione"): 性能分析, 性能证据, 性能定位, 性能假设, 性能监控, 性能优化, 性能验证,性能深入. Dicendo solo una di queste parole, o utilizzando il modulo 「trigger: descrizione」, si accede a questo flusso di lavoro o alla fase corrispondente.

@@ -1,0 +1,1 @@
+Avvia e coordina i flussi di lavoro REPL di sviluppo Logseq per i runtime del renderer desktop `:app`, del processo principale Electron `:electron` e `:db-worker-node` attraverso un flusso di lavoro unificato.

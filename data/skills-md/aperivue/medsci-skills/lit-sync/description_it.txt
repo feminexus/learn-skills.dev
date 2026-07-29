@@ -1,0 +1,1 @@
+Sincronizza i riferimenti di ricerca dai file .bib alla libreria Zotero + note sulla letteratura di Obsidian. Estrarre note concettuali trasversali quando si accumula abbastanza letteratura. Funziona dopo /search-lit o autonomo.

@@ -1,0 +1,1 @@
+Da utilizzare durante la valutazione dei commenti di revisione su un PR da qualsiasi fonte: CodeRabbit, Graphite Reviewer, ingegneri umani. Deduce il PR corrente dal ramo o accetta un numero PR come argomento.

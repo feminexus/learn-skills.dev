@@ -1,0 +1,1 @@
+Suddividi un piano, una specifica o la conversazione corrente in una serie di ticket traccianti, ciascuno dei quali dichiara i propri limiti di blocco, salvati come file di markdown

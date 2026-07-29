@@ -1,0 +1,1 @@
+Crea un piano di installazione ECC supportato da prove per un repository specifico ordinando competenze, comandi, regole, hook ed extra nei bucket DAILY e LIBRARY utilizzando passaggi di revisione paralleli compatibili con il repository. Da utilizzare quando l'ECC deve essere ridotto alle esigenze effettive di un progetto invece di caricare l'intero pacchetto.

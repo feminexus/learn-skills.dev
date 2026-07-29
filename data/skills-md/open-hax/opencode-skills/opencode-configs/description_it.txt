@@ -1,0 +1,1 @@
+Aggiorna la configurazione, le regole, i comandi e le autorizzazioni di OpenCode in linea con la documentazione ufficiale

@@ -1,0 +1,1 @@
+Quando l'utente desidera creare o migliorare la capacità di un bot di vendita di stimare le tempistiche delle trattative in base ai modelli di conversazione. Da utilizzare anche quando l'utente menziona "previsione di chiusura", "tempistica dell'affare", "stima del ciclo di vendita", "tempistica della previsione" o "velocità dell'affare".

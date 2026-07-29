@@ -1,0 +1,1 @@
+Modelli di flusso di lavoro Git tra cui strategie di ramificazione, convenzioni di commit, unione o rebase, risoluzione dei conflitti e best practice di sviluppo collaborativo per team di tutte le dimensioni.

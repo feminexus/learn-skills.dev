@@ -1,0 +1,1 @@
+Esegui un piano di implementazione con sciami di lavoratori paralleli, controlli di qualità e monitoraggio delle attività native: un flusso di lavoro di Execution Orchestrator richiamato dall'utente.

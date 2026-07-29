@@ -1,0 +1,1 @@
+Consulta la documentazione ufficiale di Astro e rispondi accuratamente alle domande Astro sensibili alla versione.

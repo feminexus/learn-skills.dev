@@ -1,0 +1,1 @@
+Gestione di progetti di ricerca per manoscritti medici. Struttura del progetto con impalcatura, traccia l'avanzamento della scrittura nelle fasi, mantieni i file di memoria del progetto, genera liste di controllo di invio e sequenze temporali a ritroso. Comandi: init, status, sync-memory, checklist, timeline.

@@ -1,0 +1,1 @@
+Previeni bug silenziosi di mancata corrispondenza decimale nelle catene EVM. Copre la ricerca decimale in runtime, il caching con riconoscimento della catena, la deriva di precisione dei token bridge e la normalizzazione sicura per bot, dashboard e strumenti DeFi.

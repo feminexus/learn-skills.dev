@@ -1,0 +1,1 @@
+Controlla il consumo della finestra di contesto della CLI Gemini tra agenti, competenze, server MCP e regole. Identifica componenti eccessivi e ridondanti e produce consigli prioritari sul risparmio di token.

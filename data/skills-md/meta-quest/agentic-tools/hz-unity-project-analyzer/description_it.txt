@@ -1,0 +1,1 @@
+Analizza, documenta e mantiene una base di conoscenza `.agent-docs/` vivente per progetti Unity destinati a Meta Quest e Horizon OS. Da utilizzare quando l'utente chiede di scansionare la struttura del progetto, spiegare come funziona un sistema Unity o aggiornare i documenti del progetto dopo modifiche strutturali.

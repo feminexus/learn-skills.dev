@@ -1,0 +1,1 @@
+Analizza i commenti dei revisori peer e genera un documento strutturato di risposta ai revisori con le modifiche al manoscritto tracciate. Classifica i commenti come MAJOR/MINOR/REBUTTAL, coordina nuove analisi con /analyze-stats e /make-figures e produce una lettera di accompagnamento per l'editore.

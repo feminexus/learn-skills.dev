@@ -1,0 +1,1 @@
+Metti in stage e conferma istantaneamente tutte le modifiche Git nel repository corrente con la massima velocità. Da utilizzare quando l'utente richiede /commit, desidera un commit completo e veloce del repository o desidera che tutto venga messo in scena e sottoposto a commit senza che gli venga richiesto un messaggio di commit.

@@ -1,0 +1,1 @@
+Inventario automatizzato basato sulle prove e flusso di lavoro di audit sovrapposto per l'ECC. Da utilizzare quando l'utente desidera sapere quali lavori, hook, connettori, server MCP o wrapper sono attivi, danneggiati, ridondanti o mancanti prima di correggere qualsiasi cosa.

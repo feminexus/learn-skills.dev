@@ -1,0 +1,1 @@
+Modelli di sicurezza per agenti commerciali autonomi con portafoglio o autorità di transazione. Riguarda l'iniezione tempestiva, i limiti di spesa, la simulazione pre-invio, gli interruttori automatici, la protezione MEV e la gestione delle chiavi.

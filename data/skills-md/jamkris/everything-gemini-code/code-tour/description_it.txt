@@ -1,0 +1,1 @@
+Crea file CodeTour `.tour`: procedure dettagliate mirate alla persona con file reali e ancoraggi di linea. Utilizzare per tour di onboarding, procedure dettagliate sull'architettura, tour PR, tour RCA e richieste strutturate "spiega come funziona".

@@ -1,0 +1,1 @@
+Linee guida per la codifica TigerStyle Zig: distillate dal codice di produzione di TigerBeetle. Da utilizzare durante la scrittura, la revisione o il refactoring del codice Zig, chiedendo informazioni sugli idiomi Zig, sulle asserzioni, sul layout della memoria, sulle convenzioni di denominazione, sullo stile del codice e sulla progettazione API.

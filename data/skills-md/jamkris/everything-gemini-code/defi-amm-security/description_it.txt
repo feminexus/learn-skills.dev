@@ -1,0 +1,1 @@
+Lista di controllo di sicurezza per contratti AMM Solidity, pool di liquidità e flussi di swap. Copre la rientranza, l'ordinamento CEI, gli attacchi di donazione o inflazione, la manipolazione degli oracoli, lo slittamento, i controlli di amministrazione e la matematica dei numeri interi.

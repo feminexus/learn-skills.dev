@@ -1,0 +1,1 @@
+Strategie di test di regressione per lo sviluppo assistito dall'intelligenza artificiale. Test API in modalità sandbox senza dipendenze dal database, flussi di lavoro automatizzati di controllo dei bug e modelli per individuare i punti ciechi dell'IA in cui lo stesso modello scrive e rivede il codice.

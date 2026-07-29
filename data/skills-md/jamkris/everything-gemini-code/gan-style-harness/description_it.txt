@@ -1,0 +1,1 @@
+Cablaggio dell'agente generatore-valutatore ispirato a GAN per la creazione autonoma di applicazioni di alta qualità. Basato sul documento di progettazione dell'imbracatura di Anthropic del marzo 2026.
