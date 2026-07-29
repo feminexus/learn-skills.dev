@@ -1,0 +1,9 @@
+Работайте внутри Wonder-image/new-site или любого сайта, созданного на его основе. Используйте, когда
+Composer.json зависит от Wonder-image/app, но не является пакетом фреймворка.
+или когда работа касается `custom/`, `app/Models`, `app/Resources`, `lang/`,
+`assets/{ASSETS_VERSION}/`, `PRODUCT.md`, `php forge account`,
+`php forge update --local`, `php forge start` или настройка npm. Обложки страниц,
+модели, ресурсы, повторители, редактируемый контент, переводы, маршруты, роли,
+разрешения, внешние модули, переопределения компонентов и пользовательский интерфейс/стиль, которые должны
+повторно используйте `wonder-image/lib`. Не используйте для ядра `wonder-image/app`, напрямую
+изменения в `vendor/wonder-image/app` или в `wonder-image/lib`.
