@@ -1,5 +1,1 @@
-CodeStable: a framework for understanding software evolution (Vision/Project Spec/Epic/Issue + CodeStable/institutional memory) that acts according to the user’s current posture—discussion, rapid changes, managed implementation, bug fixing, organizing vision/spec, understanding the current state, closing/wrapping up, on‑demand review.  
-
-Triggers: cs, CodeStable, discussion/clarify first, fast/quick change/start immediately, puncture, fix bug/debug, organize vision/spec, close/wrap up, review, “how does this system work”, project already has a CodeStable and is handling vision/spec bug implementation closure.  
-
-Calling cs does not mean running the full process: first assess the posture, then act. Initialize CodeStable only when the user explicitly requests it.
+CodeStable：一套软件演化理解（Vision/Project Spec/Epic/Issue + codestable/ 制度记忆），按用户当前姿态行动——讨论、快改、受管理实现、修 bug、整理愿景/规格、现状理解、关闭收尾、按需 review。 触发：cs、CodeStable、讨论/先聊清楚、快速/快改/直接开干、穿刺、修 bug/debug、整理 vision/spec、关闭/收尾、review、这系统怎么工作、项目已有 codestable/ 且在处理愿景规格 bug 实现关闭时。 调用 cs 不等于跑完整流程：先判姿态再行动。仅用户明确要求时才初始化 codestable/。

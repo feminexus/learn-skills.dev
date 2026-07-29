@@ -1,1 +1,1 @@
-AI human-flavored Chinese translation: Turn AI-written Chinese into natural language. Combines an AI feature detection framework, a methodology for removing AI traces, and practical experience in batch content production. Suitable for any Chinese copywriting rewriting scenario that requires removing AI footprints.
+AI 人味儿汉译汉：把 AI 写的中文改成人话。综合 AI 特征检测框架、去AI味方法论、批量内容生产的实战经验。适用于任何需要去除 AI 痕迹的中文文案改写场景。

@@ -1,1 +1,1 @@
-Technical architecture role for a Phaser 4 mobile 2D game. Use when you need to define or review module responsibilities, public contracts, state ownership, and dependency direction, or to establish a technical baseline for TypeScript, Vite, Capacitor, scenes, assets, saves, platform adaptation, and reproducible builds.
+Phaser 4 移动端 2D 游戏的技术架构角色。需要划分或评审模块职责、公开契约、状态所有权和依赖方向，或建立 TypeScript、Vite、Capacitor、场景、资源、存档、平台适配和可复现构建的技术基线时使用。

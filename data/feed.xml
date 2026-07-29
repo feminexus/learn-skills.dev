@@ -4,637 +4,434 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Wed, 29 Jul 2026 02:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[[Daily] Skills.sh snapshot (2026-07-29)]]></title>
             <link>https://skills.sh</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:snapshot</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:snapshot</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[Daily snapshot.
 Providers: skills.sh
-All Time skills: 8332
-Trending skills: 7691
-Hot skills: 1090
-Top All Time: find-skills (2719215)
-Top Trending: ai-video-generation (21439)
-Top Hot: find-skills (71)]]></description>
+All Time skills: 8319
+Trending skills: 7496
+Hot skills: 3347
+Top All Time: find-skills (2724879)
+Top Trending: ai-video-generation (21594)
+Top Hot: find-skills (357)]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#33): prisma-compute]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-compute</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-compute</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#2): ai-video-generation]]></title>
+            <link>https://skills.sh/101-skills/skills/ai-video-generation</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-video-generation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
-Rank: #33
-Installs: 28
-Source: prisma/skills
-Description: Prisma Compute deployment and hosting guide. Use whenever the user mentions Prisma Compute, deploying or hosting a Prisma app, `@prisma/cli app deploy`, `compute:deploy`, `create-prisma --deploy`, `PRISMA_SERVICE_TOKEN`, Compute apps/deployments/logs/domains, localhost vs `0.0.0.0`, deploy port binding, or framework deploy readiness for Hono, Elysia, Next.js, TanStack Start, Astro, Nuxt, Svelte, Nest, or Turborepo.]]></description>
+Rank: #2
+Installs: 280
+Source: 101-skills/skills
+Description: Generate AI videos with Google Veo, Seedance 2.0, HappyHorse, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Veo 3, Seedance 2.0, HappyHorse 1.0, Wan 2.5, Grok Imagine Video, OmniHuman, Fabric, HunyuanVideo. Capabilities: text-to-video, image-to-video, reference-to-video, video editing, lipsync, avatar animation, video upscaling, foley sound. Use for: social media videos, marketing content, explainer videos, product demos, AI avatars. Triggers: video generation, ai video, text to video, image to video, veo, animate image, video from image, ai animation, video generator, generate video, t2v, i2v, ai video maker, create video with ai, runway alternative, pika alternative, sora alternative, kling alternative, seedance, happyhorse]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#34): prisma-mongodb-upgrade]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-mongodb-upgrade</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-mongodb-upgrade</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#3): ai-image-generation]]></title>
+            <link>https://skills.sh/101-skills/skills/ai-image-generation</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-image-generation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
-Rank: #34
-Installs: 28
-Source: prisma/skills
-Description: Decision and migration guide for Prisma ORM MongoDB projects on v6, which have no upgrade path to v7. Use when a MongoDB project asks about upgrading Prisma, when "upgrade to prisma 7" comes up in a project with provider = "mongodb", or when evaluating a move to Prisma Next. Triggers on "upgrade prisma mongodb", "prisma 7 mongodb", "mongodb prisma migration", "prisma next mongodb".]]></description>
+Rank: #3
+Installs: 277
+Source: 101-skills/skills
+Description: Generate AI images with GPT-Image-2, FLUX, Gemini, Grok, Seedream, Reve and 50+ models via inference.sh CLI. Models: GPT-Image-2, FLUX Dev LoRA, FLUX.2 Klein LoRA, Gemini 3 Pro Image, Grok Imagine, Seedream 4.5, Reve, ImagineArt. Capabilities: text-to-image, image-to-image, inpainting, LoRA, image editing, upscaling, text rendering. Use for: AI art, product mockups, concept art, social media graphics, marketing visuals, illustrations. Triggers: flux, image generation, ai image, text to image, stable diffusion, generate image, ai art, midjourney alternative, dall-e alternative, text2img, t2i, image generator, ai picture, create image with ai, generative ai, ai illustration, grok image, gemini image, gpt image, openai image, chatgpt image]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#35): prisma-postgres-setup]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-postgres-setup</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-postgres-setup</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#4): twitter-automation]]></title>
+            <link>https://skills.sh/101-skills/skills/twitter-automation</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/twitter-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
-Rank: #35
-Installs: 28
-Source: prisma/skills
-Description: Set up a new Prisma Postgres database and connect it to a local project using the Management API. Use when asked to "set up a database", "create a Prisma Postgres project", "get a connection string", "connect my app to Prisma Postgres", or "provision a database".]]></description>
+Rank: #4
+Installs: 277
+Source: 101-skills/skills
+Description: Automate Twitter/X with posting, engagement, and user management via inference.sh CLI. Apps: x/post-tweet, x/post-create (with media), x/post-like, x/post-retweet, x/dm-send, x/user-follow. Capabilities: post tweets, schedule content, like posts, retweet, send DMs, follow users, get profiles. Use for: social media automation, content scheduling, engagement bots, audience growth, X API. Triggers: twitter api, x api, tweet automation, post to twitter, twitter bot, social media automation, x automation, tweet scheduler, twitter integration, post tweet, twitter post, x post, send tweet]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#36): prisma-driver-adapter-implementation]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-driver-adapter-implementation</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-driver-adapter-implementation</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #36
-Installs: 28
-Source: prisma/skills
-Description: Required reference for Prisma v7 driver adapter work. Use when implementing or modifying adapters, adding database drivers, or touching SqlDriverAdapter/Transaction interfaces. Contains critical contract details not inferable from code examples — including the transaction lifecycle protocol, error mapping requirements, and verification checklist. Existing implementations do not replace this skill.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#37): prisma-upgrade-v7]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-upgrade-v7</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-upgrade-v7</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #37
-Installs: 28
-Source: prisma/skills
-Description: Complete migration guide from Prisma ORM v6 to v7 covering all breaking changes. Use when upgrading Prisma versions, encountering v7 errors, or migrating existing projects. Triggers on "upgrade to prisma 7", "prisma 7 migration", "prisma-client-js to prisma-client", "driver adapter required".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#38): prisma-postgres]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-postgres</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-postgres</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #38
-Installs: 28
-Source: prisma/skills
-Description: Prisma Postgres setup and operations guidance across Console, create-db CLI, Management API, and Management API SDK. Use when creating Prisma Postgres databases, working in Prisma Console, provisioning with create-db/create-pg/create-postgres, or integrating programmatic provisioning with service tokens or OAuth.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#39): prisma-database-setup]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-database-setup</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-database-setup</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #39
-Installs: 28
-Source: prisma/skills
-Description: Guides for configuring Prisma with different database providers (PostgreSQL, MySQL, SQLite, MongoDB, etc.). Use when setting up a new project, changing databases, or troubleshooting connection issues. Triggers on "configure postgres", "connect to mysql", "setup mongodb", "sqlite setup".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#40): prisma-cli]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-cli</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-cli</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #40
-Installs: 28
-Source: prisma/skills
-Description: Prisma CLI commands reference covering all available commands, options, and usage patterns. Use when running Prisma CLI commands, setting up projects, generating client, running migrations, or managing databases. Triggers on "prisma init", "prisma generate", "prisma migrate", "prisma db", "prisma studio".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#41): prisma-client-api]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-client-api</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:prisma/skills/prisma-client-api</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #41
-Installs: 28
-Source: prisma/skills
-Description: Prisma Client API reference covering model queries, filters, operators, and client methods. Use when writing database queries, using CRUD operations, filtering data, or configuring Prisma Client. Triggers on "prisma query", "findMany", "create", "update", "delete", "$transaction".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#46): lark-okr]]></title>
-            <link>https://skills.sh/larksuite/cli/lark-okr</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:larksuite/cli/lark-okr</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #46
-Installs: 19
-Source: larksuite/cli
-Description: 飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标（Objective）、关键结果（Key Result）、对齐关系、量化指标。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#47): lark-slides]]></title>
-            <link>https://skills.sh/larksuite/cli/lark-slides</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:larksuite/cli/lark-slides</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Hot leaderboard.
-Rank: #47
-Installs: 19
-Source: larksuite/cli
-Description: 飞书幻灯片：以 XML 格式读取和管理 PPT 页面。创建演示文稿优先用 `+create`；XML API 主要用于读取 PPT 全文信息、创建和删除幻灯片页面。当用户需要创建 PPT、读取 PPT 内容、管理幻灯片页面时使用。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] New entry (#48): lark-calendar]]></title>
-            <link>https://skills.sh/larksuite/cli/lark-calendar</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:larksuite/cli/lark-calendar</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#48): twitter-automation]]></title>
+            <link>https://skills.sh/magentosh/skills/twitter-automation</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/twitter-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #48
-Installs: 19
-Source: larksuite/cli
-Description: 飞书日历（calendar）：提供日历与日程（会议）的全面管理能力。核心场景包括：查看/搜索日程、创建/更新日程、管理参会人、查询忙闲状态及推荐空闲时段。高频操作请优先使用 Shortcuts：+agenda（快速概览今日/近期行程）、+create（创建日程并按需邀请参会人）、+freebusy（查询用户主日历的忙闲信息和rsvp的状态）、+suggestion（针对时间未确定的预约日程需求，提供多个时间推荐方案）。]]></description>
+Installs: 93
+Source: magentosh/skills
+Description: Automate Twitter/X with posting, engagement, and user management via inference.sh CLI. Apps: x/post-tweet, x/post-create (with media), x/post-like, x/post-retweet, x/dm-send, x/user-follow. Capabilities: post tweets, schedule content, like posts, retweet, send DMs, follow users, get profiles. Use for: social media automation, content scheduling, engagement bots, audience growth, X API. Triggers: twitter api, x api, tweet automation, post to twitter, twitter bot, social media automation, x automation, tweet scheduler, twitter integration, post tweet, twitter post, x post, send tweet]]></description>
         </item>
         <item>
-            <title><![CDATA[[Hot] New entry (#49): lark-task]]></title>
-            <link>https://skills.sh/larksuite/cli/lark-task</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:new:larksuite/cli/lark-task</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <title><![CDATA[[Hot] New entry (#49): remotion-render]]></title>
+            <link>https://skills.sh/magentosh/skills/remotion-render</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #49
-Installs: 19
-Source: larksuite/cli
-Description: 飞书任务：管理任务和清单。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员。当用户需要创建待办事项、查看任务列表、跟踪任务进度、管理项目清单或给他人分配任务时使用。]]></description>
+Installs: 93
+Source: magentosh/skills
+Description: Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphics, motion design, data-driven videos, React animations to video. Triggers: remotion, render video from code, tsx to video, react video, programmatic video, remotion render, code to video, animated video, motion graphics code, react animation video]]></description>
         </item>
         <item>
-            <title><![CDATA[[Trending] New entry (#34): hyperframes-cli]]></title>
-            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:new:heygen-com/hyperframes/hyperframes-cli</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #34
-Installs: 7173
-Source: heygen-com/hyperframes
-Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFrames compositions. Also use after finishing a composition — lint and preview are the natural next steps.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#45): prisma-driver-adapter-implementation]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-driver-adapter-implementation</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:new:prisma/skills/prisma-driver-adapter-implementation</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #45
-Installs: 6831
-Source: prisma/skills
-Description: Required reference for Prisma v7 driver adapter work. Use when implementing or modifying adapters, adding database drivers, or touching SqlDriverAdapter/Transaction interfaces. Contains critical contract details not inferable from code examples — including the transaction lifecycle protocol, error mapping requirements, and verification checklist. Existing implementations do not replace this skill.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#46): prisma-upgrade-v7]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-upgrade-v7</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:new:prisma/skills/prisma-upgrade-v7</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #46
-Installs: 6828
-Source: prisma/skills
-Description: Complete migration guide from Prisma ORM v6 to v7 covering all breaking changes. Use when upgrading Prisma versions, encountering v7 errors, or migrating existing projects. Triggers on "upgrade to prisma 7", "prisma 7 migration", "prisma-client-js to prisma-client", "driver adapter required".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#47): prisma-compute]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-compute</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:new:prisma/skills/prisma-compute</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #47
-Installs: 6819
-Source: prisma/skills
-Description: Prisma Compute deployment and hosting guide. Use whenever the user mentions Prisma Compute, deploying or hosting a Prisma app, `@prisma/cli app deploy`, `compute:deploy`, `create-prisma --deploy`, `PRISMA_SERVICE_TOKEN`, Compute apps/deployments/logs/domains, localhost vs `0.0.0.0`, deploy port binding, or framework deploy readiness for Hono, Elysia, Next.js, TanStack Start, Astro, Nuxt, Svelte, Nest, or Turborepo.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] New entry (#48): prisma-mongodb-upgrade]]></title>
-            <link>https://skills.sh/prisma/skills/prisma-mongodb-upgrade</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:new:prisma/skills/prisma-mongodb-upgrade</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[New entry in Trending leaderboard.
-Rank: #48
-Installs: 6813
-Source: prisma/skills
-Description: Decision and migration guide for Prisma ORM MongoDB projects on v6, which have no upgrade path to v7. Use when a MongoDB project asks about upgrading Prisma, when "upgrade to prisma 7" comes up in a project with provider = "mongodb", or when evaluating a move to Prisma Next. Triggers on "upgrade prisma mongodb", "prisma 7 mongodb", "mongodb prisma migration", "prisma next mongodb".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[All Time] Rank up (11 → 10): setup-matt-pocock-skills]]></title>
-            <link>https://skills.sh/mattpocock/skills/setup-matt-pocock-skills</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topAllTime:rank:mattpocock/skills/setup-matt-pocock-skills</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[All Time leaderboard rank change.
-Previous rank: #11
-Current rank: #10
-Delta: +1
-Installs: 493384 (prev 485887)
-Source: mattpocock/skills
-Description: Sets up an `## Agent skills` block in AGENTS.md/CLAUDE.md and `docs/agents/` so the engineering skills know this repo's issue tracker (GitHub or local markdown), triage label vocabulary, and domain doc layout. Run before first use of `to-issues`, `to-prd`, `triage`, `diagnose`, `tdd`, `improve-codebase-architecture`, or `zoom-out` — or if those skills appear to be missing context about the issue tracker, triage labels, or domain docs.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank down (20 → 32): implement]]></title>
-            <link>https://skills.sh/mattpocock/skills/implement</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/implement</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #20
-Current rank: #32
-Delta: -12
-Installs: 29 (prev 113)
-Source: mattpocock/skills
-Description: Implement a piece of work based on a PRD or set of issues.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank down (24 → 43): teach]]></title>
-            <link>https://skills.sh/mattpocock/skills/teach</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/teach</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #24
-Current rank: #43
-Delta: -19
-Installs: 25 (prev 108)
-Source: mattpocock/skills
-Description: Teach the user a new skill or concept, within this workspace.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank down (4 → 5): paperclip-converting-plans-to-tasks]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #4
-Current rank: #5
-Delta: -1
-Installs: 59 (prev 192)
-Source: getpaperclipai/paperclip
-Description: The Paperclip way of converting a plan into executable tasks. Use whenever you are asked to plan, scope, or break down work inside a Paperclip company. Industry-agnostic guidance on how to translate a plan into assigned issues with the right specialty, dependencies, and parallelization so Paperclip's executor can pick up the work — it does not prescribe a plan format. Pair with the `paperclip` skill, which covers the mechanics of writing the plan document and reassigning the issue.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank down (5 → 7): para-memory-files]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/para-memory-files</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:getpaperclipai/paperclip/para-memory-files</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #5
-Current rank: #7
-Delta: -2
-Installs: 59 (prev 192)
-Source: getpaperclipai/paperclip
-Description: File-based memory system using Tiago Forte's PARA method. Use this skill whenever you need to store, retrieve, update, or organize knowledge across sessions. Covers three memory layers: (1) Knowledge graph in PARA folders with atomic YAML facts, (2) Daily notes as raw timeline, (3) Tacit knowledge about user patterns. Also handles planning files, memory decay, weekly synthesis, and recall via qmd. Trigger on any memory operation: saving facts, writing daily notes, creating entities, running weekly synthesis, recalling past context, or managing plans.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (10 → 8): grill-me]]></title>
-            <link>https://skills.sh/mattpocock/skills/grill-me</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/grill-me</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #10
-Current rank: #8
-Delta: +2
-Installs: 57 (prev 167)
-Source: mattpocock/skills
-Description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (11 → 9): reddit-automation]]></title>
-            <link>https://skills.sh/doany-skills/skills/reddit-automation</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:doany-skills/skills/reddit-automation</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #11
-Current rank: #9
-Delta: +2
-Installs: 49 (prev 145)
-Source: doany-skills/skills
-Description: Find Reddit threads where people are genuinely asking for what you offer, then draft short, genuinely helpful replies — disclosing your affiliation honestly and naming your product only when it truly answers the question. Two moves: discovery — scan the right subreddits for real needs (recommendation asks, expressed pain, competitor mentions) and rank the few threads where you can actually help; drafting — write from real experience, respect each community's self-promo rules, and keep a human in the loop to review and post. This markets on Reddit the honest way: contribute value, disclose who you are, never astroturf. Distilled from the playbook behind doany.ai's Reddit agent. Triggers on "find reddit opportunities", "reddit marketing", "reddit automation", "reply on reddit for my product", "reddit community engagement", "reddit lead gen", or any ask to turn Reddit threads into genuine, disclosed marketing replies.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (12 → 10): grill-with-docs]]></title>
-            <link>https://skills.sh/mattpocock/skills/grill-with-docs</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/grill-with-docs</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #12
-Current rank: #10
-Delta: +2
-Installs: 42 (prev 139)
-Source: mattpocock/skills
-Description: Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (16 → 13): tdd]]></title>
-            <link>https://skills.sh/mattpocock/skills/tdd</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/tdd</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #16
-Current rank: #13
-Delta: +3
-Installs: 36 (prev 116)
-Source: mattpocock/skills
-Description: Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (2 → 1): find-skills]]></title>
-            <link>https://skills.sh/vercel-labs/skills/find-skills</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:vercel-labs/skills/find-skills</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #2
-Current rank: #1
-Delta: +1
-Installs: 71 (prev 230)
-Source: vercel-labs/skills
-Description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (22 → 12): code-review]]></title>
-            <link>https://skills.sh/mattpocock/skills/code-review</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/code-review</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #22
-Current rank: #12
-Delta: +10
-Installs: 37 (prev 112)
-Source: mattpocock/skills
-Description: Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes — Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/PRD asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to "review since X".]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (23 → 17): domain-modeling]]></title>
-            <link>https://skills.sh/mattpocock/skills/domain-modeling</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/domain-modeling</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #23
-Current rank: #17
-Delta: +6
-Installs: 35 (prev 110)
-Source: mattpocock/skills
-Description: Build and sharpen a project's domain model. Use when the user wants to pin down domain terminology or a ubiquitous language, record an architectural decision, or when another skill needs to maintain the domain model.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (26 → 19): codebase-design]]></title>
-            <link>https://skills.sh/mattpocock/skills/codebase-design</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/codebase-design</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #26
-Current rank: #19
-Delta: +7
-Installs: 34 (prev 108)
-Source: mattpocock/skills
-Description: Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (28 → 16): diagnosing-bugs]]></title>
-            <link>https://skills.sh/mattpocock/skills/diagnosing-bugs</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:mattpocock/skills/diagnosing-bugs</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #28
-Current rank: #16
-Delta: +12
-Installs: 35 (prev 105)
-Source: mattpocock/skills
-Description: Diagnosis loop for hard bugs and performance regressions. Use when the user says "diagnose"/"debug this", or reports something broken/throwing/failing/slow.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (36 → 18): media-use]]></title>
-            <link>https://skills.sh/heygen-com/hyperframes/media-use</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:heygen-com/hyperframes/media-use</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #36
-Current rank: #18
-Delta: +18
-Installs: 34 (prev 76)
-Source: heygen-com/hyperframes
-Description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) into a frozen local file + ledger record. One verb (`resolve`) handles the full cascade — project cache, global cache, HeyGen catalog search, freeze, register. Keeps search noise on disk, hands the agent a path. Use when a composition needs background music, sound effects, images, or icons.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (37 → 15): hyperframes-cli]]></title>
-            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:heygen-com/hyperframes/hyperframes-cli</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #37
-Current rank: #15
-Delta: +22
-Installs: 35 (prev 73)
-Source: heygen-com/hyperframes
-Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFrames compositions. Also use after finishing a composition — lint and preview are the natural next steps.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (39 → 14): hyperframes-core]]></title>
-            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-core</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:heygen-com/hyperframes/hyperframes-core</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #39
-Current rank: #14
-Delta: +25
-Installs: 35 (prev 71)
-Source: heygen-com/hyperframes
-Description: HyperFrames HTML composition contract. Use for composition structure, data attributes, clips, tracks, sub-compositions, variables, media playback, deterministic render rules, and validation of minimal renderable projects.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (40 → 11): wind-mcp-skill]]></title>
-            <link>https://skills.sh/wind-information-co-ltd/wind-skills/wind-mcp-skill</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:wind-information-co-ltd/wind-skills/wind-mcp-skill</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #40
-Current rank: #11
-Delta: +29
-Installs: 39 (prev 67)
-Source: wind-information-co-ltd/wind-skills
-Description: 访问万得 Wind 金融数据。覆盖 A 股 / 港股 / 美股股票行情（最新价 / K 线 / 分钟）与财务基本面（财报 / 股本 / 事件 / 技术指标 / 风险）、ETF / 公募基金行情与全维数据（档案 / 财务 / 持仓 / 业绩 / 持有人 / 管理公司）、指数 / 板块行情与档案 / 基本面 / 技术、债券基本档案 / 发债主体 / 行情估值 / 主体财务、上市公司公告与财经新闻、宏观经济与行业指标。需要 WIND_API_KEY（登录 aimarket.wind.com.cn/#/user/overview 开发者中心获取）。**不包含**：欧股 / 日股、汇率 / 期货盘口、加密货币、非金融数据。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (6 → 4): paperclip]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:getpaperclipai/paperclip/paperclip</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #6
-Current rank: #4
-Delta: +2
-Installs: 59 (prev 192)
-Source: getpaperclipai/paperclip
-Description: Interact with the Paperclip control plane API to manage tasks, coordinate with other agents, and follow company governance. Use when you need to check assignments, update task status, delegate work, post comments, set up or manage routines (recurring scheduled tasks), or call any Paperclip API endpoint. Do NOT use for the actual domain work itself (writing code, research, etc.) — only for Paperclip coordination.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (7 → 6): paperclip-board]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-board</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:getpaperclipai/paperclip/paperclip-board</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #7
-Current rank: #6
-Delta: +1
-Installs: 59 (prev 192)
-Source: getpaperclipai/paperclip
-Description: Manage a Paperclip company as a board member via chat. Covers onboarding (company creation, CEO setup, hiring plans), agent management, approvals, task monitoring, cost oversight, and work product review. Use this skill whenever the user wants to interact with their Paperclip control plane.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Hot] Rank up (8 → 2): design-guide]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/design-guide</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topHot:rank:getpaperclipai/paperclip/design-guide</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Hot leaderboard rank change.
-Previous rank: #8
-Current rank: #2
-Delta: +6
-Installs: 60 (prev 192)
-Source: getpaperclipai/paperclip
-Description: Paperclip UI design system guide for building consistent, reusable frontend components. Use when creating new UI components, modifying existing ones, adding pages or features to the frontend, styling UI elements, or when you need to understand the design language and conventions. Covers: component creation, design tokens, typography, status/priority systems, composition patterns, and the /design-guide showcase page. Always use this skill alongside the frontend-design skill (for visual quality) and the web-design-guidelines skill (for web best practices).]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank down (3 → 4): ai-avatar-video]]></title>
+            <title><![CDATA[[Hot] New entry (#5): ai-avatar-video]]></title>
             <link>https://skills.sh/101-skills/skills/ai-avatar-video</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:101-skills/skills/ai-avatar-video</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #3
-Current rank: #4
-Delta: -1
-Installs: 21353 (prev 21446)
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #5
+Installs: 277
 Source: 101-skills/skills
 Description: Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric, PixVerse. Audio: Inworld TTS-2 (100+ languages, emotion steering for characters), ElevenLabs, Kokoro. Capabilities: audio-driven avatars, text-to-avatar, lipsync videos, talking head generation, virtual presenters, UGC content. Use for: AI presenters, explainer videos, virtual influencers, dubbing, marketing videos, UGC ads, gaming avatars, NPC dialogue. Triggers: ai avatar, talking head, lipsync, avatar video, virtual presenter, ai spokesperson, audio driven video, heygen alternative, synthesia alternative, talking avatar, lip sync, video avatar, ai presenter, digital human, ugc, ugc video, ugc ad, avatar ugc]]></description>
         </item>
         <item>
-            <title><![CDATA[[Trending] Rank up (10 → 8): design-guide]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/design-guide</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:getpaperclipai/paperclip/design-guide</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
+            <title><![CDATA[[Hot] New entry (#50): ai-avatar-video]]></title>
+            <link>https://skills.sh/magentosh/skills/ai-avatar-video</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #50
+Installs: 93
+Source: magentosh/skills
+Description: Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric, PixVerse. Audio: Inworld TTS-2 (100+ languages, emotion steering for characters), ElevenLabs, Kokoro. Capabilities: audio-driven avatars, text-to-avatar, lipsync videos, talking head generation, virtual presenters, UGC content. Use for: AI presenters, explainer videos, virtual influencers, dubbing, marketing videos, UGC ads, gaming avatars, NPC dialogue. Triggers: ai avatar, talking head, lipsync, avatar video, virtual presenter, ai spokesperson, audio driven video, heygen alternative, synthesia alternative, talking avatar, lip sync, video avatar, ai presenter, digital human, ugc, ugc video, ugc ad, avatar ugc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] New entry (#6): remotion-render]]></title>
+            <link>https://skills.sh/101-skills/skills/remotion-render</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[New entry in Hot leaderboard.
+Rank: #6
+Installs: 277
+Source: 101-skills/skills
+Description: Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphics, motion design, data-driven videos, React animations to video. Triggers: remotion, render video from code, tsx to video, react video, programmatic video, remotion render, code to video, animated video, motion graphics code, react animation video]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] New entry (#49): media-use]]></title>
+            <link>https://skills.sh/heygen-com/hyperframes/media-use</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:new:heygen-com/hyperframes/media-use</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[New entry in Trending leaderboard.
+Rank: #49
+Installs: 6793
+Source: heygen-com/hyperframes
+Description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) into a frozen local file + ledger record. One verb (`resolve`) handles the full cascade — project cache, global cache, HeyGen catalog search, freeze, register. Keeps search noise on disk, hands the agent a path. Use when a composition needs background music, sound effects, images, or icons.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (10 → 16): grill-with-docs]]></title>
+            <link>https://skills.sh/mattpocock/skills/grill-with-docs</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/grill-with-docs</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #10
-Current rank: #8
-Delta: +2
-Installs: 14408 (prev 14528)
-Source: getpaperclipai/paperclip
-Description: Paperclip UI design system guide for building consistent, reusable frontend components. Use when creating new UI components, modifying existing ones, adding pages or features to the frontend, styling UI elements, or when you need to understand the design language and conventions. Covers: component creation, design tokens, typography, status/priority systems, composition patterns, and the /design-guide showcase page. Always use this skill alongside the frontend-design skill (for visual quality) and the web-design-guidelines skill (for web best practices).]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (11 → 9): paperclip-board]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-board</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:getpaperclipai/paperclip/paperclip-board</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #11
-Current rank: #9
-Delta: +2
-Installs: 14350 (prev 14477)
-Source: getpaperclipai/paperclip
-Description: Manage a Paperclip company as a board member via chat. Covers onboarding (company creation, CEO setup, hiring plans), agent management, approvals, task monitoring, cost oversight, and work product review. Use this skill whenever the user wants to interact with their Paperclip control plane.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (12 → 10): paperclip]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:getpaperclipai/paperclip/paperclip</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #12
-Current rank: #10
-Delta: +2
-Installs: 14350 (prev 14476)
-Source: getpaperclipai/paperclip
-Description: Interact with the Paperclip control plane API to manage tasks, coordinate with other agents, and follow company governance. Use when you need to check assignments, update task status, delegate work, post comments, set up or manage routines (recurring scheduled tasks), or call any Paperclip API endpoint. Do NOT use for the actual domain work itself (writing code, research, etc.) — only for Paperclip coordination.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (15 → 12): paperclip-converting-plans-to-tasks]]></title>
-            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #15
-Current rank: #12
-Delta: +3
-Installs: 14349 (prev 14473)
-Source: getpaperclipai/paperclip
-Description: The Paperclip way of converting a plan into executable tasks. Use whenever you are asked to plan, scope, or break down work inside a Paperclip company. Industry-agnostic guidance on how to translate a plan into assigned issues with the right specialty, dependencies, and parallelization so Paperclip's executor can pick up the work — it does not prescribe a plan format. Pair with the `paperclip` skill, which covers the mechanics of writing the plan document and reassigning the issue.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (21 → 16): grilling]]></title>
-            <link>https://skills.sh/mattpocock/skills/grilling</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:mattpocock/skills/grilling</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #21
 Current rank: #16
-Delta: +5
-Installs: 8588 (prev 8959)
+Delta: -6
+Installs: 181 (prev 42)
 Source: mattpocock/skills
-Description: Interview the user relentlessly about a plan or design. Use when the user wants to stress-test a plan before building, or uses any 'grill' trigger phrases.]]></description>
+Description: Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions.]]></description>
         </item>
         <item>
-            <title><![CDATA[[Trending] Rank up (22 → 17): improve-codebase-architecture]]></title>
-            <link>https://skills.sh/mattpocock/skills/improve-codebase-architecture</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:mattpocock/skills/improve-codebase-architecture</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #22
-Current rank: #17
-Delta: +5
-Installs: 8017 (prev 8385)
-Source: mattpocock/skills
-Description: Explore a codebase to find opportunities for architectural improvement, focusing on making the codebase more testable by deepening shallow modules. Use when user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more AI-navigable.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (23 → 18): tdd]]></title>
-            <link>https://skills.sh/mattpocock/skills/tdd</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:mattpocock/skills/tdd</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #23
-Current rank: #18
-Delta: +5
-Installs: 7885 (prev 8241)
-Source: mattpocock/skills
-Description: Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (24 → 19): domain-modeling]]></title>
-            <link>https://skills.sh/mattpocock/skills/domain-modeling</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:mattpocock/skills/domain-modeling</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #24
-Current rank: #19
-Delta: +5
-Installs: 7861 (prev 8170)
-Source: mattpocock/skills
-Description: Build and sharpen a project's domain model. Use when the user wants to pin down domain terminology or a ubiquitous language, record an architectural decision, or when another skill needs to maintain the domain model.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Trending] Rank up (26 → 20): code-review]]></title>
+            <title><![CDATA[[Hot] Rank down (12 → 17): code-review]]></title>
             <link>https://skills.sh/mattpocock/skills/code-review</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:mattpocock/skills/code-review</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
-            <description><![CDATA[Trending leaderboard rank change.
-Previous rank: #26
-Current rank: #20
-Delta: +6
-Installs: 7720 (prev 8063)
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/code-review</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #12
+Current rank: #17
+Delta: -5
+Installs: 170 (prev 37)
 Source: mattpocock/skills
 Description: Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes — Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/PRD asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to "review since X".]]></description>
         </item>
         <item>
-            <title><![CDATA[[Trending] Rank up (4 → 3): remotion-render]]></title>
+            <title><![CDATA[[Hot] Rank down (13 → 20): tdd]]></title>
+            <link>https://skills.sh/mattpocock/skills/tdd</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/tdd</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #13
+Current rank: #20
+Delta: -7
+Installs: 162 (prev 36)
+Source: mattpocock/skills
+Description: Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (14 → 37): hyperframes-core]]></title>
+            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-core</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/hyperframes-core</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #14
+Current rank: #37
+Delta: -23
+Installs: 121 (prev 35)
+Source: heygen-com/hyperframes
+Description: HyperFrames HTML composition contract. Use for composition structure, data attributes, clips, tracks, sub-compositions, variables, media playback, deterministic render rules, and validation of minimal renderable projects.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (15 → 36): hyperframes-cli]]></title>
+            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/hyperframes-cli</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #15
+Current rank: #36
+Delta: -21
+Installs: 122 (prev 35)
+Source: heygen-com/hyperframes
+Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFrames compositions. Also use after finishing a composition — lint and preview are the natural next steps.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (16 → 28): diagnosing-bugs]]></title>
+            <link>https://skills.sh/mattpocock/skills/diagnosing-bugs</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/diagnosing-bugs</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #16
+Current rank: #28
+Delta: -12
+Installs: 155 (prev 35)
+Source: mattpocock/skills
+Description: Diagnosis loop for hard bugs and performance regressions. Use when the user says "diagnose"/"debug this", or reports something broken/throwing/failing/slow.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (18 → 38): media-use]]></title>
+            <link>https://skills.sh/heygen-com/hyperframes/media-use</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/media-use</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #18
+Current rank: #38
+Delta: -20
+Installs: 121 (prev 34)
+Source: heygen-com/hyperframes
+Description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) into a frozen local file + ledger record. One verb (`resolve`) handles the full cascade — project cache, global cache, HeyGen catalog search, freeze, register. Keeps search noise on disk, hands the agent a path. Use when a composition needs background music, sound effects, images, or icons.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (2 → 9): design-guide]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/design-guide</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/design-guide</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #2
+Current rank: #9
+Delta: -7
+Installs: 217 (prev 60)
+Source: getpaperclipai/paperclip
+Description: Paperclip UI design system guide for building consistent, reusable frontend components. Use when creating new UI components, modifying existing ones, adding pages or features to the frontend, styling UI elements, or when you need to understand the design language and conventions. Covers: component creation, design tokens, typography, status/priority systems, composition patterns, and the /design-guide showcase page. Always use this skill alongside the frontend-design skill (for visual quality) and the web-design-guidelines skill (for web best practices).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (3 → 10): paperclip-create-agent]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-create-agent</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #3
+Current rank: #10
+Delta: -7
+Installs: 215 (prev 59)
+Source: getpaperclipai/paperclip
+Description: Create new agents in Paperclip with governance-aware hiring. Use when you need to inspect adapter configuration options, compare existing agent configs, draft a new agent prompt/config, and submit a hire request.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (35 → 47): prisma-postgres-setup]]></title>
+            <link>https://skills.sh/prisma/skills/prisma-postgres-setup</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:prisma/skills/prisma-postgres-setup</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #35
+Current rank: #47
+Delta: -12
+Installs: 112 (prev 28)
+Source: prisma/skills
+Description: Set up a new Prisma Postgres database and connect it to a local project using the Management API. Use when asked to "set up a database", "create a Prisma Postgres project", "get a connection string", "connect my app to Prisma Postgres", or "provision a database".]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (4 → 13): paperclip]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #4
+Current rank: #13
+Delta: -9
+Installs: 215 (prev 59)
+Source: getpaperclipai/paperclip
+Description: Interact with the Paperclip control plane API to manage tasks, coordinate with other agents, and follow company governance. Use when you need to check assignments, update task status, delegate work, post comments, set up or manage routines (recurring scheduled tasks), or call any Paperclip API endpoint. Do NOT use for the actual domain work itself (writing code, research, etc.) — only for Paperclip coordination.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (5 → 11): paperclip-converting-plans-to-tasks]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #5
+Current rank: #11
+Delta: -6
+Installs: 215 (prev 59)
+Source: getpaperclipai/paperclip
+Description: The Paperclip way of converting a plan into executable tasks. Use whenever you are asked to plan, scope, or break down work inside a Paperclip company. Industry-agnostic guidance on how to translate a plan into assigned issues with the right specialty, dependencies, and parallelization so Paperclip's executor can pick up the work — it does not prescribe a plan format. Pair with the `paperclip` skill, which covers the mechanics of writing the plan document and reassigning the issue.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (6 → 14): paperclip-board]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-board</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-board</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #6
+Current rank: #14
+Delta: -8
+Installs: 215 (prev 59)
+Source: getpaperclipai/paperclip
+Description: Manage a Paperclip company as a board member via chat. Covers onboarding (company creation, CEO setup, hiring plans), agent management, approvals, task monitoring, cost oversight, and work product review. Use this skill whenever the user wants to interact with their Paperclip control plane.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank down (7 → 12): para-memory-files]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/para-memory-files</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/para-memory-files</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #7
+Current rank: #12
+Delta: -5
+Installs: 215 (prev 59)
+Source: getpaperclipai/paperclip
+Description: File-based memory system using Tiago Forte's PARA method. Use this skill whenever you need to store, retrieve, update, or organize knowledge across sessions. Covers three memory layers: (1) Knowledge graph in PARA folders with atomic YAML facts, (2) Daily notes as raw timeline, (3) Tacit knowledge about user patterns. Also handles planning files, memory decay, weekly synthesis, and recall via qmd. Trigger on any memory operation: saving facts, writing daily notes, creating entities, running weekly synthesis, recalling past context, or managing plans.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (22 → 15): grilling]]></title>
+            <link>https://skills.sh/mattpocock/skills/grilling</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/grilling</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #22
+Current rank: #15
+Delta: +7
+Installs: 185 (prev 34)
+Source: mattpocock/skills
+Description: Interview the user relentlessly about a plan or design. Use when the user wants to stress-test a plan before building, or uses any 'grill' trigger phrases.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (24 → 18): handoff]]></title>
+            <link>https://skills.sh/mattpocock/skills/handoff</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/handoff</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #24
+Current rank: #18
+Delta: +6
+Installs: 166 (prev 33)
+Source: mattpocock/skills
+Description: Compact the current conversation into a handoff document for another agent to pick up.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (42 → 32): resolving-merge-conflicts]]></title>
+            <link>https://skills.sh/mattpocock/skills/resolving-merge-conflicts</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/resolving-merge-conflicts</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #42
+Current rank: #32
+Delta: +10
+Installs: 147 (prev 26)
+Source: mattpocock/skills
+Description: Use when you need to resolve an in-progress git merge/rebase conflict.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (43 → 33): teach]]></title>
+            <link>https://skills.sh/mattpocock/skills/teach</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/teach</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #43
+Current rank: #33
+Delta: +10
+Installs: 147 (prev 25)
+Source: mattpocock/skills
+Description: Teach the user a new skill or concept, within this workspace.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Hot] Rank up (9 → 7): reddit-automation]]></title>
+            <link>https://skills.sh/doany-skills/skills/reddit-automation</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:doany-skills/skills/reddit-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Hot leaderboard rank change.
+Previous rank: #9
+Current rank: #7
+Delta: +2
+Installs: 223 (prev 49)
+Source: doany-skills/skills
+Description: Find Reddit threads where people are genuinely asking for what you offer, then draft short, genuinely helpful replies — disclosing your affiliation honestly and naming your product only when it truly answers the question. Two moves: discovery — scan the right subreddits for real needs (recommendation asks, expressed pain, competitor mentions) and rank the few threads where you can actually help; drafting — write from real experience, respect each community's self-promo rules, and keep a human in the loop to review and post. This markets on Reddit the honest way: contribute value, disclose who you are, never astroturf. Distilled from the playbook behind doany.ai's Reddit agent. Triggers on "find reddit opportunities", "reddit marketing", "reddit automation", "reply on reddit for my product", "reddit community engagement", "reddit lead gen", or any ask to turn Reddit threads into genuine, disclosed marketing replies.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank down (3 → 4): remotion-render]]></title>
             <link>https://skills.sh/101-skills/skills/remotion-render</link>
-            <guid isPermaLink="false">2026-07-29T02:19:00.808Z:topTrending:rank:101-skills/skills/remotion-render</guid>
-            <pubDate>Wed, 29 Jul 2026 02:19:00 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:101-skills/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #3
+Current rank: #4
+Delta: -1
+Installs: 21488 (prev 21354)
+Source: 101-skills/skills
+Description: Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphics, motion design, data-driven videos, React animations to video. Triggers: remotion, render video from code, tsx to video, react video, programmatic video, remotion render, code to video, animated video, motion graphics code, react animation video]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank up (10 → 9): paperclip]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:getpaperclipai/paperclip/paperclip</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #10
+Current rank: #9
+Delta: +1
+Installs: 14356 (prev 14350)
+Source: getpaperclipai/paperclip
+Description: Interact with the Paperclip control plane API to manage tasks, coordinate with other agents, and follow company governance. Use when you need to check assignments, update task status, delegate work, post comments, set up or manage routines (recurring scheduled tasks), or call any Paperclip API endpoint. Do NOT use for the actual domain work itself (writing code, research, etc.) — only for Paperclip coordination.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank up (11 → 10): paperclip-create-agent]]></title>
+            <link>https://skills.sh/getpaperclipai/paperclip/paperclip-create-agent</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #11
+Current rank: #10
+Delta: +1
+Installs: 14355 (prev 14349)
+Source: getpaperclipai/paperclip
+Description: Create new agents in Paperclip with governance-aware hiring. Use when you need to inspect adapter configuration options, compare existing agent configs, draft a new agent prompt/config, and submit a hire request.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank up (34 → 20): hyperframes-cli]]></title>
+            <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:heygen-com/hyperframes/hyperframes-cli</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <description><![CDATA[Trending leaderboard rank change.
+Previous rank: #34
+Current rank: #20
+Delta: +14
+Installs: 7778 (prev 7173)
+Source: heygen-com/hyperframes
+Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFrames compositions. Also use after finishing a composition — lint and preview are the natural next steps.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Trending] Rank up (4 → 3): ai-avatar-video]]></title>
+            <link>https://skills.sh/101-skills/skills/ai-avatar-video</link>
+            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:101-skills/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #4
 Current rank: #3
 Delta: +1
-Installs: 21354 (prev 21446)
+Installs: 21488 (prev 21353)
 Source: 101-skills/skills
-Description: Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphics, motion design, data-driven videos, React animations to video. Triggers: remotion, render video from code, tsx to video, react video, programmatic video, remotion render, code to video, animated video, motion graphics code, react animation video]]></description>
+Description: Create AI avatar and talking head videos via inference.sh CLI. Recommended: P-Video-Avatar (fastest, cheapest, built-in TTS). Also: OmniHuman, Fabric, PixVerse. Audio: Inworld TTS-2 (100+ languages, emotion steering for characters), ElevenLabs, Kokoro. Capabilities: audio-driven avatars, text-to-avatar, lipsync videos, talking head generation, virtual presenters, UGC content. Use for: AI presenters, explainer videos, virtual influencers, dubbing, marketing videos, UGC ads, gaming avatars, NPC dialogue. Triggers: ai avatar, talking head, lipsync, avatar video, virtual presenter, ai spokesperson, audio driven video, heygen alternative, synthesia alternative, talking avatar, lip sync, video avatar, ai presenter, digital human, ugc, ugc video, ugc ad, avatar ugc]]></description>
         </item>
     </channel>
 </rss>

@@ -1,1 +1,1 @@
-Phaser 4 mobile 2D game's numerical design role. Used when designing, calibrating, simulating, configuring, or validating adjustable game numerical systems such as growth, economy, difficulty, drops, combat, and progression.
+Phaser 4 移动端 2D 游戏的数值设计角色。需要设计、校准、模拟、配置或验收成长、经济、难度、掉落、战斗和进程等可调游戏数值系统时使用。
