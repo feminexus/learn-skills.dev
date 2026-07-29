@@ -1,0 +1,1 @@
+Inventario de automatización basado en la evidencia y flujo de trabajo de auditoría superpuesto para ECC. Úselo cuando el usuario quiera saber qué trabajos, ganchos, conectores, servidores MCP o envoltorios están activos, rotos, redundantes o faltantes antes de arreglar algo.

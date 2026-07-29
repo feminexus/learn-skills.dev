@@ -1,0 +1,1 @@
+Graba vídeos de demostración de UI pulidos con Playwright. Úselo cuando el usuario solicite crear una demostración, un recorrido, una grabación de pantalla o un video tutorial de una aplicación web. Produce vídeos WebM con cursor visible, ritmo natural y sensación profesional.

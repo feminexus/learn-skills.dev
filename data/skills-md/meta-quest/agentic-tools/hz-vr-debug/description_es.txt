@@ -1,0 +1,1 @@
+Depura las aplicaciones Meta Quest y Horizon OS VR/MR mediante la CLI de metavr: ve registros, captura capturas de pantalla y diagnostica problemas comunes. Úselo para solucionar fallas, errores o comportamientos inesperados en dispositivos Quest.

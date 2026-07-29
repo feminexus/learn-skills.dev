@@ -1,0 +1,1 @@
+Utilice esta habilidad al recuperar tickets de Jira, analizar requisitos, actualizar el estado de los tickets, agregar comentarios o realizar cambios en problemas. Proporciona patrones de API de Jira a través de MCP o llamadas REST directas.

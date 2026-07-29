@@ -1,0 +1,1 @@
+Convierta la conversación actual en una especificación y publíquela en el rastreador de problemas del proyecto: sin entrevista, solo una síntesis de lo que ya ha discutido.

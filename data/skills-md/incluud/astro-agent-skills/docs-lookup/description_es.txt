@@ -1,0 +1,1 @@
+Busque la documentación oficial de Astro y responda con precisión las preguntas de Astro relacionadas con la versión.

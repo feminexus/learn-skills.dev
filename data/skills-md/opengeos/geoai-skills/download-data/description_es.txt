@@ -1,0 +1,1 @@
+Descargue imágenes aéreas de NAIP para un cuadro delimitador. Especifique coordenadas como minx,miny,maxx,maxy en WGS84 y, opcionalmente, un año.

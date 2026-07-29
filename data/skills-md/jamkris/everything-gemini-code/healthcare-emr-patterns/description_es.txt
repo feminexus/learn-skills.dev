@@ -1,0 +1,1 @@
+Patrones de desarrollo EMR/EHR para aplicaciones sanitarias. Seguridad clínica, flujos de trabajo de encuentros, generación de recetas, integración de soporte de decisiones clínicas y interfaz de usuario de accesibilidad para la entrada de datos médicos.

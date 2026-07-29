@@ -1,0 +1,1 @@
+Úselo cuando necesite resolver un conflicto de fusión/rebase de git en progreso.

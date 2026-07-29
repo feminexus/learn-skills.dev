@@ -1,0 +1,1 @@
+Cree paneles de monitoreo que respondan preguntas reales de los operadores para Grafana, SigNoz y plataformas similares. Úselo cuando convierta las métricas en un panel funcional en lugar de un tablero personalizado.

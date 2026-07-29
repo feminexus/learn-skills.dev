@@ -1,0 +1,1 @@
+Opere el flujo de ejecución en GitHub y Linear clasificando problemas y solicitudes de extracción, vinculando el trabajo activo y manteniendo GitHub público mientras Linear sigue siendo la capa de ejecución interna. Úselo cuando el usuario desee control del trabajo pendiente, clasificación de relaciones públicas o coordinación de GitHub a Linear.

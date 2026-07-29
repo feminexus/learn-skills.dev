@@ -1,0 +1,1 @@
+Diseñe herramientas, scripts y CLI a los que llamará un agente, de modo que la interfaz enseñe su propio uso en lugar de un muro de prosa y ejemplos. Utilícelo cuando cree un servidor MCP o una definición de herramienta, escriba un script orientado al agente o cuando un agente siga haciendo mal uso de una herramienta que ya tiene.

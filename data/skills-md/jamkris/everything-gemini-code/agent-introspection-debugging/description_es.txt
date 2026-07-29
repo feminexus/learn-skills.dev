@@ -1,0 +1,1 @@
+Flujo de trabajo estructurado de autodepuración para fallas de agentes de IA mediante informes de captura, diagnóstico, recuperación contenida e introspección.

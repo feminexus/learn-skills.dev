@@ -1,0 +1,1 @@
+Arnés de agente generador-evaluador inspirado en GAN para crear aplicaciones de alta calidad de forma autónoma. Basado en el documento de diseño de arneses de Anthropic de marzo de 2026.

@@ -1,0 +1,1 @@
+Flujo de trabajo de auditoría de facturación y grabación de herramientas ECC basado en evidencia. Úselo al investigar la creación descontrolada de relaciones públicas, la omisión de cuotas, la fuga de modelos premium, trabajos duplicados o picos de costos de la aplicación GitHub en el repositorio de herramientas ECC.

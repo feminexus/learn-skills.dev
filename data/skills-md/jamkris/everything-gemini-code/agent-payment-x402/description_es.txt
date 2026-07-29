@@ -1,0 +1,1 @@
+Agregue ejecución de pagos x402 a agentes de IA con presupuestos por tarea, controles de gastos y billeteras sin custodia. Admite Base a través de agentwallet-sdk y X Layer a través de OKX Payments/OKX Agent Payments Protocol.

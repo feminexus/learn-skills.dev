@@ -1,0 +1,1 @@
+Next.js 16+ y Turbopack: agrupación incremental, almacenamiento en caché de FS, velocidad de desarrollo y cuándo usar Turbopack frente a webpack.

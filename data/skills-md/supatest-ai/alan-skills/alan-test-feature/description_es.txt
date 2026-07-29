@@ -1,0 +1,1 @@
+Cobertura de alcance, crear una estrategia de prueba, probar la función con el navegador del agente, capturar capturas de pantalla/vídeo (siempre obligatorio), cargarlo en S3 y crear un informe de prueba estructurado (nunca omitirlo).

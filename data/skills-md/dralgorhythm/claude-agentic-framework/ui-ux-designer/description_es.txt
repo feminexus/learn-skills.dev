@@ -1,0 +1,1 @@
+Diseñe interfaces y valide la accesibilidad según WCAG 2.1 con comprobaciones respaldadas por DevTools: un flujo de trabajo de UI/UX Designer invocado por el usuario.

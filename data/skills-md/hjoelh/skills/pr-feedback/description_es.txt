@@ -1,0 +1,1 @@
+Úselo al clasificar comentarios de revisión sobre un PR de cualquier fuente: CodeRabbit, Graphite Reviewer, ingenieros humanos. Infiere el PR actual de la sucursal o acepta un número de PR como argumento.

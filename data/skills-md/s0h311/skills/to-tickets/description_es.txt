@@ -1,0 +1,1 @@
+Divida un plan, una especificación o la conversación actual en un conjunto de tickets de seguimiento, cada uno de los cuales declara sus bordes de bloqueo, publicados en el rastreador configurado: bordes como texto en un archivo por ticket localmente o enlaces de bloqueo nativos en un rastreador real.

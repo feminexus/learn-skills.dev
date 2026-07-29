@@ -1,0 +1,1 @@
+Úselo cuando una tarea involucre VMOS Edge Desktop: crear o controlar dispositivos virtuales Android en hosts perimetrales, interactuar con la interfaz de usuario del escritorio Electron a través de CDP, automatizar los flujos de trabajo del dispositivo con guías YAML o JSON por lotes, o recuperarse de códigos de error CLI.

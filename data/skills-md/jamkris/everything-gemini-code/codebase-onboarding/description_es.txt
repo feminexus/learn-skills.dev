@@ -1,0 +1,1 @@
+Analice una base de código desconocida y genere una guía de incorporación estructurada con un mapa de arquitectura, puntos de entrada clave, convenciones y un GEMINI.md inicial. Úselo al unirse a un nuevo proyecto o configurar Gemini CLI por primera vez en un repositorio.

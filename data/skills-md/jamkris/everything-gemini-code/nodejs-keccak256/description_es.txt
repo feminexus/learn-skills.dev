@@ -1,0 +1,1 @@
+Evite errores de hash de Ethereum en JavaScript y TypeScript. El sha3-256 de Node es NIST SHA3, no Ethereum Keccak-256, y silenciosamente rompe selectores, firmas, ranuras de almacenamiento y derivación de direcciones.

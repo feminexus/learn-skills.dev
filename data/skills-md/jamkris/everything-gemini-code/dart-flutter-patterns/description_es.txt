@@ -1,0 +1,1 @@
+Patrones Dart y Flutter listos para producción que cubren seguridad nula, estado inmutable, composición asíncrona, arquitectura de widgets, marcos de gestión de estado populares (BLoC, Riverpod, Proveedor), navegación GoRouter, redes Dio, generación de código congelado y arquitectura limpia.

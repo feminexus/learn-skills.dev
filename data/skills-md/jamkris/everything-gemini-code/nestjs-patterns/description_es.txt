@@ -1,0 +1,1 @@
+Patrones de arquitectura NestJS para módulos, controladores, proveedores, validación DTO, guardias, interceptores, configuración y backends TypeScript de nivel de producción.

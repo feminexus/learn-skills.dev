@@ -1,0 +1,1 @@
+Patrones de cumplimiento de información de salud protegida (PHI) e información de identificación personal (PII) para aplicaciones de atención médica. Cubre clasificación de datos, control de acceso, pistas de auditoría, cifrado y vectores de fugas comunes.

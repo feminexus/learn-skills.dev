@@ -1,0 +1,1 @@
+Perfila el rendimiento de la CPU de las aplicaciones Meta Quest y Horizon OS mediante simpleperf: clasificación de cargas de trabajo, grabación de puntos de acceso de la CPU, medición de la sobrecarga del kernel. Úselo para diagnosticar si una aplicación está vinculada a la CPU, a la memoria o a las E/S en dispositivos Quest.

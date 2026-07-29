@@ -1,0 +1,1 @@
+Análisis de problemas de rendimiento y flujo de trabajo de optimización, seis etapas. Todos los desencadenantes comienzan con 性能 ("rendimiento"): 性能分析, 性能证据, 性能定位, 性能假设, 性能监控, 性能优化, 性能验证,性能深入. Al decir una de estas palabras sola, o usar el formulario 「activador: descripción」, se ingresa a este flujo de trabajo o a la etapa correspondiente.

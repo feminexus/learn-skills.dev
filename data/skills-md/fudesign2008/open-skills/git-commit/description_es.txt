@@ -1,0 +1,1 @@
+Punto de entrada unificado de confirmación de Git. Se activa cuando el usuario dice 「提交代码」「git commit」「帮我提交」「写 commit message」「生成commit」「提交一下」「git-commit」「自动提交代码」「git-commit-auto」 (código de confirmación / ayúdame a confirmar / escribir mensaje de confirmación / generar confirmación / confirmación automática), o cuando lo invoca la fase 7 de jira-fix-workflow.

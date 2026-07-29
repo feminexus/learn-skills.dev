@@ -1,0 +1,1 @@
+Arnés de evaluación de la seguridad del paciente para implementaciones de aplicaciones de atención médica. Conjuntos de pruebas automatizadas para precisión de CDSS, exposición de PHI, integridad del flujo de trabajo clínico y cumplimiento de la integración. Bloquea implementaciones ante fallas de seguridad.

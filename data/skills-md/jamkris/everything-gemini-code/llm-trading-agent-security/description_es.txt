@@ -1,0 +1,1 @@
+Patrones de seguridad para agentes comerciales autónomos con billetera o autoridad de transacción. Cubre inyección rápida, límites de gasto, simulación previa al envío, disyuntores, protección MEV y manejo de claves.

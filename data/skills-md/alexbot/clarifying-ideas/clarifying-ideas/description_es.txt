@@ -1,0 +1,1 @@
+Facilita la elaboración de proyectos a través del diálogo socrático. Transforma ideas vagas de proyectos en intenciones estructuradas. Se activa cuando alguien menciona la planificación del proyecto, qué debo construir, definición del alcance o aclaración de objetivos.

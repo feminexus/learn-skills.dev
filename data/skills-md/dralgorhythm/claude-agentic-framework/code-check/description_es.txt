@@ -1,0 +1,1 @@
+Audite una base de código de manera integral para detectar violaciones SÓLIDAS, SECAS y de coherencia: un flujo de trabajo de Codebase Auditor invocado por el usuario.

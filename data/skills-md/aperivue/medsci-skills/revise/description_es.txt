@@ -1,0 +1,1 @@
+Analice los comentarios de los revisores y genere un documento estructurado de Respuesta a los revisores con seguimiento de los cambios del manuscrito. Clasifica comentarios como MAYORES/MENORES/REFUTACIÓN, coordina nuevos análisis con /analyze-stats y /make-figures y produce una carta de presentación para el editor.

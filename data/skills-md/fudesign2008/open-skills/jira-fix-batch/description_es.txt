@@ -1,0 +1,1 @@
+Se activa cuando el usuario dice「批量修复」「批量 jira-fix」「jira-fix-batch」「批量修复多个 Jira」「批量修复以下 bug」/ lote fix, lote jira-fix. Organiza correcciones de un extremo a otro en múltiples problemas de Jira.

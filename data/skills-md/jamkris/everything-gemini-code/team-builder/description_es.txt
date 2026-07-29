@@ -1,0 +1,1 @@
+Selector de agentes interactivo para componer y enviar equipos paralelos

@@ -1,0 +1,1 @@
+Patrones de prueba de C# y .NET con xUnit, FluentAssertions, burlas, pruebas de integración y mejores prácticas de organización de pruebas.

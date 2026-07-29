@@ -1,0 +1,1 @@
+Detecte y elimine patrones de escritura de IA de manuscritos académicos y cartas de respuesta a los revisores. Busca 27 patrones de texto comunes generados por IA y reescribe pasajes marcados para que suenen naturalmente escritos por humanos, preservando al mismo tiempo la precisión técnica, limitando la cantidad de texto que una reescritura puede tocar.

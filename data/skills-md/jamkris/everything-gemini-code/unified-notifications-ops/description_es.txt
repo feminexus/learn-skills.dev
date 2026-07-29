@@ -1,0 +1,1 @@
+Opere notificaciones como un flujo de trabajo nativo de ECC en GitHub, Linear, alertas de escritorio, enlaces y superficies de comunicación conectadas. Úselo cuando el problema real sea el enrutamiento de alertas, la deduplicación, el escalamiento o el colapso de la bandeja de entrada.

@@ -1,0 +1,1 @@
+Habilidad Hub para el ecosistema NetBox. Rutas hacia habilidades especializadas para modelado de datos, integración de API, desarrollo de complementos, gestión de cambios, descubrimiento, aseguramiento, automatización y migración. Carga esta habilidad primero para encontrar al especialista adecuado.

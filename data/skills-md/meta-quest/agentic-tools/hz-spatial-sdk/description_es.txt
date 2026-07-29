@@ -1,0 +1,1 @@
+Crea aplicaciones espaciales de Android para Meta Quest y Horizon OS con Meta Spatial SDK: arquitectura ECS, paneles 2D, objetos 3D, experiencias híbridas. Úselo al crear aplicaciones espaciales basadas en Kotlin.

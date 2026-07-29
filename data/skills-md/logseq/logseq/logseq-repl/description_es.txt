@@ -1,0 +1,1 @@
+Inicie y coordine los flujos de trabajo REPL de desarrollo de Logseq para los tiempos de ejecución del renderizador de escritorio `:app`, el proceso principal de Electron `:electron` y `:db-worker-node` a través de un flujo de trabajo unificado.

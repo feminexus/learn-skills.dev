@@ -1,0 +1,1 @@
+Cree un plan de instalación de ECC respaldado por evidencia para un repositorio específico clasificando habilidades, comandos, reglas, ganchos y extras en depósitos DIARIOS y BIBLIOTECA mediante pases de revisión paralelos compatibles con repositorios. Úselo cuando ECC deba recortarse a lo que un proyecto realmente necesita en lugar de cargar el paquete completo.

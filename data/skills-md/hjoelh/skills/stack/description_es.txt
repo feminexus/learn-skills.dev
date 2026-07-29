@@ -1,0 +1,1 @@
+Analice la rama actual o una solicitud de extracción de GitHub y planifique una pila de nuevas solicitudes de extracción fáciles de revisar, dividiendo el trabajo solo cuando los límites mejoren materialmente la revisabilidad. Úselo cuando un cambio pueda beneficiarse de múltiples relaciones públicas ordenadas.

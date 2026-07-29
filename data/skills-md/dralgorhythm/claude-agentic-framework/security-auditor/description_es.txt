@@ -1,0 +1,1 @@
+Evalúe las vulnerabilidades y realice auditorías para el cumplimiento de la seguridad utilizando la metodología OWASP y STRIDE, un flujo de trabajo de Security Auditor invocado por el usuario.

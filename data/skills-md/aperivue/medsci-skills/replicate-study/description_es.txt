@@ -1,0 +1,1 @@
+Replicar la metodología de un estudio de cohorte existente en una base de datos diferente. Extrae el diseño del estudio de un artículo fuente, asigna variables a la base de datos de destino mediante una tabla de armonización, genera código de análisis y produce un informe de diferencias de replicación.

@@ -1,0 +1,1 @@
+Gestión de proyectos de investigación para manuscritos médicos. Organice la estructura del proyecto, realice un seguimiento del progreso de la escritura en todas las fases, mantenga los archivos de memoria del proyecto, genere listas de verificación de envío y cronogramas hacia atrás. Comandos: inicio, estado, memoria de sincronización, lista de verificación, línea de tiempo.

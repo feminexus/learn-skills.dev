@@ -1,0 +1,1 @@
+Punto de entrada específico de HIPAA para el trabajo de seguridad y privacidad de la atención médica. Úselo cuando una tarea se enmarque explícitamente en torno a HIPAA, manejo de PHI, entidades cubiertas, BAA, postura de incumplimiento o requisitos de cumplimiento de atención médica de EE. UU.

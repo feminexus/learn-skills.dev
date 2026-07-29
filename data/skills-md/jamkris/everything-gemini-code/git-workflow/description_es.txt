@@ -1,0 +1,1 @@
+Patrones de flujo de trabajo de Git que incluyen estrategias de ramificación, convenciones de confirmación, fusión versus rebase, resolución de conflictos y mejores prácticas de desarrollo colaborativo para equipos de todos los tamaños.

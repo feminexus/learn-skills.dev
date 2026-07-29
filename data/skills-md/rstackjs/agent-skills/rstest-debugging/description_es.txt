@@ -1,0 +1,1 @@
+Depurar problemas de Rstest sistemáticamente, incluidas las regresiones de rendimiento. Primero determine si la desaceleración se debe al inicio de la compilación o a la ejecución de la prueba, luego ejecute experimentos de código o configuración controlada y compare los tiempos antes y después.

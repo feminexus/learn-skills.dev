@@ -1,0 +1,1 @@
+Arreglar un proyecto ClojureScript (pelusa, formato, prueba, avanzado, seco); el formato escribe por defecto

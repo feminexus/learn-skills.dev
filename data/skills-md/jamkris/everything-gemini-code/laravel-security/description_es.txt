@@ -1,0 +1,1 @@
+Mejores prácticas de seguridad de Laravel para autenticación/authz, validación, CSRF, asignación masiva, carga de archivos, secretos, limitación de velocidad e implementación segura.

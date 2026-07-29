@@ -1,0 +1,1 @@
+Audita el consumo de la ventana contextual de Gemini CLI entre agentes, habilidades, servidores MCP y reglas. Identifica componentes redundantes y excesivos y produce recomendaciones priorizadas de ahorro de tokens.

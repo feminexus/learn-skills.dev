@@ -1,0 +1,1 @@
+Evite errores silenciosos de discrepancia decimal en las cadenas EVM. Cubre la búsqueda de decimales en tiempo de ejecución, el almacenamiento en caché con reconocimiento de cadena, la deriva de precisión de tokens puenteados y la normalización segura para bots, paneles y herramientas DeFi.

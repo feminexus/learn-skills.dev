@@ -1,0 +1,1 @@
+Cuando el usuario desea desarrollar o mejorar la capacidad de un robot de ventas para estimar los plazos de las ofertas en función de los patrones de conversación. Utilícelo también cuando el usuario mencione "predicción de cierre", "cronograma de la oferta", "estimación del ciclo de ventas", "timing del pronóstico" o "velocidad de la oferta".

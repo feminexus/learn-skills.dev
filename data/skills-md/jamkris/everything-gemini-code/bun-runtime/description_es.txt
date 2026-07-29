@@ -1,0 +1,1 @@
+Bun como tiempo de ejecución, administrador de paquetes, empaquetador y ejecutor de pruebas. Cuándo elegir Bun vs Node, notas de migración y compatibilidad con Vercel.

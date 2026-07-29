@@ -1,0 +1,1 @@
+Lista de verificación de seguridad para contratos de Solidity AMM, fondos de liquidez y flujos de swap. Cubre reentrada, pedidos CEI, ataques de donación o inflación, manipulación de Oracle, deslizamiento, controles administrativos y matemáticas de enteros.

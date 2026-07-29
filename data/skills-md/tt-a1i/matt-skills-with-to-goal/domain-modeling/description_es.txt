@@ -1,0 +1,1 @@
+Construya y perfeccione el modelo de dominio de un proyecto. Úselo cuando el usuario quiera precisar la terminología del dominio o un lenguaje ubicuo, registrar una decisión arquitectónica o cuando otra habilidad necesite mantener el modelo de dominio.

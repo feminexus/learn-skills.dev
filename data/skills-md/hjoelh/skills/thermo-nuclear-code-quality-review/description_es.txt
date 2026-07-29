@@ -1,0 +1,1 @@
+Ejecute una revisión de mantenimiento extremadamente estricta para la calidad de la abstracción, los archivos gigantes y el crecimiento en condiciones de espagueti. Úselo para una revisión de calidad del código termonuclear, una revisión termonuclear, una auditoría profunda de la calidad del código o una revisión de mantenibilidad especialmente estricta.

@@ -1,0 +1,1 @@
+Comparación directa de agentes de codificación (Gemini CLI, Aider, Codex, etc.) en tareas personalizadas con métricas de tasa de aprobación, costo, tiempo y consistencia

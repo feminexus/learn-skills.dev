@@ -1,0 +1,1 @@
+Coordine a investigadores paralelos para investigar un tema en profundidad y sintetizar los hallazgos respaldados por citas: un flujo de trabajo de Research Orchestrator invocado por el usuario.

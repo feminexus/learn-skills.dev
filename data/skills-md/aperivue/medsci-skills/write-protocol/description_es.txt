@@ -1,0 +1,1 @@
+Generador de protocolos de investigación del comité de ética/IRB. Produce 4 secciones principales (antecedentes, diseño del estudio, tamaño de la muestra, plan estadístico) con prosa completa, además de 6 secciones básicas con marcadores TODO para contenido específico de la institución. Integra resultados de estudio de diseño, cálculo de tamaño de muestra y búsqueda iluminada.

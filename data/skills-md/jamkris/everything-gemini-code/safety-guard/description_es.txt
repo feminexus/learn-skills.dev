@@ -1,0 +1,1 @@
+Prevenir operaciones destructivas en los sistemas de producción.

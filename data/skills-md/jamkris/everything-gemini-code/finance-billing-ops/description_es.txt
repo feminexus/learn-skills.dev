@@ -1,0 +1,1 @@
+Flujo de trabajo veraz de ingresos, precios, reembolsos, facturación en equipo y modelo de facturación basado en evidencia para ECC. Úselo cuando el usuario desee una instantánea de las ventas, una comparación de precios, un diagnóstico de cargos duplicados o una realidad de facturación respaldada por código en lugar de consejos de pagos genéricos.

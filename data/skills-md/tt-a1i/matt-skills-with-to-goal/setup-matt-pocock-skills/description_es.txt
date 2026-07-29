@@ -1,0 +1,1 @@
+Configure este repositorio para las habilidades de ingeniería: configure su rastreador de problemas, vocabulario de etiquetas de clasificación y diseño de documentos de dominio. Ejecútelo una vez antes del primer uso de las otras habilidades de ingeniería.

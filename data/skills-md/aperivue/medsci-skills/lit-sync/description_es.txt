@@ -1,0 +1,1 @@
+Sincronice referencias de investigación de archivos .bib con la biblioteca Zotero + notas literarias de Obsidian. Extraiga notas conceptuales transversales cuando se acumule suficiente literatura. Funciona después de /search-lit o de forma independiente.

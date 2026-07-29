@@ -1,0 +1,1 @@
+Guía el diseño de experiencias VR/MR cómodas e intuitivas para Meta Quest y Horizon OS: pautas de comodidad, patrones de interacción, diseño espacial, accesibilidad. Úselo durante la revisión del diseño de UX o al evaluar la comodidad y la accesibilidad.

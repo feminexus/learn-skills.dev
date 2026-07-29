@@ -1,0 +1,6 @@
+Espejo completo de la documentación de Fumadocs anterior de fuma-nama/fumadocs.
+Fumadocs es un marco de documentación para Next.js, React Router, TanStack Start y Vite.
+Cargue esta habilidad cuando necesite material de referencia ascendente exacto: instalación, configuración,
+personalizar la interfaz de usuario, configurar la búsqueda, integraciones (OpenAPI, fuentes de contenido, imágenes OG),
+internacionalización, API sin cabeza o procesamiento MDX.
+Esta no es una guía seleccionada; son los documentos originales sin procesar organizados por tema.

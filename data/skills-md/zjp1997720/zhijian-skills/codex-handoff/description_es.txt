@@ -1,0 +1,1 @@
+Convierta una tarea del Codex lenta o de gran tamaño en una nueva tarea visible para el usuario con continuidad compacta. Úselo solo para una transferencia explícita o una transferencia de contexto; no para continuación ordinaria, delegación, bifurcaciones de historial completo, migración de Git o archivos de transferencia.

@@ -1,0 +1,1 @@
+Organice y confirme instantáneamente todos los cambios de Git en el repositorio actual con la máxima velocidad. Úselo cuando el usuario solicita /commit, quiere una confirmación rápida del repositorio completo o quiere que todo esté preparado y confirmado sin que se le solicite un mensaje de confirmación.

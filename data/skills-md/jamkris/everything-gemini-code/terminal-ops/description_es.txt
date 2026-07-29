@@ -1,0 +1,1 @@
+Flujo de trabajo de ejecución de repositorios basado en evidencia para ECC. Úselo cuando el usuario desee ejecutar un comando, verificar un repositorio, depurar una falla de CI o implementar una solución limitada con prueba exacta de lo que se ejecutó y verificó.

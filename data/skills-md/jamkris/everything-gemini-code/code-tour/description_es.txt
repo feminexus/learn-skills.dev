@@ -1,0 +1,1 @@
+Cree archivos CodeTour `.tour`: tutoriales paso a paso dirigidos a personas con anclajes de líneas y archivos reales. Úselo para recorridos de incorporación, recorridos de arquitectura, recorridos de relaciones públicas, recorridos de RCA y solicitudes estructuradas para "explicar cómo funciona esto".

@@ -1,0 +1,1 @@
+Cuando se le solicite revisar un PR o rama ("revisar este PR", "revisión de PR", "argus", antes de fusionar), distribuya la diferencia entre revisores paralelos de solo lectura y devuelva un veredicto clasificado por gravedad; opcionalmente publicar en línea a través de gh.

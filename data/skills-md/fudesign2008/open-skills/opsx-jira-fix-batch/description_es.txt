@@ -1,0 +1,1 @@
+Se activa cuando el usuario dice「opsx 批量修复」「批量 opsx-jira-fix」「opsx-jira-fix-batch」「批量 OpenSpec Jira 修复」/opsx lote de corrección, lote de corrección de OpenSpec Jira. Orquesta correcciones integrales de múltiples problemas y registra juicios de relaciones en artefactos OpenSpec.

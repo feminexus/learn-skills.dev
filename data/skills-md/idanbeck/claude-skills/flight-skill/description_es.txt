@@ -1,0 +1,1 @@
+Busque el estado de los vuelos en vivo, realice un seguimiento de los vuelos de conexión y compruebe los retrasos en los aeropuertos. Úselo cuando el usuario solicita verificar un vuelo, rastrear el viaje de alguien o consultar las condiciones del aeropuerto.

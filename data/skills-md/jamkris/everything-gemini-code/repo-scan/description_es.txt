@@ -1,0 +1,1 @@
+Auditoría de activos de código fuente entre pilas: clasifica cada archivo, detecta bibliotecas de terceros integradas y ofrece veredictos procesables de cuatro niveles por módulo con informes HTML interactivos.

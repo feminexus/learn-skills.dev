@@ -1,0 +1,14 @@
+Trabaje dentro del paquete de marco Wonder-image/app: la biblioteca Composer en github.com/wonder-image/app. Este es el núcleo del marco, no un sitio que lo consume.
+
+DISPARAR cuando:
+- Composer.json del repositorio declara `"nombre": "maravilla-imagen/aplicación"`
+- editar archivos en `class/App/*`, `app/config/routes/*`, `app/http/*`, `app/bootstrap/*`, `app/middleware/*`, `class/App/Module/*`, `class/Console/*`
+- editar componentes de UI compartidos en `class/Elements/Components/*`, medios en `class/Elements/Media/*`, o sus renderizadores en `class/Themes/{Wonder,Bootstrap}/*`
+- modificar Modelo, Recurso, PageSchema, Repetidor, ModelRegistry, ResourceRegistry, ResourceRouteRegistrar, Credenciales o el punto de entrada `wonder-image.php`
+- cambiar el orden de arranque, la resolución `ROOT`/`.env`, el descubrimiento de módulos, las rutas backend/API CRUD generadas o las fuentes de comando `php forge...`
+- actualización de `docs/app/*` para convenciones de arranque, arquitectura, enrutamiento o diseño
+
+SALTAR cuando:
+- el repositorio es un sitio Wonder que instala imagen/aplicación maravilla bajo `proveedor/` (por ejemplo, imagen-maravilla/sitio nuevo o cualquier proyecto basado en él): use wi-site
+- el cambio está en `custom/`, `app/Models`, `app/Resources`, `lang/` o `assets/` de un sitio
+- la tarea está en Wonder-image/lib (el sistema de diseño JS/CSS) - repositorio diferente

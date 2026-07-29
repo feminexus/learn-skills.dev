@@ -1,0 +1,1 @@
+Garantiza la ubicación precisa de objetos en proyectos de Unity dirigidos a Meta Quest y Horizon OS mediante el uso de límites de renderizador y colisionador cuando los objetos se agregan, mueven o colocan en relación con otros objetos.

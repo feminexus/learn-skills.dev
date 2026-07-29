@@ -1,0 +1,1 @@
+Cree explicadores Manim reutilizables para conceptos técnicos, gráficos, diagramas de sistemas y recorridos de productos, luego transmítalos a la pila de videos ECC más amplia si es necesario. Úselo cuando el usuario desee una explicación animada y clara en lugar de un guión genérico de cabeza parlante.

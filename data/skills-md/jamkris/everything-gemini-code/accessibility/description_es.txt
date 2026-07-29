@@ -1,0 +1,1 @@
+Diseñe, implemente y audite productos digitales inclusivos utilizando los estándares WCAG 2.2 Nivel AA. Utilice esta habilidad para generar ARIA semántica para Web y rasgos de accesibilidad para plataformas Web y nativas (iOS/Android).

@@ -1,0 +1,1 @@
+Patrones de arquitectura de Laravel, enrutamiento/controladores, Eloquent ORM, capas de servicio, colas, eventos, almacenamiento en caché y recursos API para aplicaciones de producción.

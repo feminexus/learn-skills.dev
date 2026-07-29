@@ -1,0 +1,1 @@
+Detecta la pila del proyecto a partir de manifiestos y propone una configuración de marco personalizada (rutas doradas llenas de estrategia tecnológica, dirección de revisión de REVIEW.md/CLAUDE.md y una lista de eliminación de piezas de marco no utilizadas) como un plan revisable, nunca escrituras silenciosas.

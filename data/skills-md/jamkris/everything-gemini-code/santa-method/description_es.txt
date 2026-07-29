@@ -1,0 +1,1 @@
+Verificación adversarial multiagente con bucle de convergencia. Dos agentes de revisión independientes deben pasar antes de que se envíe la salida.

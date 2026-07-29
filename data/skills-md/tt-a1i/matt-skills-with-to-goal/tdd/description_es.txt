@@ -1,0 +1,1 @@
+Desarrollo basado en pruebas. Úselo cuando el usuario quiera crear funciones o corregir errores probando primero, mencione "refactor-rojo-verde" o quiera pruebas de integración.

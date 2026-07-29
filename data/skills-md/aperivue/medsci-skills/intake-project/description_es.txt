@@ -1,0 +1,1 @@
+Admitir y normalizar un nuevo proyecto de investigación en radiología. Clasifica el tipo de proyecto, resume el estado actual, identifica las entradas que faltan, recomienda los próximos pasos y estructura los archivos de memoria del proyecto livianos.

@@ -1,0 +1,1 @@
+Crea un soporte para nuevos proyectos de Meta Quest y Horizon OS con configuraciones recomendadas para Unity, Unreal, Android/Spatial SDK o WebXR. Úselo al crear una nueva aplicación Quest desde cero.

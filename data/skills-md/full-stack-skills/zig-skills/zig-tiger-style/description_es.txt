@@ -1,0 +1,1 @@
+Directrices de codificación TigerStyle Zig: extraídas del código base de producción de TigerBeetle. Úselo siempre que escriba, revise o refactorice código Zig y pregunte sobre modismos de Zig, afirmaciones, diseño de memoria, convenciones de nomenclatura, estilo de código y diseño de API.
