@@ -1,0 +1,1 @@
+指南将 Web 应用程序作为 PWA/TWA 发送到 Meta Quest 和 Horizo​​n OS Store - 2D 窗口面板和沉浸式 WebXR/VR。涵盖构建 Web 应用程序（用于 WebXR 的 IWSDK、任何用于 2D 的响应式 PWA）、Vercel 部署、Web 应用程序清单 + 图标、仅 WebXR 自动进入会话步骤、在 @meta-quest/bubblewrap-cli、keystore/Digital-Asset-Links 和 ovr-platform-util 商店上传中选择 2D 与沉浸式模式。在任何 IWSDK/WebXR 构建、PWA 打包、bubblewrap 或 Horizo​​n Store 上传工作之前使用。

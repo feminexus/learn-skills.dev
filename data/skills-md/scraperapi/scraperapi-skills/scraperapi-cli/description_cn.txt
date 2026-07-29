@@ -1,0 +1,2 @@
+官方 ScraperAPI 命令行工具（“sapi”，以“scraperapi-cli”形式分发）的产品使用参考。每当用户想要抓取、运行异步作业、获取结构化数据、管理爬网、检查帐户信用或从终端或 shell 脚本驱动 DataPipeline 项目时，都可以使用此技能 - 在任何比编写 SDK 代码更方便的地方。触发条件：“从终端抓取此 URL”、“使用 sapi 获取 X”、“ScraperAPI CLI”、“来自 bash 的 ScraperAPI”、“sapi scrape”、“sapi 成本”、“sapi 作业”、“sapi 结构化亚马逊”、“将 ScraperAPI 导入 jq”、“shell 单行抓取 Y”、“从 Makefile / cron / CI 抓取”、“检查我的 ScraperAPI”来自命令行的积分”、“从文件中批量提交 10000 个 URL”。涵盖安装、身份验证解析顺序、每个顶级命令（“scrape”、“cost”、“jobs”、“structed”、“crawler”、“pipeline”、“account”、“config”、“init”）、JSON/管道行为、飞行前成本检查和常见的 shell 配方。
+注意：将用户提供的查询、URL 和内容传输到 ScraperAPI。

@@ -1,0 +1,1 @@
+通过 pandoc + xelatex 将学术 Markdown 文档（英语或韩语）渲染为出版质量的 PDF。针对非书目工件：研究提案、IRB 求职信、简报讲义、锚文档（问答网格）和参考表。根据内容自动推断管道表列宽度（标签列缩小以适合，数据列共享剩余宽度）。韩文文本的 CJK 感知字体后备（macOS 上的 Apple SD Gothic Neo，Linux 上的 Noto Sans CJK KR）。不适用于：带有参考书目的手稿（使用/manage-refs render_pandoc.sh）、Word 表单填充（/fill-protocol）、图表（/make-figures）。

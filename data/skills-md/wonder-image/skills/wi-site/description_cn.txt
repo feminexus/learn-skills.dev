@@ -1,0 +1,9 @@
+在 Wonder-image/newsite 或由其搭建的任何网站内工作。使用时
+Composer.json 依赖于 `wonder-image/app` 但不是框架包，
+或者当工作涉及 `custom/`、`app/Models`、`app/Resources`、`lang/` 时，
+`assets/{ASSETS_VERSION}/`、`PRODUCT.md`、`php 伪造凭证`、
+`php forge update --local`、`php forge start` 或 npm setup。涵盖页面，
+模型、资源、中继器、可编辑内容、翻译、路线、角色、
+权限、外部模块、组件覆盖和 UI/样式必须
+重用“wonder-image/lib”。不要用于`wonder-image/app`核心，直接
+在 `vendor/wonder-image/app` 或 `wonder-image/lib` 源下编辑。

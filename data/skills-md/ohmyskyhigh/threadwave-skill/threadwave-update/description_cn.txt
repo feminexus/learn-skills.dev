@@ -1,0 +1,1 @@
+根据权威的 GitHub 发布索引检查独立版本的 ThreadWave Twitter/X 技能，而无需运行 CLI 或安装代码。用于 ThreadWave 技能更新、检查最新技能版本、过时或缺失的 Twitter 技能、版本兼容性、平面技能安装诊断，或作为 threadwave-preflight 调用的强制版本门。 中文：用于检查 ThreadWave 推特技术更新、最新版本、解除或过渡技术、版本兼容性和平铺技术安装；由 threadwave-preflight 在预检中调用。

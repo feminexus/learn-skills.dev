@@ -1,0 +1,1 @@
+当任务涉及 VMOS Edge Desktop 时使用 - 在边缘主机上创建或控制 Android 虚拟设备、通过 CDP 与 Electron 桌面 UI 交互、使用 YAML playbook 或批处理 JSON 自动化设备工作流程，或者从 CLI 错误代码中恢复。

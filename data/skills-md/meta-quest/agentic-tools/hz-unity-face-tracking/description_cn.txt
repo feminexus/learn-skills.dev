@@ -1,0 +1,1 @@
+通过 Meta Movement SDK（面部跟踪 + A2E）在 Meta Quest 上使用佩戴者的面部表情在 Unity 中驱动 ARKit-blendshape 装配的头部/面部模型。当用户拥有具有 52 个 ARKit 混合形状（任何前缀、_L/_R 后缀）的 FBX 并希望其通过 Quest Pro / Quest 3 / Quest 3S 上的面部跟踪制作动画时使用。

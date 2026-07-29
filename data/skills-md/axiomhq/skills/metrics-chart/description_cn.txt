@@ -1,0 +1,1 @@
+将 Axiom 指标查询结果 (application/vnd.metrics.v3+json) 渲染为折线图。默认情况下零依赖 Unicode/ASCII；如果存在，可通过 gnuplot 升级到内联 PNG/SVG/sixel。当您有指标 v3 查询响应并希望在终端或记录中以图表形式查看该系列时使用。

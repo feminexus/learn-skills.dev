@@ -1,0 +1,6 @@
+来自 fuma-nama/fumadocs 的上游 Fumadocs 文档的完整镜像。
+Fumadocs 是 Next.js、React Router、TanStack Start 和 Vite 的文档框架。
+当您需要准确的上游参考材料时加载此技能 - 安装、配置、
+自定义 UI、设置搜索、集成（OpenAPI、内容源、OG 图像）、
+国际化、无头 API 或 MDX 处理。
+这不是精心策划的指导；它是按主题组织的原始上游文档。

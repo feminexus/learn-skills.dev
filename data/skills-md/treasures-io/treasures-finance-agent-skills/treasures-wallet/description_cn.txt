@@ -1,0 +1,1 @@
+通过 HTTP API 操作 Treasures 委托钱包：上线（提供钱包 + 创建范围内的 API 密钥）、获取报价、执行买入/卖出（异步 - 钱包是非托管的；代理从不签名，Treasures 作为严格限制在 RWA 交易范围内的委托签名者进行签名）、读取余额/投资组合/交易历史记录以及管理 API 密钥。每当代理需要在 Treasures 钱包上交易代币化股票（xStocks / Ondo）与 USDC、检查 Treasures 钱包余额或损益或设置 Treasures 钱包访问时触发。代理只需要 HTTPS + API 密钥 — 没有 web3 库、没有私钥、没有 RPC。

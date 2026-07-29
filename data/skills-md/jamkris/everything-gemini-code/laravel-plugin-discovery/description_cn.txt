@@ -1,0 +1,1 @@
+通过 LaraPlugins.io MCP 发现和评估 Laravel 软件包。当用户想要查找插件、检查包运行状况或评估 Laravel/PHP 兼容性时使用。

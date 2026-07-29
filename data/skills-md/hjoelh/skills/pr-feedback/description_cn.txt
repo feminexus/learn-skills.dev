@@ -1,0 +1,1 @@
+在对来自任何来源（CodeRabbit、Graphite Reviewer、人类工程师）的 PR 的审核评论进行分类时使用。从分支推断当前 PR 或接受 PR 编号作为参数。

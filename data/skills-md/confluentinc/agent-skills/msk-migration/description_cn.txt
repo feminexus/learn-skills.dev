@@ -1,0 +1,1 @@
+使用此技能来评估和规划从 AWS MSK（Apache Kafka 的托管流）到 Confluence Cloud 的迁移。触发用户意图，例如“将 MSK 迁移到 Confluence Cloud”、“移出 MSK”、“MSK 到 CC 切换”、“从 MSK 零切换迁移”、“kcp 扫描我的 MSK”，或任何有关 MSK 到 CC 评估、规划、集群规模调整、集群链接设置、基于网关的切换或切换后验证的讨论。不要触发非 MSK Kafka 源（开源 Kafka、Aiven、Confluence Platform、Redpanda）——此技能仅限 MSK。不要触发没有现有 Kafka 源的新建 Confluence Cloud 项目。不要触发与迁移无关的一般 Kafka 编程问题（生产者/消费者代码、Kafka Streams）。

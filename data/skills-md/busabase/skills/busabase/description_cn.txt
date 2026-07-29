@@ -1,0 +1,1 @@
+将任何 Busabase 工作区作为审批优先的知识库 — 以 ChangeRequest 形式提出更改，等待人工审核，然后合并。使用busabase-cli 执行符合人体工程学的命令，使用curl 执行快速API 循环，或使用OpenAPI 规范/MCP 执行整个表面。从 ~/.busabase/.env 读取基本 URL、API 密钥和目标空间。

@@ -1,0 +1,1 @@
+询问用户澄清问题的严格纪律：每轮准确询问一个最关键的问题（优先级：目的 → 约束 → 成功标准），在询问时包含推荐答案，在多轮中解决未知问题直至明确，区分事实自我检查与决策询问，并且在澄清期间不要急于找到解决方案。还秉承调查第一的原则。通过工作流技能（solve-workflow、opsx-solve-workflow、jira-fix-workflow、opsx-jira-fix-workflow、perf-workflow）通过 frontmatter 依赖项进行引用。触发因素——「一次一问」「多轮问清」「澄清提问纪律」「推荐回答提问」/澄清问题纪律。

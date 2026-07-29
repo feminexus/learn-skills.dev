@@ -1,0 +1,1 @@
+PDCA 式工作流程技能中手动/自动模式的共享生命周期契约：自动模式始终在完成或中断时恢复为手动，重新进入自动需要显式触发，隐式继续永远不会重新激活它，批处理协调器显式传递模式。通过solve-workflow、opsx-solve-workflow、jira-fix-workflow、opsx-jira-fix-workflow通过frontmatter依赖项引用；当工作流委托其模式规则时加载。

@@ -1,0 +1,1 @@
+TigerStyle Zig 编码指南 — 从 TigerBeetle 的生产代码库中提炼出来。在编写、审查或重构 Zig 代码、询问 Zig 习惯用法、断言、内存布局、命名约定、代码风格和 API 设计时使用。

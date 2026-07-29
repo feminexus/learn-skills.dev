@@ -1,0 +1,1 @@
+以编程方式创建、编辑和操作 Word 文档 (.docx)。当有人要求“生成 Word 文档”、“在 docx 中创建报告”、“邮件合并”、“填充 Word 模板”、“从 Word 中提取文本”、“将 Markdown 转换为 Word”、“向 Word 添加表格”或“自动生成文档”时使用。涵盖用于文件操作的 python-docx、用于模板的 docxtpl 以及用于云文档的 Microsoft Graph API。

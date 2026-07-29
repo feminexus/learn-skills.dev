@@ -1,0 +1,1 @@
+使用 Metavr CLI 调试 Meta Quest 和 Horizo​​n OS VR/MR 应用程序 — 查看日志、捕获屏幕截图、诊断常见问题。在对 Quest 设备上的崩溃、错误或意外行为进行故障排除时使用。

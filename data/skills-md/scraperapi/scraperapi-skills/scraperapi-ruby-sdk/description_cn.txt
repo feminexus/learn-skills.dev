@@ -1,0 +1,2 @@
+ScraperAPI Ruby SDK (scraperapi gem) 的最佳实践参考。当用户编写、调试或检查调用 ScraperAPI 的 Ruby 代码时进行咨询。当用户询问：“使用 Ruby 和 ScraperAPI 抓取网站”、“ScraperAPI Ruby 示例”、“如何使用 ScraperAPI gem”、“Ruby ScraperAPI 渲染”、“ScraperAPI Ruby 高级代理”、“ScraperAPI gem 会话”、“ScraperAPI Ruby 错误处理”时使用。涵盖 gem 设置、所有请求参数、升级阶梯、状态代码的错误处理以及信用成本。
+注意：将用户提供的查询、URL 和内容传输到 ScraperAPI。

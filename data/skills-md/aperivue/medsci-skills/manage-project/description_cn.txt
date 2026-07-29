@@ -1,0 +1,1 @@
+医学手稿的研究项目管理。脚手架项目结构，跟踪跨阶段的写作进度，维护项目内存文件，生成提交清单和向后时间表。命令：init、status、sync-memory、checklist、timeline。
