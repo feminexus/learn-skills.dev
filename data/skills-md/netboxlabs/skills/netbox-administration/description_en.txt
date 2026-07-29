@@ -1,0 +1,1 @@
+NetBox server administration: configuration, authentication backends (local/LDAP/SAML/OIDC), object permissions, API tokens, performance tuning, backups, upgrades, and housekeeping. Use when managing a NetBox instance rather than consuming its API.

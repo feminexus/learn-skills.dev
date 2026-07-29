@@ -1,0 +1,1 @@
+Update OpenCode configuration, rules, commands, and permissions in line with official documentation

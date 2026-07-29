@@ -1,0 +1,1 @@
+Instantly stage and commit all Git changes in the current repository with maximum speed. Use when the user asks for /commit, wants a fast full-repo commit, or wants everything staged and committed without being asked for a commit message.

@@ -1,0 +1,1 @@
+Builds spatial Android apps for Meta Quest and Horizon OS with Meta Spatial SDK — ECS architecture, 2D panels, 3D objects, hybrid experiences. Use when creating Kotlin-based spatial applications.

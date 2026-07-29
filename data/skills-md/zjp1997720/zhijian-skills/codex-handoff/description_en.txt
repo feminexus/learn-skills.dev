@@ -1,0 +1,1 @@
+Roll an oversized or slow Codex task into a fresh user-visible task with compact continuity. Use only for an explicit handoff or context rollover; not for ordinary continuation, delegation, full-history forks, Git migration, or handoff files.

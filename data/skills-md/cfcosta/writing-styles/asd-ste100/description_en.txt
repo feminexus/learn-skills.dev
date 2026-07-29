@@ -1,0 +1,1 @@
+Writes text in ASD-STE100 Simplified Technical English (STE), Issue 9, the controlled language standard for technical documentation. Use it when the user asks for STE, Simplified Technical English, ASD-STE100, or a controlled language, or wants clear technical documentation, procedures, or manuals.

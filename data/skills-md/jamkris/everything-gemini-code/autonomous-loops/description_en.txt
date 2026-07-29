@@ -1,0 +1,1 @@
+Patterns and architectures for autonomous Gemini CLI loops — from simple sequential pipelines to RFC-driven multi-agent DAG systems.

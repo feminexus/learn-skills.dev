@@ -1,0 +1,1 @@
+Use when triaging review comments on a PR from any source — CodeRabbit, Graphite Reviewer, human engineers. Infers current PR from branch or accepts a PR number as argument.

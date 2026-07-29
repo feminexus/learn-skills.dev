@@ -1,0 +1,1 @@
+Detects the project's stack from manifests and proposes tailored framework configuration — filled tech-strategy golden paths, REVIEW.md/CLAUDE.md review steering, and a prune list of unused framework pieces — as a reviewable plan, never silent writes.

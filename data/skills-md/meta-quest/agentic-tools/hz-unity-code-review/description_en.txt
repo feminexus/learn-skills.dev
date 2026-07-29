@@ -1,0 +1,1 @@
+Reviews Unity code targeting Meta Quest and Horizon OS for performance issues, rendering best practices, and common VR pitfalls. Use during code review or when diagnosing Quest performance problems in Unity projects.

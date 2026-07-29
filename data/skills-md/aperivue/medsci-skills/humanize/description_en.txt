@@ -1,0 +1,1 @@
+Detect and remove AI writing patterns from academic manuscripts and response-to-reviewers letters. Scans for 27 common AI-generated text patterns and rewrites flagged passages to sound naturally human-written while preserving technical accuracy, bounding how much of the text a rewrite is allowed to touch.

@@ -1,0 +1,1 @@
+Intake and normalize a new radiology research project. Classifies project type, summarizes current state, identifies missing inputs, recommends next steps, and scaffolds lightweight project memory files.

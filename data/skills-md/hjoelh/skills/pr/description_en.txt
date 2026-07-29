@@ -1,0 +1,1 @@
+Create a draft GitHub pull request from the current git state into the repository's default branch using the gh CLI. Use when the user asks to open or create a PR, wants the base branch to match the repo's main/default branch automatically, wants a short PR summary, or explicitly says to omit a test plan.

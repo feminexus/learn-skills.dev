@@ -1,0 +1,1 @@
+Head-to-head comparison of coding agents (Gemini CLI, Aider, Codex, etc.) on custom tasks with pass rate, cost, time, and consistency metrics

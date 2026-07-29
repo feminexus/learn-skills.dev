@@ -1,0 +1,1 @@
+Triggers when the user says「opsx 批量修复」「批量 opsx-jira-fix」「opsx-jira-fix-batch」「批量 OpenSpec Jira 修复」/ opsx batch fix, batch OpenSpec Jira fix. Orchestrates multi-issue end-to-end fixes and records relationship judgments in OpenSpec artifacts.

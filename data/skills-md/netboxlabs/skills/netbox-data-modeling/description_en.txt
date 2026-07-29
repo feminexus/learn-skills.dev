@@ -1,0 +1,1 @@
+Design and manage NetBox data models effectively. Covers site/location hierarchy, IPAM organization, device modeling, tenant assignment, custom fields vs tags vs config contexts, dependency ordering, and relationship patterns. Use when planning NetBox data structure, importing bulk data, or choosing between extensibility mechanisms.

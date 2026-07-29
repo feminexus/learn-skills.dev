@@ -1,0 +1,1 @@
+Audit a codebase holistically for SOLID, DRY, and consistency violations — a user-invoked Codebase Auditor workflow.

@@ -1,0 +1,1 @@
+IRB/ethics committee research protocol generator. Produces 4 core sections (Background, Study Design, Sample Size, Statistical Plan) with full prose, plus 6 skeleton sections with TODO markers for institution-specific content. Integrates outputs from design-study, calc-sample-size, and search-lit.

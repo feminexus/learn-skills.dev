@@ -1,0 +1,1 @@
+Git commit unified entry point. Triggers when user says 「提交代码」「git commit」「帮我提交」「写 commit message」「生成 commit」「提交一下」「git-commit」「自动提交代码」「git-commit-auto」 (commit code / help me commit / write commit message / generate commit / auto commit), or when invoked by jira-fix-workflow phase 7.

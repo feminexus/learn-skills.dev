@@ -1,0 +1,1 @@
+AI视觉导演主控路由。用于 /create /avd/create 故事到视频、角色卡、场景图、故事板、分镜图、视频 Prompt、海报、Prompt QC、状态锁定和子技能分发。普通故事默认 /create standard。

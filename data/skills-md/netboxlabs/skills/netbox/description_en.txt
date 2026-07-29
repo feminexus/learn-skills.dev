@@ -1,0 +1,1 @@
+Hub skill for the NetBox ecosystem. Routes to specialized skills for data modeling, API integration, plugin development, change management, discovery, assurance, automation, and migration. Load this skill first to find the right specialist.

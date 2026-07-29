@@ -1,0 +1,1 @@
+Review Logseq code changes, PRs, patches, commit ranges, or implementation plans through one main-agent orchestration workflow that routes read-only subagents across independent review passes, then deduplicates, validates, and reports findings for the web app, desktop app, and Logseq CLI.

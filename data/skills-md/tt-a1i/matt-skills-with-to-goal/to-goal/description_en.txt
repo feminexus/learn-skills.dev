@@ -1,0 +1,1 @@
+Turn an approved spec, agent-ready ticket, tracker frontier, or partially implemented ticket into a verifiable execution goal without re-interviewing the user. Use after to-tickets or triage, before starting a fresh implementation session; use --all only for an explicitly requested cross-ticket goal.

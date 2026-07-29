@@ -1,0 +1,1 @@
+Design interfaces and validate accessibility against WCAG 2.1 with DevTools-backed checks — a user-invoked UI/UX Designer workflow.

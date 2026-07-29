@@ -1,0 +1,1 @@
+Analyze the current branch or a GitHub pull request and plan a review-friendly stack of new pull requests, splitting work only when the boundaries materially improve reviewability. Use when a change may benefit from multiple ordered PRs.

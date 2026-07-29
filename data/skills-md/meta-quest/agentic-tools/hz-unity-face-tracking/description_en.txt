@@ -1,0 +1,1 @@
+Drive ARKit-blendshape-rigged head/face models in Unity with the wearer's facial expressions on Meta Quest via Meta Movement SDK (face tracking + A2E). Use when a user has an FBX with the 52 ARKit blendshapes (any prefix, _L/_R suffixes) and wants it to animate from face tracking on Quest Pro / Quest 3 / Quest 3S.

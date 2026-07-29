@@ -1,0 +1,1 @@
+Generate a manual test guide for human testers from code changes (diff, commit, MR/PR). Triggers when user says 「生成测试指南」「测试指南」「人工测试指南」「测试指引」「test guide」「根据代码生成测试」「从 MR 生成测试指南」「从 PR 生成测试指南」 (generate test guide / manual test guide / test guide from code / from MR / from PR), or provides a diff/MR/PR link and asks for a test guide.

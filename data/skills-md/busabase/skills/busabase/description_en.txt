@@ -1,0 +1,1 @@
+Drive any Busabase workspace as an approval-first knowledge base — propose changes as ChangeRequests, wait for human review, then merge. Use busabase-cli for ergonomic commands, curl for the quick API loop, or the OpenAPI spec / MCP for the full surface. Reads the base URL, API key, and target space from ~/.busabase/.env.

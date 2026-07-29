@@ -1,0 +1,1 @@
+Reference and reviewer for crafting, refining, and auditing high-quality AI agent skills. Enforces process predictability, leading words, zero-noise output contracts, and anti-pattern diagnostics.

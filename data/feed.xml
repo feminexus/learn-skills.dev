@@ -4,20 +4,20 @@
         <title>Skills.sh Feed</title>
         <link>https://skills.sh</link>
         <description>Latest skill data from skills.sh</description>
-        <lastBuildDate>Wed, 29 Jul 2026 08:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 08:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[[Daily] Skills.sh snapshot (2026-07-29)]]></title>
             <link>https://skills.sh</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:snapshot</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:snapshot</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Daily snapshot.
 Providers: skills.sh
 All Time skills: 8319
-Trending skills: 7496
-Hot skills: 3347
+Trending skills: 7560
+Hot skills: 3604
 Top All Time: find-skills (2724879)
 Top Trending: ai-video-generation (21594)
 Top Hot: find-skills (357)]]></description>
@@ -25,8 +25,8 @@ Top Hot: find-skills (357)]]></description>
         <item>
             <title><![CDATA[[Hot] New entry (#2): ai-video-generation]]></title>
             <link>https://skills.sh/101-skills/skills/ai-video-generation</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-video-generation</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:101-skills/skills/ai-video-generation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #2
 Installs: 280
@@ -36,8 +36,8 @@ Description: Generate AI videos with Google Veo, Seedance 2.0, HappyHorse, Wan, 
         <item>
             <title><![CDATA[[Hot] New entry (#3): ai-image-generation]]></title>
             <link>https://skills.sh/101-skills/skills/ai-image-generation</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-image-generation</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:101-skills/skills/ai-image-generation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #3
 Installs: 277
@@ -47,8 +47,8 @@ Description: Generate AI images with GPT-Image-2, FLUX, Gemini, Grok, Seedream, 
         <item>
             <title><![CDATA[[Hot] New entry (#4): twitter-automation]]></title>
             <link>https://skills.sh/101-skills/skills/twitter-automation</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/twitter-automation</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:101-skills/skills/twitter-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #4
 Installs: 277
@@ -58,8 +58,8 @@ Description: Automate Twitter/X with posting, engagement, and user management vi
         <item>
             <title><![CDATA[[Hot] New entry (#48): twitter-automation]]></title>
             <link>https://skills.sh/magentosh/skills/twitter-automation</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/twitter-automation</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:magentosh/skills/twitter-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #48
 Installs: 93
@@ -69,8 +69,8 @@ Description: Automate Twitter/X with posting, engagement, and user management vi
         <item>
             <title><![CDATA[[Hot] New entry (#49): remotion-render]]></title>
             <link>https://skills.sh/magentosh/skills/remotion-render</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/remotion-render</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:magentosh/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #49
 Installs: 93
@@ -80,8 +80,8 @@ Description: Render videos from React/Remotion component code via inference.sh. 
         <item>
             <title><![CDATA[[Hot] New entry (#5): ai-avatar-video]]></title>
             <link>https://skills.sh/101-skills/skills/ai-avatar-video</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/ai-avatar-video</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:101-skills/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #5
 Installs: 277
@@ -91,8 +91,8 @@ Description: Create AI avatar and talking head videos via inference.sh CLI. Reco
         <item>
             <title><![CDATA[[Hot] New entry (#50): ai-avatar-video]]></title>
             <link>https://skills.sh/magentosh/skills/ai-avatar-video</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:magentosh/skills/ai-avatar-video</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:magentosh/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #50
 Installs: 93
@@ -102,8 +102,8 @@ Description: Create AI avatar and talking head videos via inference.sh CLI. Reco
         <item>
             <title><![CDATA[[Hot] New entry (#6): remotion-render]]></title>
             <link>https://skills.sh/101-skills/skills/remotion-render</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:new:101-skills/skills/remotion-render</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:new:101-skills/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Hot leaderboard.
 Rank: #6
 Installs: 277
@@ -113,8 +113,8 @@ Description: Render videos from React/Remotion component code via inference.sh. 
         <item>
             <title><![CDATA[[Trending] New entry (#49): media-use]]></title>
             <link>https://skills.sh/heygen-com/hyperframes/media-use</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:new:heygen-com/hyperframes/media-use</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:new:heygen-com/hyperframes/media-use</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[New entry in Trending leaderboard.
 Rank: #49
 Installs: 6793
@@ -124,8 +124,8 @@ Description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) i
         <item>
             <title><![CDATA[[Hot] Rank down (10 → 16): grill-with-docs]]></title>
             <link>https://skills.sh/mattpocock/skills/grill-with-docs</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/grill-with-docs</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/grill-with-docs</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #10
 Current rank: #16
@@ -137,8 +137,8 @@ Description: Grilling session that challenges your plan against the existing dom
         <item>
             <title><![CDATA[[Hot] Rank down (12 → 17): code-review]]></title>
             <link>https://skills.sh/mattpocock/skills/code-review</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/code-review</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/code-review</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #12
 Current rank: #17
@@ -150,8 +150,8 @@ Description: Review the changes since a fixed point (commit, branch, tag, or mer
         <item>
             <title><![CDATA[[Hot] Rank down (13 → 20): tdd]]></title>
             <link>https://skills.sh/mattpocock/skills/tdd</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/tdd</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/tdd</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #13
 Current rank: #20
@@ -163,8 +163,8 @@ Description: Test-driven development with red-green-refactor loop. Use when user
         <item>
             <title><![CDATA[[Hot] Rank down (14 → 37): hyperframes-core]]></title>
             <link>https://skills.sh/heygen-com/hyperframes/hyperframes-core</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/hyperframes-core</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:heygen-com/hyperframes/hyperframes-core</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #14
 Current rank: #37
@@ -176,8 +176,8 @@ Description: HyperFrames HTML composition contract. Use for composition structur
         <item>
             <title><![CDATA[[Hot] Rank down (15 → 36): hyperframes-cli]]></title>
             <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/hyperframes-cli</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:heygen-com/hyperframes/hyperframes-cli</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #15
 Current rank: #36
@@ -189,8 +189,8 @@ Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFra
         <item>
             <title><![CDATA[[Hot] Rank down (16 → 28): diagnosing-bugs]]></title>
             <link>https://skills.sh/mattpocock/skills/diagnosing-bugs</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/diagnosing-bugs</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/diagnosing-bugs</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #16
 Current rank: #28
@@ -202,8 +202,8 @@ Description: Diagnosis loop for hard bugs and performance regressions. Use when 
         <item>
             <title><![CDATA[[Hot] Rank down (18 → 38): media-use]]></title>
             <link>https://skills.sh/heygen-com/hyperframes/media-use</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:heygen-com/hyperframes/media-use</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:heygen-com/hyperframes/media-use</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #18
 Current rank: #38
@@ -215,8 +215,8 @@ Description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) i
         <item>
             <title><![CDATA[[Hot] Rank down (2 → 9): design-guide]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/design-guide</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/design-guide</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/design-guide</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #2
 Current rank: #9
@@ -228,8 +228,8 @@ Description: Paperclip UI design system guide for building consistent, reusable 
         <item>
             <title><![CDATA[[Hot] Rank down (3 → 10): paperclip-create-agent]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip-create-agent</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #3
 Current rank: #10
@@ -241,8 +241,8 @@ Description: Create new agents in Paperclip with governance-aware hiring. Use wh
         <item>
             <title><![CDATA[[Hot] Rank down (35 → 47): prisma-postgres-setup]]></title>
             <link>https://skills.sh/prisma/skills/prisma-postgres-setup</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:prisma/skills/prisma-postgres-setup</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:prisma/skills/prisma-postgres-setup</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #35
 Current rank: #47
@@ -254,8 +254,8 @@ Description: Set up a new Prisma Postgres database and connect it to a local pro
         <item>
             <title><![CDATA[[Hot] Rank down (4 → 13): paperclip]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/paperclip</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #4
 Current rank: #13
@@ -267,8 +267,8 @@ Description: Interact with the Paperclip control plane API to manage tasks, coor
         <item>
             <title><![CDATA[[Hot] Rank down (5 → 11): paperclip-converting-plans-to-tasks]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/paperclip-converting-plans-to-tasks</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #5
 Current rank: #11
@@ -280,8 +280,8 @@ Description: The Paperclip way of converting a plan into executable tasks. Use w
         <item>
             <title><![CDATA[[Hot] Rank down (6 → 14): paperclip-board]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip-board</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/paperclip-board</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/paperclip-board</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #6
 Current rank: #14
@@ -293,8 +293,8 @@ Description: Manage a Paperclip company as a board member via chat. Covers onboa
         <item>
             <title><![CDATA[[Hot] Rank down (7 → 12): para-memory-files]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/para-memory-files</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:getpaperclipai/paperclip/para-memory-files</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:getpaperclipai/paperclip/para-memory-files</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #7
 Current rank: #12
@@ -306,8 +306,8 @@ Description: File-based memory system using Tiago Forte's PARA method. Use this 
         <item>
             <title><![CDATA[[Hot] Rank up (22 → 15): grilling]]></title>
             <link>https://skills.sh/mattpocock/skills/grilling</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/grilling</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/grilling</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #22
 Current rank: #15
@@ -319,8 +319,8 @@ Description: Interview the user relentlessly about a plan or design. Use when th
         <item>
             <title><![CDATA[[Hot] Rank up (24 → 18): handoff]]></title>
             <link>https://skills.sh/mattpocock/skills/handoff</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/handoff</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/handoff</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #24
 Current rank: #18
@@ -332,8 +332,8 @@ Description: Compact the current conversation into a handoff document for anothe
         <item>
             <title><![CDATA[[Hot] Rank up (42 → 32): resolving-merge-conflicts]]></title>
             <link>https://skills.sh/mattpocock/skills/resolving-merge-conflicts</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/resolving-merge-conflicts</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/resolving-merge-conflicts</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #42
 Current rank: #32
@@ -345,8 +345,8 @@ Description: Use when you need to resolve an in-progress git merge/rebase confli
         <item>
             <title><![CDATA[[Hot] Rank up (43 → 33): teach]]></title>
             <link>https://skills.sh/mattpocock/skills/teach</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:mattpocock/skills/teach</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:mattpocock/skills/teach</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #43
 Current rank: #33
@@ -358,8 +358,8 @@ Description: Teach the user a new skill or concept, within this workspace.]]></d
         <item>
             <title><![CDATA[[Hot] Rank up (9 → 7): reddit-automation]]></title>
             <link>https://skills.sh/doany-skills/skills/reddit-automation</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topHot:rank:doany-skills/skills/reddit-automation</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topHot:rank:doany-skills/skills/reddit-automation</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Hot leaderboard rank change.
 Previous rank: #9
 Current rank: #7
@@ -371,8 +371,8 @@ Description: Find Reddit threads where people are genuinely asking for what you 
         <item>
             <title><![CDATA[[Trending] Rank down (3 → 4): remotion-render]]></title>
             <link>https://skills.sh/101-skills/skills/remotion-render</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:101-skills/skills/remotion-render</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:rank:101-skills/skills/remotion-render</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #3
 Current rank: #4
@@ -384,8 +384,8 @@ Description: Render videos from React/Remotion component code via inference.sh. 
         <item>
             <title><![CDATA[[Trending] Rank up (10 → 9): paperclip]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:getpaperclipai/paperclip/paperclip</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:rank:getpaperclipai/paperclip/paperclip</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #10
 Current rank: #9
@@ -397,8 +397,8 @@ Description: Interact with the Paperclip control plane API to manage tasks, coor
         <item>
             <title><![CDATA[[Trending] Rank up (11 → 10): paperclip-create-agent]]></title>
             <link>https://skills.sh/getpaperclipai/paperclip/paperclip-create-agent</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:rank:getpaperclipai/paperclip/paperclip-create-agent</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #11
 Current rank: #10
@@ -410,8 +410,8 @@ Description: Create new agents in Paperclip with governance-aware hiring. Use wh
         <item>
             <title><![CDATA[[Trending] Rank up (34 → 20): hyperframes-cli]]></title>
             <link>https://skills.sh/heygen-com/hyperframes/hyperframes-cli</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:heygen-com/hyperframes/hyperframes-cli</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:rank:heygen-com/hyperframes/hyperframes-cli</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #34
 Current rank: #20
@@ -423,8 +423,8 @@ Description: Preview, render, lint, validate, scaffold, or troubleshoot HyperFra
         <item>
             <title><![CDATA[[Trending] Rank up (4 → 3): ai-avatar-video]]></title>
             <link>https://skills.sh/101-skills/skills/ai-avatar-video</link>
-            <guid isPermaLink="false">2026-07-29T08:27:25.134Z:topTrending:rank:101-skills/skills/ai-avatar-video</guid>
-            <pubDate>Wed, 29 Jul 2026 08:27:25 GMT</pubDate>
+            <guid isPermaLink="false">2026-07-29T08:27:29.593Z:topTrending:rank:101-skills/skills/ai-avatar-video</guid>
+            <pubDate>Wed, 29 Jul 2026 08:27:29 GMT</pubDate>
             <description><![CDATA[Trending leaderboard rank change.
 Previous rank: #4
 Current rank: #3

@@ -1,62 +1,62 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T08:28:15Z",
-  "skillsUpdatedAt": "2026-07-29T08:27:25.134Z",
-  "primaryIndexUpdatedAt": "2026-07-29T08:27:39.147Z",
-  "searchIndexUpdatedAt": "2026-07-29T08:28:15Z",
-  "feedUpdatedAt": "2026-07-29T08:27:25.134Z",
-  "categoryIndexUpdatedAt": "2026-07-29T04:33:55Z",
-  "firstSeenUpdatedAt": "2026-07-29T04:33:18.770Z",
+  "updatedAt": "2026-07-29T10:07:55Z",
+  "skillsUpdatedAt": "2026-07-29T08:27:29.593Z",
+  "primaryIndexUpdatedAt": "2026-07-29T10:07:12.895Z",
+  "searchIndexUpdatedAt": "2026-07-29T10:07:55Z",
+  "feedUpdatedAt": "2026-07-29T08:27:29.593Z",
+  "categoryIndexUpdatedAt": "2026-07-29T10:07:48Z",
+  "firstSeenUpdatedAt": "2026-07-29T10:07:12.895Z",
   "files": {
     "skills": {
       "path": "data/skills.json",
-      "updatedAt": "2026-07-29T08:27:25.134Z",
+      "updatedAt": "2026-07-29T08:27:29.593Z",
       "bytes": 5150276,
-      "sha256": "0bd97b964e173e9e1c61ee46557d6161aa0c0e70f026edabee66458df53bf119"
+      "sha256": "d6369ff178e05ab0d2cbf782f9472adf5332279377fa59a1dbbff5be1251cf88"
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-07-29T08:27:39.147Z",
-      "bytes": 56408218,
-      "sha256": "f5c593cf2ed94c75ca483346ddbf93ff1c90d1c4997acb846176ce04cd1f093a"
+      "updatedAt": "2026-07-29T10:07:12.895Z",
+      "bytes": 56584436,
+      "sha256": "93dd81588b693dd5032a0f2bb7b92cb6bbda8b78e0acad9e70e0a71b074198aa"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-07-29T08:28:15Z",
-      "bytes": 186132867,
-      "sha256": "3f394be1892423d40a65fc148c1e41eb5d344bdc5fc8c064bb6ca4a479b4979a",
+      "updatedAt": "2026-07-29T10:07:55Z",
+      "bytes": 186625114,
+      "sha256": "7e3d1630607099d76d31f940948b9672230b2a3ab7809e719a475bcf6e802dc2",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-07-29T08:28:15Z",
-          "bytes": 99998872,
-          "sha256": "712f469b49f9a12593641c712dc5677ad180c484592d9684aa53fdd73de4ac0a"
+          "updatedAt": "2026-07-29T10:07:55Z",
+          "bytes": 99999236,
+          "sha256": "991a4413db9aff3f12f36859af778bd103d9d66427088fc06f7506131019f441"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-07-29T08:28:15Z",
-          "bytes": 86133995,
-          "sha256": "5dd1084ca3df95d0d690b4136b1e5e195a85b2fdb1626a320656a8d3274864f0"
+          "updatedAt": "2026-07-29T10:07:55Z",
+          "bytes": 86625878,
+          "sha256": "19dfdfaf7e6c253755789ca8632bbb2dd486ef12fe92c101daae1049ca77899b"
         }
       ]
     },
     "feed": {
       "path": "data/feed.json",
-      "updatedAt": "2026-07-29T08:27:25.134Z",
+      "updatedAt": "2026-07-29T08:27:29.593Z",
       "bytes": 101604,
-      "sha256": "c9bc0f3d398d256b25c06103d4f917e99c325e29d89b26728a1d3ac77c384f48"
+      "sha256": "5dad7359558e0d642a1e051c09ebe7db1ace306597e1a1128c15e5f2b6e63b39"
     },
     "categoryIndex": {
       "path": "data/skills_category_index.json",
-      "updatedAt": "2026-07-29T04:33:55Z",
-      "bytes": 7617027,
-      "sha256": "ef202eb6651cb3adf6ef668407eaa7bea1743fc606954cd9190cfe981c83cd72"
+      "updatedAt": "2026-07-29T10:07:48Z",
+      "bytes": 7640088,
+      "sha256": "4e2cb17fe10e741306746e182a33b75fa9b3c1459b8c34ba22b181b02a243f83"
     },
     "firstSeen": {
       "path": "data/skills_first_seen.json",
-      "updatedAt": "2026-07-29T04:33:18.770Z",
-      "bytes": 7960809,
-      "sha256": "d1f5dd9cc92b629606d20c2eae195fb5e505866647752034f03999d90ef44e92"
+      "updatedAt": "2026-07-29T10:07:12.895Z",
+      "bytes": 7985975,
+      "sha256": "17fc51c5b4811ba9912fc1981038d75d2f640791d256dc59a35fa882e9a338d6"
     }
   }
 }

@@ -1,0 +1,1 @@
+Replicate an existing cohort study's methodology on a different database. Extracts study design from a source paper, maps variables to the target DB via harmonization table, generates analysis code, and produces a replication difference report.

@@ -1,0 +1,1 @@
+Download NAIP aerial imagery for a bounding box. Specify coordinates as minx,miny,maxx,maxy in WGS84 and optionally a year.

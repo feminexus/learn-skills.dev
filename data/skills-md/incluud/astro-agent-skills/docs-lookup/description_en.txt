@@ -1,0 +1,1 @@
+Look up official Astro documentation and answer version-sensitive Astro questions accurately.

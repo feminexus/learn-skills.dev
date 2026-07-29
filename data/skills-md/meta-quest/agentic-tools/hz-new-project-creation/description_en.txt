@@ -1,0 +1,1 @@
+Scaffolds new Meta Quest and Horizon OS projects with recommended settings for Unity, Unreal, Android/Spatial SDK, or WebXR. Use when creating a new Quest app from scratch.

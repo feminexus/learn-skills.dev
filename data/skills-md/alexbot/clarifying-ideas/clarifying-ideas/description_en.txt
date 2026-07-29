@@ -1,0 +1,1 @@
+Facilitates project elaboration through Socratic dialog. Transforms vague project ideas into structured intent. Activates when someone mentions project planning, what should I build, scope definition, or goal clarification.

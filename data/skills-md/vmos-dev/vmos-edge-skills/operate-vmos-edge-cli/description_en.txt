@@ -1,0 +1,1 @@
+Use when a task involves VMOS Edge Desktop — creating or controlling Android virtual devices on edge hosts, interacting with the Electron desktop UI via CDP, automating device workflows with YAML playbooks or batch JSON, or recovering from CLI error codes.
