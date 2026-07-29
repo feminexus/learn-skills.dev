@@ -1,0 +1,1 @@
+타사/외부 개발자의 경우: Meta Quest 및 Horizon OS Android/Kotlin 앱을 위한 대화형 Horizon Platform SDK(PSDK) 통합을 안내합니다. — 코드베이스를 분석하고, 공개 플랫폼 기능을 권장하고, 통합을 계획하고, 장치에서 유효성을 검사합니다. 외부 툴체인(Gradle, Metavr,developers.meta.com/Rocksteady App ID)을 사용합니다. fbsource(buck, Chesterfield/ni, adb) 내부의 1P 앱의 경우 psdk_1p_onboarding_agent를 대신 사용하세요.

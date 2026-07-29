@@ -1,0 +1,1 @@
+Ralph Wiggum Loop 원칙에 대한 소프트웨어 프로젝트의 적합성을 평가하고 레벨 5 자율 코딩 루프 설정을 통해 사용자를 안내합니다. 사용자가 "ralph loop", "ralph wiggum"을 언급하거나, 자율 에이전트 루프를 설정하려고 하거나, ralph/prompt.md, ralph/afk.sh, CLAUDE.md 또는 IMPLEMENTATION_PLAN.md 설정에 대해 묻거나, 프로젝트가 에이전트 코딩 워크플로를 얼마나 잘 지원하는지 평가하려는 경우에 사용하세요.

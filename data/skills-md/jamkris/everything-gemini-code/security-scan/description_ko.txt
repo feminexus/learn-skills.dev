@@ -1,0 +1,1 @@
+AgentShield를 사용하여 보안 취약성, 잘못된 구성 및 주입 위험이 있는지 Gemini CLI 구성(.gemini/ 디렉터리)을 스캔하십시오. GEMINI.md, settings.json, MCP 서버, 후크 및 에이전트 정의를 확인합니다.

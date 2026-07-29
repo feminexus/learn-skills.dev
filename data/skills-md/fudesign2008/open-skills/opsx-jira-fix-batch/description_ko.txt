@@ -1,0 +1,1 @@
+사용자가 「opsx 批weight修复」 「批weight opsx-jira-fix」 「opsx-jira-fix-batch」 「批weight OpenSpec Jira 修复」/ opsx 일괄 수정, 일괄 OpenSpec Jira 수정이라고 말하면 트리거됩니다. 여러 문제의 엔드투엔드 수정 사항을 조율하고 OpenSpec 아티팩트에 관계 판단을 기록합니다.

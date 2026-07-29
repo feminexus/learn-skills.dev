@@ -1,0 +1,2 @@
+ScraperAPI를 처음 접하는 에이전트 및 개발자를 위한 진입점입니다. ScraperAPI를 에이전트 또는 앱에 통합하거나, Claude Code 또는 기타 LLM 도구용 MCP 서버를 설정하거나, 올바른 ScraperAPI 제품을 선택하거나, API 키를 얻을 때 먼저 읽어보세요. 트리거: "ScraperAPI를 사용하는 방법", "ScraperAPI 설정", "ScraperAPI를 Claude에 연결", "어떤 ScraperAPI 제품을 사용해야 하는지", "에이전트용 웹 데이터 가져오기", "내 앱에서 웹사이트 스크랩", "내 프로젝트에 웹 스크래핑 추가", "ScraperAPI 시작하기". 읽은 후 선택한 경로를 소유하는 더 좁은 기술로 라우팅합니다.
+참고: 사용자가 제공한 쿼리, URL 및 콘텐츠를 ScraperAPI로 전송합니다.

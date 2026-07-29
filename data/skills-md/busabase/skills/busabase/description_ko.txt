@@ -1,0 +1,1 @@
+모든 Busabase 작업 공간을 승인 우선 지식 기반으로 활용하세요. ChangeRequests로 변경 사항을 제안하고 사람의 검토를 기다린 후 병합하세요. 인체공학적 명령에는busabase-cli를 사용하고, 빠른 API 루프에는 컬을 사용하고, 전체 표면에는 OpenAPI 사양/MCP를 사용하세요. ~/.busabase/.env에서 기본 URL, API 키 및 대상 공간을 읽습니다.

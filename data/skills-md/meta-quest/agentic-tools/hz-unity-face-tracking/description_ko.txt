@@ -1,0 +1,1 @@
+Meta Movement SDK(얼굴 추적 + A2E)를 통해 Meta Quest에서 착용자의 얼굴 표정으로 Unity에서 ARKit 블렌드셰이프 조작 머리/얼굴 모델을 구동할 수 있습니다. 사용자가 52개의 ARKit 블렌드 셰이프(모든 접두사, _L/_R 접미사)가 있는 FBX를 가지고 있고 Quest Pro/Quest 3/Quest 3S의 얼굴 추적에서 애니메이션을 적용하려는 경우에 사용합니다.

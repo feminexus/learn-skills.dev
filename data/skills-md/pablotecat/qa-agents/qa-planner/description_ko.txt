@@ -1,0 +1,1 @@
+일련의 프루에바, cobertura 및 precondiciones 구조 및 기업 보고서 `QA.planner-execution-summary.md`에 대한 설명입니다.

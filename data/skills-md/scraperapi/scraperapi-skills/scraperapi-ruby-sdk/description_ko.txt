@@ -1,0 +1,2 @@
+ScraperAPI Ruby SDK(scraperapi gem)에 대한 모범 사례 참조입니다. 사용자가 ScraperAPI를 호출하는 Ruby 코드를 작성, 디버깅 또는 검토할 때마다 문의하세요. 사용자가 "Ruby 및 ScraperAPI로 웹사이트 스크랩", "ScraperAPI Ruby 예제", "ScraperAPI gem을 어떻게 사용하나요?", "Ruby ScraperAPI 렌더링", "ScraperAPI Ruby 프리미엄 프록시", "ScraperAPI gem 세션", "ScraperAPI Ruby 오류 처리"라고 묻는 경우에 사용하세요. gem 설정, 모든 요청 매개변수, 에스컬레이션 사다리, 상태 코드별 오류 처리 및 신용 비용을 다룹니다.
+참고: 사용자가 제공한 쿼리, URL 및 콘텐츠를 ScraperAPI로 전송합니다.

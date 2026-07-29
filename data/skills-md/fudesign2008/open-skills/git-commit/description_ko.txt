@@ -1,0 +1,1 @@
+Git 커밋 통합 진입점. 사용자가 「提交代码」 「git commit」 「帮我提交」 「写 commit message」 「生成 commit」 「提交一下」 「git-commit」 「自动提交代码」 「git-commit-auto」(커밋 코드 / 커밋 도움말 / 커밋 메시지 작성 / 커밋 생성 / 자동 커밋)라고 말하면 트리거됩니다. 또는 jira-fix-workflow에 의해 호출될 때 트리거됩니다. 7단계.

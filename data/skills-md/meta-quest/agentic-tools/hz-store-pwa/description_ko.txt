@@ -1,0 +1,1 @@
+Meta Quest 및 Horizon OS Store에 웹 애플리케이션을 PWA/TWA(2D 창 패널 및 몰입형 WebXR/VR 모두)로 제공하는 가이드입니다. 웹 앱 구축(WebXR용 IWSDK, 2D용 반응형 PWA), Vercel 배포, 웹 앱 매니페스트 + 아이콘, WebXR 전용 자동 입력 세션 단계, @meta-quest/bubblewrap-cli에서 2D 및 몰입형 모드 선택, 키 저장소/디지털 자산 링크 및 ovr-platform-util 스토어 업로드를 다룹니다. IWSDK/WebXR 빌드, PWA 패키징, 버블랩 또는 Horizon Store 업로드 작업 전에 사용하세요.

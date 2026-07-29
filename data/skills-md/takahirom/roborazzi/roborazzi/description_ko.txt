@@ -1,0 +1,1 @@
+Android/JVM에서 Roborazzi 스크린샷 테스트 작업 시 사용합니다. Roborazzi Gradle 플러그인 설정, 기록/비교/확인 작업 실행, CaptureRoboImage 또는 RoborazziRule을 사용한 테스트 작성, Compose 미리 보기 스크린샷 테스트(ComposablePreviewScanner), Compose Multiplatform(iOS/데스크톱) 스크린샷, AI 기반 이미지 어설션, roborazzi.* Gradle 속성 또는 Roborazzi/Robolectric 스크린샷 테스트 실패 문제 해결.

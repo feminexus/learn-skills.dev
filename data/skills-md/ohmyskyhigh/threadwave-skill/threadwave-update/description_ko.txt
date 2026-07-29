@@ -1,0 +1,1 @@
+CLI를 실행하거나 코드를 설치하지 않고도 권위 있는 GitHub 릴리스 인덱스와 비교하여 독립적으로 버전이 지정된 ThreadWave Twitter/X 기술을 확인하세요. ThreadWave 기술 업데이트, 최신 기술 버전 확인, 오래되었거나 누락된 Twitter 기술, 버전 호환성, 플랫 기술 설치 진단 또는 threadwave-preflight에서 호출하는 필수 버전 게이트로 사용합니다. 中文: 于检查 ThreadWave 推特技能更新、最新版本、缺失或过期技能、版本兼容性和平铺技能安装;由 threadwave-preflight 재预检中调用.

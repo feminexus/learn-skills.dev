@@ -1,0 +1,1 @@
+Axiom 메트릭 쿼리 결과(application/vnd.metrics.v3+json)를 선 차트로 렌더링합니다. 기본적으로 종속성이 없는 유니코드/ASCII; 존재하는 경우 gnuplot을 통해 인라인 PNG/SVG/sixel로 업그레이드합니다. 메트릭 v3 쿼리 응답이 있고 터미널이나 기록에서 시리즈를 차트로 보려는 경우에 사용합니다.

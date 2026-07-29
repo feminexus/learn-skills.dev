@@ -1,0 +1,6 @@
+fuma-nama/fumadocs의 업스트림 Fumadocs 문서를 완벽하게 미러링합니다.
+Fumadocs는 Next.js, React Router, TanStack Start 및 Vite를 위한 문서 프레임워크입니다.
+설치, 구성, 설치 등 정확한 업스트림 참조 자료가 필요할 때 이 기술을 로드하세요.
+UI 사용자 정의, 검색 설정, 통합(OpenAPI, 콘텐츠 소스, OG 이미지),
+국제화, 헤드리스 API 또는 MDX 처리.
+이는 선별된 지침이 아닙니다. 주제별로 정리된 원시 업스트림 문서입니다.

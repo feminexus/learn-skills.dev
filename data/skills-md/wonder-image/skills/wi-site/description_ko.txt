@@ -1,0 +1,9 @@
+wonder-image/new-site 또는 여기에서 스캐폴드된 사이트 내에서 작업하세요. 다음과 같은 경우에 사용하세요.
+작곡가.json은 'wonder-image/app'에 의존하지만 프레임워크 패키지는 아닙니다.
+또는 작업이 `custom/`, `app/Models`, `app/Resources`, `lang/`에 닿을 때
+`assets/{ASSETS_VERSION}/`, `PRODUCT.md`, `php forge 자격 증명`,
+`php forge update --local`, `php forge start` 또는 npm 설정. 표지 페이지,
+모델, 리소스, 반복기, 편집 가능한 콘텐츠, 번역, 경로, 역할,
+권한, 외부 모듈, 구성 요소 재정의 및 UI/스타일링이 필요합니다.
+'wonder-image/lib'를 재사용하세요. 'wonder-image/app' 코어에는 사용하지 말고 직접 사용하세요.
+`vendor/wonder-image/app` 또는 `wonder-image/lib` 소스에서 편집합니다.

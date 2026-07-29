@@ -1,0 +1,1 @@
+Meta Spatial SDK(ECS 아키텍처, 2D 패널, 3D 객체, 하이브리드 경험)를 사용하여 Meta Quest 및 Horizon OS용 공간 Android 앱을 구축합니다. Kotlin 기반 공간 애플리케이션을 만들 때 사용합니다.

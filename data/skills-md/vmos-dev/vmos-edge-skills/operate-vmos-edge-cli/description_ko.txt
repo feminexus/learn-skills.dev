@@ -1,0 +1,1 @@
+작업에 VMOS Edge Desktop이 포함된 경우 사용합니다. 즉, Edge 호스트에서 Android 가상 장치 생성 또는 제어, CDP를 통해 Electron 데스크탑 UI와 상호 작용, YAML 플레이북 또는 배치 JSON을 통한 장치 워크플로 자동화, CLI 오류 코드 복구 등이 가능합니다.

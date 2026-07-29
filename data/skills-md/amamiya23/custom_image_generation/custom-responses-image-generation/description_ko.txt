@@ -1,0 +1,1 @@
+사용자가 Codex의 OpenAI 응답 API 이미지 생성 도구를 통해 비트맵 이미지 생성, 편집, 인페인트, 스타일 변경 또는 생성을 요청할 때마다 이 기술을 사용하세요. 이 기술은 Responses API를 호출하고, 생성된 base64 이미지 결과를 파일에 저장하고, npm 또는 pip 종속성을 사용하지 않고, Node.js 18+ 또는 Python 3이 설치된 Linux/macOS/Windows에서 작동하며, 사용자에게 자격 증명을 요청하는 대신 Codex의 구성된 API 기본 URL, 모델 및 키를 재사용합니다.

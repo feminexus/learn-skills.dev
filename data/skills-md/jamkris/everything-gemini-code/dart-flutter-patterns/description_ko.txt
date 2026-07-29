@@ -1,0 +1,1 @@
+Null 안전, 불변 상태, 비동기 구성, 위젯 아키텍처, 널리 사용되는 상태 관리 프레임워크(BLoC, Riverpod, Provider), GoRouter 탐색, Dio 네트워킹, 동결된 코드 생성 및 클린 아키텍처를 다루는 프로덕션 지원 Dart 및 Flutter 패턴입니다.

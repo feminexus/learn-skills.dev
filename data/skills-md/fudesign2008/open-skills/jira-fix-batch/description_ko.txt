@@ -1,0 +1,1 @@
+사용자가 「批weight修复」 「批weight jira-fix」 「jira-fix-batch」 「批weight修复多个 Jira」 「批weight修复以下 bug」/ 일괄 수정, 일괄 jira-fix라고 말하면 트리거됩니다. 여러 Jira 문제에 걸쳐 엔드투엔드 수정을 조정합니다.

@@ -1,0 +1,1 @@
+Unity, Unreal, Android/Spatial SDK 또는 WebXR에 대한 권장 설정을 사용하여 새로운 Meta Quest 및 Horizon OS 프로젝트를 스캐폴드합니다. 처음부터 새로운 Quest 앱을 만들 때 사용합니다.

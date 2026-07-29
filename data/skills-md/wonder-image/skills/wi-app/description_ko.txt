@@ -1,0 +1,14 @@
+wonder-image/app 프레임워크 패키지(github.com/wonder-image/app의 Composer 라이브러리) 내에서 작업하세요. 이는 프레임워크 코어를 사용하는 사이트가 아니라 프레임워크 코어입니다.
+
+다음과 같은 경우에 트리거됩니다.
+- 저장소의 작곡가.json은 `"name": "wonder-image/app"`을 선언합니다.
+- `class/App/*`, `app/config/routes/*`, `app/http/*`, `app/bootstrap/*`, `app/middleware/*`, `class/App/Module/*`, `class/Console/*`에서 파일 편집
+- `class/Elements/Components/*` 아래의 공유 UI 구성요소, `class/Elements/Media/*` 아래의 미디어, `class/Themes/{Wonder,Bootstrap}/*` 아래의 해당 렌더러 편집
+- Model, Resource, PageSchema, Repeater, ModelRegistry, ResourceRegistry, ResourceRouteRegistrar, Credentials 또는 'wonder-image.php' 진입점 수정
+- 부트스트랩 순서 변경, `ROOT`/`.env` 확인, 모듈 검색, 생성된 백엔드/API CRUD 경로 또는 `php forge ...` 명령 소스
+- 부트스트랩, 아키텍처, 라우팅 또는 레이아웃 규칙을 위해 `docs/app/*` 업데이트
+
+다음과 같은 경우에는 건너뛰세요.
+- 저장소는 'vendor/' 아래에 wonder-image/app을 설치하는 Wonder 사이트입니다(예: wonder-image/new-site 또는 여기에서 스캐폴드된 모든 프로젝트) — wi-site를 사용하세요.
+- 변경 사항이 사이트의 `custom/`, `app/Models`, `app/Resources`, `lang/` 또는 `assets/`에 있습니다.
+- 작업은 wonder-image/lib(JS/CSS 디자인 시스템)에 있습니다 — 다른 저장소

@@ -1,0 +1,1 @@
+Next.js 16+ 및 Turbopack — 증분 번들링, FS 캐싱, 개발 속도, Turbopack 대 webpack 사용 시기.
