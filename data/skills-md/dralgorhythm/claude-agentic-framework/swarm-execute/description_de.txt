@@ -1,0 +1,1 @@
+Führen Sie einen Implementierungsplan mit parallelen Worker-Schwärmen, Quality Gates und nativer Aufgabenverfolgung aus – ein vom Benutzer aufgerufener Execution Orchestrator-Workflow.

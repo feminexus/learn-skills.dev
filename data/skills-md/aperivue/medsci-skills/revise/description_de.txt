@@ -1,0 +1,1 @@
+Analysieren Sie Kommentare von Peer-Rezensenten und erstellen Sie ein strukturiertes Antwortdokument für Rezensenten mit nachverfolgten Manuskriptänderungen. Klassifiziert Kommentare als MAJOR/MINOR/REBUTTAL, koordiniert neue Analysen mit /analyze-stats und /make-figures und erstellt ein Anschreiben für den Redakteur.

@@ -1,0 +1,1 @@
+Evidence-First-Workflow für Umsatz, Preisgestaltung, Rückerstattungen, Teamabrechnung und Abrechnungsmodellwahrheit für ECC. Verwenden Sie diese Option, wenn der Benutzer eine Verkaufsübersicht, einen Preisvergleich, eine Diagnose doppelter Gebühren oder eine codegestützte Abrechnungsrealität anstelle allgemeiner Zahlungshinweise wünscht.

@@ -1,0 +1,1 @@
+Sicherheitscheckliste für Solidity AMM-Verträge, Liquiditätspools und Swap-Flows. Deckt Wiedereintritt, CEI-Anordnung, Spenden- oder Inflationsangriffe, Oracle-Manipulation, Slippage, Administratorkontrollen und Ganzzahlberechnung ab.

@@ -1,0 +1,1 @@
+Direkter Vergleich von Codierungsagenten (Gemini CLI, Aider, Codex usw.) bei benutzerdefinierten Aufgaben mit Erfolgsquote, Kosten, Zeit und Konsistenzmetriken

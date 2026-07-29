@@ -1,0 +1,1 @@
+Verhindern Sie Ethereum-Hashing-Fehler in JavaScript und TypeScript. Der sha3-256 des Knotens ist NIST SHA3, nicht Ethereum Keccak-256, und unterbricht stillschweigend Selektoren, Signaturen, Speicherplätze und Adressableitung.

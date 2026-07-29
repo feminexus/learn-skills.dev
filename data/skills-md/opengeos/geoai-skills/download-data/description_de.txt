@@ -1,0 +1,1 @@
+Laden Sie NAIP-Luftbilder für einen Begrenzungsrahmen herunter. Geben Sie in WGS84 die Koordinaten minx,miny,maxx,maxy und optional ein Jahr an.

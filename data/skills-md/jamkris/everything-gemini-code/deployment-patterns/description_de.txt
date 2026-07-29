@@ -1,0 +1,1 @@
+Bereitstellungsworkflows, CI/CD-Pipelinemuster, Docker-Containerisierung, Integritätsprüfungen, Rollback-Strategien und Checklisten für die Produktionsbereitschaft für Webanwendungen.

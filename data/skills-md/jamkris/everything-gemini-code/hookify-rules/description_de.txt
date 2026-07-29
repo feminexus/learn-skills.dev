@@ -1,0 +1,1 @@
+Diese Fähigkeit sollte verwendet werden, wenn der Benutzer eine Hookify-Regel erstellen, eine Hookify-Regel schreiben, Hookify konfigurieren, eine Hookify-Regel hinzufügen möchte oder Anleitung zur Syntax und Mustern von Hookify-Regeln benötigt.

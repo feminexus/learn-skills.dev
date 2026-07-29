@@ -1,0 +1,1 @@
+Verwenden Sie diesen Skill beim Abrufen von Jira-Tickets, beim Analysieren von Anforderungen, beim Aktualisieren des Ticketstatus, beim Hinzufügen von Kommentaren oder beim Übertragen von Problemen. Stellt Jira-API-Muster über MCP oder direkte REST-Aufrufe bereit.

@@ -1,0 +1,1 @@
+Wenn Sie gebeten werden, eine PR oder einen Zweig zu überprüfen („diese PR überprüfen“, „PR-Überprüfung“, „Argus“, vor dem Zusammenführen), verteilen Sie den Unterschied an parallele schreibgeschützte Prüfer und geben Sie ein Urteil nach Schweregrad ab. optional inline über gh posten.

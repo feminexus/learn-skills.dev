@@ -1,0 +1,1 @@
+ECC Tools-Brenn- und Rechnungsprüfungs-Workflow mit evidenzbasiertem Fokus. Verwenden Sie diese Option, wenn Sie außer Kontrolle geratene PR-Erstellung, Quotenumgehung, Premium-Modelllecks, doppelte Jobs oder Kostenspitzen bei GitHub-Apps im ECC Tools-Repository untersuchen.

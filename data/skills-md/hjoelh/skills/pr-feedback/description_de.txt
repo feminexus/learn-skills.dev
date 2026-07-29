@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie Rezensionskommentare zu einer PR aus beliebigen Quellen selektieren – CodeRabbit, Graphite Reviewer, menschliche Ingenieure. Leitet den aktuellen PR vom Zweig ab oder akzeptiert eine PR-Nummer als Argument.

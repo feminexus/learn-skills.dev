@@ -1,0 +1,1 @@
+Evidence-First-Repo-Ausführungsworkflow für ECC. Verwenden Sie diese Option, wenn der Benutzer eine Befehlsausführung, eine Überprüfung eines Repositorys, die Fehlerbehebung eines CI-Fehlers oder einen Push mit einem genauen Nachweis dessen, was ausgeführt und überprüft wurde, wünscht.

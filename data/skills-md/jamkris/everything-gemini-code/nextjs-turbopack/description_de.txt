@@ -1,0 +1,1 @@
+Next.js 16+ und Turbopack – inkrementelle Bündelung, FS-Caching, Entwicklungsgeschwindigkeit und wann Turbopack vs. Webpack verwendet werden sollte.

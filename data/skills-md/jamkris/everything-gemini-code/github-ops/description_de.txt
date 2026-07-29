@@ -1,0 +1,1 @@
+GitHub-Repository-Betrieb, Automatisierung und Verwaltung. Problemtriage, PR-Management, CI/CD-Vorgänge, Release-Management und Sicherheitsüberwachung mit der gh-CLI. Verwenden Sie diese Option, wenn der Benutzer GitHub-Probleme, PRs, CI-Status, Releases, Mitwirkende, veraltete Elemente oder GitHub-Betriebsaufgaben verwalten möchte, die über einfache Git-Befehle hinausgehen.

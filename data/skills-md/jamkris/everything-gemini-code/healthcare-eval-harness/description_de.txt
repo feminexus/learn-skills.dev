@@ -1,0 +1,1 @@
+Kabelbaum zur Patientensicherheitsbewertung für den Einsatz im Gesundheitswesen. Automatisierte Testsuiten für CDSS-Genauigkeit, PHI-Exposition, klinische Arbeitsablaufintegrität und Integrationskonformität. Blockiert Bereitstellungen bei Sicherheitsfehlern.

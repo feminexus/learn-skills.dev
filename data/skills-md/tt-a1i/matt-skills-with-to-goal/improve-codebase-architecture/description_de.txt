@@ -1,0 +1,1 @@
+Durchsuchen Sie eine Codebasis nach vertiefenden Möglichkeiten, präsentieren Sie sie als visuellen HTML-Bericht und durchforsten Sie dann die von Ihnen ausgewählte Möglichkeit.

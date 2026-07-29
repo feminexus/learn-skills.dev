@@ -1,0 +1,1 @@
+Produktionsbereite Dart- und Flutter-Muster, die Nullsicherheit, unveränderlichen Zustand, asynchrone Komposition, Widget-Architektur, beliebte Zustandsverwaltungs-Frameworks (BLoC, Riverpod, Provider), GoRouter-Navigation, Dio-Netzwerk, Freezed-Code-Generierung und saubere Architektur abdecken.

@@ -1,0 +1,1 @@
+Rendern Sie Axiom-Metrikabfrageergebnisse (application/vnd.metrics.v3+json) als Liniendiagramme. Standardmäßig Unicode/ASCII ohne Abhängigkeit; Upgrades auf Inline-PNG/SVG/Sixel über Gnuplot, sofern vorhanden. Verwenden Sie diese Option, wenn Sie eine Antwort auf eine Metrik v3-Abfrage haben und die Reihe als Diagramm im Terminal oder Transkript sehen möchten.

@@ -1,0 +1,1 @@
+EMR/EHR-Entwicklungsmuster für Anwendungen im Gesundheitswesen. Klinische Sicherheit, Begegnungsabläufe, Rezepterstellung, Integration klinischer Entscheidungsunterstützung und barrierefreie Benutzeroberfläche für die Eingabe medizinischer Daten.

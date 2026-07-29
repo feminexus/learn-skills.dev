@@ -1,0 +1,1 @@
+Nutzen Sie Google Drive, Docs, Sheets und Slides als eine Workflow-Oberfläche für Pläne, Tracker, Decks und geteilte Dokumente. Verwenden Sie diese Funktion, wenn der Benutzer Google Workspace-Assets suchen, zusammenfassen, bearbeiten, migrieren oder bereinigen muss, ohne auf reine Toolaufrufe zurückgreifen zu müssen.

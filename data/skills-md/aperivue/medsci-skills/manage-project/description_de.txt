@@ -1,0 +1,1 @@
+Forschungsprojektmanagement für medizinische Manuskripte. Erstellen Sie ein Gerüst für die Projektstruktur, verfolgen Sie den Schreibfortschritt über die Phasen hinweg, pflegen Sie Projektspeicherdateien, erstellen Sie Einreichungschecklisten und Rückwärtszeitpläne. Befehle: init, status, sync-memory, checklist, timeline.

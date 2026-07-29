@@ -1,0 +1,1 @@
+Überprüft Unity-Code, der auf Meta Quest und Horizon OS abzielt, auf Leistungsprobleme, Best Practices für das Rendering und häufige VR-Fallstricke. Wird während der Codeüberprüfung oder bei der Diagnose von Quest-Leistungsproblemen in Unity-Projekten verwendet.

@@ -1,0 +1,1 @@
+Referenz und Prüfer für die Entwicklung, Verfeinerung und Prüfung hochwertiger KI-Agentenfähigkeiten. Erzwingt Prozessvorhersehbarkeit, Leitwörter, rauschfreie Ausgabeverträge und Anti-Pattern-Diagnose.

@@ -1,0 +1,1 @@
+Einheitlicher Git-Commit-Einstiegspunkt. Wird ausgelöst, wenn der Benutzer „Git Commit“ und „Commit Message“ sagt commit」「提交一下」「git-commit」「自动提交代码」「git-commit-auto」 (Code festschreiben / mir beim Festschreiben helfen / Festschreibungsnachricht schreiben / Festschreibung generieren / automatisch festschreiben) oder bei Aufruf durch Jira-Fix-Workflow Phase 7.

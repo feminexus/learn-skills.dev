@@ -1,0 +1,1 @@
+Rufen Sie einen vierstimmigen Rat für unklare Entscheidungen, Kompromisse und Go/No-Go-Entscheidungen ein. Verwenden Sie diese Option, wenn mehrere gültige Pfade vorhanden sind und Sie vor der Auswahl eine strukturierte Meinungsverschiedenheit benötigen.

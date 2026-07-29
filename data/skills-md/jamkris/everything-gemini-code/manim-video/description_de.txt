@@ -1,0 +1,1 @@
+Erstellen Sie wiederverwendbare Manim-Erklärer für technische Konzepte, Grafiken, Systemdiagramme und Produkt-Komplettlösungen und übergeben Sie sie bei Bedarf an den breiteren ECC-Videostapel. Verwenden Sie diese Option, wenn der Benutzer einen sauberen animierten Erklärer anstelle eines generischen Talking-Head-Skripts wünscht.

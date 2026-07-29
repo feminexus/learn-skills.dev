@@ -1,0 +1,1 @@
+Wandeln Sie eine übergroße oder langsame Codex-Aufgabe in eine neue, für den Benutzer sichtbare Aufgabe mit kompakter Kontinuität um. Nur für eine explizite Übergabe oder einen Kontext-Rollover verwenden; nicht für gewöhnliche Fortsetzung, Delegation, Full-History-Forks, Git-Migration oder Übergabedateien.

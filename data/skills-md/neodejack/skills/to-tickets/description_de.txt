@@ -1,0 +1,1 @@
+Teilen Sie einen Plan, eine Spezifikation oder das aktuelle Gespräch in eine Reihe von Tracer-Bullet-Tickets auf, wobei jedes seine Blockierungskanten angibt und als Markdown-Datei gespeichert wird

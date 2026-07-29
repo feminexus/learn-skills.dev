@@ -1,0 +1,1 @@
+Erstellen Sie Überwachungs-Dashboards, die echte Bedienerfragen für Grafana, SignNoz und ähnliche Plattformen beantworten. Verwenden Sie es, wenn Sie Metriken in ein funktionierendes Dashboard statt in ein Schminkbrett umwandeln.

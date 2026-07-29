@@ -1,0 +1,1 @@
+Synchronisieren Sie Forschungsreferenzen aus .bib-Dateien mit der Zotero-Bibliothek + Obsidian-Literaturnotizen. Extrahieren Sie übergreifende Konzeptnotizen, wenn genügend Literatur vorhanden ist. Funktioniert nach /search-lit oder eigenständig.

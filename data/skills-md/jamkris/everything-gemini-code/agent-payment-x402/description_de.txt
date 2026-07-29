@@ -1,0 +1,1 @@
+Fügen Sie KI-Agenten die x402-Zahlungsausführung mit Budgets pro Aufgabe, Ausgabenkontrolle und nicht verwahrten Wallets hinzu. Unterstützt Base über agentwallet-sdk und X Layer über OKX Payments / OKX Agent Payments Protocol.

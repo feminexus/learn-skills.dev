@@ -1,0 +1,1 @@
+Erstellen Sie Astro-Komponenten, -Seiten und -Layouts mit zugänglichem Markup und minimalem clientseitigem JavaScript.

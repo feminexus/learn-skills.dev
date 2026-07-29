@@ -1,0 +1,1 @@
+Erkennen und entfernen Sie KI-Schreibmuster aus akademischen Manuskripten und Antwortschreiben an Gutachter. Sucht nach 27 gängigen KI-generierten Textmustern und schreibt markierte Passagen so um, dass sie natürlich wie von Menschen geschrieben klingen, während gleichzeitig die technische Genauigkeit gewahrt bleibt und begrenzt wird, wie viel Text vom Text berührt werden darf.

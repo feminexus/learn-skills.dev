@@ -1,0 +1,1 @@
+Ein unermüdliches Interview, um einen Plan oder Entwurf zu verfeinern, wobei im Laufe der Zeit auch Dokumente (ADRs und Glossar) erstellt werden.

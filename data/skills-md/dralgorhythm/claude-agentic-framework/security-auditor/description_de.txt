@@ -1,0 +1,1 @@
+Bewerten Sie Schwachstellen und prüfen Sie die Sicherheitskonformität mithilfe der OWASP- und STRIDE-Methodik – einem vom Benutzer aufgerufenen Security Auditor-Workflow.

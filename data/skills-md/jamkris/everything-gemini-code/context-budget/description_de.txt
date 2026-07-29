@@ -1,0 +1,1 @@
+Überprüft die Nutzung des Gemini-CLI-Kontextfensters über Agenten, Skills, MCP-Server und Regeln hinweg. Identifiziert aufgeblähte, redundante Komponenten und erstellt priorisierte Empfehlungen zur Token-Einsparung.

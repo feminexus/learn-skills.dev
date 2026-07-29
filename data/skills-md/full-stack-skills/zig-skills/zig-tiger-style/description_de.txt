@@ -1,0 +1,1 @@
+TigerStyle Zig-Codierungsrichtlinien – destilliert aus der Produktionscodebasis von TigerBeetle. Verwenden Sie es immer dann, wenn Sie Zig-Code schreiben, überprüfen oder umgestalten und nach Zig-Redewendungen, Behauptungen, Speicherlayout, Namenskonventionen, Codestil und API-Design fragen.

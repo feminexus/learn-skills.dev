@@ -1,0 +1,1 @@
+Koordinieren Sie parallele Forschungsmitarbeiter, um ein Thema eingehend zu untersuchen und durch Zitate unterstützte Ergebnisse zu synthetisieren – ein vom Benutzer aufrufbarer Research Orchestrator-Workflow.

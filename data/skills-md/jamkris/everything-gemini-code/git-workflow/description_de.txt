@@ -1,0 +1,1 @@
+Git-Workflow-Muster, einschließlich Verzweigungsstrategien, Commit-Konventionen, Merge vs. Rebase, Konfliktlösung und Best Practices für die kollaborative Entwicklung für Teams jeder Größe.

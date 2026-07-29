@@ -1,0 +1,1 @@
+Aktualisieren Sie die OpenCode-Konfiguration, -Regeln, -Befehle und -Berechtigungen gemäß der offiziellen Dokumentation

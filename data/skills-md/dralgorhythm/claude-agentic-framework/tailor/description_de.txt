@@ -1,0 +1,1 @@
+Erkennt den Stapel des Projekts anhand von Manifesten und schlägt eine maßgeschneiderte Framework-Konfiguration vor – gefüllte goldene Pfade der Technologiestrategie, REVIEW.md/CLAUDE.md-Überprüfungssteuerung und eine Bereinigungsliste nicht verwendeter Framework-Teile – als überprüfbaren Plan, der niemals stillschweigend schreibt.

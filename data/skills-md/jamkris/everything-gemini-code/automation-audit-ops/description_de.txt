@@ -1,0 +1,1 @@
+Evidence-First-Automatisierungsinventur und überlappender Audit-Workflow für ECC. Verwenden Sie diese Option, wenn der Benutzer wissen möchte, welche Jobs, Hooks, Connectors, MCP-Server oder Wrapper aktiv, defekt, redundant oder fehlen, bevor er etwas repariert.

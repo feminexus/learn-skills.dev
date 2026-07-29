@@ -1,0 +1,1 @@
+Planen und führen Sie Migrationen zu Astro oder zwischen Astro-Versionen mit minimalen Regressionen durch.

@@ -1,0 +1,1 @@
+Stellt neue Meta Quest- und Horizon OS-Projekte mit empfohlenen Einstellungen für Unity, Unreal, Android/Spatial SDK oder WebXR bereit. Verwenden Sie diese Option, wenn Sie eine neue Quest-App von Grund auf erstellen.

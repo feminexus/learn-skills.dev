@@ -1,0 +1,1 @@
+Nehmen Sie mit Playwright ausgefeilte UI-Demovideos auf. Verwenden Sie diese Option, wenn der Benutzer eine Demo, eine exemplarische Vorgehensweise, eine Bildschirmaufzeichnung oder ein Tutorial-Video einer Webanwendung erstellen möchte. Erstellt WebM-Videos mit sichtbarem Cursor, natürlichem Tempo und professionellem Eindruck.

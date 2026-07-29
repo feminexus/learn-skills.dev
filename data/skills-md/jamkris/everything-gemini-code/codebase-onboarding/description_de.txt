@@ -1,0 +1,1 @@
+Analysieren Sie eine unbekannte Codebasis und erstellen Sie einen strukturierten Onboarding-Leitfaden mit Architekturkarte, wichtigen Einstiegspunkten, Konventionen und einem Starter GEMINI.md. Verwenden Sie diese Option, wenn Sie einem neuen Projekt beitreten oder Gemini CLI zum ersten Mal in einem Repo einrichten.

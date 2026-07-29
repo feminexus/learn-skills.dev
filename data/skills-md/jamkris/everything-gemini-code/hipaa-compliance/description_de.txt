@@ -1,0 +1,1 @@
+HIPAA-spezifischer Einstiegspunkt für Datenschutz- und Sicherheitsarbeiten im Gesundheitswesen. Verwenden Sie diese Option, wenn sich eine Aufgabe explizit auf HIPAA, PHI-Handhabung, abgedeckte Unternehmen, BAAs, Verstoßstatus oder US-amerikanische Compliance-Anforderungen im Gesundheitswesen bezieht.

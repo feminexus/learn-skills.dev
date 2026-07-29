@@ -1,0 +1,1 @@
+Dies ist die Hauptdokumentation für den AgentStack-Skill, die Anweisungen und Richtlinien für den effektiven Einsatz dieses Skills in verschiedenen Szenarien enthält.

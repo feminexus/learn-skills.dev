@@ -1,0 +1,1 @@
+GAN-inspiriertes Generator-Evaluator-Agentensystem für die autonome Erstellung hochwertiger Anwendungen. Basierend auf dem Geschirr-Designpapier von Anthropic vom März 2026.

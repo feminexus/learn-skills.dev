@@ -1,0 +1,1 @@
+Teilen Sie einen Plan, eine Spezifikation oder die aktuelle Konversation in eine Reihe von Tracer-Bullet-Tickets auf, wobei jedes seine blockierenden Kanten angibt und im konfigurierten Tracker veröffentlicht wird – Kanten als Text in einer Datei pro Ticket lokal oder native Blockierungslinks auf einem echten Tracker.

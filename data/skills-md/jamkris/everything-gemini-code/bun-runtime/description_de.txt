@@ -1,0 +1,1 @@
+Bun als Laufzeit, Paketmanager, Bundler und Testläufer. Wann Sie Bun vs. Node wählen sollten, Hinweise zur Migration und Vercel-Unterstützung.

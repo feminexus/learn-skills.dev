@@ -1,0 +1,1 @@
+Gewährleistet eine genaue Objektplatzierung in Unity-Projekten für Meta Quest und Horizon OS durch die Verwendung von Renderer- und Collider-Grenzen, wenn Objekte hinzugefügt, verschoben oder relativ zu anderen Objekten positioniert werden.

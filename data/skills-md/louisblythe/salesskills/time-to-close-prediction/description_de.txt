@@ -1,0 +1,1 @@
+Wenn der Benutzer die Fähigkeit eines Vertriebsbots aufbauen oder verbessern möchte, Geschäftszeitpläne basierend auf Gesprächsmustern abzuschätzen. Verwenden Sie diese Option auch, wenn der Benutzer „Abschlussvorhersage“, „Abschlusszeitplan“, „Verkaufszyklusschätzung“, „Prognosezeitpunkt“ oder „Abschlussgeschwindigkeit“ erwähnt.

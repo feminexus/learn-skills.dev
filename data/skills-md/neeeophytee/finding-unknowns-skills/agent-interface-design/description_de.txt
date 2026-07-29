@@ -1,0 +1,1 @@
+Entwerfen Sie Tools, Skripte und CLIs, die ein Agent aufruft, sodass die Schnittstelle ihre eigene Verwendung lehrt, anstatt eine Wand aus Prosa und Beispielen. Verwenden Sie diese Option, wenn Sie eine MCP-Server- oder Tool-Definition erstellen, ein agentenorientiertes Skript schreiben oder wenn ein Agent weiterhin ein Tool missbraucht, über das er bereits verfügt.

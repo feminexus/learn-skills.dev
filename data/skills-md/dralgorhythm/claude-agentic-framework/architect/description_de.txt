@@ -1,0 +1,1 @@
+Entwerfen Sie Systeme und zeichnen Sie Architekturentscheidungen als ADRs auf – ein vom Benutzer aufgerufener Principal Architect-Workflow.

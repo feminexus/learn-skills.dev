@@ -1,0 +1,1 @@
+Debuggt Meta Quest- und Horizon OS VR/MR-Anwendungen mithilfe der Metavr-CLI – Protokolle anzeigen, Screenshots erfassen, häufige Probleme diagnostizieren. Zur Fehlerbehebung bei Abstürzen, Fehlern oder unerwartetem Verhalten auf Quest-Geräten.

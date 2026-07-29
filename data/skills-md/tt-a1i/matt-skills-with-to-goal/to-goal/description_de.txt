@@ -1,0 +1,1 @@
+Verwandeln Sie eine genehmigte Spezifikation, ein Agent-Ready-Ticket, ein Tracker-Frontier oder ein teilweise implementiertes Ticket in ein überprüfbares Ausführungsziel, ohne den Benutzer erneut zu befragen. Verwenden Sie es nach To-Tickets oder Triage, bevor Sie eine neue Implementierungssitzung beginnen. Verwenden Sie --all nur für ein explizit angefordertes Cross-Ticket-Ziel.

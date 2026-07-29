@@ -1,0 +1,1 @@
+Erstellen und verfeinern Sie das Domänenmodell eines Projekts. Verwenden Sie es, wenn der Benutzer die Domänenterminologie oder eine allgegenwärtige Sprache festlegen, eine Architekturentscheidung aufzeichnen möchte oder wenn eine andere Fähigkeit das Domänenmodell verwalten muss.

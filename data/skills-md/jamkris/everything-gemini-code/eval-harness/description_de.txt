@@ -1,0 +1,1 @@
+Formaler Bewertungsrahmen für Gemini-CLI-Sitzungen zur Umsetzung der EDD-Prinzipien (Eval-Driven Development).

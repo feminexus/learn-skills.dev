@@ -1,0 +1,1 @@
+Prüfen, planen und implementieren Sie SEO-Verbesserungen in den Bereichen technisches SEO, On-Page-Optimierung, strukturierte Daten, Core Web Vitals und Content-Strategie. Verwenden Sie diese Option, wenn der Benutzer eine bessere Suchsichtbarkeit, SEO-Korrektur, Schema-Markup, Sitemap-/Roboter-Arbeit oder Keyword-Mapping wünscht.

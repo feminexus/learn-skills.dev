@@ -1,0 +1,1 @@
+Stapelübergreifende Quellcode-Asset-Prüfung – klassifiziert jede Datei, erkennt eingebettete Bibliotheken von Drittanbietern und liefert umsetzbare vierstufige Urteile pro Modul mit interaktiven HTML-Berichten.

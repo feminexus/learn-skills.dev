@@ -1,0 +1,1 @@
+Stellen Sie alle Git-Änderungen im aktuellen Repository sofort bereit und übernehmen Sie sie mit maximaler Geschwindigkeit. Verwenden Sie diese Option, wenn der Benutzer nach /commit fragt, ein schnelles Commit für das vollständige Repo wünscht oder möchte, dass alles bereitgestellt und festgeschrieben wird, ohne nach einer Commit-Nachricht gefragt zu werden.

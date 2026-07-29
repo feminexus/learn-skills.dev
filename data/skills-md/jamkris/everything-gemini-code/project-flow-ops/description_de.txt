@@ -1,0 +1,1 @@
+Betreiben Sie den Ausführungsfluss zwischen GitHub und Linear, indem Sie Probleme und Pull-Requests selektieren, aktive Arbeit verknüpfen und GitHub öffentlich zugänglich halten, während Linear die interne Ausführungsebene bleibt. Verwenden Sie diese Option, wenn der Benutzer eine Rückstandskontrolle, PR-Triage oder GitHub-zu-Linear-Koordination wünscht.

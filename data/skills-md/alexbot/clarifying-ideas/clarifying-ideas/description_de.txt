@@ -1,0 +1,1 @@
+Erleichtert die Projektausarbeitung durch sokratischen Dialog. Verwandelt vage Projektideen in strukturierte Absichten. Wird aktiviert, wenn jemand Projektplanung, „Was soll ich bauen“, „Umfangsdefinition“ oder „Zielklärung“ erwähnt.

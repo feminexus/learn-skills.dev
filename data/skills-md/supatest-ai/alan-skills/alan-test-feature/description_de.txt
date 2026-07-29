@@ -1,0 +1,1 @@
+Umfang abdecken, Teststrategie erstellen, Funktion mit Agent-Browser testen, Screenshots/Videos aufnehmen (immer obligatorisch), auf S3 hochladen und einen strukturierten Testbericht erstellen (niemals überspringen)

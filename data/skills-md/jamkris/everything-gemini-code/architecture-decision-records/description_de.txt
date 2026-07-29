@@ -1,0 +1,1 @@
+Erfassen Sie Architekturentscheidungen, die während Gemini-CLI-Sitzungen getroffen werden, als strukturierte ADRs. Erkennt automatisch Entscheidungsmomente, zeichnet den Kontext, die in Betracht gezogenen Alternativen und die Begründung auf. Verwaltet ein ADR-Protokoll, damit zukünftige Entwickler verstehen, warum die Codebasis so geformt ist, wie sie ist.

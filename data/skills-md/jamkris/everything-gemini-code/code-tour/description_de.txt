@@ -1,0 +1,1 @@
+Erstellen Sie CodeTour-„.tour“-Dateien – personenspezifische, schrittweise Komplettlösungen mit echten Datei- und Zeilenankern. Verwendung für Onboarding-Touren, Architektur-Komplettlösungen, PR-Touren, RCA-Touren und strukturierte „Erklären Sie, wie das funktioniert“-Anfragen.

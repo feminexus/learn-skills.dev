@@ -1,0 +1,1 @@
+Sicherheitsmuster für autonome Handelsagenten mit Wallet- oder Transaktionsautorität. Deckt sofortige Injektion, Ausgabenlimits, Simulation vor dem Versand, Leistungsschalter, MEV-Schutz und Schlüsselhandhabung ab.

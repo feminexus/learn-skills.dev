@@ -1,0 +1,1 @@
+Betreiben Sie Benachrichtigungen als einen ECC-nativen Workflow über GitHub, Linear, Desktop-Benachrichtigungen, Hooks und verbundene Kommunikationsoberflächen. Verwenden Sie diese Option, wenn das eigentliche Problem in der Weiterleitung von Warnungen, der Deduplizierung, der Eskalation oder dem Absturz des Posteingangs besteht.

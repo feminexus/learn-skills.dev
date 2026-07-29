@@ -1,0 +1,1 @@
+Profiliert die CPU-Leistung von Meta Quest und Horizon OS-Anwendungen mit simpleperf – Workload-Klassifizierung, CPU-Hotspot-Aufzeichnung, Kernel-Overhead-Messung. Wird zur Diagnose verwendet, ob eine App auf Quest-Geräten CPU-gebunden, speichergebunden oder E/A-gebunden ist.

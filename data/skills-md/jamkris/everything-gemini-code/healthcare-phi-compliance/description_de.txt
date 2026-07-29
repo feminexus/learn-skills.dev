@@ -1,0 +1,1 @@
+Compliance-Muster für geschützte Gesundheitsinformationen (PHI) und persönlich identifizierbare Informationen (PII) für Anwendungen im Gesundheitswesen. Behandelt Datenklassifizierung, Zugriffskontrolle, Audit-Trails, Verschlüsselung und häufige Leckvektoren.

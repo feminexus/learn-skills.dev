@@ -1,0 +1,1 @@
+Generator für Forschungsprotokolle des IRB/der Ethikkommission. Erstellt 4 Kernabschnitte (Hintergrund, Studiendesign, Stichprobengröße, statistischer Plan) mit vollständiger Prosa sowie 6 Skelettabschnitte mit TODO-Markierungen für institutionenspezifische Inhalte. Integriert Ausgaben aus Designstudie, Berechnung der Stichprobengröße und Suchbeleuchtung.

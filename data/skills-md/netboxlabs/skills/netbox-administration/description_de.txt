@@ -1,0 +1,1 @@
+NetBox-Serververwaltung: Konfiguration, Authentifizierungs-Backends (lokal/LDAP/SAML/OIDC), Objektberechtigungen, API-Tokens, Leistungsoptimierung, Backups, Upgrades und Verwaltung. Verwenden Sie diese Option, wenn Sie eine NetBox-Instanz verwalten, anstatt deren API zu nutzen.

@@ -1,0 +1,1 @@
+Replizieren Sie die Methodik einer vorhandenen Kohortenstudie in einer anderen Datenbank. Extrahiert das Studiendesign aus einem Quellpapier, ordnet Variablen über eine Harmonisierungstabelle der Zieldatenbank zu, generiert Analysecode und erstellt einen Replikationsunterschiedsbericht.

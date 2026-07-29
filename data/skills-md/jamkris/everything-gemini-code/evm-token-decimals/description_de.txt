@@ -1,0 +1,1 @@
+Verhindern Sie stille Dezimalkonfliktfehler in EVM-Ketten. Deckt Laufzeit-Dezimalsuche, Chain-Aware-Caching, Bridged-Token-Präzisionsdrift und sichere Normalisierung für Bots, Dashboards und DeFi-Tools ab.

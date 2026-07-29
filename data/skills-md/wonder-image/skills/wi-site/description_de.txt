@@ -1,0 +1,9 @@
+Arbeiten Sie innerhalb von „wunder-image/new-site“ oder einer anderen daraus aufgebauten Site. Verwenden Sie wann
+Composer.json hängt von „wonder-image/app“ ab, ist aber nicht das Framework-Paket.
+oder wenn die Arbeit „custom/“, „app/Models“, „app/Resources“, „lang/“ berührt,
+`assets/{ASSETS_VERSION}/`, `PRODUCT.md`, `php forge credentials`,
+`php forge update --local`, `php forge start` oder npm setup. Deckt Seiten ab,
+Modelle, Ressourcen, Repeater, bearbeitbare Inhalte, Übersetzungen, Routen, Rollen,
+Berechtigungen, externe Module, Komponentenüberschreibungen und Benutzeroberfläche/Stil, die erforderlich sind
+„Wonder-Image/lib“ wiederverwenden. Nicht direkt für den „Wonder-Image/App“-Kern verwenden
+Änderungen unter „vendor/wonder-image/app“ oder der Quelle „wonder-image/lib“.

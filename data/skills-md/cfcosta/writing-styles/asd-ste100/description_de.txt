@@ -1,0 +1,1 @@
+Schreibt Texte in ASD-STE100 Simplified Technical English (STE), Ausgabe 9, dem kontrollierten Sprachstandard für technische Dokumentation. Verwenden Sie es, wenn der Benutzer STE, vereinfachtes technisches Englisch, ASD-STE100 oder eine kontrollierte Sprache verlangt oder eine klare technische Dokumentation, Verfahren oder Handbücher wünscht.

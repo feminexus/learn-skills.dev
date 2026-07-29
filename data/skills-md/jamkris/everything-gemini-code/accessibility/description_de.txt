@@ -1,0 +1,1 @@
+Entwerfen, implementieren und prüfen Sie inklusive digitale Produkte unter Verwendung der WCAG 2.2 Level AA-Standards. Verwenden Sie diese Fähigkeit, um semantische ARIA für das Web und Zugänglichkeitsmerkmale für Web- und native Plattformen (iOS/Android) zu generieren.

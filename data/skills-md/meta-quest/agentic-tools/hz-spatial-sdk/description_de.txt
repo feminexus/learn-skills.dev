@@ -1,0 +1,1 @@
+Erstellt räumliche Android-Apps für Meta Quest und Horizon OS mit Meta Spatial SDK – ECS-Architektur, 2D-Panels, 3D-Objekte, Hybrid-Erlebnisse. Wird beim Erstellen von Kotlin-basierten räumlichen Anwendungen verwendet.

@@ -1,0 +1,1 @@
+Wird ausgelöst, wenn der Benutzer sagt: 「批量修复」「批量 jira-fix」「jira-fix-batch」「批量修复多个 Jira」「批量修复以下 bug」/ Batch Fix, Batch Jira-Fix. Orchestriert End-to-End-Korrekturen für mehrere Jira-Probleme.

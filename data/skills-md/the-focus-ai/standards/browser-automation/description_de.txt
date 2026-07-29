@@ -1,0 +1,1 @@
+Automatisieren Sie den Chrome-Browser über das DevTools-Protokoll. Wird verwendet, wenn der Benutzer Websites durchsuchen, Screenshots erstellen, PDFs erstellen, mit Webseiten interagieren, Inhalte extrahieren, Formulare ausfüllen oder Browseraufgaben automatisieren möchte.

@@ -1,0 +1,1 @@
+Kontradiktorische Verifizierung mehrerer Agenten mit Konvergenzschleife. Zwei unabhängige Prüfer müssen beide bestehen, bevor die Ausgabe versendet wird.

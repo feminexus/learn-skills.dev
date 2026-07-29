@@ -1,0 +1,1 @@
+Interaktives Installationsprogramm für Everything Gemini CLI – führt Benutzer durch die Auswahl und Installation von Fertigkeiten und Regeln in Verzeichnissen auf Benutzer- oder Projektebene, überprüft Pfade und optimiert optional installierte Dateien.

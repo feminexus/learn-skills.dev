@@ -1,0 +1,1 @@
+Multi-Agent-Orchestrierung mit dmux (tmux-Bereichsmanager für KI-Agenten). Muster für parallele Agenten-Workflows über Gemini CLI, Codex, OpenCode und andere Systeme hinweg. Verwenden Sie diese Option, wenn Sie mehrere Agentensitzungen parallel ausführen oder Entwicklungsworkflows mit mehreren Agenten koordinieren.

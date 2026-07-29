@@ -1,0 +1,1 @@
+Testgetriebene Entwicklung. Verwenden Sie diese Option, wenn der Benutzer zuerst Funktionen erstellen oder Fehler beheben möchte, „Rot-Grün-Refaktor“ erwähnt oder Integrationstests wünscht.

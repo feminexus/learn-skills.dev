@@ -1,0 +1,1 @@
+Aufnahme und Normalisierung eines neuen radiologischen Forschungsprojekts. Klassifiziert den Projekttyp, fasst den aktuellen Status zusammen, identifiziert fehlende Eingaben, empfiehlt die nächsten Schritte und erstellt ein Gerüst für kompakte Projektspeicherdateien.

@@ -1,0 +1,1 @@
+Regressionsteststrategien für KI-gestützte Entwicklung. API-Tests im Sandbox-Modus ohne Datenbankabhängigkeiten, automatisierte Bug-Check-Workflows und Muster, um blinde Flecken der KI zu erkennen, wenn dasselbe Modell Code schreibt und überprüft.

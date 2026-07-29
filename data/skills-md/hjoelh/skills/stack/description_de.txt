@@ -1,0 +1,1 @@
+Analysieren Sie den aktuellen Zweig oder einen GitHub-Pull-Request und planen Sie einen überprüfungsfreundlichen Stapel neuer Pull-Requests, wobei Sie die Arbeit nur dann aufteilen, wenn die Grenzen die Überprüfbarkeit wesentlich verbessern. Verwenden Sie diese Option, wenn eine Änderung von mehreren bestellten PRs profitieren kann.

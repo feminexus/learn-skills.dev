@@ -1,0 +1,1 @@
+Konfigurieren Sie dieses Repo für die technischen Fähigkeiten – richten Sie den Issue-Tracker, das Triage-Label-Vokabular und das Domänendokument-Layout ein. Führen Sie es einmal aus, bevor Sie die anderen technischen Fähigkeiten zum ersten Mal einsetzen.

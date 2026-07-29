@@ -1,0 +1,1 @@
+Entwerfen Sie Schnittstellen und validieren Sie die Barrierefreiheit anhand von WCAG 2.1 mit von DevTools unterstützten Prüfungen – einem vom Benutzer aufgerufenen UI/UX-Designer-Workflow.

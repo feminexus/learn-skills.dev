@@ -1,0 +1,1 @@
+Betreiben Sie Kundenabrechnungsworkflows wie Abonnements, Rückerstattungen, Churn Triage, Abrechnungsportal-Wiederherstellung und Plananalyse mit verbundenen Abrechnungstools wie Stripe. Verwenden Sie es, wenn der Benutzer einem Kunden helfen, den Abonnementstatus überprüfen oder umsatzbeeinflussende Abrechnungsvorgänge verwalten muss.

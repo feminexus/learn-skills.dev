@@ -1,0 +1,1 @@
+Überprüfen Sie Logseq-Codeänderungen, PRs, Patches, Commit-Bereiche oder Implementierungspläne über einen Hauptagenten-Orchestrierungs-Workflow, der schreibgeschützte Subagenten über unabhängige Prüfdurchgänge weiterleitet, dann dedupliziert, validiert und Ergebnisse für die Web-App, die Desktop-App und die Logseq-CLI meldet.
