@@ -1,0 +1,9 @@
+wonder-image/new-site またはそこから足場を組んだサイト内で作業します。いつ使用しますか
+combos.json は `wonder-image/app` に依存していますが、フレームワーク パッケージではありません。
+または、作業が `custom/`、`app/Models`、`app/Resources`、`lang/` に関わる場合、
+`assets/{ASSETS_VERSION}/`、`PRODUCT.md`、`php forge credentials`、
+`php forge update --local`、`php forge start`、または npm setup。表紙のページ、
+モデル、リソース、リピーター、編集可能なコンテンツ、翻訳、ルート、ロール、
+アクセス許可、外部モジュール、コンポーネントのオーバーライド、および必要な UI/スタイリング
+`wonder-image/lib` を再利用します。 `wonder-image/app` コアには使用しないでください。直接
+`vendor/wonder-image/app` または `wonder-image/lib` ソースの下で編集します。

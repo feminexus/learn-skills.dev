@@ -1,0 +1,1 @@
+Alan の GitHub MCP ツールを使用して GitHub プル リクエストをレビューする

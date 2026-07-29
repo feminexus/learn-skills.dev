@@ -1,0 +1,1 @@
+タスクごとの予算、支出管理、非保管ウォレットを備えた AI エージェントに x402 支払い実行を追加します。 Agentwallet-sdk を通じて Base をサポートし、OKX Payments / OKX Agent Payments Protocol を通じて X Layer をサポートします。

@@ -1,0 +1,1 @@
+Axiom メトリクスのクエリ結果 (application/vnd.metrics.v3+json) を折れ線グラフとして表示します。デフォルトでは依存性のない Unicode/ASCII。 gnuplot が存在する場合は、gnuplot 経由でインライン PNG/SVG/sixel にアップグレードします。メトリクス v3 クエリ応答があり、その系列をターミナルまたはトランスクリプトのグラフとして表示したい場合に使用します。

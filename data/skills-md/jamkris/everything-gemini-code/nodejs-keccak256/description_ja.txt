@@ -1,0 +1,1 @@
+JavaScript および TypeScript での Ethereum ハッシュのバグを防ぎます。ノードの sha3-256 は、Ethereum Keccak-256 ではなく NIST SHA3 であり、セレクター、署名、ストレージ スロット、およびアドレス導出をサイレントに中断します。

@@ -1,0 +1,1 @@
+Unity、Unreal、Android/Spatial SDK、または WebXR の推奨設定を使用して、新しい Meta Quest および Horizo​​n OS プロジェクトを足場にします。新しい Quest アプリを最初から作成する場合に使用します。

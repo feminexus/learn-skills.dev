@@ -1,0 +1,1 @@
+Android/JVM 上で Roborazzi スクリーンショット テストを操作する場合に使用します。 — Roborazzi Gradle プラグインのセットアップ、記録/比較/検証タスクの実行、captureRoboImage または RoborazziRule を使用したテストの作成、Compose Preview スクリーンショット テスト (ComposablePreviewScanner)、Compose Multiplatform (iOS/デスクトップ) スクリーンショット、AI を活用したイメージ アサーション、roborazzi.* Gradle プロパティ、または Roborazzi/Robolectric スクリーンショット テストのトラブルシューティングに使用します。失敗。

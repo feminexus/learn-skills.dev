@@ -1,0 +1,1 @@
+Next.js 16 以降と Turbopack — 増分バンドル、FS キャッシュ、開発速度、Turbopack と Webpack をいつ使用するか。

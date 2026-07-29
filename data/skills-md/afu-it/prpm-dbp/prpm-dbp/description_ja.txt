@@ -1,0 +1,1 @@
+Sahkan ejaan Bahasa Melayu dan Jawi terhadap PRPM Dewan Bahasa dan Pustaka sebelum menghantar の出力。グナ・アパビラ・メニューリス、メンイェマック、アタウ・メントランスリテラシテクスBM/ジャウィ、テルタマ・バハン・ペンディディカン、RPH、ノタ、アタウ・アパ・アパ・ヤン・ペルル・イクット・エジャーン・ラスミDBP。トリガー：jawi、kamus dewan、ejaan rasmi、DBP、PRPM、transliterasi、bahasa melayu baku。

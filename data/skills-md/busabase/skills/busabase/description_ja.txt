@@ -1,0 +1,1 @@
+Busabase ワークスペースを承認優先のナレッジ ベースとして推進します。変更を ChangeRequest として提案し、人間によるレビューを待ってからマージします。人間工学に基づいたコマンドにはbusabase-cliを使用し、クイックAPIループにはcurlを、全面にはOpenAPI仕様/MCPを使用します。 ~/.busabase/.env からベース URL、API キー、ターゲット空間を読み取ります。

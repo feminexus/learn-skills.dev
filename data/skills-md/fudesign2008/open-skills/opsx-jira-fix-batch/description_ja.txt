@@ -1,0 +1,1 @@
+ユーザーが「opsx 批量修复」「批量 opsx-jira-fix」「opsx-jira-fix-batch」「批量 OpenSpec Jira 修复」/ opsx バッチ修正、バッチ OpenSpec Jira 修正と言ったときにトリガーされます。複数の問題のエンドツーエンドの修正を調整し、関係の判断を OpenSpec アーティファクトに記録します。

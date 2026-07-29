@@ -1,0 +1,1 @@
+Meta Spatial SDK (ECS アーキテクチャ、2D パネル、3D オブジェクト、ハイブリッド エクスペリエンス) を使用して、Meta Quest および Horizo​​n OS 用の空間 Android アプリを構築します。 Kotlin ベースの空間アプリケーションを作成する場合に使用します。

@@ -1,0 +1,1 @@
+ユーザーが Codex の OpenAI Responses API image_generation ツールを使用してビットマップ イメージの生成、編集、修復、スタイル変更、または作成を要求するときは常に、このスキルを使用します。このスキルは、Responses API を呼び出し、生成された Base64 イメージ結果をファイルに保存し、npm または pip 依存関係を使用せず、Node.js 18 以降または Python 3 を使用して Linux/macOS/Windows で動作し、ユーザーに認証情報を求める代わりに Codex の設定された API ベース URL、モデル、およびキーを再利用します。
