@@ -1,0 +1,1 @@
+醫學手稿的研究計畫管理。鷹架專案結構，追蹤跨階段的寫作進度，維護專案記憶體文件，產生提交清單和向後時間表。指令：init、status、sync-memory、checklist、timeline。

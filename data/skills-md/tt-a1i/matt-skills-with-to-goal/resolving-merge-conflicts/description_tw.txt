@@ -1,0 +1,1 @@
+當您需要解決正在進行的 git merge/rebase 衝突時使用。

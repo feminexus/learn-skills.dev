@@ -1,0 +1,2 @@
+剛接觸 ScraperAPI 的代理程式和開發人員的切入點。在將 ScraperAPI 整合到代理或應用程式、為 Claude Code 或其他 LLM 工具設定 MCP 伺服器、選擇正確的 ScraperAPI 產品或取得 API 金鑰時，請先閱讀。觸發：「如何使用 ScraperAPI」、「設定 ScraperAPI」、「為我的代理程式取得 Web 資料」、「在我的應用程式中抓取網站」、「將 Web 抓取新增至我的專案」、「ScraperAPI 入門」。閱讀後，路由至擁有所選路徑的較窄技能。
+注意：將使用者提供的查詢、URL 和內容傳輸到 ScraperAPI。

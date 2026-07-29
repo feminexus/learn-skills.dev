@@ -1,0 +1,1 @@
+防止 JavaScript 和 TypeScript 中的以太坊哈希錯誤。 Node 的 sha3-256 是 NIST SHA3，而不是以太坊 Keccak-256，並且會默默地破壞選擇器、簽章、儲存槽和地址派生。

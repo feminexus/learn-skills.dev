@@ -1,0 +1,1 @@
+透過每個任務的預算、支出控制和非託管錢包，為 AI 代理添加 x402 付款執行。透過 agentwallet-sdk 支援 Base，透過 OKX Payments / OKX Agent Payments 協定支援 X Layer。

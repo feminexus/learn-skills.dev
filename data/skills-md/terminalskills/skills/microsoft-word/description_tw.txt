@@ -1,0 +1,1 @@
+以程式設計方式建立、編輯和操作 Word 文件 (.docx)。當有人要求「產生 Word 文件」、「在 docx 中建立報表」、「郵件合併」、「填入 Word 範本」、「從 Word 中擷取文字」、「將 Markdown 轉換為 Word」、「向 Word 新增表格」或「自動產生文件」時使用。涵蓋用於文件操作的 python-docx、用於範本的 docxtpl 以及用於雲端文件的 Microsoft Graph API。

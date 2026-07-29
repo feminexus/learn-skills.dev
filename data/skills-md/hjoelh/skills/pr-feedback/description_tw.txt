@@ -1,0 +1,1 @@
+在對來自任何來源（CodeRabbit、Graphite Reviewer、人類工程師）的 PR 的審核評論進行分類時使用。從分支推斷目前 PR 或接受 PR 編號作為參數。

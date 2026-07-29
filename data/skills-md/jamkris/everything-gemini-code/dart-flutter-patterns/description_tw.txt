@@ -1,0 +1,1 @@
+生產就緒的 Dart 和 Flutter 模式涵蓋空安全、不可變狀態、非同步組合、小部件架構、流行的狀態管理框架（BLoC、Riverpod、Provider）、GoRouter 導航、Dio 網路、凍結程式碼產生和乾淨的架構。

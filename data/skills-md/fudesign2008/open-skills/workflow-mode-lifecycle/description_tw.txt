@@ -1,0 +1,1 @@
+PDCA 式工作流程技能中手動/自動模式的共享生命週期契約：自動模式始終在完成或中斷時恢復為手動，重新進入自動需要明確觸發，隱式繼續永遠不會重新啟動它，批次協調器明確傳遞模式。透過solve-workflow、opsx-solve-workflow、jira-fix-workflow、opsx-jira-fix-workflow透過frontmatter依賴項引用；當工作流程委託其模式規則時載入。

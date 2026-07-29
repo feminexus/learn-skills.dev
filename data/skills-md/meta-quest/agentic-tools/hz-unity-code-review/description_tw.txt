@@ -1,0 +1,1 @@
+審查 Meta Quest 和 Horizo​​n OS 的 Unity 程式碼，了解效能問題、渲染最佳實踐和常見 VR 陷阱。在程式碼審查期間或診斷 Unity 專案中的 Quest 效能問題時使用。

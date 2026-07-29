@@ -1,0 +1,1 @@
+分析、記錄和維護針對 Meta Quest 和 Horizo​​n OS 的 Unity 專案的動態「.agent-docs/」知識庫。當使用者要求掃描專案結構、解釋 Unity 系統如何運作或在結構變更後更新專案文件時使用。

@@ -1,0 +1,1 @@
+前端（含Electron桌面）效能最佳化知識庫，涵蓋React 16-19、Angular 9-18+、Electron 12-28+各版本優化知識。與 perf-workflow 技能一起使用：perf-workflow 驅動分析過程，同時該技能提供前端特定的定量標準、版本感知優化策略、瓶頸模式和工具參考。在分析 Web 前端（React/Angular/Vue）或 Electron 桌面應用程式中的效能問題時使用。觸發器 — “前端效能”「前端效能最佳化」「Electron 效能」/前端效能、前端效能最佳化、Electron 效能。

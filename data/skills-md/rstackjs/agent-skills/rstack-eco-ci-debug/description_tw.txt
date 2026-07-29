@@ -1,0 +1,1 @@
+調試 Rstack 生態系統 CI 故障並歸因真正的來源 PR 或下游變更。當用戶提到 Rspack eco-ci、rstack-ecosystem-ci、套件變紅、下游回歸、綠到紅樞軸、金絲雀二等分、@rspack-canary/core 或每日 eco-ci 分類時，請始終使用此技能 - 即使他們只問“為什麼這個套件失敗”、“哪個 PR 破壞了它”或“這是 Rspack 的錯”。使用它可以避免過度指責在狀態數據中顯示為紅色的第一個 Rspack 提交。

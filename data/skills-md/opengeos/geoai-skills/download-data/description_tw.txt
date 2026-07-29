@@ -1,0 +1,1 @@
+下載邊界框的 NAIP 航空影像。將座標指定為 WGS84 中的 minx、miny、maxx、maxy 以及可選的年份。

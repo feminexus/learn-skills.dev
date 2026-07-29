@@ -1,0 +1,1 @@
+針對 AI 搜尋引擎（Perplexity、ChatGPT web、Elicit、Consensus、SciSpace）和基於 RAG 的文獻工具的醫學 AI 論文優化。適用於起草或審閱標題、摘要、結構化摘要框（要點/上下文研究/簡單語言摘要）、高影響力醫學 AI 期刊的手稿（Lancet Digital Health、Radiology、Radiology-AI、npj Digital Medicine、Nature Medicine）、預印本 (medRxiv/arXiv)、GitHubHubNADME 資料集、文件集）以及 MffI 資料集）以及檔案集。將 TRIPOD+AI、CLAIM 2024、STARD-AI、TRIPOD-LLM、DECIDE-AI 報告要求與生成引擎優化 (GEO) 原則整合。產生可見的通過/失敗檢查表。

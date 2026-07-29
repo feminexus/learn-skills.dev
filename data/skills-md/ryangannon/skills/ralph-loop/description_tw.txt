@@ -1,0 +1,1 @@
+評估軟體專案是否符合 Ralph Wiggum Loop 原則，並指導使用者設定 5 級自主編碼循環。當使用者提及「ralph Loop」、「ralph wiggum」、想要設定自主代理循環、詢問 ralph/prompt.md、ralph/afk.sh、CLAUDE.md 或 IMPLMENTATION_PLAN.md 設定，或想要評估其項目對代理程式編碼工作流程的支援程度時使用。

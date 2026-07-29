@@ -1,0 +1,1 @@
+當任務涉及 VMOS Edge Desktop 時使用 - 在邊緣主機上建立或控制 Android 虛擬設備、透過 CDP 與 Electron 桌面 UI 互動、使用 YAML playbook 或批次 JSON 自動化裝置工作流程，或從 CLI 錯誤程式碼中復原。

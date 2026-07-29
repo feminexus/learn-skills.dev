@@ -1,0 +1,1 @@
+當使用者說出「批量修復」「批量 jira-fix」“jira-fix-batch”“批量修復多個 Jira”“批量修復以下 bug”/批量修復、批量 jira-fix 時觸發。協調多個 Jira 問題的端到端修復。

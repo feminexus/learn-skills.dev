@@ -1,0 +1,1 @@
+Spring Boot 架構模式、REST API 設計、分層服務、資料存取、快取、非同步處理和日誌記錄。用於 Java Spring Boot 後端工作。

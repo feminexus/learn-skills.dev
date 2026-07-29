@@ -1,0 +1,1 @@
+將任何 Busabase 工作區作為審批優先的知識庫 — 以 ChangeRequest 形式提出更改，等待人工審核，然後合併。使用busabase-cli 執行符合人體工學的命令，使用curl 執行快速API 循環，或使用OpenAPI 規範/MCP 執行整個表面。從 ~/.busabase/.env 讀取基本 URL、API 金鑰和目標空間。

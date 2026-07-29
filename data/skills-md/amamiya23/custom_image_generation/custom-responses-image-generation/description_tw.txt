@@ -1,0 +1,1 @@
+每當使用者要求透過 Codex 中的 OpenAI Responses API image_genesis 工具產生、編輯、修復、重新設計樣式或建立點陣圖影像時，請使用此技能。此技能呼叫 Responses API，將產生的 Base64 映像結果儲存到檔案中，不使用 npm 或 pip 依賴項，在使用 Node.js 18+ 或 Python 3 的 Linux/macOS/Windows 上工作，並重複使用 Codex 配置的 API 基本 URL、模型和金鑰，而不是要求使用者提供憑證。

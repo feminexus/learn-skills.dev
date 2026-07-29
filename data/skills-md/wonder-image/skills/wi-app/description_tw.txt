@@ -1,0 +1,14 @@
+在 Wonder-image/app 框架包內工作 - Composer 庫，位於 github.com/wonder-image/app。這是框架核心，而不是使用它的網站。
+
+觸發時間：
+- 儲存庫的composer.json 宣告 `"name": "wonder-image/app"`
+- 編輯`class/App/*`、`app/config/routes/*`、`app/http/*`、`app/bootstrap/*`、`app/middleware/*`、`class/App/Module/*`、`class/Console/*`下的文件
+- 在`class/Elements/Components/*`下編輯共享UI元件，在`class/Elements/Media/*`下編輯媒體，或其在`class/Themes/{Wonder,Bootstrap}/*`下的渲染器
+- 修改模型、資源、PageSchema、Repeater、ModelRegistry、ResourceRegistry、ResourceRouteRegistrar、Credentials 或 `wonder-image.php` 入口點
+- 變更引導程式順序、「ROOT」/「.env」解析、模組發現、產生的後端/API CRUD 路由或「php forge ...」命令來源
+- 更新開機程式、架構、路由或佈局約定的“docs/app/*”
+
+在以下情況下跳過：
+- 倉庫是一個 Wonder 站點，它在 `vendor/` 下安裝 Wonder-image/app（例如 Wonder-image/new-site 或從中搭建的任何項目）——使用 wi-site
+- 變更位於網站的「custom/」、「app/Models」、「app/Resources」、「lang/」或「assets/」中
+- 任務在 Wonder-image/lib （JS/CSS 設計系統） - 不同的倉庫

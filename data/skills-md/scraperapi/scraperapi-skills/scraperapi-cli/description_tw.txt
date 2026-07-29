@@ -1,0 +1,2 @@
+官方 ScraperAPI 命令列工具（“sapi”，以“scraperapi-cli”形式分發）的產品使用參考。每當使用者想要抓取、執行非同步作業、取得結構化資料、管理爬網、檢查帳戶信用或從終端或 shell 腳本驅動 DataPipeline 專案時，都可以使用此技能 - 在任何比編寫 SDK 程式碼更方便的地方。觸發條件：「從終端抓取此 URL」、「使用 sapi 取得 X」、「ScraperAPI CLI」、「來自 bash 的 ScraperAPI」、「sapi scrape」、「sapi 成本」、「sapi 作業」、「sapi 結構化亞馬遜」、「將 ScraperAPI 成本」、「sapi 作業」、「sapi 結構化亞馬遜」、「將 ScraperAPI 成本」、「sapi 作業」、「sapi 結構化亞馬遜」、「將 ScraperAPI 成本」、「sapi 作業」、「sapi 結構式新ScraperAPI」來自命令列的積分」、「從檔案中批次提交 10000 個 URL」。
+注意：將使用者提供的查詢、URL 和內容傳輸到 ScraperAPI。

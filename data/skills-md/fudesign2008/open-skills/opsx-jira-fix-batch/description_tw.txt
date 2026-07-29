@@ -1,0 +1,1 @@
+當使用者說「opsx 批次修復」「批量 opsx-jira-fix」「opsx-jira-fix-batch」「批量 OpenSpec Jira 修復」/ opsx 批量修復、批量 OpenSpec Jira 修復時觸發。編排多問題端對端修復並在 OpenSpec 工件中記錄關係判斷。

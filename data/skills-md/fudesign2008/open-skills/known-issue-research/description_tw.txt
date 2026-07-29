@@ -1,0 +1,1 @@
+針對已確認程式碼問題的外部研究路由：分類根本原因是否為內部/外部/混合，在深層根源之前執行已知問題快速搜尋（平台靜默故障、嵌套主機運行時、沒有代碼級嫌疑人），並評估行業範圍的硬限制。將所有網路搜尋學科委託給有效的網路研究。透過工作流程技能（solve-workflow、opsx-solve-workflow、jira-fix-workflow、opsx-jira-fix-workflow）透過 frontmatter 依賴項進行引用；技術分析階段的負載。

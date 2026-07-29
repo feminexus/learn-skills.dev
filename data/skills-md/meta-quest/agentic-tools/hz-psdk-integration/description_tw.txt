@@ -1,0 +1,1 @@
+對於 3P / EXTERNAL 開發人員：指導 Meta Quest 和 Horizo​​n OS Android/Kotlin 應用程式的互動式 Horizo​​n Platform SDK (PSDK) 整合 — 分析程式碼庫、推薦公共平台功能、規劃整合並在裝置上進行驗證。使用外部工具鏈（Gradle、metavr、developers.meta.com / Rocksteady 應用程式 ID）。對於 fbsource 內的 1P 應用程式（buck、Chesterfield/ni、adb），請改用 psdk_1p_onboarding_agent。

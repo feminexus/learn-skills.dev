@@ -1,0 +1,1 @@
+在 Android/JVM 上使用 Roborazzi 螢幕截圖測試時使用 — 設定 Roborazzi Gradle 插件、執行記錄/比較/驗證任務、使用 captureRoboImage 或 RoborazziRule 編寫測試、Compose 預覽螢幕截圖測試 (ComposablePreviewScanner)、Compose 多螢幕平台（iOS/bor） Roborazzi/Robolectric 螢幕截圖測試失敗進行故障排除。

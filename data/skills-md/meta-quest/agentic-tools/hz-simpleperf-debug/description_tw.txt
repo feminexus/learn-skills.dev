@@ -1,0 +1,1 @@
+使用 simpleperf 分析 Meta Quest 和 Horizo​​n OS 應用程式 CPU 效能 — 工作負載分類、CPU 熱點記錄、核心開銷測量。在診斷 Quest 裝置上的應用程式是否受 CPU 限制、記憶體限製或 I/O 限制時使用。

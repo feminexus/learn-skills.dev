@@ -1,0 +1,1 @@
+指導 Meta Quest 和 Horizo​​n OS Android/Kotlin 應用程式的 Horizo​​n Platform SDK 整合 — 成就、IAP、用戶、排行榜、狀態、通知、濫用報告、權利、資產文件、應用程式生命週期、同意、裝置完整性、語言包、用戶年齡類別以及評分和評論。涵蓋所有 17 個公共平台 SDK 套件的設定、初始化、API 使用、資料類型、錯誤處理和最佳實踐。

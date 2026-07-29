@@ -1,0 +1,1 @@
+透過 LaraPlugins.io MCP 發現和評估 Laravel 軟體包。當使用者想要尋找外掛程式、檢查包運作狀況或評估 Laravel/PHP 相容性時使用。
