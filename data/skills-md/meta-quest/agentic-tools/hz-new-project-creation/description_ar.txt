@@ -1,0 +1,1 @@
+يدعم مشاريع Meta Quest وHorizon OS الجديدة مع الإعدادات الموصى بها لـ Unity أو Unreal أو Android/Spatial SDK أو WebXR. يُستخدم عند إنشاء تطبيق Quest جديد من البداية.

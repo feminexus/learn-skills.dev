@@ -1,0 +1,1 @@
+يتم تشغيله عندما يقول المستخدم "opsx 批量修复」「批量 opsx-jira-fix」「opsx-jira-fix-batch」「批量 OpenSpec Jira 修复」/ إصلاح دفعة opsx، إصلاح دفعة OpenSpec Jira. ينسق الإصلاحات الشاملة للمشكلات المتعددة ويسجل أحكام العلاقة في عناصر OpenSpec.

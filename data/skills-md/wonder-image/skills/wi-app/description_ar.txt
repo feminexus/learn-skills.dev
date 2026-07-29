@@ -1,0 +1,14 @@
+اعمل داخل حزمة إطار عمل Wonder-image/app — مكتبة Composer على github.com/wonder-image/app. هذا هو جوهر الإطار، وليس موقعًا يستهلكه.
+
+التشغيل عندما:
+- يعلن الملحن json الخاص بالريبو عن `"name": "wonder-image/app"`
+- تحرير الملفات ضمن `class/App/*`، `app/config/routes/*`، `app/http/*`، `app/bootstrap/*`، `app/middleware/*`، `class/App/Module/*`، `class/Console/*`
+- تحرير مكونات واجهة المستخدم المشتركة ضمن `class/Elements/Components/*`، أو الوسائط ضمن `class/Elements/Media/*`، أو العارضين ضمن `class/Themes/{Wonder,Bootstrap}/*`
+- تعديل النموذج أو المورد أو PageSchema أو Repeater أو ModelRegistry أو ResourceRegistry أو ResourceRouteRegistrar أو Credentials أو نقطة الإدخال "wonder-image.php".
+- تغيير ترتيب التمهيد، أو دقة `ROOT`/`.env`، أو اكتشاف الوحدة، أو مسارات الواجهة الخلفية/API CRUD، أو مصادر أوامر `php forge...`
+- تحديث `docs/app/*` لاتفاقيات التمهيد أو الهندسة المعمارية أو التوجيه أو التخطيط
+
+تخطي عندما:
+- الريبو هو موقع رائع يقوم بتثبيت Wonder-image/app ضمن "vendor/" (على سبيل المثال، Wonder-image/new-site أو أي مشروع مستمد منه) - استخدم wi-site
+- يكون التغيير في `مخصص/`، أو `التطبيق/النماذج`، أو `التطبيق/الموارد`، أو `اللغة/`، أو `الأصول/` للموقع
+- المهمة موجودة في Wonder-image/lib (نظام تصميم JS/CSS) - مستودعات مختلفة

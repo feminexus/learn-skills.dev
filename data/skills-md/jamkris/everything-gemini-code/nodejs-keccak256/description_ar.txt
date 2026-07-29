@@ -1,0 +1,1 @@
+منع أخطاء تجزئة Ethereum في JavaScript وTypeScript. sha3-256 الخاص بالعقدة هو NIST SHA3، وليس Ethereum Keccak-256، ويكسر المحددات والتوقيعات وفتحات التخزين واشتقاق العناوين بصمت.
