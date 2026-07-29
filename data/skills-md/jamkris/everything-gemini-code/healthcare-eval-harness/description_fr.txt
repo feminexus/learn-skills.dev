@@ -1,0 +1,1 @@
+Harnais d’évaluation de la sécurité des patients pour les déploiements d’applications de soins de santé. Suites de tests automatisées pour la précision du CDSS, l'exposition des PHI, l'intégrité du flux de travail clinique et la conformité de l'intégration. Bloque les déploiements en cas de défaillances de sécurité.

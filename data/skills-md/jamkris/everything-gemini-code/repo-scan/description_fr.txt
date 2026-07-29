@@ -1,0 +1,1 @@
+Audit des actifs du code source multi-pile : classe chaque fichier, détecte les bibliothèques tierces intégrées et fournit des verdicts exploitables à quatre niveaux par module avec des rapports HTML interactifs.

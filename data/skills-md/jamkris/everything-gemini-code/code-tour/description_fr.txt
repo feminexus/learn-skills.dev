@@ -1,0 +1,1 @@
+Créez des fichiers CodeTour `.tour` – des procédures pas à pas ciblées sur des personnes avec de véritables ancres de fichiers et de lignes. À utiliser pour les visites d'intégration, les présentations d'architecture, les visites de relations publiques, les visites RCA et les demandes structurées « expliquer comment cela fonctionne ».

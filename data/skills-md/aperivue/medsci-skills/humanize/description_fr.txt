@@ -1,0 +1,1 @@
+Détectez et supprimez les modèles d’écriture de l’IA des manuscrits universitaires et des lettres de réponse aux évaluateurs. Analyse 27 modèles de texte courants générés par l'IA et réécrit les passages signalés pour qu'ils sonnent naturellement écrits par l'homme tout en préservant la précision technique, limitant la quantité de texte qu'une réécriture est autorisée à toucher.

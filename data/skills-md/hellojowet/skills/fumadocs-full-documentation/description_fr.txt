@@ -1,0 +1,6 @@
+Miroir complet de la documentation Fumadocs en amont de fuma-nama/fumadocs.
+Fumadocs est un framework de documentation pour Next.js, React Router, TanStack Start et Vite.
+Chargez cette compétence lorsque vous avez besoin de matériel de référence précis en amont : installation, configuration,
+personnalisation de l'interface utilisateur, configuration de la recherche, intégrations (OpenAPI, sources de contenu, images OG),
+internationalisation, API sans tête ou traitement MDX.
+Il ne s’agit pas de conseils organisés ; ce sont les documents bruts en amont organisés par sujet.

@@ -1,0 +1,1 @@
+Analysez les commentaires des pairs évaluateurs et générez un document de réponse structuré aux évaluateurs avec un suivi des modifications du manuscrit. Classifie les commentaires comme MAJEURS/MINEURS/REBUTTAL, coordonne les nouvelles analyses avec /analyze-stats et /make-figures et produit une lettre de motivation pour l'éditeur.

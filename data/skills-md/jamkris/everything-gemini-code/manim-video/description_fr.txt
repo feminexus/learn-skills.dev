@@ -1,0 +1,1 @@
+Créez des explicatifs Manim réutilisables pour les concepts techniques, les graphiques, les diagrammes de système et les présentations de produits, puis transférez-les à la pile vidéo ECC plus large si nécessaire. À utiliser lorsque l'utilisateur souhaite un explicatif animé propre plutôt qu'un script générique de tête parlante.

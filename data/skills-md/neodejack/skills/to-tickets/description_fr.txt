@@ -1,0 +1,1 @@
+Divisez un plan, une spécification ou la conversation en cours en un ensemble de tickets traceurs, chacun déclarant ses bords bloquants, enregistrés sous forme de fichier de démarque

@@ -1,0 +1,1 @@
+Créez des tableaux de bord de surveillance qui répondent aux questions réelles des opérateurs pour Grafana, SigNoz et les plateformes similaires. À utiliser pour transformer les métriques en un tableau de bord fonctionnel au lieu d'un tableau personnalisé.

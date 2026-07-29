@@ -1,0 +1,1 @@
+Analysez une base de code inconnue et générez un guide d'intégration structuré avec une carte d'architecture, des points d'entrée clés, des conventions et un démarreur GEMINI.md. À utiliser lorsque vous rejoignez un nouveau projet ou configurez Gemini CLI pour la première fois dans un dépôt.

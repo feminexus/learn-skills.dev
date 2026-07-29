@@ -1,0 +1,1 @@
+Concevez des systèmes et enregistrez les décisions d'architecture sous forme d'ADR - un flux de travail d'architecte principal invoqué par l'utilisateur.

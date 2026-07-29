@@ -1,0 +1,1 @@
+Gérez le flux d'exécution sur GitHub et Linear en triant les problèmes et les demandes d'extraction, en reliant le travail actif et en gardant GitHub accessible au public tandis que Linear reste la couche d'exécution interne. À utiliser lorsque l'utilisateur souhaite contrôler le backlog, le tri des relations publiques ou la coordination GitHub-Linear.

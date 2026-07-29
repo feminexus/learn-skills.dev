@@ -1,0 +1,9 @@
+Travaillez à l’intérieur de Wonder-image/new-site ou de tout site échafaudé à partir de celui-ci. Utiliser quand
+composer.json dépend de `wonder-image/app` mais n'est pas le package framework,
+ou lorsque le travail touche `custom/`, `app/Models`, `app/Resources`, `lang/`,
+`assets/{ASSETS_VERSION}/`, `PRODUCT.md`, `php forge les informations d'identification`,
+`php forge update --local`, `php forge start` ou npm setup. Pages de couverture,
+modèles, ressources, répéteurs, contenu modifiable, traductions, itinéraires, rôles,
+autorisations, modules externes, remplacements de composants et interface utilisateur/style qui doivent
+réutilisez `wonder-image/lib`. Ne pas utiliser pour le noyau `wonder-image/app`, directement
+modifications sous « vendor/wonder-image/app », ou la source « wonder-image/lib ».

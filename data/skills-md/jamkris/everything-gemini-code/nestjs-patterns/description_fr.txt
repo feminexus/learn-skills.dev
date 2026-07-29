@@ -1,0 +1,1 @@
+Modèles d'architecture NestJS pour les modules, les contrôleurs, les fournisseurs, la validation DTO, les gardes, les intercepteurs, la configuration et les backends TypeScript de production.

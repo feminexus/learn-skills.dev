@@ -1,0 +1,1 @@
+Créez et affinez le modèle de domaine d'un projet. À utiliser lorsque l'utilisateur souhaite identifier la terminologie du domaine ou un langage omniprésent, enregistrer une décision architecturale ou lorsqu'une autre compétence doit maintenir le modèle de domaine.

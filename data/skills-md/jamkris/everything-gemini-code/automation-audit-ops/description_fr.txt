@@ -1,0 +1,1 @@
+Inventaire d'automatisation fondé sur les preuves et flux de travail d'audit superposé pour ECC. À utiliser lorsque l'utilisateur souhaite savoir quels travaux, hooks, connecteurs, serveurs MCP ou wrappers sont actifs, cassés, redondants ou manquants avant de réparer quoi que ce soit.

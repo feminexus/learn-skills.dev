@@ -1,0 +1,1 @@
+Concevoir, mettre en œuvre et auditer des produits numériques inclusifs en utilisant les normes WCAG 2.2 niveau AA. Utilisez cette compétence pour générer des ARIA sémantiques pour le Web et des caractéristiques d'accessibilité pour les plateformes Web et natives (iOS/Android).

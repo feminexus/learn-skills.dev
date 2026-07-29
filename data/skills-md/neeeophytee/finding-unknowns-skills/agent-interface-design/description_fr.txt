@@ -1,0 +1,1 @@
+Concevez des outils, des scripts et des CLI qu'un agent appellera, de sorte que l'interface enseigne sa propre utilisation au lieu d'un mur de prose et d'exemples. À utiliser lors de la création d'un serveur MCP ou d'une définition d'outil, de l'écriture d'un script destiné à un agent ou lorsqu'un agent continue d'utiliser à mauvais escient un outil dont il dispose déjà.

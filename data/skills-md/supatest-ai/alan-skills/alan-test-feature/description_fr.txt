@@ -1,0 +1,1 @@
+Étendez la couverture, élaborez une stratégie de test, testez la fonctionnalité avec un navigateur d'agent, capturez des captures d'écran/vidéo (toujours obligatoire), téléchargez sur S3 et créez un rapport de test structuré (ne sautez jamais)

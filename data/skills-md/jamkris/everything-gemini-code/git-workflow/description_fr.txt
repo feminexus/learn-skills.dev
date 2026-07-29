@@ -1,0 +1,1 @@
+Modèles de flux de travail Git, notamment stratégies de branchement, conventions de validation, fusion ou rebase, résolution de conflits et meilleures pratiques de développement collaboratif pour les équipes de toutes tailles.

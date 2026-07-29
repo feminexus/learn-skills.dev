@@ -1,0 +1,1 @@
+Gérez les notifications comme un flux de travail natif ECC sur GitHub, Linear, les alertes de bureau, les hooks et les surfaces de communication connectées. À utiliser lorsque le véritable problème est le routage des alertes, la déduplication, l'escalade ou l'effondrement de la boîte de réception.

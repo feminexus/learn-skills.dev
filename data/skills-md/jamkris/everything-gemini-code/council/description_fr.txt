@@ -1,0 +1,1 @@
+Convoquez un conseil à quatre voix pour les décisions ambiguës, les compromis et les appels "go/no-go". À utiliser lorsqu'il existe plusieurs chemins valides et que vous avez besoin d'un désaccord structuré avant de choisir.

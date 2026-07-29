@@ -1,0 +1,1 @@
+Directives de codage TigerStyle Zig — distillées à partir de la base de code de production de TigerBeetle. À utiliser lors de l'écriture, de la révision ou de la refactorisation du code Zig, en posant des questions sur les idiomes Zig, les assertions, la disposition de la mémoire, les conventions de dénomination, le style de code et la conception de l'API.

@@ -1,0 +1,1 @@
+Analysez votre configuration Gemini CLI (répertoire .gemini/) pour détecter les vulnérabilités de sécurité, les erreurs de configuration et les risques d'injection à l'aide d'AgentShield. Vérifie GEMINI.md, settings.json, les serveurs MCP, les hooks et les définitions d'agent.

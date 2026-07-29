@@ -1,0 +1,1 @@
+Comparaison directe des agents de codage (Gemini CLI, Aider, Codex, etc.) sur des tâches personnalisées avec des mesures de taux de réussite, de coût, de temps et de cohérence

@@ -1,0 +1,1 @@
+Divisez un plan, une spécification ou la conversation en cours en un ensemble de tickets traceurs, chacun déclarant ses bords de blocage, publiés sur le tracker configuré - bords sous forme de texte dans un fichier par ticket localement, ou liens de blocage natifs sur un vrai tracker.

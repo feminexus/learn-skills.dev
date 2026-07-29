@@ -1,0 +1,1 @@
+Bun en tant qu'environnement d'exécution, gestionnaire de packages, bundler et exécuteur de test. Quand choisir Bun vs Node, les notes de migration et le support Vercel.

@@ -1,0 +1,1 @@
+Utilisez cette compétence lors de la récupération de tickets Jira, de l'analyse des exigences, de la mise à jour du statut du ticket, de l'ajout de commentaires ou de la transition de problèmes. Fournit des modèles d'API Jira via MCP ou des appels REST directs.

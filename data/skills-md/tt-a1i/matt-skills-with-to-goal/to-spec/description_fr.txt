@@ -1,0 +1,1 @@
+Transformez la conversation en cours en spécification et publiez-la dans le système de suivi des problèmes du projet : pas d'interview, juste une synthèse de ce dont vous avez déjà discuté.

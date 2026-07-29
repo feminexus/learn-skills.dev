@@ -1,0 +1,1 @@
+Point d’entrée spécifique à la HIPAA pour les travaux de confidentialité et de sécurité des soins de santé. À utiliser lorsqu'une tâche est explicitement encadrée par la loi HIPAA, la gestion des PHI, les entités couvertes, les BAA, la situation de violation ou les exigences de conformité des soins de santé aux États-Unis.

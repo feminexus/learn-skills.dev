@@ -1,0 +1,1 @@
+Coordonnez des chercheurs parallèles pour étudier un sujet en profondeur et synthétiser les résultats appuyés par des citations – un flux de travail Research Orchestrator invoqué par l’utilisateur.

@@ -1,0 +1,1 @@
+Analysez la branche actuelle ou une pull request GitHub et planifiez une pile de nouvelles pull request faciles à réviser, en divisant le travail uniquement lorsque les limites améliorent sensiblement la révisabilité. À utiliser lorsqu'un changement peut bénéficier de plusieurs PR ordonnés.

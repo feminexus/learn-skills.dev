@@ -1,0 +1,1 @@
+Vérification contradictoire multi-agents avec boucle de convergence. Deux agents d'examen indépendants doivent tous deux passer devant les navires de sortie.

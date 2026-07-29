@@ -1,0 +1,1 @@
+À utiliser lors du tri des commentaires d'évaluation sur un PR provenant de n'importe quelle source : CodeRabbit, Graphite Reviewer, ingénieurs humains. Déduit le PR actuel de la branche ou accepte un numéro PR comme argument.

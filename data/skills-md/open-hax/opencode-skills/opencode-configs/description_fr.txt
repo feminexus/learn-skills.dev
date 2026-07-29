@@ -1,0 +1,1 @@
+Mettre à jour la configuration, les règles, les commandes et les autorisations OpenCode conformément à la documentation officielle

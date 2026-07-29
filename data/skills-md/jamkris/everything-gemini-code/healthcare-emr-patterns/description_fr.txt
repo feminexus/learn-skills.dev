@@ -1,0 +1,1 @@
+Modèles de développement DME/DSE pour les applications de soins de santé. Sécurité clinique, flux de travail des rencontres, génération de prescriptions, intégration de l'aide à la décision clinique et interface utilisateur axée sur l'accessibilité pour la saisie des données médicales.

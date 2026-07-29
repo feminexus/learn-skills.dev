@@ -1,0 +1,1 @@
+Guide la conception d’expériences VR/MR confortables et intuitives pour Meta Quest et Horizon OS : directives de confort, modèles d’interaction, disposition spatiale, accessibilité. À utiliser lors de la révision de la conception UX ou lors de l’évaluation du confort et de l’accessibilité.

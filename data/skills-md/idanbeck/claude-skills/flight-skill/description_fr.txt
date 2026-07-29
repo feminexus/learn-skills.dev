@@ -1,0 +1,1 @@
+Recherchez l'état des vols en direct, suivez les vols de correspondance et vérifiez les retards à l'aéroport. À utiliser lorsque l'utilisateur demande à vérifier un vol, à suivre le voyage de quelqu'un ou à rechercher les conditions à l'aéroport.

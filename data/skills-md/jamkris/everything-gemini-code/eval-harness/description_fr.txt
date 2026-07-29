@@ -1,0 +1,1 @@
+Cadre d'évaluation formel pour les sessions Gemini CLI mettant en œuvre les principes de développement piloté par l'évaluation (EDD)

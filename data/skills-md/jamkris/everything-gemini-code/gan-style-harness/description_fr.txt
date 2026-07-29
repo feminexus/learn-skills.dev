@@ -1,0 +1,1 @@
+Exploitation d'agents générateurs-évaluateurs inspirés du GAN pour créer des applications de haute qualité de manière autonome. Basé sur le document de conception de harnais d'Anthropic de mars 2026.

@@ -1,0 +1,1 @@
+Gestion de projets de recherche de manuscrits médicaux. Structurez la structure du projet, suivez la progression de l'écriture au fil des phases, conservez les fichiers de mémoire du projet, générez des listes de contrôle de soumission et des chronologies rétrospectives. Commandes : init, status, sync-memory, checklist, timeline.

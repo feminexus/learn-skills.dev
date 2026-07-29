@@ -1,0 +1,1 @@
+Exécutez une vérification complète de la qualité du texte russe sur le texte fourni ou sur la sortie récente

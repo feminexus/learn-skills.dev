@@ -1,0 +1,1 @@
+Détecte la pile du projet à partir des manifestes et propose une configuration de cadre sur mesure – des chemins d'or de stratégie technologique remplis, un pilotage de révision REVIEW.md/CLAUDE.md et une liste d'élagage des éléments de cadre inutilisés – sous forme de plan révisable, jamais d'écriture silencieuse.

@@ -1,0 +1,1 @@
+Téléchargez les images aériennes NAIP pour un cadre de délimitation. Spécifiez les coordonnées sous la forme minx, miny, maxx, maxy en WGS84 et éventuellement une année.

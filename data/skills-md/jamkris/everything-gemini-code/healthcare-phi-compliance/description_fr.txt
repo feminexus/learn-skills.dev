@@ -1,0 +1,1 @@
+Modèles de conformité des informations de santé protégées (PHI) et des informations personnelles identifiables (PII) pour les applications de soins de santé. Couvre la classification des données, le contrôle d'accès, les pistes d'audit, le cryptage et les vecteurs de fuite courants.

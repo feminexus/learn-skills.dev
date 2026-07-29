@@ -1,0 +1,1 @@
+Lorsque l'utilisateur souhaite créer ou améliorer la capacité d'un robot de vente à estimer les délais de transaction en fonction des modèles de conversation. À utiliser également lorsque l'utilisateur mentionne « prédiction de clôture », « calendrier de la transaction », « estimation du cycle de vente », « calendrier des prévisions » ou « vitesse de la transaction ».

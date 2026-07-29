@@ -1,0 +1,1 @@
+Modèles de sécurité pour les agents commerciaux autonomes avec portefeuille ou autorité de transaction. Couvre l'injection rapide, les limites de dépenses, la simulation de pré-envoi, les disjoncteurs, la protection MEV et la gestion des clés.

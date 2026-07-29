@@ -1,0 +1,1 @@
+À utiliser lorsqu'une tâche implique VMOS Edge Desktop : création ou contrôle d'appareils virtuels Android sur des hôtes Edge, interaction avec l'interface utilisateur du bureau Electron via CDP, automatisation des flux de travail des appareils avec des playbooks YAML ou JSON par lots, ou récupération à partir de codes d'erreur CLI.

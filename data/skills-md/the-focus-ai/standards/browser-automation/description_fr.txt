@@ -1,0 +1,1 @@
+Automatisez le navigateur Chrome via le protocole DevTools. À utiliser lorsque l'utilisateur demande à gratter des sites Web, à prendre des captures d'écran, à générer des PDF, à interagir avec des pages Web, à extraire du contenu, à remplir des formulaires ou à automatiser les tâches du navigateur.

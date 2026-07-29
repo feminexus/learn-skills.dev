@@ -1,0 +1,1 @@
+Empêchez les bogues silencieux de non-concordance décimale dans les chaînes EVM. Couvre la recherche décimale d'exécution, la mise en cache sensible à la chaîne, la dérive de précision des jetons pontés et la normalisation sécurisée pour les robots, les tableaux de bord et les outils DeFi.

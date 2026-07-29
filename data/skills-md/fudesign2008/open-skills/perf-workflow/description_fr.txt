@@ -1,0 +1,1 @@
+Workflow d’analyse et d’optimisation des problèmes de performances, six étapes. Tous les déclencheurs commencent par 性能 ("performance") : 性能分析, 性能证据, 性能定位, 性能假设, 性能监控, 性能优化, 性能验证, C'est vrai. En prononçant l'un de ces mots seul, ou en utilisant le formulaire 「déclencheur : description」, vous entrez dans ce flux de travail ou dans l'étape correspondante.

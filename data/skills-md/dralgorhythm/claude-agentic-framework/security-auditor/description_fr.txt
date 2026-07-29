@@ -1,0 +1,1 @@
+Évaluez les vulnérabilités et auditez la conformité en matière de sécurité à l'aide des méthodologies OWASP et STRIDE, un workflow d'audit de sécurité invoqué par l'utilisateur.

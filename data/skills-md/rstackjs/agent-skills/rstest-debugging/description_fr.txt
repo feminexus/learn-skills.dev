@@ -1,0 +1,1 @@
+Déboguez systématiquement les problèmes de Rstest, y compris les régressions de performances. Déterminez d’abord si le ralentissement concerne le démarrage de la build ou l’exécution des tests, puis exécutez des expériences de configuration ou de code contrôlées et comparez les délais avant/après.

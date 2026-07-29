@@ -1,0 +1,1 @@
+Accepter et normaliser un nouveau projet de recherche en radiologie. Classifie le type de projet, résume l'état actuel, identifie les entrées manquantes, recommande les prochaines étapes et échafaude des fichiers de mémoire de projet légers.

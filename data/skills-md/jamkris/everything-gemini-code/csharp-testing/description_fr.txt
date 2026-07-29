@@ -1,0 +1,1 @@
+Modèles de test C# et .NET avec xUnit, FluentAssertions, simulations, tests d'intégration et meilleures pratiques d'organisation de tests.

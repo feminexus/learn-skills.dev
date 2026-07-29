@@ -1,0 +1,1 @@
+Écrit du texte en anglais technique simplifié (STE) ASD-STE100, numéro 9, la norme de langage contrôlé pour la documentation technique. Utilisez-le lorsque l'utilisateur demande STE, l'anglais technique simplifié, l'ASD-STE100 ou une langue contrôlée, ou souhaite une documentation technique, des procédures ou des manuels clairs.

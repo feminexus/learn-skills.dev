@@ -1,0 +1,1 @@
+Créez des suites d'essais, de couverture et de conditions structurelles et entrez le rapport `QA.planner-execution-summary.md`.

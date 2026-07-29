@@ -1,0 +1,1 @@
+Profils des performances du processeur des applications Meta Quest et Horizon OS à l'aide de simpleperf : classification de la charge de travail, enregistrement des points chauds du processeur, mesure de la surcharge du noyau. À utiliser pour diagnostiquer si une application est liée au processeur, à la mémoire ou aux E/S sur les appareils Quest.

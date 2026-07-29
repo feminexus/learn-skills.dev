@@ -1,0 +1,1 @@
+Sélecteur d'agents interactif pour composer et répartir des équipes parallèles

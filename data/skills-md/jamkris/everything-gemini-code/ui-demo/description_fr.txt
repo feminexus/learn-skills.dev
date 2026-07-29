@@ -1,0 +1,1 @@
+Enregistrez des vidéos de démonstration d'interface utilisateur raffinées à l'aide de Playwright. À utiliser lorsque l'utilisateur demande à créer une démo, une procédure pas à pas, un enregistrement d'écran ou un didacticiel vidéo d'une application Web. Produit des vidéos WebM avec un curseur visible, un rythme naturel et une sensation professionnelle.

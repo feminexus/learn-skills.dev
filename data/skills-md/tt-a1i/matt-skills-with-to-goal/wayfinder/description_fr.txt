@@ -1,0 +1,1 @@
+Planifiez une énorme partie du travail (plus d'une session d'agent peut en contenir) sous la forme d'une carte partagée de tickets de décision sur votre outil de suivi des problèmes, et résolvez-les un par un jusqu'à ce que le chemin vers la destination soit clair.

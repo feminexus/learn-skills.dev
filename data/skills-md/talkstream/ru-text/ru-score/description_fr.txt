@@ -1,0 +1,1 @@
+Évaluez la qualité du texte russe sur une échelle de 0,0 à 10,0 sur 5 dimensions

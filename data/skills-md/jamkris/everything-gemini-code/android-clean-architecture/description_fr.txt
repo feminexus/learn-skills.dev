@@ -1,0 +1,1 @@
+Modèles d'architecture propre pour les projets Android et Kotlin Multiplatform : structure de module, règles de dépendance, cas d'utilisation, référentiels et modèles de couche de données.

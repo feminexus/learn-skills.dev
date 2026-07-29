@@ -1,0 +1,1 @@
+Générez un guide de test manuel pour les testeurs humains à partir des modifications de code (diff, commit, MR/PR). Se déclenche lorsque l'utilisateur dit "test" guide」「根据代码生成测试」「从 MR 生成测试指南」「从 PR 生成测试指南」 (générer un guide de test / un guide de test manuel / un guide de test à partir du code / de MR / de PR), ou fournit un lien diff/MR/PR et demande un guide de test.

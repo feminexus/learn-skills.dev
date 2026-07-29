@@ -1,0 +1,1 @@
+Débogue les applications Meta Quest et Horizon OS VR/MR à l'aide de la CLI métavr : affichez les journaux, capturez des captures d'écran, diagnostiquez les problèmes courants. À utiliser lors du dépannage de pannes, d'erreurs ou de comportements inattendus sur les appareils Quest.

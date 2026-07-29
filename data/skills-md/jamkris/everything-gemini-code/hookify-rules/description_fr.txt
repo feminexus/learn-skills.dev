@@ -1,0 +1,1 @@
+Cette compétence doit être utilisée lorsque l'utilisateur demande de créer une règle hookify, d'écrire une règle hookify, de configurer hookify, d'ajouter une règle hookify ou a besoin de conseils sur la syntaxe et les modèles de règle hookify.

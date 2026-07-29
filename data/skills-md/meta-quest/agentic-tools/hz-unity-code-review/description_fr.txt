@@ -1,0 +1,1 @@
+Examine le code Unity ciblant Meta Quest et Horizon OS pour les problèmes de performances, les meilleures pratiques de rendu et les pièges courants de la réalité virtuelle. À utiliser lors de la révision du code ou lors du diagnostic des problèmes de performances de Quest dans les projets Unity.

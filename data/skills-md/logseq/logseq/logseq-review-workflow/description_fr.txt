@@ -1,0 +1,1 @@
+Examinez les modifications du code Logseq, les PR, les correctifs, les plages de validation ou les plans de mise en œuvre via un workflow d'orchestration d'agent principal qui achemine les sous-agents en lecture seule à travers des passes de révision indépendantes, puis duplique, valide et rapporte les résultats pour l'application Web, l'application de bureau et la CLI Logseq.

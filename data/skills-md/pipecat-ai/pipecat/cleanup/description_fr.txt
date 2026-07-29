@@ -1,0 +1,1 @@
+Examiner, refactoriser, documenter et valider les modifications de code dans la branche actuelle

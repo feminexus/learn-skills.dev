@@ -1,0 +1,1 @@
+Auditez une base de code de manière globale pour les violations SOLID, DRY et de cohérence – un flux de travail Codebase Auditor invoqué par l'utilisateur.

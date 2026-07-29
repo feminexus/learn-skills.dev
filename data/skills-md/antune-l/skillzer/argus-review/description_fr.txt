@@ -1,0 +1,1 @@
+Lorsqu'on lui demande d'examiner un PR ou une branche (« examiner ce PR », « PR review », « argus », avant de fusionner), répartissez la différence vers des réviseurs parallèles en lecture seule et renvoyez un verdict classé par gravité ; éventuellement publier en ligne via gh.

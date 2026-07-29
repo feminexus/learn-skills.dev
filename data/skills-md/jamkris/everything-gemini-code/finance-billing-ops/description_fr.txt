@@ -1,0 +1,1 @@
+Un flux de travail basé sur des données probantes sur les revenus, les prix, les remboursements, la facturation d'équipe et le modèle de facturation pour ECC. À utiliser lorsque l'utilisateur souhaite un instantané des ventes, une comparaison des prix, un diagnostic de frais en double ou une réalité de facturation basée sur un code au lieu de conseils de paiement génériques.

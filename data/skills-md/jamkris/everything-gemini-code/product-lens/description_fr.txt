@@ -1,0 +1,1 @@
+Validation de la réflexion produit avant de créer des fonctionnalités

@@ -1,0 +1,1 @@
+Stratégies de tests de régression pour le développement assisté par l'IA. Tests d'API en mode Sandbox sans dépendances de base de données, flux de travail automatisés de vérification des bogues et modèles pour détecter les angles morts de l'IA où le même modèle écrit et révise le code.

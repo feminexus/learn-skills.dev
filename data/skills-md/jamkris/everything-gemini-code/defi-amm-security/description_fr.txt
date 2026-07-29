@@ -1,0 +1,1 @@
+Liste de contrôle de sécurité pour les contrats Solidity AMM, les pools de liquidité et les flux de swap. Couvre la réentrée, la commande CEI, les attaques de dons ou d'inflation, la manipulation d'oracle, le glissement, les contrôles administratifs et les mathématiques entières.

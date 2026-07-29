@@ -1,0 +1,1 @@
+Transformez une tâche Codex surdimensionnée ou lente en une nouvelle tâche visible par l'utilisateur avec une continuité compacte. À utiliser uniquement pour un transfert explicite ou un survol de contexte ; pas pour la continuation ordinaire, la délégation, les forks d'historique complet, la migration Git ou les fichiers de transfert.

@@ -1,0 +1,1 @@
+Reproduisez la méthodologie d’une étude de cohorte existante sur une base de données différente. Extrait la conception de l'étude à partir d'un article source, mappe les variables à la base de données cible via une table d'harmonisation, génère un code d'analyse et produit un rapport sur les différences de réplication.

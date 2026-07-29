@@ -1,0 +1,1 @@
+Workflow d’exécution de dépôt fondé sur des preuves pour ECC. À utiliser lorsque l'utilisateur souhaite exécuter une commande, vérifier un dépôt, déboguer un échec de CI ou proposer un correctif précis avec une preuve exacte de ce qui a été exécuté et vérifié.

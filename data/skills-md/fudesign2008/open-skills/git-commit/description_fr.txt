@@ -1,0 +1,1 @@
+Git commit point d’entrée unifié. Se déclenche lorsque l'utilisateur dit 「提交代码」「git commit」「帮我提交」「写 commit message」「生成commit」「提交一下」「git-commit」「自动提交代码」「git-commit-auto」 (code de validation / aidez-moi à valider / écrire un message de validation / générer une validation / validation automatique), ou lorsqu'il est invoqué par la phase 7 de jira-fix-workflow.

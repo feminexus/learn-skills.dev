@@ -1,0 +1,14 @@
+Travaillez dans le package framework Wonder-image/app – la bibliothèque Composer sur github.com/wonder-image/app. Il s'agit du noyau du framework, pas d'un site qui le consomme.
+
+DÉCLENCHEMENT lorsque :
+- le composer.json du dépôt déclare `"name": "wonder-image/app"`
+- édition des fichiers sous `class/App/*`, `app/config/routes/*`, `app/http/*`, `app/bootstrap/*`, `app/middleware/*`, `class/App/Module/*`, `class/Console/*`
+- édition des composants d'interface utilisateur partagés sous `class/Elements/Components/*`, des médias sous `class/Elements/Media/*` ou de leurs moteurs de rendu sous `class/Themes/{Wonder,Bootstrap}/*`
+- modifier Model, Resource, PageSchema, Repeater, ModelRegistry, ResourceRegistry, ResourceRouteRegistrar, Credentials ou le point d'entrée `wonder-image.php`
+- modification de l'ordre d'amorçage, de la résolution `ROOT`/`.env`, de la découverte de modules, des routes backend/API CRUD générées ou des sources de commandes `php forge ...`
+- mise à jour de `docs/app/*` pour les conventions d'amorçage, d'architecture, de routage ou de mise en page
+
+SAUTER quand :
+- le dépôt est un site Wonder qui installe Wonder-image/app sous `vendor/` (par exemple Wonder-image/new-site ou tout projet échafaudé à partir de celui-ci) — utilisez wi-site
+- le changement se situe dans `custom/`, `app/Models`, `app/Resources`, `lang/` ou `assets/` d'un site
+- la tâche est dans Wonder-image/lib (le système de conception JS/CSS) — dépôt différent

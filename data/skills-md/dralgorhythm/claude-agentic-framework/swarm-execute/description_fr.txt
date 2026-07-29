@@ -1,0 +1,1 @@
+Exécutez un plan de mise en œuvre avec des essaims de travailleurs parallèles, des contrôles de qualité et un suivi natif des tâches : un workflow Execution Orchestrator invoqué par l'utilisateur.

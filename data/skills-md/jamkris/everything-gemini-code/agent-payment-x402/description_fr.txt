@@ -1,0 +1,1 @@
+Ajoutez l'exécution des paiements x402 aux agents IA avec des budgets par tâche, des contrôles des dépenses et des portefeuilles non dépositaires. Prend en charge Base via agentwallet-sdk et X Layer via OKX Payments / OKX Agent Payments Protocol.

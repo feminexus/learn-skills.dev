@@ -1,0 +1,1 @@
+Organisez et validez instantanément toutes les modifications Git dans le référentiel actuel avec une vitesse maximale. À utiliser lorsque l'utilisateur demande /commit, souhaite une validation rapide du dépôt complet ou souhaite que tout soit mis en scène et validé sans qu'on lui demande un message de validation.
