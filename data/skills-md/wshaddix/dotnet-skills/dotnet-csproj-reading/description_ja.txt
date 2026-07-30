@@ -1,0 +1,1 @@
+.csproj ファイルの読み取りまたは変更。 SDK スタイルの構造、PropertyGroup/ItemGroup、CPM、props。

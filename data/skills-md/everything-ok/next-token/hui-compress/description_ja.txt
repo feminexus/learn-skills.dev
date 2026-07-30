@@ -1,0 +1,1 @@
+サポートされている自然言語メモリ ファイル (CLAUDE.md、todos、preferences) を簡潔な Hui 形式に書き換えます。保護された構造を保持し、人間が判読できる FILE.original.md バックアップを書き込みます。トリガー: /hui-compress FILEPATH または「メモリ ファイルの圧縮」

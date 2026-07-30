@@ -1,0 +1,1 @@
+エージェント フレームワーク 30 はオーバースタック Theo 8 trục (フロンティア ギャップ スキャン Runbook) — gọi INSTANT、không phải cron です。 Chạy 5 WebSearch、chấm Ngang/Chớm/Thua、diff kỳ trước、問題提起チョギャップ mới / cập nhật ギャップ đã có、cập nhật レポート。トリガー: 'frontier scan'、'quét đối thủ'、'scout tuần'、'chúng ta thua gì'、'/frontier-scan'。

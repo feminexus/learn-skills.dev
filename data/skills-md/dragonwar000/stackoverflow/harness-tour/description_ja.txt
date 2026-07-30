@@ -1,0 +1,1 @@
+ツアー — Claude tự diễn cho user xem harness chặn mình theo thời gian thực trên project thật. Hai độ dài — 「ショート」 = 3 cảnh (R1・R2・R3)、「フル」 = 10 (R1 – R10)。ベンダー中立 (cách CHÍNH) 干し草ハーネス生産の PoC です。デモをダウンロードします。トリガー: 「ハーネス ツアー」、「xem ハーネス ラムギ」、「/harness-tour」、「テスト ショート」、「テスト フル」。

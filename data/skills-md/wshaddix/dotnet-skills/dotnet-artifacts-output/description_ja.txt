@@ -1,0 +1,1 @@
+成果物の出力レイアウトを使用します。 UseArtifactsOutput、ArtifactsPath、CI および Docker への影響。

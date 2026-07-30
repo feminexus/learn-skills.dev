@@ -1,0 +1,1 @@
+.NETコンテナのデプロイ。 Kubernetes プローブ、ローカル開発用の Docker Compose、CI/CD 統合。

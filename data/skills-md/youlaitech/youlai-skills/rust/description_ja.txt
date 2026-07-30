@@ -1,0 +1,1 @@
+錆後端开发规范。このスキルは、Rust Web プロジェクトを開発するとき、Axum + SeaORM、JWT/Redis トークン認証、または youlai-rust 管理バックエンド (PostgreSQL) を使用して REST API を実装するときに使用します。

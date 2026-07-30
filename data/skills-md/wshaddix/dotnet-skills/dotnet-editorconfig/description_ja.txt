@@ -1,0 +1,1 @@
+.editorconfig ルールの作成。 IDE/CA 重大度、AnalyticsLevel、globalconfig、コード スタイルの適用。

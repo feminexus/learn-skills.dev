@@ -1,0 +1,1 @@
+AI エージェント用の REST API または MCP サーバーを介して Slay the Spire 2 ゲームプレイを制御および自動化する

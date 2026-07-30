@@ -1,0 +1,1 @@
+Ansible Playbook を作成するときに使用する必要があります。

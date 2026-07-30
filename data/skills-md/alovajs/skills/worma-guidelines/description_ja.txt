@@ -1,0 +1,1 @@
+worma OpenAPI コードの生成と構成。ユーザーが worma 設定、API コード生成、OpenAPI/Swagger 統合、worma CLI、または @alova/wormhole、axios、または ky からの移行について言及する場合は常にこのスキルを使用します。 worma.config、npx worma init/gen、OpenAPI 仕様からの API コードの生成、または @alova/wormhole、axios、ky から worma への切り替えに関する質問をトリガーします。

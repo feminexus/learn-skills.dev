@@ -1,0 +1,1 @@
+React Testing Library (RTL) + @testing-library/user-event を使用した React / Next.js コンポーネント テストの作成ガイド（酵素不使用／シャロー レンダー）。ユーザーが React または Next.js コンポーネントのコンポーネント/統合テストを希望する場合、またはコンポーネントに対するレンダリングされた出力/ユーザー インタラクションを確認する場合に使用します。

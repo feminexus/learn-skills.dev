@@ -1,0 +1,1 @@
+定期的なウィキの健全性チェック — 孤立、リンクの欠落、矛盾、古くなった (ウィキ→ウィキのコード→ウィキのドリフト)、インデックスのギャップ。 Bước 0 là cổng no-op tất định (wiki-sync、0 トークン) — コード không đổi kể từ neo thì kết luận 「wiki current」và dừng sớm hợp lệ。

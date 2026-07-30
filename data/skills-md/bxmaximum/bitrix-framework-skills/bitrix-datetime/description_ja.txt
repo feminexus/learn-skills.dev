@@ -1,0 +1,1 @@
+Bitrix の日付と時刻 — Bitrix\Main\Type\Date および DateTime、カーネル マスクによる解析と書式設定、日付演算、toUserTime/disableUserTime/enableUserTime によるタイム ゾーン、Context::getCulture() およびロケール形式、タイムスタンプへの変換をカバーします。スケジュールの作成、タイムゾーンの変換、日付の比較、ORM フィールド DateField および DatetimeField の操作時に適用されます。重要な用語 — 日付、DateTime、toUserTime、形式、タイムゾーン、カルチャー、DateField、タイムスタンプ。

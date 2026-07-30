@@ -1,0 +1,1 @@
+PUBLIC Salla アプリが (App Store の掲載情報) をレビューする場合に使用します。app_publish による段階的公開のマスター スキルです。現在のドラフトを読み取り、各ステップをその所有者にルーティングし、ハードゲートはクリーンな検証とパートナーの明示的な確認の背後で管理者レビューに送信します。プライベート アプリはポータルから公開します。salla-app-builder を参照してください。ハンドオフ: リスト/画像 → salla-app-ui-builder;価格 + 請求サイクル → salla-app-billing;スコープ → salla-app-auth; Webhook → Salla-Webhook;設定→salla-app-settings。

@@ -1,0 +1,1 @@
+ユーザーがコードの単体テストを生成、作成、または作成するように要求する場合に使用します。ターゲット コードを分析し、レビュー用に構造化されたテスト ケース リストを生成して、テスト コードを生成します。 C#/.NET (xUnit、NSubstitute、AwesomeAssertions) および TypeScript/JavaScript (Vitest または Jest) をサポートします。

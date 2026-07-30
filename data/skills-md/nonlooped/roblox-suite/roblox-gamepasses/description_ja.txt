@@ -1,0 +1,1 @@
+ルールに従った Roblox 収益化 — ゲームパス、開発者向け製品 (ProcessReceipt)、およびサブスクリプション (GetUserSubscriptionStatusAsync、PromptSubscriptionPurchase)。販売フロー、PlayerAdded および購入完了時のサーバー権限付与、PolicyService ゲート (ArePaidRandomItemsRestricted、IsEligibleToPurchaseSubscription、中国ポリシー)、パーソナライゼーション、永続データとの統合について説明します。購入、特典、または定期的な特典に使用します。

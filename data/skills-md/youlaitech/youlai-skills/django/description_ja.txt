@@ -1,0 +1,1 @@
+Django REST フレームワークのバックエンド開発標準。このスキルは、Django プロジェクトを開発するとき、DRF ViewSet、Serializer、または JWT 認証を使用して REST API を実装するときに使用します。

@@ -1,0 +1,1 @@
+GitHub Actions からの .NET アーティファクトの公開。 NuGet プッシュ、コンテナー イメージ、署名、SBOM。

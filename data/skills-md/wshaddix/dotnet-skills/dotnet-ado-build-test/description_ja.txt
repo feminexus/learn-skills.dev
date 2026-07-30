@@ -1,0 +1,1 @@
+Azure DevOps での .NET ビルド/テストの構成。 DotNetCoreCLI タスク、アーティファクト、テスト結果。

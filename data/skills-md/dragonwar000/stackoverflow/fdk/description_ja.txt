@@ -1,0 +1,1 @@
+フロントドア オンデマンドの cho phát triển フレームワーク HOẶC 抽出/作成者はスキルを必要としません — 自己完結型、chạy được ở BẤT KỲ project nao (không phụ thuộc ファイル リポジトリローカル)。 Gọi khi đang sửa chính フレームワークでは、スキルを習得する必要はありません。 KHÔNG dùng cho dev tính năng dự án thường (đó là phần lớn phiên — ADR-004)。

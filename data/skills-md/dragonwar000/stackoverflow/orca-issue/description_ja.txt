@@ -1,0 +1,1 @@
+Vòng xử lý SỰ CỐ ファーストクラス — dùng khi có バグ、lỗi ランタイム、hành vi sai、「treo を承認」、回帰、インシデント生成。 Điều phối トリアージ → 再現第一ゲート (chưa tái hiện được thì CHƯA được sửa) → khoanh vùng (コードグラフ/影響チェック/二分化) → 安全変更 với bằng chứng を修正đỏ→xanh → kép を蒸留します (wiki のインシデント + 失敗フライホイール + 問題ツリー)。 KHÔNG dùng cho tính năng mới (đó là 提案/オルカ ワークフロー)。

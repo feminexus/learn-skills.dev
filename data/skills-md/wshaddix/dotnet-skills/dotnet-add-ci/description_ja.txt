@@ -1,0 +1,1 @@
+.NET プロジェクトへの CI/CD の追加。 GitHub Actions と Azure DevOps の検出、ワークフロー テンプレート。

@@ -1,0 +1,1 @@
+リアルタイム機能の構築。 SignalR ハブ、SSE (.NET 10)、JSON-RPC 2.0、gRPC ストリーミング、スケーリング。

@@ -1,0 +1,1 @@
+Vybe のパブリック Solana MCP サーバーを使用して、Claude、Cursor、または任意の MCP クライアントから Solana ブロックチェーン データ、トークン、NFT、アカウントをクエリします。

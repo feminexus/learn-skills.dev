@@ -1,0 +1,1 @@
+API認証を実装します。 ID、OAuth/OIDC、JWT ベアラー、パスキー (WebAuthn)、CORS、レート制限。

@@ -1,0 +1,1 @@
+aer-identification によって設計が修正された場合、方法論の選択後、aer-robustness または aer-tables-figures の前に、因果推論、堅牢性、感度、および公開準備が整ったテーブル エクスポート用のエージェント ネイティブ Python エンジンおよび MCP サーバーである StatsPAI で AER トラック分析を実行するために使用します。

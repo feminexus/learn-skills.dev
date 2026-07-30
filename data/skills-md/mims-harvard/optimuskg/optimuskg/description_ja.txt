@@ -1,0 +1,1 @@
+「optimuskg」Python クライアントを介して生物医学知識グラフである OptimusKG を使用するためのガイド。これは、OptimusKG データ (遺伝子、薬物、疾患、表現型、解剖学的構造、経路、およびそれらの関係) を Polars DataFrame または NetworkX グラフとしてロード、クエリ、フィルタリング、または分析する場合、または Harvard Dataverse から公開されたグラフをダウンロードする場合に使用します。

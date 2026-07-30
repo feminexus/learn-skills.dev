@@ -1,0 +1,1 @@
+ワークフロー、タスク、ステップ、スリープ、承認、taskScript、taskFlow、task_script、または task_flow を使用して Windmill Workflow-as-Code スクリプトを作成または変更するときに使用する必要があります。

@@ -1,0 +1,1 @@
+Antigravity/OpenCode ディスパッチ、スキル インストール、AgentMemory、RTK トークン プロキシのリファレンス — ループ スキルではありません

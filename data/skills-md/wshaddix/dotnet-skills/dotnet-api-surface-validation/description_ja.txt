@@ -1,0 +1,1 @@
+CI での API 変更の検出。 PublicApiAnalyzers、スナップショットの検証、重大な変更の適用。

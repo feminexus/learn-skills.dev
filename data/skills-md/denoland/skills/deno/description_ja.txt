@@ -1,0 +1,1 @@
+Deno プロジェクトでコードを作成、実行、構成、レビュー、デバッグするとき、または新しいプロジェクトをスキャフォールディングするときに使用します。 deno install と deno add、package.json と node_modules のサポート、npm と JSR パッケージ、アクセス許可、設定が package.json、tsconfig.json、deno.json に属する場合、ワークスペース、組み込みツールチェーン (fmt、lint、テスト、チェック、ベンチ、コンパイル)、および公開による依存関係管理をカバーします。

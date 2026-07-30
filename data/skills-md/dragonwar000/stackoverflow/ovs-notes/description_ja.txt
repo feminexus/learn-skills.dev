@@ -1,0 +1,1 @@
+ビューアのリリース ノートが TỨC THÌ にオーバースタックされます (kiểu /release-notes của Claude CLI)。 /ovs-notes → liệt kê NGAY 変更ログ OVERSTACK フレームワーク (新しい順) để chọn & đọc; /ovs-notes <バージョン|最新> (đầy đủ); /ovs-notes --here = プロジェクトをリリースします。読み取り専用、KHÔNG 副作用 — KHÁC /ship (quy trình CẮT release)。トリガー: /ovs-notes、「xem リリース ノート」、「リリース ノート bản nao」、「changelog」、「các bản đã ra」、「bản mới nhất có gì」。

@@ -1,0 +1,1 @@
+YouTube に字幕や自動キャプションがない場合は、whisper.cpp を使用して YouTube 音声をローカルで文字起こしします。 anibon-timestamper によってロードされた代替パス。

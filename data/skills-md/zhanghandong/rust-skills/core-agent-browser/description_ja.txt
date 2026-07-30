@@ -1,0 +1,1 @@
+Rust-learner、docs-researcher、および crate-researcher によって使用されるエージェント ブラウザー CLI ワークフローの内部サポート スキル。ブラウザの自動化が明示的に必要な場合にのみ使用してください。

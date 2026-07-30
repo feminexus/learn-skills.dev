@@ -1,0 +1,1 @@
+Vue 3 + TypeScript 開発標準。このスキルは、Composition API、Ponia、UnoCSS、および SCSS を使用して Vue 3 アプリケーションを構築するときに使用します。命名、CSS アーキテクチャ、コンポーネント構造、API パターン、コード品質について説明します。 UI ライブラリに依存しません (Element Plus、Ant Design Vue など)。

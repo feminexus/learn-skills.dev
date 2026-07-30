@@ -1,0 +1,1 @@
+Claude Code からの MakeThisBetter フィードバックを設定、認証、管理します。ユーザーが /makethisbetter を実行し、続いて setup、setup-auth、login、signup、list、pick、dismiss、resolve、またはフィードバック管理コマンドを実行するときに使用します。また、MakeThisBetter セットアップ、保留中のフィードバックのリスト、修正するフィードバックの選択、フィードバックのスキップ、解決済みのフィードバックのマーク、または PR のフィードバックへのリンクでもトリガーされます。

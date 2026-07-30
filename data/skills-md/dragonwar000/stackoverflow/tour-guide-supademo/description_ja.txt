@@ -1,0 +1,1 @@
+スタイル thiết kế Supademo cho アプリ内製品ツアー (スキル ツアー ガイド — コンポーネント gốc 0 依存関係): ブリンカー ホットスポット パルス、ツールチップ カード、ステップ カウンター + ナビゲーション ボタン、プログレス バー、テーマ トークン — クイラ レシピ Tailwind/CSS によるもの。トリガー: "/tour-guide-supademo"、"tour kiểu Supademo"、"style supademo"、"blinker hotspot"。 Quy ước: スタイルは /tour-guide-<tên> のスキルを考慮して蒸留します。

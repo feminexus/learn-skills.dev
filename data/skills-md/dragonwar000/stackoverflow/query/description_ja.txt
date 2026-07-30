@@ -1,0 +1,1 @@
+wikiからの回答を合成します。新しい洞察を Wiki エントリとして保持します。 Trả lời kèm mục Evidence trích dẫn Edge ID (eid) của các cạnh trong đồ thị wiki thật sự chống lưng kết luận — dùng khi cần biết 「căn cứ nào」、「trích dẫn cạnh nào」、「đường đi trong グラフ」、「証拠の引用」。

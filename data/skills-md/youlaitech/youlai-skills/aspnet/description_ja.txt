@@ -1,0 +1,1 @@
+ASP.NET Core バックエンド開発標準。このスキルは、ASP.NET Core プロジェクトの開発時、REST API の実装時、Entity Framework Core または JWT 認証の使用時に使用します。

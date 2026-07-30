@@ -1,0 +1,1 @@
+AI アシスタントを Shopify Admin GraphQL API に接続して製品、注文、顧客、在庫、メタフィールドを管理する MCP サーバー

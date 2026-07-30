@@ -1,0 +1,1 @@
+Mở room (subagent 1 tầng) nạp chi tiết wiki khi context phiên chính đã rot — Depth cap=1、予算 cứng、サーキット ブレーカー。トリガー: 「mở room」、「context rot」、「nạp thêm chi tiết wiki」、「đào sâu wiki」、「/wiki-room」。
