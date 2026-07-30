@@ -1,0 +1,1 @@
+Diagnosticare l'integrità della directory di pianificazione e, facoltativamente, riparare i problemi

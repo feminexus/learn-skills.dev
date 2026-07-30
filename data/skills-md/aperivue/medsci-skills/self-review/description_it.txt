@@ -1,0 +1,1 @@
+Autorevisione pre-invio per i manoscritti dell'utente, applicando la prospettiva del revisore. Controllo sistematico su 10 categorie con ramificazione di tipo ricerca. Output commenti maggiori/minori previsti con inquadramento della gravità e numerazione R0 opzionale per l'integrazione della pipeline /revise.

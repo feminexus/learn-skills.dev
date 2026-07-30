@@ -1,0 +1,1 @@
+Inizializza un nuovo progetto con la raccolta approfondita del contesto e PROJECT.md

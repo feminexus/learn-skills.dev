@@ -1,0 +1,1 @@
+Avvia o unisci un file .planning/ setup da ADR, PRD, SPEC e documenti esistenti in un repository.

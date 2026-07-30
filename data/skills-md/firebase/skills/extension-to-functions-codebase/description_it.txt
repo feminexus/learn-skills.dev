@@ -1,0 +1,1 @@
+Competenza per convertire un'estensione Firebase installata (o un'origine di estensione) in una codebase Cloud Functions for Firebase autonoma o in un pacchetto npm pubblicabile, incluso l'aggiornamento dei trigger da V1 a V2 e la configurazione di hook del ciclo di vita e sicurezza dichiarativa

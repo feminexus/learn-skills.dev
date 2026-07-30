@@ -1,0 +1,1 @@
+Identifica l'hook di un annuncio video e clonalo per il brand dell'utente. Invoca con /arcads:clone-hook o tramite un'altra abilità.

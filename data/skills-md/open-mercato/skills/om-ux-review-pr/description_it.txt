@@ -1,0 +1,1 @@
+Revisione progettuale basata sulle prove dell'interfaccia utente di un PR. Percorre le schermate modificate in un browser reale, esegue le attività dell'utente e pubblica i risultati classificati in base all'impatto dell'utente, ciascuno con prove, uno schema, un compromesso e un criterio di accettazione.

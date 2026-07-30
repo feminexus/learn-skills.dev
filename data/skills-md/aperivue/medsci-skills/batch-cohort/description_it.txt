@@ -1,0 +1,1 @@
+Genera N script di analisi da un singolo modello di metodologia × più combinazioni esposizione/risultato. Il modello "team di 80 persone": stesso metodo convalidato, solo variabili di scambio. Produce codice batch R/Python + matrice di riepilogo.
