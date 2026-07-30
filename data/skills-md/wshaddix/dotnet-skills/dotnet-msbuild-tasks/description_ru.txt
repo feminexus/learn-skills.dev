@@ -1,0 +1,1 @@
+Написание пользовательских задач MSBuild. ITask, ToolTask, IIncrementalTask, встроенные задачи, usingTask.

@@ -1,0 +1,1 @@
+Создавайте видео через общедоступные API reAPI, используя модели Seedance 2.0 (по умолчанию: doubao-seedance-2.0). Требуется REAPI_API_KEY или REAPI_KEY с https://reapi.ai.

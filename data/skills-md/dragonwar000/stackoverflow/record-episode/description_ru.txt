@@ -1,0 +1,1 @@
+Ghi một SESSION EPISODE có cấu trúc (tầng nhớ эпизодический) в хранилище памяти để phiên sau Truy hồi được 'phiên trước làm gì' — theo NGỮ NGHĨA, khong chỉ тео [[wikilink]]. Создайте mem-rank.py (движок). По требованию, автоматический крючок KHÔNG (ADR-004). Триггер: «эпизод гхи», «эпизод записи», «эпизод сеанса», «/эпизод-записи».

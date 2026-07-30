@@ -1,0 +1,1 @@
+Создание документации OpenAPI. MS.AspNetCore.OpenApi (.NET 9+), миграция Swashbuckle, NSwag.

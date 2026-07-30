@@ -1,0 +1,1 @@
+Развертывание приложений Uno Platform. Руководство для каждой цели для WASM, iOS, Android, macOS, Windows, Linux.

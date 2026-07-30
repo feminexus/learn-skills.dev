@@ -1,0 +1,1 @@
+Диагностика проблем с производительностью .NET. dotnet-counters, dotnet-trace, dotnet-dump, графики пламени.

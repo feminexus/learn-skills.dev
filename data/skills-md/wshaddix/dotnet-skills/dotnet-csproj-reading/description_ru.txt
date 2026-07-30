@@ -1,0 +1,1 @@
+Чтение или изменение файлов .csproj. Структура в стиле SDK, PropertyGroup/ItemGroup, CPM, реквизит.

@@ -1,0 +1,1 @@
+Создание правил .editorconfig. Серьезность IDE/CA, AnalysisLevel, globalconfig, соблюдение стиля кода.

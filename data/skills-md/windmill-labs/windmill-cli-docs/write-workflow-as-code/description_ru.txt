@@ -1,0 +1,1 @@
+НЕОБХОДИМО использовать при написании или изменении сценариев Windmill Workflow-as-Code с использованием workflow, Task, Step, Sleep, Approvals, TaskScript, TaskFlow, Task_Script или Task_flow.

@@ -1,0 +1,1 @@
+Синтезировать ответ из вики; сохраняйте новые идеи в виде записей вики. Trả lời kèm mục Evidence trích dẫn Edge ID (eid) của các cạnh trong đồ thị wiki thật sự chống lưng kết luận — dùng khi cần biết "căn cứ nao», «trích dẫn cạnh nao», «đường đi trong Graph», «привести доказательства».
