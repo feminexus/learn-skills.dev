@@ -1,0 +1,1 @@
+À utiliser lorsque l'utilisateur souhaite concevoir une application mobile ou des écrans d'interface utilisateur, lorsqu'il mentionne ses projets Sleek (sleek.design) ou lors de l'implémentation de conceptions Sleek dans le code (HTML, React Native, SwiftUI).

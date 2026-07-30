@@ -1,0 +1,1 @@
+Diagnostiquer l’état du répertoire de planification et éventuellement réparer les problèmes

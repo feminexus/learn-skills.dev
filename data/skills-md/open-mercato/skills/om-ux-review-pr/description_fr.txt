@@ -1,0 +1,1 @@
+Examen de la conception fondée sur des données probantes de l'interface utilisateur d'un PR. Parcourt les écrans modifiés dans un navigateur réel, effectue les tâches de l'utilisateur et publie les résultats classés par impact utilisateur, chacun avec des preuves, un modèle, un compromis et un critère d'acceptation.

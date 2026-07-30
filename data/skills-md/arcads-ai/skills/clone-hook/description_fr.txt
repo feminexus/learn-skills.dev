@@ -1,0 +1,1 @@
+Identifiez l'accroche d'une publicité vidéo et clonez-la pour la marque de l'utilisateur. Invoquez avec /arcads:clone-hook ou via une autre compétence.

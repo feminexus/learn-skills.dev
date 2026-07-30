@@ -1,0 +1,1 @@
+Générez N scripts d'analyse à partir d'un seul modèle de méthodologie × plusieurs combinaisons exposition/résultat. Le modèle « équipe de 80 personnes » — même méthode validée, échange de variables uniquement. Produit du code R/Python par lots + une matrice récapitulative.

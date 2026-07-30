@@ -1,0 +1,1 @@
+Exécutez une tâche triviale en ligne : pas de sous-agents, pas de surcharge de planification

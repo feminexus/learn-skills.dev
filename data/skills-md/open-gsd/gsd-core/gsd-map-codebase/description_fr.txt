@@ -1,0 +1,1 @@
+Analyser la base de code avec des agents de mappage parallèles pour produire des documents .planning/codebase/

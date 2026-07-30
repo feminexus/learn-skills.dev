@@ -1,0 +1,1 @@
+À utiliser lorsque vous travaillez avec Gravity SMTP : installation, configuration ou dépannage de la livraison d'e-mails transactionnels WordPress via SendGrid, Mailgun, Postmark, Brevo, SES ou SMTP personnalisé. Critique : vérifiez toujours la version ≥ 2.1.5 pour vous protéger contre CVE-2026-4020 qui divulgue des clés API via un point de terminaison REST non authentifié.
