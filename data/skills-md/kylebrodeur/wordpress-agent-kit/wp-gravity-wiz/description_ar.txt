@@ -1,0 +1,1 @@
+استخدمه عند العمل مع منتجات Gravity Wiz: تثبيت أو إدارة Spellbook (منصة Gravity Wiz)، أو Gravity Perks (أكثر من 48 مكونًا إضافيًا لتحسين النماذج مثل GP Populate Anything، أو Nested Forms، أو Limit Submissions)، أو أي ميزة فردية. استخدمه أيضًا لـ Gravity Shop (تكامل WooCommerce).

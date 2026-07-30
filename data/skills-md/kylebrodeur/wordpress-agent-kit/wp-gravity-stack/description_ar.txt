@@ -1,0 +1,1 @@
+الاستخدام لإعداد Gravity Stack وتنسيقه: تكوين SatisPress/Composer لمجموعة المكونات الإضافية الكاملة (Gravity Forms، SMTP، Connect، GravityView، Spellbook، Pods)، قراءة قوالب .cursorrules وllms.txt، أو فهم كيفية توافق جميع المنتجات معًا. بالنسبة للعمل الخاص بالمنتج، قم بتحميل المهارة الفردية بدلاً من ذلك.
