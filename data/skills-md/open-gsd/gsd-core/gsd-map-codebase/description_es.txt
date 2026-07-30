@@ -1,0 +1,1 @@
+Analice la base de código con agentes mapeadores paralelos para producir documentos .planning/codebase/

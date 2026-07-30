@@ -1,0 +1,1 @@
+Inicialice un nuevo proyecto con recopilación de contexto profundo y PROJECT.md

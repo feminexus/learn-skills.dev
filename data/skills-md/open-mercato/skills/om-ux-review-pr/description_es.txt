@@ -1,0 +1,1 @@
+Revisión del diseño basada en la evidencia de la interfaz de usuario de un RP. Recorre las pantallas modificadas en un navegador real, realiza las tareas del usuario y publica los hallazgos clasificados según el impacto del usuario, cada uno con evidencia, un patrón, una compensación y un criterio de aceptación.

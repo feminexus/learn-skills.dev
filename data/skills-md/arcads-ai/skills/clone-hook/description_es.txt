@@ -1,0 +1,1 @@
+Identifique el gancho de un anuncio de video y clónelo para la marca del usuario. Invocar con /arcads:clone-hook o mediante otra habilidad.

@@ -1,0 +1,1 @@
+Genere N guiones de análisis a partir de una única plantilla de metodología × múltiples combinaciones de exposición/resultados. El patrón "equipo de 80 personas": el mismo método validado, solo intercambia variables. Produce código R/Python por lotes + matriz de resumen.

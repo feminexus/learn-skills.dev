@@ -1,0 +1,1 @@
+Habilidad para convertir una extensión de Firebase instalada (o fuente de extensión) en una base de código independiente de Cloud Functions para Firebase o un paquete npm publicable, incluida la actualización de activadores de V1 a V2 y la configuración de enlaces de ciclo de vida y seguridad declarativa.
