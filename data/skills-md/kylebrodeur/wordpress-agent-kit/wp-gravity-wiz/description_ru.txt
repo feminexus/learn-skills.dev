@@ -1,0 +1,1 @@
+Используйте при работе с продуктами Gravity Wiz: установка или управление Spellbook (платформа Gravity Wiz), Gravity Perks (более 48 плагинов для улучшения форм, таких как GP Populate Anything, Nested Forms, Limit Submissions) или любого отдельного перка. Также используйте для Gravity Shop (интеграция с WooCommerce).
