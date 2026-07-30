@@ -1,0 +1,1 @@
+Initialisieren Sie ein neues Projekt mit umfassender Kontexterfassung und PROJECT.md

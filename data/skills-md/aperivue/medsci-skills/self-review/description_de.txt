@@ -1,0 +1,1 @@
+Selbstbegutachtung der eigenen Manuskripte des Benutzers vor der Einreichung unter Anwendung der Sicht eines Gutachters. Systematische Prüfung über 10 Kategorien mit forschungsartiger Verzweigung. Gibt erwartete Haupt-/Nebenkommentare mit Schweregrad-Framing und optionaler R0-Nummerierung für die /revise-Pipeline-Integration aus.

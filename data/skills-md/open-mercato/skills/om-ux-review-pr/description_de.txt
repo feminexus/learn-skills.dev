@@ -1,0 +1,1 @@
+Evidence-First-Designüberprüfung der Benutzeroberfläche eines PR. Durchläuft die geänderten Bildschirme in einem echten Browser, führt die Aufgaben des Benutzers aus und veröffentlicht Ergebnisse, sortiert nach Benutzerauswirkung, jeweils mit Beweisen, einem Muster, einem Kompromiss und einem Akzeptanzkriterium.

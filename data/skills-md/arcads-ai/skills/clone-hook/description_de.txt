@@ -1,0 +1,1 @@
+Identifizieren Sie den Haken einer Videoanzeige und klonen Sie sie für die Marke des Benutzers. Aufruf mit /arcads:clone-hook oder über einen anderen Skill.

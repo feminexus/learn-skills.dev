@@ -1,0 +1,1 @@
+Bootstrapping oder Zusammenführen eines .planning/-Setups aus vorhandenen ADRs, PRDs, SPECs und Dokumenten in einem Repo.

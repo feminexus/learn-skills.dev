@@ -1,0 +1,1 @@
+Generieren Sie N Analyseskripte aus einer einzigen Methodenvorlage × mehreren Expositions-/Ergebniskombinationen. Das „80-Personen-Team“-Muster – dieselbe validierte Methode, nur Variablen austauschen. Erstellt Batch-R/Python-Code + Zusammenfassungsmatrix.

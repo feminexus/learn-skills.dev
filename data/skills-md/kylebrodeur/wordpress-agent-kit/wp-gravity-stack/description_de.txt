@@ -1,0 +1,1 @@
+Verwendung für die Einrichtung und Orchestrierung des Gravity-Stacks: SatisPress/Composer-Konfiguration für die gesamte Plugin-Suite (Gravity Forms, SMTP, Connect, GravityView, Spellbook, Pods), Lesen der .cursorrules- und llms.txt-Vorlagen oder Verstehen, wie alle Produkte zusammenpassen. Laden Sie für produktspezifische Arbeiten stattdessen den einzelnen Skill.

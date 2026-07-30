@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn der Benutzer eine mobile App oder UI-Bildschirme entwerfen möchte, wenn er seine Sleek-Projekte (sleek.design) erwähnt oder wenn er Sleek-Designs in Code implementiert (HTML, React Native, SwiftUI).

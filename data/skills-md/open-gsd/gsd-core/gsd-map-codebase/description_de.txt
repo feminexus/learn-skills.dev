@@ -1,0 +1,1 @@
+Analysieren Sie die Codebasis mit parallelen Mapper-Agenten, um .planning/codebase/-Dokumente zu erstellen

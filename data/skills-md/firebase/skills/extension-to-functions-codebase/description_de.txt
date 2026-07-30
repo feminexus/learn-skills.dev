@@ -1,0 +1,1 @@
+Fertigkeit zum Konvertieren einer installierten Firebase-Erweiterung (oder Erweiterungsquelle) in eine eigenständige Cloud Functions for Firebase-Codebasis oder ein veröffentlichbares NPM-Paket, einschließlich der Aktualisierung von Triggern von V1 auf V2 und der Konfiguration von Lebenszyklus-Hooks und deklarativer Sicherheit

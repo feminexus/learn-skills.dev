@@ -1,0 +1,1 @@
+Diagnostizieren Sie den Zustand des Planungsverzeichnisses und beheben Sie optional Probleme

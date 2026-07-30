@@ -1,0 +1,1 @@
+Verwendung bei der Arbeit mit Gravity Wiz-Produkten: Installation oder Verwaltung von Spellbook (der Gravity Wiz-Plattform), Gravity Perks (über 48 Formularerweiterungs-Plugins wie GP Populate Anything, Nested Forms, Limit Submissions) oder jedem einzelnen Perk. Auch für Gravity Shop (WooCommerce-Integration) verwenden.
