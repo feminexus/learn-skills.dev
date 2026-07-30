@@ -1,0 +1,1 @@
+明确引用 MVP 发布心态，将“无废话”技能与对最小的真正可行产品的无情关注相结合。仅当用户明确调用“$no-bullshit-launch”、要求使用“no-bullshit-launch”技能或明确打开 no-bullshit-launch 模式时才使用。切勿从启动、交付、计划、确定优先级或构建 MVP 的普通请求中自动触发。

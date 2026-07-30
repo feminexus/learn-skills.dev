@@ -1,0 +1,1 @@
+从存储库中的现有 ADR、PRD、SPEC 和文档引导或合并 .planning/ 设置。

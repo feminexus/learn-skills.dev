@@ -1,0 +1,1 @@
+用于 Gravity 堆栈设置和编排：完整插件套件的 SatisPress/Composer 配置（Gravity Forms、SMTP、Connect、GravityView、Spellbook、Pods）、阅读 .cursorrules 和 llms.txt 模板，或了解所有产品如何组合在一起。对于特定于产品的工作，请加载个人技能。

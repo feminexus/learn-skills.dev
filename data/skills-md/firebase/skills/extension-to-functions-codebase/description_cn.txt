@@ -1,0 +1,1 @@
+将已安装的 Firebase 扩展（或扩展源）转换为独立的 Cloud Functions for Firebase 代码库或可发布的 npm 包的技能，包括将触发器从 V1 升级到 V2 以及配置生命周期挂钩和声明性安全性

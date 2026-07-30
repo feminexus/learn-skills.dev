@@ -1,0 +1,1 @@
+用于运行 NVIDIA GPU 容器工作负载的 Docker 约定 — NGC 身份验证、--gpus 标志、安装模式、env-var 直通、容器检查、拆分磁盘主机的数据根重定位以及常见错误模式。当其他技能需要在 GPU 主机上运行 nvcr.io 容器或任何 docker run 命令时使用。触发关键字 — docker、docker run、nvcr.io、NGC、--gpus、nvidia-container-toolkit、容器映像、docker login、docker pull。
