@@ -1,0 +1,1 @@
+Gravity SMTP 작업 시 사용: SendGrid, Mailgun, Postmark, Brevo, SES 또는 사용자 정의 SMTP를 통해 WordPress 트랜잭션 이메일 전달 설치, 구성 또는 문제 해결. 중요: 인증되지 않은 REST 엔드포인트를 통해 API 키를 유출하는 CVE-2026-4020으로부터 보호하려면 항상 버전 ≥ 2.1.5를 확인하세요.

@@ -1,0 +1,1 @@
+선택 사항: WP 엔진 호스팅 워크플로에 사용 — SSH 기반 git push, SSH 게이트웨이를 통한 원격 WP-CLI, 개발/스테이징/프로덕션에 대한 안전 관리 배포가 포함된 GitHub Actions CI/CD, wpe-labs Claude Code 기술을 통한 설치/도메인/캐시/백업 관리 및 WP 엔진 API 액세스. API 작업을 위해서는 SSH 키 설정 및 WPE_USERNAME/WPE_PASSWORD 환경 변수가 필요합니다.

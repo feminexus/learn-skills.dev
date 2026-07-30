@@ -1,0 +1,1 @@
+Gravity 스택 설정 및 오케스트레이션에 사용: 전체 플러그인 제품군(Gravity Forms, SMTP, Connect, GravityView, Spellbook, Pods)에 대한 SatisPress/Composer 구성, .cursorrules 및 llms.txt 템플릿 읽기 또는 모든 제품이 어떻게 결합되는지 이해합니다. 제품별 작업의 경우 대신 개별 스킬을 로드하세요.

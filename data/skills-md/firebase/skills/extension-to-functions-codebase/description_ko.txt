@@ -1,0 +1,1 @@
+설치된 Firebase Extension(또는 확장 소스)을 독립형 Firebase용 Cloud Functions 코드베이스 또는 게시 가능한 npm 패키지로 변환하는 기술(V1에서 V2로 트리거 업그레이드, 수명 주기 후크 및 선언적 보안 구성 포함)

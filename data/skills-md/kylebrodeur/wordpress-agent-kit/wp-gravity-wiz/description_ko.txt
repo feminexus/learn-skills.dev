@@ -1,0 +1,1 @@
+Gravity Wiz 제품 작업 시 사용: Spellbook(Gravity Wiz 플랫폼), Gravity Perks(GP Populate Anything, Nested Forms, Limit Submissions와 같은 48개 이상의 양식 향상 플러그인) 또는 개별 특전을 설치 또는 관리합니다. Gravity Shop(WooCommerce 통합)에도 사용됩니다.

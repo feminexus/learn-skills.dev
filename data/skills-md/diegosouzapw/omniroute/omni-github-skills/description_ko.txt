@@ -1,0 +1,1 @@
+SKILL.md, CLAUDE.md, .cursorrules 및 유사한 에이전트 기술 파일이 포함된 GitHub 리포지토리에서 에이전트 기술을 검색하고 점수를 매기고 스캔하고 가져옵니다. 160개 이상의 제공자 카테고리에서 커뮤니티 기술을 발견하고, 경험적 점수로 관련성을 평가하고, 맬웨어 또는 하드코딩된 비밀을 확인하고, Hermes, Claude Code, Gemini CLI 또는 OpenCode 에이전트 디렉터리에 설치하세요.
