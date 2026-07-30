@@ -1,0 +1,1 @@
+À utiliser lorsque l'identification aer a corrigé la conception, après le choix de la méthodologie et avant les chiffres de la robustesse aer ou des tables aer, pour exécuter une analyse de suivi AER avec StatsPAI - le moteur Python natif de l'agent et le serveur MCP pour l'inférence causale, la robustesse, la sensibilité et l'exportation de tables prêtes à être publiées.

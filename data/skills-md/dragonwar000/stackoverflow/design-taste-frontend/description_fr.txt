@@ -1,0 +1,1 @@
+Compétence frontale anti-slop pour les pages de destination, les portefeuilles et les refontes. L'agent lit le brief, en déduit la bonne direction de conception et fournit des interfaces qui ne semblent pas basées sur un modèle. De vrais systèmes de conception le cas échéant, un audit d'abord sur les refontes, un contrôle strict avant vol.

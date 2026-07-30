@@ -1,0 +1,1 @@
+Génération de la documentation API. Configuration de DocFX, OpenAPI-as-docs, synchronisation doc-code, documents versionnés.

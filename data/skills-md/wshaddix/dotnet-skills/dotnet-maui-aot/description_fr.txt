@@ -1,0 +1,1 @@
+Optimisation de MAUI pour iOS/Catalyst. Pipeline AOT natif, gains de taille/démarrage, lacunes de bibliothèque, découpage.

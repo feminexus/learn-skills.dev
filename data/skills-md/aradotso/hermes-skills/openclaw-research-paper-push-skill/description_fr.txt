@@ -1,0 +1,1 @@
+Planifiez des alertes automatisées sur les documents de recherche d'OpenAlex avec des résumés quotidiens en chinois à l'aide d'OpenClaw cron

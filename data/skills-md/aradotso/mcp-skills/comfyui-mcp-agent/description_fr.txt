@@ -1,0 +1,1 @@
+Compétence d'expert pour piloter ComfyUI (génération d'images/vidéo/audio) via le serveur confortablesui-mcp MCP — création de flux de travail, gestion de modèles, édition de graphiques en langage naturel et plan de contrôle natif de l'agent.

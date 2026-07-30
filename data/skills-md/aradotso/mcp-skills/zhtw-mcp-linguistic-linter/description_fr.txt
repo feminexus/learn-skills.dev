@@ -1,0 +1,1 @@
+Linter linguistique chinois traditionnel (zh-TW) appliquant les normes du ministère de l'Éducation de Taiwan via MCP

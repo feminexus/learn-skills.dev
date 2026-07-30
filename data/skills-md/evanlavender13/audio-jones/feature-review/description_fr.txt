@@ -1,0 +1,1 @@
+À utiliser lors de la révision d'une fonctionnalité implémentée par rapport à son document de plan. Se déclenche une fois la mise en œuvre terminée, lors de la « révision » ou lors de la vérification si le code correspond à la spécification.

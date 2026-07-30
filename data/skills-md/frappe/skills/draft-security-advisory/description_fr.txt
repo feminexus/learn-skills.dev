@@ -1,0 +1,1 @@
+Transformez un rapport de vulnérabilité en un avis de sécurité GitHub prêt à être publié.

@@ -1,0 +1,1 @@
+Couvre les performances de Bitrix : site composite, optimisation des requêtes, réplication/clustering, partitionnement, sessions chaudes/froides. Appliqué pour une optimisation de charge élevée au-delà de la mise en cache de base. Termes clés : composite, NGINX, réplication, partitionnement, optimisation des requêtes.

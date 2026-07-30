@@ -1,0 +1,1 @@
+Lignes directrices pour l'écriture de tests TUnit dans .NET, y compris la configuration, les assertions, les tests asynchrones et les meilleures pratiques. À utiliser lors de l'écriture de tests unitaires avec le framework TUnit, de la configuration de TUnit dans un projet .NET ou de la migration d'autres frameworks de test vers TUnit.

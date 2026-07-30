@@ -1,0 +1,1 @@
+Déboguer et résoudre les problèmes de connexion, de réplication et d'API Sling. À utiliser en cas d'erreurs, de débogage d'échecs de connexion, de résolution de problèmes d'authentification, de résolution de problèmes de conversion de type, de gestion de problèmes de mémoire/de performances ou de dépannage des limites de débit de l'API.

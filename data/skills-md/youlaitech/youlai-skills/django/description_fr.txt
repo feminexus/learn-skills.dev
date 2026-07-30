@@ -1,0 +1,1 @@
+Normes de développement backend du framework Django REST. Utilisez cette compétence lors du développement de projets Django, de la mise en œuvre d'API REST avec des ViewSets DRF, des sérialiseurs ou de l'authentification JWT.

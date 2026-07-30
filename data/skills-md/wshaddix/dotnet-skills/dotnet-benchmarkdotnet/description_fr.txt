@@ -1,0 +1,1 @@
+Rédaction de benchmarks. Configuration de BenchmarkDotNet, diagnostics de mémoire, lignes de base, analyse des résultats.

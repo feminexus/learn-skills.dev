@@ -1,0 +1,1 @@
+Expliquez un changement de code à un réviseur humain. À utiliser uniquement lorsque l'utilisateur déclare explicitement qu'il examinera lui-même la modification.

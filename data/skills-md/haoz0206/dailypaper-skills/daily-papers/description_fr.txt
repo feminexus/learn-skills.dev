@@ -1,0 +1,3 @@
+Découvrez et examinez des articles universitaires récents, générez une obsidienne quotidienne
+recommandation et créer des notes pour les articles à lire absolument. Utiliser pour « 今日论文推荐 »,
+« 过去3天论文推荐 », « 过去一周论文推荐 », ou des demandes quotidiennes équivalentes.

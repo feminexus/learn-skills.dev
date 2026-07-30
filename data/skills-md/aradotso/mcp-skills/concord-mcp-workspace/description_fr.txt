@@ -1,0 +1,1 @@
+Coordination partagée de l'état de travail et des tâches pour les agents de codage d'IA à l'aide du protocole de contexte modèle

@@ -1,0 +1,1 @@
+Bilan de santé périodique du wiki — orphelins, liens manquants, contradictions, obsolète (wiki → code wiki VÀ → dérive du wiki), lacunes d'index. Bước 0 est un tất no-op (wiki-sync, 0 token) — le code vous permet de créer un nouveau lien vers "wiki current" et de vous y connecter.

@@ -1,0 +1,1 @@
+À utiliser lors de la création d'une version balisée avec le journal des modifications. Déclencheurs lors de la « version », « marquer une version », « couper une version » ou lorsque vous êtes prêt à publier une nouvelle version.

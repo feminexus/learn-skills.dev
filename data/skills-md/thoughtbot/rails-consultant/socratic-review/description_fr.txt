@@ -1,0 +1,1 @@
+Session de révision et de refactorisation du code socratique, qu'il s'agisse de votre propre code, du PR d'un coéquipier ou de quelque chose dont vous avez hérité. Vous amène à voir les enjeux à travers des questions, des noms d'odeurs et de mouvements avec précision, puis se termine par un plan concret.

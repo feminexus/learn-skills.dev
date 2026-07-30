@@ -1,0 +1,1 @@
+Implémentation de l'authentification API. Identité, OAuth/OIDC, porteur JWT, mots de passe (WebAuthn), CORS, limitation de débit.

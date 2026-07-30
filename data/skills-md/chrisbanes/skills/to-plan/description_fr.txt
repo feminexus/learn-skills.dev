@@ -1,0 +1,1 @@
+À utiliser lorsqu'un problème GitHub prêt nécessite un plan de mise en œuvre prenant en compte le référentiel publié sous forme de commentaire de problème unique pour un flux de travail de mise en œuvre ultérieur.

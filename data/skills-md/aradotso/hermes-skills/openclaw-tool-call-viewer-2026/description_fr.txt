@@ -1,0 +1,1 @@
+Interface basée sur un navigateur pour afficher et filtrer l'historique des appels de l'outil de session OpenClaw sans aucune dépendance pour le déploiement du réseau local.

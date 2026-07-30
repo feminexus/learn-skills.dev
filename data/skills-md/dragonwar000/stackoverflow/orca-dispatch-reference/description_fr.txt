@@ -1,0 +1,1 @@
+Référence pour la répartition Antigravity/OpenCode, l'installation des compétences, AgentMemory, proxy de jeton RTK — PAS une compétence en boucle

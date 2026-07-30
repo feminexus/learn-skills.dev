@@ -1,0 +1,1 @@
+Créez un nouveau coffre-fort Obsidian avec des paramètres, des claviers et des plugins de base préconfigurés. À utiliser lorsque l'utilisateur souhaite « configurer un nouveau coffre-fort Obsidian », « créer un coffre-fort Obsidian » ou « reproduire ma configuration Obsidian ».

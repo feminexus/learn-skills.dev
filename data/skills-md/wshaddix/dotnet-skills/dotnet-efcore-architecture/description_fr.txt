@@ -1,0 +1,1 @@
+Conception d'une architecture de couche de données. Répartition lecture/écriture, limites agrégées, gouvernance N+1.

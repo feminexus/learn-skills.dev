@@ -1,0 +1,1 @@
+Écrivez, exécutez et affirmez des requêtes HTTP en toute sécurité à l'aide de fichiers texte Hurl. Déclencheurs lors des tests d'API, de la génération de requêtes HTTP, de la validation REST/GraphQL ou lorsque des fichiers .hurl sont mentionnés. N'utilisez PAS cette compétence pour les tests d'interface utilisateur/navigateur ou pour les tests unitaires internes.

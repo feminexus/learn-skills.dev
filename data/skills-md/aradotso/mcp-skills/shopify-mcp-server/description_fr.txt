@@ -1,0 +1,1 @@
+Serveur MCP connectant les assistants IA à l'API Shopify Admin GraphQL pour la gestion des produits, des commandes, des clients, des stocks et des métachamps

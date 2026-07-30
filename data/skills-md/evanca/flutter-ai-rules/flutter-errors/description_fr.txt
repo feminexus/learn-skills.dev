@@ -1,0 +1,1 @@
+À utiliser en cas d'erreurs de mise en page (débordement RenderFlex, contraintes illimitées, RenderBox non disposée), d'erreurs de défilement ou d'erreurs setState-during-build.

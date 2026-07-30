@@ -1,0 +1,1 @@
+Lire ou modifier des fichiers .csproj. Structure de style SDK, PropertyGroup/ItemGroup, CPM, accessoires.

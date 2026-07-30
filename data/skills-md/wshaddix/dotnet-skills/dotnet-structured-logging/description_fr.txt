@@ -1,0 +1,1 @@
+Conception de pipelines de journaux. Agrégation, requêtes structurées, échantillonnage, nettoyage des informations personnelles, corrélation.

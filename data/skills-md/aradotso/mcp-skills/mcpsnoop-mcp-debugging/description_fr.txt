@@ -1,0 +1,1 @@
+Déboguer le trafic client-serveur MCP en temps réel à l'aide de mcpsnoop, un proxy transparent pour les communications Model Context Protocol

@@ -1,0 +1,1 @@
+Il s'agit d'un modèle "pattern chuẩn" - un modèle qui dérive du modèle local et du modèle /sync-template vers un modèle distant. Donc version.json local ↔ distant ↔ disque (0 jeton, échec d'ouverture). Déclencheur : "bilan de santé", "modèle de vérification", "effectuer une synchronisation", "/health-check".

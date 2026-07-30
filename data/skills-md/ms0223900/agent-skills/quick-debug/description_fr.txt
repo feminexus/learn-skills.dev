@@ -1,0 +1,1 @@
+Tri rapide des comportements inattendus : couche, preuves, risques, prochain correctif. Utiliser en cas de mauvais état, d'erreurs d'API, d'interface utilisateur irrégulière, de performances. Questions pures sur le chemin de rendu → `/find-component-render-path`. Accessible par `/fix` lorsque la cause première est un comportement/flux de données flou.

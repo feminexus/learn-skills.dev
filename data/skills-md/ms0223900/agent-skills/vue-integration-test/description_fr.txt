@@ -1,0 +1,1 @@
+Guides d'écriture de tests d'intégration de composants Vue 2 avec @vue/test-utils + Jest + Vuex. À utiliser lorsque l'utilisateur souhaite ajouter un `.integration.test.ts`/`.js` pour un composant Vue, tester la sortie rendue par rapport aux appareils ou vérifier les chemins de rendu pilotés par le magasin.

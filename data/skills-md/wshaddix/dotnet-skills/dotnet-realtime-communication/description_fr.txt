@@ -1,0 +1,1 @@
+Création de fonctionnalités en temps réel. Hubs SignalR, SSE (.NET 10), JSON-RPC 2.0, streaming gRPC, mise à l'échelle.

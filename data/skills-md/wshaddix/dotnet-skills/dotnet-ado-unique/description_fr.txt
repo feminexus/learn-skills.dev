@@ -1,0 +1,1 @@
+Utilisation des fonctionnalités exclusives à ADO. Environnements, approbations, connexions de services, versions classiques.

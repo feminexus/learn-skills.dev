@@ -1,0 +1,1 @@
+Tablettes D7 ORM, requêtes ConditionTree, Objectify, écritures batch/merge/deleteByFilter. À utiliser pour la conception, les lectures et la persistance des entités.

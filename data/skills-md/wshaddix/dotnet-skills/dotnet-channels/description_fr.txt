@@ -1,0 +1,1 @@
+Utilisation des files d'attente producteur/consommateur. Canal<T>, délimité/illimité, contre-pression, modèles de drainage

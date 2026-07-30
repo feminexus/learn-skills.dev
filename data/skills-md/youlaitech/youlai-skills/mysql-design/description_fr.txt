@@ -1,0 +1,1 @@
+Normes de conception de bases de données MySQL. Utilisez cette compétence lors de la conception de structures de tables, de types de champs, d'index ou de conventions de dénomination pour les bases de données MySQL.

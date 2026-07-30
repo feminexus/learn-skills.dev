@@ -1,0 +1,1 @@
+Utilisez le serveur public Solana MCP de Vybe pour interroger les données, les jetons, les NFT et les comptes de la blockchain Solana auprès de Claude, Cursor ou de tout client MCP.

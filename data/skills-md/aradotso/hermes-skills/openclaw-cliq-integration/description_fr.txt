@@ -1,0 +1,1 @@
+Plugin SprintCX OpenClaw Channel pour Zoho Cliq — connectez les agents OpenClaw à Zoho Cliq avec une prise en charge bot par agent, une conversion markdown, un streaming et une discussion de groupe

@@ -1,0 +1,4 @@
+La boîte à outils de sagesse de Naval Ravikant. Richesse, bonheur, décisions, effet de levier, apprentissage.
+Déclencheur : /naval, "Que dirait Naval", "Les conseils de Naval"
+Naval Ravikant 方法论工具箱。财富、幸福、决策、杠杆、学习。
+触发方式：/naval、「Naval 怎么看」「Naval 的建议」

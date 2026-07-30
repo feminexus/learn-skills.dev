@@ -1,0 +1,1 @@
+Carte de référence rapide pour tous les modes, compétences et commandes de l'homme des cavernes. Affichage ponctuel, pas de mode persistant. Déclencheur : /caveman-help, "aide de l'homme des cavernes", "quelles commandes l'homme des cavernes", "comment utiliser l'homme des cavernes".

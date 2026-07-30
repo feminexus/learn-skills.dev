@@ -1,0 +1,1 @@
+DOIT être utilisé lors de l'écriture ou de la modification de scripts Windmill Workflow-as-Code à l'aide d'un workflow, d'une tâche, d'une étape, d'une mise en veille, d'approbations, d'un taskScript, d'un taskFlow, d'un task_script ou d'un task_flow.

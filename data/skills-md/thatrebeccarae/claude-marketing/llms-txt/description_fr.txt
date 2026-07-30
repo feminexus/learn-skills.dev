@@ -1,0 +1,1 @@
+Générez et gérez des fichiers llms.txt pour la découverte par l'IA. Analyse les dépôts pour créer des cartes de contenu organisées qui aident les moteurs de réponse IA à présenter votre projet avec précision. Implémente la spécification llms.txt de Answer.AI.

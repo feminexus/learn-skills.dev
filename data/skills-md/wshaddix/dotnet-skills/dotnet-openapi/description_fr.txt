@@ -1,0 +1,1 @@
+Génération de documents OpenAPI. MS.AspNetCore.OpenApi (.NET 9+), migration Swashbuckle, NSwag.

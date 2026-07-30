@@ -1,0 +1,1 @@
+Carte de référence rapide pour tous les modes, compétences et commandes hui. Affichage ponctuel, pas de mode persistant. Déclencheur : /hui-help, "hui help", "quelles commandes hui", "comment utiliser hui".

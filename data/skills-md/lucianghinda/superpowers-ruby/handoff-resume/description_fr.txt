@@ -1,0 +1,1 @@
+À utiliser lorsque vous démarrez une nouvelle session et souhaitez poursuivre un transfert précédent : lit le dernier document de transfert non restauré et restaure le contexte de la session.

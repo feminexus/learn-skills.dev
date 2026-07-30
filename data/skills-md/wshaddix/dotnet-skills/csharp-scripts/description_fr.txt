@@ -1,0 +1,1 @@
+Exécutez des programmes C# à fichier unique sous forme de scripts pour une expérimentation, un prototypage et des tests de concepts rapides. À utiliser lorsque l'utilisateur souhaite écrire et exécuter un petit programme C# sans créer de projet complet.

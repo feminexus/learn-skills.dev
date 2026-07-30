@@ -1,0 +1,1 @@
+Création de cibles, d'accessoires ou de conditions MSBuild. Cibles personnalisées, incrémentalité, modèles de construction.

@@ -1,0 +1,1 @@
+À utiliser lors de l'exécution d'un plan de fonctionnalités avec des agents parallèles basés sur Wave. Se déclenche lors de « mettre en œuvre ce plan », « commencer à construire » ou lorsqu'un plan existe dans docs/plans/ et que l'utilisateur souhaite commencer le codage.

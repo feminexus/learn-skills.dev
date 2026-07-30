@@ -1,0 +1,1 @@
+Conteneuriser les applications .NET. Dockerfiles en plusieurs étapes, publication de conteneur SDK (.NET 8+), sans racine.

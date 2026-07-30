@@ -1,0 +1,1 @@
+À utiliser lors de l'examen d'une compétence ou d'une bibliothèque de compétences pour des problèmes de structure, de sécurité, de liaison, de taille ou de limite de déclenchement statique.

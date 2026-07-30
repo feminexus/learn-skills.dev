@@ -1,0 +1,1 @@
+Mise à niveau de .NET vers un TFM plus récent. LTS vers LTS, via STS, aperçu et chemins de mise à niveau.

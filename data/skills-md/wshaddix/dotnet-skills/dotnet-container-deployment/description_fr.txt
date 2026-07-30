@@ -1,0 +1,1 @@
+Déploiement de conteneurs .NET. Sondes Kubernetes, Docker Compose pour développement local, intégration CI/CD.

@@ -1,0 +1,1 @@
+Création de versions GitHub pour .NET. Création de releases, ressources, notes, gestion des pré-releases.

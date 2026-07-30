@@ -1,0 +1,1 @@
+À utiliser lors de la génération d'une chronologie de jalon de projet à partir de l'historique git. Déclencheurs sur la « chronologie », les « jalons », « l'historique du projet » ou lorsque l'utilisateur souhaite voir l'histoire de l'évolution du projet.

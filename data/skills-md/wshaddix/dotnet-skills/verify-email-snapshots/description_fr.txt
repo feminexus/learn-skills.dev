@@ -1,0 +1,1 @@
+Modèles de vérification des instantanés d'e-mails dans les tests afin de garantir que le contenu des e-mails correspond aux résultats attendus. À utiliser pour tester le rendu des e-mails dans les tests unitaires, vérifier les sorties du modèle MJML ou garantir la cohérence du contenu des e-mails entre les modifications de code.

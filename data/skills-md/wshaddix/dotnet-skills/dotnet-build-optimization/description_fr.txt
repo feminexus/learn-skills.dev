@@ -1,0 +1,1 @@
+Diagnostiquer les builds lentes ou les échecs incrémentiels. Journaux binaires, builds parallèles, restauration.

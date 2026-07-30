@@ -1,0 +1,1 @@
+Normes de développement backend NestJS. Utilisez cette compétence lors du développement de projets NestJS, de la mise en œuvre d'API REST, de l'utilisation de TypeORM, de l'authentification JWT ou du contrôle des autorisations.

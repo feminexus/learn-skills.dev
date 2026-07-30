@@ -1,0 +1,1 @@
+À utiliser lors du démarrage ou de la reprise d'un fichier de plan, y compris une exécution mixte locale et déléguée par hcom, tout en garantissant l'exactitude des métadonnées de vérification, d'état du plan et de transfert.

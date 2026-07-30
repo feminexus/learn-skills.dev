@@ -1,0 +1,1 @@
+À utiliser lors de l'affichage des documents de transfert disponibles : répertorie les transferts actifs et archivés avec leur statut, leur date, leur sujet et leur branche.

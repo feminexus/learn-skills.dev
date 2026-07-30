@@ -1,0 +1,1 @@
+Normes de développement back-end ASP.NET Core. Utilisez cette compétence lors du développement de projets ASP.NET Core, de la mise en œuvre d'API REST, de l'utilisation d'Entity Framework Core ou de l'authentification JWT.

@@ -1,0 +1,1 @@
+Il suffit d'une seule ligne pour tracer 1 pour approuver/retourner/rejeter le journal DMS trên BE (docker) + FE proxy, le fichier .sh sera copié-collé par l'utilisateur sur le serveur de produit. L'utilisateur n'a plus qu'à "vérifier l'approbation", "vérifier la demande de commande <CODE>", "approuver la demande", "/vérifier-approuver".

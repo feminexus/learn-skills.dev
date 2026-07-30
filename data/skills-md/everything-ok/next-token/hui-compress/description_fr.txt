@@ -1,0 +1,1 @@
+Réécrivez les fichiers de mémoire en langage naturel pris en charge (CLAUDE.md, todos, préférences) dans un format hui concis. Préserve la structure protégée et écrit une sauvegarde FILE.original.md lisible par l’homme. Déclencheur : /hui-compress FILEPATH ou "compresser le fichier mémoire"

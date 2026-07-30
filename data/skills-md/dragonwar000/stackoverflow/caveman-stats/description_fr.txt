@@ -1,0 +1,1 @@
+Affichez l'utilisation réelle des jetons et les économies estimées pour la session en cours. Lit directement à partir du journal de session Claude Code – aucune estimation de l'IA. Se déclenche sur /caveman-stats. La sortie est injectée par le hook de suivi de mode ; le modèle lui-même ne calcule pas les nombres.

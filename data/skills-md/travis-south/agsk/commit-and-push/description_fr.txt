@@ -1,0 +1,1 @@
+Vérifiez, validez et transmettez les modifications Git actuelles avec une portée de validation conventionnelle dérivée d'une branche.

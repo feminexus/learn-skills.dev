@@ -1,0 +1,1 @@
+Ajout de CI/CD à un projet .NET. Détection GitHub Actions vs Azure DevOps, modèles de workflow.

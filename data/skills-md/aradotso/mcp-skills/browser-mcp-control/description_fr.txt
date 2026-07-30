@@ -1,0 +1,1 @@
+Contrôlez les onglets du navigateur Chrome via MCP pour une automatisation Web assistée par l'IA à l'aide du serveur et de l'extension Browser MCP.

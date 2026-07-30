@@ -1,0 +1,1 @@
+Gestion du cycle de vie des versions .NET. Versioning NBGV, SemVer, changelogs, pré-release, branchement.

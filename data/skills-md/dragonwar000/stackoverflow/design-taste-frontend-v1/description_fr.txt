@@ -1,0 +1,1 @@
+La compétence-goût originale de la v1, préservée pour les projets en fonction de son comportement exact. La valeur par défaut actuelle est « design-taste-frontend » (v2 expérimentale), qui est une réécriture substantielle. Utilisez ce nom d'installation v1 uniquement si vous avez besoin d'une compatibilité ascendante exacte.

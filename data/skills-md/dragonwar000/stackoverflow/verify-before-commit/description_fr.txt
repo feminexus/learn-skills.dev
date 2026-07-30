@@ -1,0 +1,1 @@
+Gate chaque commit - vérification du type, peluches, fumée, puis promotion du brouillon sur le wiki

@@ -1,0 +1,1 @@
+Choix du format de sortie CLI. AOT vs dépendant du framework, matrice RID, fichier unique, outil dotnet.

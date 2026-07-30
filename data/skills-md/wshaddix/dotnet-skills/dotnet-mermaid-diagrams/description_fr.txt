@@ -1,0 +1,1 @@
+Création de diagrammes Mermaid pour .NET. Architecture, séquence, classe, déploiement, ER, organigrammes.

@@ -1,0 +1,1 @@
+Guide pour l’ajout de nouveaux packages de harnais AI SDK. À utiliser lors de la création d'un nouveau package @ai-sdk/harness-<name> qui adapte un runtime d'agent de codage à HarnessV1.

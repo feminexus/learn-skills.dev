@@ -1,0 +1,1 @@
+À utiliser lors de la création d'un commit git pour les modifications planifiées ou non. Se déclenche lors de « valider ceci », « enregistrer mes modifications » ou lorsque le travail de mise en œuvre est terminé et nécessite un contrôle de version.

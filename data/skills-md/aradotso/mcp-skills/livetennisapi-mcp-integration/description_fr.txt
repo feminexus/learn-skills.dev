@@ -1,0 +1,1 @@
+Intégrez le serveur MCP Live Tennis API pour fournir aux agents IA les scores de tennis, les cotes et les probabilités de victoire en temps réel.

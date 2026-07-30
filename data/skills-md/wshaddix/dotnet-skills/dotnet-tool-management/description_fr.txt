@@ -1,0 +1,1 @@
+Installer ou gérer des outils .NET. Global, local, manifestes, restauration, épinglage de version.

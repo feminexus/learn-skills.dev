@@ -1,0 +1,1 @@
+Recommandez des mots clés à exclure pour Google Ads avec le type de correspondance, la portée et la prudence appropriés. Extrait des données en direct via MCP ou fonctionne avec des exportations manuelles. Produit toujours un brouillon de mot clé à exclure pour examen humain.

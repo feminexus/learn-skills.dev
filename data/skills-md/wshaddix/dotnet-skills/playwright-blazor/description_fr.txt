@@ -1,0 +1,1 @@
+Modèles de test de bout en bout pour les applications Blazor utilisant Playwright, y compris les tests de composants et la navigation dans les pages. À utiliser lors de l'écriture de tests E2E pour les applications Blazor, du test des interactions des composants Blazor avec Playwright ou de la configuration de l'infrastructure de test Playwright pour les applications Blazor.

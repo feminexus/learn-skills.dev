@@ -1,0 +1,1 @@
+Empaquetage d'applications MSIX. Création, signature, soumission au Store, chargement latéral de l'App Installer, mise à jour automatique.

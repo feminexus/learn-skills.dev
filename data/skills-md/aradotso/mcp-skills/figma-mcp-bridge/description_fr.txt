@@ -1,0 +1,1 @@
+Contournez les limites de l'API Figma en diffusant en direct les données des documents du plugin Figma vers les outils d'IA via le serveur MCP pour les flux de travail de conception à code.

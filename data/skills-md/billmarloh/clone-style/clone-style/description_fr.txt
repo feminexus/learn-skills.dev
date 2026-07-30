@@ -1,0 +1,1 @@
+Clonez le style de conception visuelle d'un site Web et appliquez-le au projet en cours. Extrait les couleurs, la typographie, l'espacement et les motifs des composants, puis reconstruit l'interface utilisateur en conséquence. Déclenchez avec /clone-style <url>.

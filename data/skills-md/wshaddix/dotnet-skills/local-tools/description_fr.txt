@@ -1,0 +1,1 @@
+Bonnes pratiques pour travailler avec les outils locaux .NET, y compris la gestion des manifestes, l'installation des outils et la gestion des versions. À utiliser lors de la configuration de dotnet-tools.json pour un projet, de l'installation ou de la mise à jour d'outils locaux, ou de la gestion des versions d'outils entre les membres de l'équipe.

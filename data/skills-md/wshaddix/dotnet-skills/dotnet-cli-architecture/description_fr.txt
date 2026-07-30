@@ -1,0 +1,1 @@
+Structuration des couches d'application CLI. Séparation commande/gestionnaire/service, principes clig.dev, codes de sortie.

@@ -1,0 +1,1 @@
+Écriture de tâches MSBuild personnalisées. ITask, ToolTask, IIncrementalTask, tâches en ligne, UsingTask.

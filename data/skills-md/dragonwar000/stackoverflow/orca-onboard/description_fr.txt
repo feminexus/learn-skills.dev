@@ -1,0 +1,1 @@
+Intégration de la base de code parallèle — pipeline distillé pour tout comprendre (analyse + historique git + analyse par lots + couches/visite, pas de plugin), puis enrichissement de domaine (Claude), wiki + HTML via opencode + DeepSeek Flash v4.

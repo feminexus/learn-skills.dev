@@ -1,0 +1,1 @@
+Configurer les bascules de flux de travail GSD et le profil de modèle

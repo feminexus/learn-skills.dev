@@ -1,0 +1,1 @@
+Expliquez et créez des plugins Sanity Studio à l'aide des API publiques des plugins et des outils. À utiliser lors de la création de plugins destinés à l'utilisateur, de l'ajout d'outils via des plugins ou lorsqu'un agent a besoin de comprendre ce qu'un plugin Sanity peut configurer avant d'appliquer le câblage de plugin par défaut spécifique à monorepo.

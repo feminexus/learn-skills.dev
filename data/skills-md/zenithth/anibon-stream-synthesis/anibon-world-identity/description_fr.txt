@@ -1,0 +1,1 @@
+Vérifiez les noms du monde du jeu, des personnages et des lieux par rapport aux références locales avant d'écrire des horodatages d'histoire. Chargé par anibon-timestamper lorsque le flux couvre les jeux post-cutoff.

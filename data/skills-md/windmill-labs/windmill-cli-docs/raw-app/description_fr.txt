@@ -1,0 +1,1 @@
+DOIT utiliser lors de la création d'applications brutes.

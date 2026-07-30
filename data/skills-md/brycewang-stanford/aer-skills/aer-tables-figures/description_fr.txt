@@ -1,0 +1,1 @@
+À utiliser lors de la construction ou de la révision de tableaux de régression, de tableaux de statistiques descriptives ou de chiffres après l'estimation des résultats et avant la soumission d'un manuscrit AER, AER:Insights ou AEJ. Implémente le style maison des booktabs AER, la disposition des tables de régression et les conventions de notes de figures.

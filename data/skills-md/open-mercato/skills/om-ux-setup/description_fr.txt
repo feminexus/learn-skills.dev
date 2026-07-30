@@ -1,0 +1,1 @@
+Extrayez le contrat de conception du référentiel (jetons, registre de composants, archétypes d'écran, conventions) dans .uxproof/ afin que chaque compétence UX soit jugée par rapport au système de conception de CE dépôt, quel qu'il soit. Exécuter une fois par référentiel ; réexécutez pour actualiser après les modifications du système de conception.

@@ -1,0 +1,1 @@
+Recherchez les vulnérabilités de somme de contrôle et de signature. À utiliser lorsque l'utilisateur pose des questions sur la validation du hachage, le contournement de signature, la manipulation de la somme de contrôle ou les faiblesses cryptographiques.

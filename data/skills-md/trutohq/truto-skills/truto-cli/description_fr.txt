@@ -1,0 +1,1 @@
+Outil d'administration et de débogage pour la plateforme Truto. Utilisez-le pour configurer des intégrations, gérer des comptes, explorer des ressources, exporter des données et déboguer les appels d'API depuis le terminal. Ne génère pas de code d'application.

@@ -1,0 +1,1 @@
+Utilisez Claude Code CLI comme copilote d’analyse approfondie pour le papier à partir de zéro. Rôle principal : compression de l'arborescence des réclamations, détection des failles logiques, audit de la suffisance des preuves et jugement d'examen/routage empirique. Prend également en charge la collaboration de code générique comme solution de secours.

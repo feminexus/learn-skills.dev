@@ -1,0 +1,1 @@
+Automatisation des tests de navigateur dans .NET. Playwright E2E, mise en cache du navigateur CI, visionneuse de traces, codegen.

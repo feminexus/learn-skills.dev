@@ -1,0 +1,1 @@
+Diffusez les réponses des agents Hermes Gateway à Feishu/Lark sous forme de cartes interactives mises à jour en direct avec processus de réflexion, appels d'outils et interactions au sein de la carte.

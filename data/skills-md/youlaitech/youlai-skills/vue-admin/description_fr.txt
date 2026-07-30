@@ -1,0 +1,1 @@
+Normes de développement Vue 3 + TypeScript. Utilisez cette compétence lors de la création d'applications Vue 3 avec Composition API, Pinia, UnoCSS et SCSS. Couvre la dénomination, l'architecture CSS, la structure des composants, les modèles d'API et la qualité du code. Indépendant de la bibliothèque d'interface utilisateur (Element Plus, Ant Design Vue, etc.).

@@ -1,0 +1,1 @@
+Ghi et kiểm provenance (nguồn + sha256 checksum) cho skills — dùng khi 'cài skills từ ngoài', 'compétence này từ đâu', 'audit nguồn skills', 'checksum skills', 'supply-chain skills', phát hiện skills bị sửa lén; avec les scans orca-sec. Consultez fdk/tools/skill-provenance.py. /provenance de la compétence

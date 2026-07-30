@@ -1,0 +1,1 @@
+Choisir des protocoles interservices. Matrice de décision REST vs gRPC vs SignalR vs SSE, compromis.

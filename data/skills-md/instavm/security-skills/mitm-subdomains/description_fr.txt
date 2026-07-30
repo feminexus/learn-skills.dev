@@ -1,0 +1,1 @@
+Énumérez les sous-domaines du trafic capturé. À utiliser lorsque l'utilisateur pose des questions sur la découverte de sous-domaines, la cartographie de la surface d'attaque ou la reconnaissance de domaine.

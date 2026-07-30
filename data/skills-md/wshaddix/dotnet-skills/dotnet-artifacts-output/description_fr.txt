@@ -1,0 +1,1 @@
+Utilisation de la disposition de sortie des artefacts. UseArtifactsOutput, ArtifactsPath, impact sur CI et Docker.

@@ -1,0 +1,1 @@
+Générez un contrat de conception AI-SPEC.md pour les phases impliquant la création de systèmes d'IA.

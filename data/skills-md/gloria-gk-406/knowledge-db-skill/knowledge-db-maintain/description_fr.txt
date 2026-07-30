@@ -1,0 +1,1 @@
+À utiliser lors de la création ou de la maintenance d'une base de connaissances Markdown locale kb-core@2 avec des modèles de saisie d'informations et de connaissances canoniques, des métadonnées définies par le package, une validation autonome, des filtres génériques, un traçage de provenance ou une recherche prenant en compte les métadonnées.

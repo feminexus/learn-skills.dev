@@ -1,0 +1,1 @@
+Configurez et testez les services réseau courants (HTTP, HTTPS, SNMP, SMB) pour les environnements de laboratoire de tests d'intrusion. Permettez une pratique pratique avec l’énumération des services, l’analyse des journaux et les tests de sécurité sur des systèmes cibles correctement configurés.

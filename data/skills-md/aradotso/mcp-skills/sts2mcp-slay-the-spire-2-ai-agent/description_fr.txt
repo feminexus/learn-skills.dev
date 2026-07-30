@@ -1,0 +1,1 @@
+Contrôlez et automatisez le gameplay de Slay the Spire 2 via l'API REST ou le serveur MCP pour les agents IA.

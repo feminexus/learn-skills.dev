@@ -1,0 +1,1 @@
+Mở room (sous-agent 1 tầng) nạp chi tiết wiki khi contexte phiên chính đã rot — profondeur plafond = 1, budget cứng, disjoncteur. Déclencheur : 'mở room', 'context rot', 'nạp thêm chi tiết wiki', 'đào sâu wiki', '/wiki-room'.

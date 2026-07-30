@@ -1,0 +1,1 @@
+Implémenter une fonctionnalité de produit suivant la norme américaine 測試策略（Test-First/Test-After/Exploratory）. À utiliser lorsque l'utilisateur demande à ajouter, modifier ou supprimer une fonctionnalité, ou lorsqu'une modification peut avoir un impact important. Accessible par `/next-task` lors de l'envoi d'une tâche de fonctionnalité.

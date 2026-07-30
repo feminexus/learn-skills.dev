@@ -1,0 +1,1 @@
+À utiliser lorsque l'utilisateur demande à analyser le code pour la couverture des tests, à répertorier les cas de test nécessaires ou à revoir la stratégie de test, SANS générer de code de test réel.

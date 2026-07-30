@@ -1,0 +1,1 @@
+À utiliser lors de la synchronisation de la documentation de la base de code après des modifications de code. Déclencheurs lors de la « synchronisation des documents », de la « mise à jour de la documentation », de la « régénération des documents » ou après un travail de mise en œuvre important.

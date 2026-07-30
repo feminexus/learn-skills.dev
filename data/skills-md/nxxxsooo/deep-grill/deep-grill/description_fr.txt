@@ -1,0 +1,1 @@
+Testez de manière autonome un plan ou une conception avant sa mise en œuvre. À utiliser lorsque l'utilisateur dit « gril profond » ou demande des tests de pression, une remise en question des hypothèses ou une autocritique.

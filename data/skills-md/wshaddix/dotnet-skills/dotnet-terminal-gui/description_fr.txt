@@ -1,0 +1,1 @@
+Création d'applications TUI complètes. Terminal.Gui v2 : vues, disposition (Pos/Dim), menus, boîtes de dialogue, liaisons, thèmes.

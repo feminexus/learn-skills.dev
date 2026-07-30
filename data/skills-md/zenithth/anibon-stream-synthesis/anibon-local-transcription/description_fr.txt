@@ -1,0 +1,1 @@
+Transcrivez l'audio YouTube localement à l'aide de murmure.cpp lorsque YouTube n'a pas de sous-titres ni de sous-titres automatiques. Chemin alternatif chargé par anibon-timestamper.

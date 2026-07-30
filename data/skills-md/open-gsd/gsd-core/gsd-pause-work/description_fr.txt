@@ -1,0 +1,1 @@
+Créer un transfert de contexte lors de la pause du travail à mi-phase

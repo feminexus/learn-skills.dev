@@ -1,0 +1,1 @@
+Couche de budget contextuel centrée sur les politiques qui transforme des bases de code tentaculaires en un contexte compact à signal élevé pour les agents de codage d'IA à l'aide de graphiques de symboles et d'outils de précision.

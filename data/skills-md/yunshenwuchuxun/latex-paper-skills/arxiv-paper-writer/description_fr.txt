@@ -1,0 +1,1 @@
+Rédige des articles de révision et d'enquête ML/AI pour arXiv à l'aide du modèle IEEEtran LaTeX avec des citations BibTeX vérifiées. Se déclenche lorsque le livrable est un article de synthèse, une étude documentaire ou lorsqu'un projet LaTeX existant nécessite une validation ou une réparation de citation.

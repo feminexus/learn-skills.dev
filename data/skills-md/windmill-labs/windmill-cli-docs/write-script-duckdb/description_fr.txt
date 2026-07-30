@@ -1,0 +1,1 @@
+DOIT être utilisé lors de l'écriture de requêtes DuckDB.

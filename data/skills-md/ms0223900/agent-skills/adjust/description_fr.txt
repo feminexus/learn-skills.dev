@@ -1,0 +1,1 @@
+Ajustez une fonctionnalité existante : mettez à jour les États-Unis, testez la stratégie, implémentez, vérifiez, acceptez. À utiliser lorsque l'utilisateur demande à 補一下/調整行為／多支援某能力 pour quelque chose déjà expédié.

@@ -1,0 +1,1 @@
+Déployer llmwiki pour votre projet — extraction de modèles, installation de compétences, RTK, graine wiki, intégration

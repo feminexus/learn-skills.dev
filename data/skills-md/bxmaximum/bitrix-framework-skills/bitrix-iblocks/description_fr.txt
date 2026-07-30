@@ -1,0 +1,1 @@
+Types/éléments/sections Iblock, ORM compileEntity, propriétés, modèles SEO. Utiliser pour le travail de contenu iblock.

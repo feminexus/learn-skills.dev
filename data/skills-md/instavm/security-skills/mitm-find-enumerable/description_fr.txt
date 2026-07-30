@@ -1,0 +1,1 @@
+Recherchez les points de terminaison énumérables qui fuient des données lors des itérations. À utiliser lorsque l'utilisateur pose des questions sur la récupération de données, l'accès groupé aux données ou l'itération dans les enregistrements.

@@ -1,0 +1,1 @@
+Utilisez Vaxis pour les demandes de création, de mise à jour, d'inspection, d'explication ou de partage de diagrammes d'architecture, de diagrammes Mermaid, d'organigrammes, de flux de travail, de diagrammes de séquence, de diagrammes ER, de diagrammes d'état, de feuilles de route et de conceptions de systèmes visuels.

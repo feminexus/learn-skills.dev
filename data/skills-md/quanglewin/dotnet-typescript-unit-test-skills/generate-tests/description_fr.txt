@@ -1,0 +1,1 @@
+À utiliser lorsque l'utilisateur demande à générer, créer ou écrire des tests unitaires pour le code. Analyse le code cible, produit une liste de cas de test structurée pour examen, puis génère le code de test. Prend en charge C#/.NET (xUnit, NSubstitute, AwesomeAssertions) et TypeScript/JavaScript (Vitest ou Jest).

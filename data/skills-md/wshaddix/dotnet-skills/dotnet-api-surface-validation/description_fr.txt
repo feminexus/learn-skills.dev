@@ -1,0 +1,1 @@
+Détection des changements d'API dans CI. PublicApiAnalyzers, vérification des instantanés, rupture de l'application des modifications.

@@ -1,0 +1,1 @@
+Remplace le comportement de troncature LLM par défaut. Applique la génération complète de code, interdit les modèles d’espace réservé et gère proprement les divisions de limites de jetons. Appliquez-le à toute tâche nécessitant une sortie exhaustive et intégrale.

@@ -1,0 +1,1 @@
+Écrivez de la prose en « anglais technique simplifié ». Cela s'applique à la documentation, aux README, aux commits, aux pull request, aux plans et aux notes de version. Cela ne s'applique pas au code, aux identifiants, aux textes marketing, aux essais ou à tout ce qui nécessite une voix.
