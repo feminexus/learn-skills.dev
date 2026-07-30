@@ -1,0 +1,1 @@
+Recomiende palabras clave negativas para Google Ads con el tipo de concordancia, el alcance y la precaución adecuados. Extrae datos en vivo a través de MCP o trabaja con exportaciones manuales. Siempre produce un borrador de palabras clave negativas para revisión humana.

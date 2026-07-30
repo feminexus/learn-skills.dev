@@ -1,0 +1,1 @@
+Incorporación paralela de la base de código: canalización destilada para comprender cualquier cosa (escaneo + historial de git + análisis por lotes + capas/recorrido, sin complemento), luego enriquecimiento del dominio (Claude), wiki + HTML a través de código abierto + DeepSeek Flash v4.

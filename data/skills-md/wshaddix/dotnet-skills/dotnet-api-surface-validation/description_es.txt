@@ -1,0 +1,1 @@
+Detección de cambios de API en CI. PublicApiAnalyzers, verificar instantáneas y aplicar cambios importantes.

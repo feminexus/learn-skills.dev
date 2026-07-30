@@ -1,0 +1,1 @@
+Úselo al generar una línea de tiempo de hitos del proyecto a partir del historial de git. Se activa en "cronología", "hitos", "historial del proyecto" o cuando el usuario quiere ver la historia de cómo evolucionó el proyecto.

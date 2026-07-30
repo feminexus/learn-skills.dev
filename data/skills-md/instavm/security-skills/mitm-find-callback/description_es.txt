@@ -1,0 +1,1 @@
+Encuentre vulnerabilidades de devolución de llamada de pago y webhook. Úselo cuando el usuario pregunte sobre seguridad de pago, manipulación de devolución de llamada, validación de hash o manipulación de transacciones.

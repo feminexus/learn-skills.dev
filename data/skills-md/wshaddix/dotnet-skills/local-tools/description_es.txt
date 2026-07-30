@@ -1,0 +1,1 @@
+Mejores prácticas para trabajar con herramientas locales .NET, incluida la administración de manifiestos, la instalación de herramientas y el control de versiones. Úselo al configurar dotnet-tools.json para un proyecto, instalar o actualizar herramientas locales o administrar versiones de herramientas entre los miembros del equipo.

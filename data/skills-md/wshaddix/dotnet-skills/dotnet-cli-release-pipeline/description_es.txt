@@ -1,0 +1,1 @@
+Lanzamiento de herramientas CLI. Matriz de compilación de acciones de GitHub, preparación de artefactos, lanzamientos, sumas de verificación.

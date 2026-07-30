@@ -1,0 +1,1 @@
+Úselo al sincronizar la documentación base del código después de cambios en el código. Se activa al "sincronizar documentos", "actualizar documentación", "regenerar documentos" o después de un trabajo de implementación importante.

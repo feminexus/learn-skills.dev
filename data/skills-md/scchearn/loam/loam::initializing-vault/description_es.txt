@@ -1,0 +1,1 @@
+Arma una nueva bóveda de Obsidian con configuraciones, mapas de teclas y complementos principales preconfigurados. Úselo cuando el usuario quiera "configurar una nueva bóveda de Obsidiana", "crear una bóveda de Obsidiana" o "replicar mi configuración de Obsidiana".

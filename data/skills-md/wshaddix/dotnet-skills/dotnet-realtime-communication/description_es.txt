@@ -1,0 +1,1 @@
+Creación de funciones en tiempo real. Concentradores SignalR, SSE (.NET 10), JSON-RPC 2.0, transmisión gRPC, escalado.

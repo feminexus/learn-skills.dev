@@ -1,0 +1,1 @@
+Capa de presupuesto de contexto centrada en políticas que convierte bases de código en expansión en un contexto compacto y de alta señal para agentes de codificación de IA que utilizan gráficos de símbolos y herramientas de precisión.

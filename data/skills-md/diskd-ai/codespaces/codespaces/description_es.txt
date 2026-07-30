@@ -1,0 +1,1 @@
+Consulta `.belief_map.sexp` antes de cambios de código no triviales para encontrar los límites del módulo, las dependencias, el radio de explosión y los archivos mínimos para leer. Úselo para descubrimiento de arquitectura, análisis de impacto y verificación de límites.

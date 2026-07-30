@@ -1,0 +1,1 @@
+Úselo cuando el usuario solicite analizar el código para la cobertura de la prueba, enumerar qué casos de prueba se necesitan o revisar la estrategia de prueba, SIN generar código de prueba real.

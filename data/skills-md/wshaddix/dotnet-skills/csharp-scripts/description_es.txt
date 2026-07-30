@@ -1,0 +1,1 @@
+Ejecute programas C# de un solo archivo como scripts para realizar experimentaciones, crear prototipos y probar conceptos rápidamente. Úselo cuando el usuario quiera escribir y ejecutar un pequeño programa C# sin crear un proyecto completo.

@@ -1,0 +1,1 @@
+Explique un cambio de código a un revisor humano. Úselo solo cuando el usuario diga explícitamente que revisará el cambio él mismo.

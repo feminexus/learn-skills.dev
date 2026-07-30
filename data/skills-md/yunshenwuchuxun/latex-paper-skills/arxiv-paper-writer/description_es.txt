@@ -1,0 +1,1 @@
+Escribe artículos de revisión y encuestas de ML/AI para arXiv utilizando la plantilla IEEEtran LaTeX con citas BibTeX verificadas. Se activa cuando el entregable es un artículo de revisión, una encuesta bibliográfica o cuando un proyecto LaTeX existente necesita validación o reparación de citas.

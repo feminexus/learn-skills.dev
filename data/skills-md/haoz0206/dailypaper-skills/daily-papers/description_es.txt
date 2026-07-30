@@ -1,0 +1,3 @@
+Descubra y revise artículos académicos recientes, genere una obsidiana diaria
+recomendaciones y crear notas para artículos de lectura obligada. Úselo para “今日论文推荐”,
+“过去3天论文推荐”, “过去一周论文推荐”, o solicitudes de diarios equivalentes.

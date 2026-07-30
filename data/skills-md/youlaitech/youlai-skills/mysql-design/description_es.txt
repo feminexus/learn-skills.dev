@@ -1,0 +1,1 @@
+Estándares de diseño de bases de datos MySQL. Utilice esta habilidad al diseñar estructuras de tablas, tipos de campos, índices o convenciones de nomenclatura para bases de datos MySQL.

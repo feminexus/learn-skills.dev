@@ -1,0 +1,1 @@
+Muestra el uso real del token y los ahorros estimados para la sesión actual. Lee directamente del registro de sesión de Claude Code, sin estimación de IA. Se activa en /caveman-stats. La salida es inyectada por el gancho de seguimiento de modo; el modelo en sí no calcula los números.

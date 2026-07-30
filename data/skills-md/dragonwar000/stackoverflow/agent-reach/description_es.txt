@@ -1,0 +1,4 @@
+DEBE UTILIZARSE cuando el usuario quiera investigar/buscar/buscar/encontrar cualquier cosa en Internet, p. "investigar este tema", "profundizar en X", "buscar X en la web", "ver lo que dice la gente sobre X", "buscar esto".
+También DEBE USAR cuando el usuario menciona cualquier plataforma o comparte cualquier URL/enlace: Twitter/X, Reddit, Facebook, Instagram, YouTube, GitHub, Bilibili, XiaoHongShu, Xiaoyuzhou Podcast, LinkedIn/jobs/recruiting, V2EX, Xueqiu (acciones), RSS.
+15 plataformas, enrutamiento multibackend (OpenCLI/CLI/API por plataforma). Configuración cero para 6 canales. Ejecute `agent-reach doctor --json` para ver qué backend sirve a cada plataforma en este momento.
+NO para: escribir informes/análisis/traducción (esta habilidad solo BUSCA contenido de Internet); publicar/comentar/dar me gusta (operaciones de escritura); plataformas que ya tienen una habilidad dedicada instalada (prefiera esa habilidad).

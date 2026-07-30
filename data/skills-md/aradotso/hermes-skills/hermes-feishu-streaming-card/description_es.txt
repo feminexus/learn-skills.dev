@@ -1,0 +1,1 @@
+Transmita las respuestas de los agentes de Hermes Gateway a Feishu/Lark como tarjetas interactivas de actualización en vivo con procesos de pensamiento, llamadas de herramientas e interacciones en la tarjeta.

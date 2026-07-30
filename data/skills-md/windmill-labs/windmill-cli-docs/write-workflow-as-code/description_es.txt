@@ -1,0 +1,1 @@
+DEBE usarse al escribir o modificar scripts de flujo de trabajo como código de Windmill usando flujo de trabajo, tarea, paso, suspensión, aprobaciones, taskScript, taskFlow, task_script o task_flow.

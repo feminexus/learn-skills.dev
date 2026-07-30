@@ -1,0 +1,1 @@
+Diagnóstico de problemas de rendimiento de .NET. contadores dotnet, dotnet-trace, dotnet-dump, gráficos de llamas.

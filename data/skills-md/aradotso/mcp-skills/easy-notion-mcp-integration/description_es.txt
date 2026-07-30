@@ -1,0 +1,1 @@
+Conecte agentes de IA a Notion usando Markdown en lugar de JSON sin formato a través del servidor MCP con 42 herramientas para leer, escribir y administrar páginas y bases de datos.

@@ -1,0 +1,1 @@
+Integre el servidor MCP de Live Tennis API para brindarles a los agentes de IA puntajes de tenis, probabilidades y probabilidades de ganar en tiempo real.

@@ -1,0 +1,1 @@
+Depure y solucione problemas de conexión, replicación y API de Sling. Úselo cuando encuentre errores, depure fallas de conexión, solucione problemas de autenticación, resuelva problemas de conversión de tipos, maneje problemas de memoria/rendimiento o solucione problemas de límites de velocidad de API.

@@ -1,0 +1,1 @@
+Creación de aplicaciones WinUI 3. Configuración del SDK de aplicaciones de Windows, patrones XAML, implementación MSIX/sin empaquetar, migración a UWP.

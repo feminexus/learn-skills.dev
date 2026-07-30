@@ -1,0 +1,1 @@
+Puede usar una plantilla "pattern chuẩn" - una plantilla de patrón, una derivación local y una /sync-template a una remota. Entonces version.json local ↔ remoto ↔ disco (token 0, falla de apertura). Activador: "control de estado", "patrón de control", "control de sincronización", "/control de estado".

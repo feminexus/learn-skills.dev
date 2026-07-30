@@ -1,0 +1,1 @@
+Herramienta de administración y depuración para la plataforma Truto. Úselo para configurar integraciones, administrar cuentas, explorar recursos, exportar datos y depurar llamadas API desde la terminal. No genera código de aplicación.

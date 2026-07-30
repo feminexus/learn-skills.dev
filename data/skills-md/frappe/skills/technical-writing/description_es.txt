@@ -1,0 +1,1 @@
+Escribir prosa en "inglés técnico simplificado". Esto se aplica a la documentación, archivos README, confirmaciones, solicitudes de extracción, planes y notas de la versión. No se aplica a códigos, identificadores, textos de marketing, ensayos ni nada que necesite voz.

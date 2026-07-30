@@ -1,0 +1,1 @@
+Implementar llmwiki en el proyecto: extracción de plantilla, instalación de habilidades, RTK, wiki semilla, integrado

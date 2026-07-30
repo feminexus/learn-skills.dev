@@ -1,0 +1,1 @@
+Referencia para envío de Antigravity/OpenCode, instalación de habilidades, AgentMemory, proxy de token RTK: NO es una habilidad de bucle

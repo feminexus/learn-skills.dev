@@ -1,0 +1,1 @@
+Añadiendo observabilidad. Seguimientos/métricas/registros de OpenTelemetry, comprobaciones de estado, métricas personalizadas.

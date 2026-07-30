@@ -1,0 +1,1 @@
+Clasificación rápida de comportamientos inesperados: capa, evidencia, riesgos, próxima solución. Úselo para estados incorrectos, errores de API, interfaz de usuario inestable y rendimiento. Preguntas puras sobre la ruta de renderizado → `/find-component-render-path`. Accesible mediante `/fix` cuando la causa raíz es un comportamiento/flujo de datos confuso.

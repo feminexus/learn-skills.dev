@@ -1,0 +1,1 @@
+Habilidad experta para manejar ComfyUI (generación de imágenes/vídeo/audio) a través del servidor MCP comfortui-mcp: creación de flujo de trabajo, gestión de modelos, edición de gráficos en lenguaje natural y plano de control nativo del agente.

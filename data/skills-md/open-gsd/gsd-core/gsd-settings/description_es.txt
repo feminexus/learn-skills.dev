@@ -1,0 +1,1 @@
+Configurar alternancias de flujo de trabajo GSD y perfil de modelo

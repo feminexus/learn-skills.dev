@@ -1,0 +1,1 @@
+Uso de colas de productores/consumidores. Canal<T>, limitado/ilimitado, contrapresión, patrones de drenaje

@@ -1,0 +1,1 @@
+Verifique, confirme e impulse los cambios actuales de Git con un alcance de confirmación convencional derivado de rama.

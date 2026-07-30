@@ -1,0 +1,1 @@
+Extraiga el contrato de diseño del repositorio (tokens, registro de componentes, arquetipos de pantalla, convenciones) en .uxproof/ para que cada habilidad de UX juzgue el sistema de diseño de ESTE repositorio, sea cual sea. Ejecutar una vez por repositorio; Vuelva a ejecutar para actualizar después de los cambios en el sistema de diseño.

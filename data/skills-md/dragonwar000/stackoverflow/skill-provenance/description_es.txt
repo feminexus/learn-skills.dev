@@ -1,0 +1,1 @@
+Ghi và kiểm procedencia (nguồn + sha256 checksum) cho habilidad — dùng khi 'cài habilidad từ ngoài', 'habilidad này từ đâu', 'auditar habilidad nguồn', 'checksum habilidad', 'habilidad de cadena de suministro', phát hiện habilidad bị sửa lén; Bổ trợ orca-sec-scans. Consulte fdk/tools/skill-provenance.py. /procedencia-habilidad

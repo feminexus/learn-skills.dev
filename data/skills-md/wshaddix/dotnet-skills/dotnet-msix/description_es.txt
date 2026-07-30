@@ -1,0 +1,1 @@
+Empaquetado de aplicaciones MSIX. Creación, firma, envío a la tienda, carga lateral del instalador de aplicaciones, actualización automática.

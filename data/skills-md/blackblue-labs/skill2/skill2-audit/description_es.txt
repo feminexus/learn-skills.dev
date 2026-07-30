@@ -1,0 +1,1 @@
+Úselo al revisar una habilidad o una biblioteca de habilidades para detectar problemas estructurales, de seguridad, de vinculación, de tamaño o de límites de activación estáticos.

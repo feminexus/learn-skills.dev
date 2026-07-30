@@ -1,0 +1,1 @@
+Elegir el formato de salida CLI. AOT vs dependiente del marco, matriz RID, archivo único, herramienta dotnet.

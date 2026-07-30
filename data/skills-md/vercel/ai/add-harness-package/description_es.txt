@@ -1,0 +1,1 @@
+Guía para agregar nuevos paquetes de arnés AI SDK. Úselo al crear un nuevo paquete @ai-sdk/harness-<nombre> que adapta un tiempo de ejecución del agente de codificación a HarnessV1.

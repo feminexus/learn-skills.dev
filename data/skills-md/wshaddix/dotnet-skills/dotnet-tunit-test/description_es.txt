@@ -1,0 +1,1 @@
+Directrices para escribir pruebas TUnit en .NET, incluida la configuración, aserciones, pruebas asíncronas y mejores prácticas. Úselo al escribir pruebas unitarias con el marco TUnit, configurar TUnit en un proyecto .NET o migrar desde otros marcos de prueba a TUnit.

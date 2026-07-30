@@ -1,0 +1,1 @@
+Implemente una característica del producto siguiendo la norma estadounidense 測試策略 (Prueba primero/Prueba después/Exploratoria). Úselo cuando el usuario solicite agregar, cambiar o eliminar una función, o cuando un cambio pueda tener un gran impacto. Accesible mediante `/next-task` al enviar una tarea de función.

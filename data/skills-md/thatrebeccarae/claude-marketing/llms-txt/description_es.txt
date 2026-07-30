@@ -1,0 +1,1 @@
+Genere y mantenga archivos llms.txt para que la IA pueda descubrirlos. Escanea repositorios para crear mapas de contenido seleccionados que ayudan a los motores de respuesta de IA a mostrar su proyecto con precisión. Implementa la especificación llms.txt de Answer.AI.

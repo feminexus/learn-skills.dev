@@ -1,0 +1,1 @@
+Contenedor de aplicaciones .NET. Dockerfiles de varias etapas, publicación de contenedor SDK (.NET 8+), sin raíz.

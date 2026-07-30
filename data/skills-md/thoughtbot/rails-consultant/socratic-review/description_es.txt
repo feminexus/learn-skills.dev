@@ -1,0 +1,1 @@
+Sesión de revisión y refactorización de código socrático, ya sea su propio código, las relaciones públicas de un compañero de equipo o algo que heredó. Le lleva a ver los problemas a través de preguntas, nombra olores y se mueve con precisión, luego cierra con un plan concreto.

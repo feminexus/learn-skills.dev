@@ -1,0 +1,1 @@
+Habilidad de interfaz antideslizamiento para páginas de destino, carteras y rediseños. El agente lee el informe, deduce la dirección correcta del diseño y envía interfaces que no parecen estar modeladas. Sistemas de diseño reales cuando corresponda, auditoría primero en los rediseños, estricta verificación previa al vuelo.

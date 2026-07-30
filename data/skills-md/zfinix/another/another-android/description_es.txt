@@ -1,0 +1,1 @@
+Controle los dispositivos Android desde agentes de IA utilizando otro servidor MCP. Úselo cuando se le solicite interactuar, probar, automatizar o tomar capturas de pantalla de un dispositivo Android. Proporciona herramientas para entrada táctil, entrada de texto, pulsación de botones, capturas de pantalla, inicio de aplicaciones, comandos de shell y gestos de deslizamiento.

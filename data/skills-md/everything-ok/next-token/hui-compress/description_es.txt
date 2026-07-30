@@ -1,0 +1,1 @@
+Reescriba archivos de memoria de lenguaje natural compatibles (CLAUDE.md, todos, preferencias) en un formato hui conciso. Preserva la estructura protegida y escribe una copia de seguridad FILE.original.md legible por humanos. Activador: /hui-compress FILEPATH o "comprimir archivo de memoria"

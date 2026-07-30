@@ -1,0 +1,1 @@
+Disciplina de desarrollo basado en pruebas: RED-GREEN-REFACTOR. Primero escriba una prueba fallida, observe cómo falla por el motivo correcto, escriba un código mínimo para aprobar, observe cómo pasa y luego refactorice. Se niega a decir "hecho" hasta que exista una prueba y se apruebe. Activador: /hui-tdd, "usar tdd", "escribir la prueba primero", "refactorizar rojo verde".

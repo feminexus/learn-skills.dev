@@ -1,0 +1,1 @@
+Convierta un informe de vulnerabilidad en un aviso de seguridad de GitHub listo para publicar.

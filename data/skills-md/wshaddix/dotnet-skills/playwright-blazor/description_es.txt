@@ -1,0 +1,1 @@
+Patrones de prueba de un extremo a otro para aplicaciones Blazor que utilizan Playwright, incluidas pruebas de componentes y navegación de páginas. Úselo al escribir pruebas E2E para aplicaciones Blazor, probar las interacciones de los componentes de Blazor con Playwright o configurar la infraestructura de pruebas de Playwright para aplicaciones Blazor.

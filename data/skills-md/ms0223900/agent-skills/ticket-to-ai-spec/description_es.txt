@@ -1,0 +1,1 @@
+Transforma tickets sin procesar en especificaciones de desarrollo de agentes de IA legibles por máquina al aclarar los requisitos y definir criterios de aceptación y límites técnicos. Úselo cuando el usuario pega contenido del ticket o hace referencia a tickets, historias de usuarios o criterios de aceptación y desea especificaciones de implementación listas para IA.

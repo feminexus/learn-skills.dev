@@ -1,0 +1,1 @@
+Servidor MCP para la base de conocimientos de Yuque (语雀): busque, cree y administre documentos a través de asistentes de IA

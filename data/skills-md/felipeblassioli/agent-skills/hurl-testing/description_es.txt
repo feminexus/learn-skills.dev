@@ -1,0 +1,1 @@
+Escriba, ejecute y afirme solicitudes HTTP de forma segura utilizando archivos de texto Hurl. Se activan pruebas de API, generación de solicitudes HTTP, validación REST/GraphQL o cuando se mencionan archivos .hurl. NO utilice esta habilidad para pruebas de interfaz de usuario/navegador ni para pruebas de unidades internas.

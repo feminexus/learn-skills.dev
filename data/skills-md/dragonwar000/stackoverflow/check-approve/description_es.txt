@@ -1,0 +1,1 @@
+Utilice una línea de 1 línea para rastrear 1 para aprobar/devolver/rechazar un registro de DMS BE (docker) + proxy FE, un archivo .sh para que el usuario copie y pegue en el servidor del producto. El usuario dice "viết lệnh check aprobar", "check duyệt request <CÓDIGO>", "aprobar treo / không thấy lệnh duyệt", "/check-approve".

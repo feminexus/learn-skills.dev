@@ -1,0 +1,1 @@
+Configure y pruebe servicios de red comunes (HTTP, HTTPS, SNMP, SMB) para entornos de laboratorio de pruebas de penetración. Permita la práctica práctica con enumeración de servicios, análisis de registros y pruebas de seguridad en sistemas de destino configurados correctamente.

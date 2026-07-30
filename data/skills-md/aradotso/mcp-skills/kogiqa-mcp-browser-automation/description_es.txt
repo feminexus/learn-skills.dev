@@ -1,0 +1,1 @@
+Servidor MCP para la automatización del navegador utilizando lenguaje natural a través de kogiQA, lo que permite a los agentes de IA interactuar con páginas web sin selectores.

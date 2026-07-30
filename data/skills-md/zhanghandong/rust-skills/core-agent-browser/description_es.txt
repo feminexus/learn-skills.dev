@@ -1,0 +1,1 @@
+Habilidad de soporte interno para flujos de trabajo CLI de agente-navegador utilizados por Rust-Learner, docs-researcher y crate-researcher. Úselo solo cuando se requiera explícitamente la automatización del navegador.

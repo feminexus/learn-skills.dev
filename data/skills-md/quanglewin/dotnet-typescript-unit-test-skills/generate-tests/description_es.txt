@@ -1,0 +1,1 @@
+Úselo cuando el usuario solicite generar, crear o escribir pruebas unitarias para código. Analiza el código de destino, produce una lista estructurada de casos de prueba para su revisión y luego genera el código de prueba. Admite C#/.NET (xUnit, NSubstitute, AwesomeAssertions) y TypeScript/JavaScript (Vitest o Jest).

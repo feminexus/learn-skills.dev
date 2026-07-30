@@ -1,0 +1,1 @@
+Úselo cuando un problema de GitHub listo necesite un plan de implementación compatible con el repositorio publicado como un comentario de problema único para un flujo de trabajo de implementación posterior.

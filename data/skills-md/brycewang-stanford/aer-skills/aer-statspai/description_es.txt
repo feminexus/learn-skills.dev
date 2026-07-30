@@ -1,0 +1,1 @@
+Úselo cuando aer-identification haya arreglado el diseño, después de la elección de la metodología y antes de aer-robustness o aer-tables-figures, para ejecutar un análisis de seguimiento de AER con StatsPAI, el motor Python nativo del agente y el servidor MCP para inferencia causal, solidez, sensibilidad y exportación de tablas listas para publicación.

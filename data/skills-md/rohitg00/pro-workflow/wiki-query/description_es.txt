@@ -1,0 +1,1 @@
+Consulta wikis pro-workflow a través de la recuperación SQLite FTS5 BM25. Devuelve los pasajes top-K con citas. Úselo al responder una pregunta que cualquiera de los wikis del usuario ya cubre, cuando el usuario dice "¿qué dice el wiki sobre X?", "pregunte al wiki", "busque wikis" o antes de redactar una nueva página wiki (para evitar duplicaciones).

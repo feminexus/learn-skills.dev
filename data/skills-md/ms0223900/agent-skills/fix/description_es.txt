@@ -1,0 +1,1 @@
+Corrija errores de ESLint, TypeScript, pruebas o compilación con resultados claros de la herramienta: reproduzca, clasifique, plantee hipótesis, parchee la causa raíz y vuelva a verificar el color verde. Úselo cuando el usuario pegue lint/tsc/test/build Failures o diga 修這個錯誤／測試過不了／type error／build 失敗. Accesible mediante `/next-task` en ejecuciones fallidas.

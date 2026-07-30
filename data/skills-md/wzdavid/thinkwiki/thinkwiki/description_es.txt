@@ -1,0 +1,1 @@
+Utilice esta habilidad cuando el usuario quiera crear, mantener, consultar o visualizar una base de conocimientos de Markdown local. ThinkWiki puede inicializar una wiki, importar archivos o páginas web, recopilar elementos de la bandeja de entrada, responder a partir del conocimiento existente, guardar resultados de mayor valor y generar visores HTML y artefactos gráficos.

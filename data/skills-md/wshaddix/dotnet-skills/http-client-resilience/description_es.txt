@@ -1,0 +1,1 @@
+Patrones IHttpClientFactory con Polly para reintentos, disyuntores, tiempos de espera y comunicación HTTP resistente. Incluye mejores prácticas para la configuración del cliente HTTP y el manejo de errores. Úselo al configurar clientes HTTP resistentes en ASP.NET Core, implementar políticas de reintento con Polly o configurar disyuntores para llamadas de servicio externo.

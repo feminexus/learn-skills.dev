@@ -1,0 +1,1 @@
+Tarjeta de referencia rápida para todos los modos, habilidades y comandos de hui. Visualización de una sola vez, no modo persistente. Activador: /hui-help, "ayuda de hui", "qué comandos de hui", "cómo uso hui".

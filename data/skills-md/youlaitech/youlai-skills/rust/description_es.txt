@@ -1,0 +1,1 @@
+Óxido 后端开发规范. Utilice esta habilidad al desarrollar proyectos web Rust, implementar API REST con Axum + SeaORM, autenticación de token JWT/Redis o el backend de administración youlai-rust (PostgreSQL).

@@ -1,0 +1,1 @@
+Estándares de desarrollo Vue 3 + TypeScript. Utilice esta habilidad al crear aplicaciones Vue 3 con Composition API, Pinia, UnoCSS y SCSS. Cubre nombres, arquitectura CSS, estructura de componentes, patrones API y calidad del código. Independiente de la biblioteca de UI (Element Plus, Ant Design Vue, etc.).

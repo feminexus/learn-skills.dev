@@ -1,0 +1,1 @@
+Úselo al crear una confirmación de git para cambios preparados o no preparados. Se activa al "confirmar esto", "guardar mis cambios" o cuando se completa el trabajo de implementación y necesita control de versiones.

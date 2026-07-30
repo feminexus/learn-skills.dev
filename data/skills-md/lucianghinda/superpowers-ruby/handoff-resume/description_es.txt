@@ -1,0 +1,1 @@
+Úselo al iniciar una nueva sesión y desea continuar desde una transferencia anterior: lee el último documento de transferencia no restaurado y restaura el contexto de la sesión.

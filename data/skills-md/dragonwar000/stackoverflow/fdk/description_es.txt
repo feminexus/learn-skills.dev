@@ -1,0 +1,1 @@
+Marco de trabajo de puerta de entrada a pedido HOẶC destilar/autor con habilidad: AUTÓNOMO, compatible con el proyecto BẤT KỲ (repositorio de archivos local). Si utiliza un marco de trabajo, podrá utilizar/cambiar sus habilidades con respecto a sus habilidades. KHÔNG dùng cho dev tính năng dự án thường (đó là phần lớn phiên — ADR-004).

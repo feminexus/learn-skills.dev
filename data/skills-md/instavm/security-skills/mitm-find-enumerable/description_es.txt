@@ -1,0 +1,1 @@
+Encuentre puntos finales enumerables que filtren datos mediante iteración. Úselo cuando el usuario pregunte sobre la extracción de datos, el acceso masivo a datos o la iteración de registros.

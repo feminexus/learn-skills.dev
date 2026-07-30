@@ -1,0 +1,1 @@
+Optimización de MAUI para iOS/Catalyst. Canalización nativa de AOT, aumento de tamaño/inicio, lagunas en la biblioteca, recorte.

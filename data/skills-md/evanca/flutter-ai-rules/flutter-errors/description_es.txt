@@ -1,0 +1,1 @@
+Úselo cuando encuentre errores de diseño (desbordamiento de RenderFlex, restricciones ilimitadas, RenderBox no diseñado), errores de desplazamiento o errores de setState durante la compilación.

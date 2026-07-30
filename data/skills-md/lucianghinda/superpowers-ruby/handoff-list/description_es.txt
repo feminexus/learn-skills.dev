@@ -1,0 +1,1 @@
+Úselo cuando vea documentos de transferencia disponibles: enumera las transferencias activas y archivadas con su estado, fecha, tema y rama.

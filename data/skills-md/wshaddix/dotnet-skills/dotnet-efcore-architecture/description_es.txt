@@ -1,0 +1,1 @@
+Diseño de arquitectura de capa de datos. División de lectura/escritura, límites agregados, gobernanza N+1.

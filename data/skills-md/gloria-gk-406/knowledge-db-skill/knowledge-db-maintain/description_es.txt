@@ -1,0 +1,1 @@
+Úselo al crear o mantener una base de conocimiento local de Markdown kb-core@2 con información canónica y plantillas de entrada de conocimiento, metadatos definidos por paquete, validación autónoma, filtros genéricos, seguimiento de procedencia o búsqueda con reconocimiento de metadatos.

@@ -1,0 +1,1 @@
+Úselo al revisar una característica implementada con respecto a su documento de plan. Se activa después de que se completa la implementación, al "revisar esto" o al verificar si el código coincide con la especificación.

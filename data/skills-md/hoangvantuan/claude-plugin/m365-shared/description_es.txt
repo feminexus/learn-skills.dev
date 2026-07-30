@@ -1,0 +1,1 @@
+CLI para Microsoft 365 (m365): patrones compartidos para autenticación, instalación, formato de salida e indicadores comunes. Úselo cuando el usuario mencione "inicio de sesión de m365", "configuración de m365", "configuración de Microsoft 365", "estado de m365", "kết nối Microsoft" o cuando otra habilidad m365-* necesita una referencia de patrón común o de autenticación.

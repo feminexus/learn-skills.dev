@@ -1,0 +1,1 @@
+Mở room (subagente 1 tầng) nạp chi tiết wiki khi context phiên chính đã rot: límite de profundidad = 1, presupuesto, disyuntor. Activador: 'mở room', 'context rot', 'nạp thêm chi tiết wiki', 'đào sâu wiki', '/wiki-room'.

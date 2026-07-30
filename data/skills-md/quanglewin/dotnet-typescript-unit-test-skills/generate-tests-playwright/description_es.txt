@@ -1,0 +1,1 @@
+Úselo cuando el usuario solicita generar, crear o escribir pruebas de Playwright (Componente o API) para código TypeScript/JavaScript. Analiza el componente de destino o la ruta API, produce una lista estructurada de casos de prueba para su revisión y luego genera especificaciones de Playwright utilizando el modelo de objetos de página (POM).

@@ -1,0 +1,1 @@
+Publicación de artefactos .NET desde Azure DevOps. NuGet push, contenedores a ACR, artefactos de canalización.

@@ -1,0 +1,1 @@
+Escribir puntos de referencia. Configuración de BenchmarkDotNet, diagnosticadores de memoria, líneas base, análisis de resultados.

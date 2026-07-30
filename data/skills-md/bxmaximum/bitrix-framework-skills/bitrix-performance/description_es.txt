@@ -1,0 +1,1 @@
+Cubre el rendimiento de Bitrix: sitio compuesto, optimización de consultas, replicación/agrupación, fragmentación, sesiones en caliente/fría. Solicitado optimización de carga alta más allá del almacenamiento en caché básico. Términos clave: compuesto, NGINX, replicación, fragmentación, optimización de consultas.

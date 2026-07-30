@@ -1,0 +1,1 @@
+Tabletas ORM D7, consultas ConditionTree, Objectify, escrituras por lotes/fusión/deleteByFilter. Úselo para diseño, lecturas y persistencia de entidades.

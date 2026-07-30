@@ -1,0 +1,1 @@
+Actualización de .NET a un TFM más nuevo. LTS a LTS, organizado a través de STS, vista previa y rutas de actualización.

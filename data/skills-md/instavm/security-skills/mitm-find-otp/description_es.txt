@@ -1,0 +1,1 @@
+Encuentre vulnerabilidades de implementación de OTP. Úselo cuando el usuario pregunte sobre problemas de seguridad OTP, omisión de verificación, seguridad de SMS o autenticación de dos factores.

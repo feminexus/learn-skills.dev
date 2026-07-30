@@ -1,0 +1,1 @@
+Dirigirse a varios TFM o utilizar C# más nuevo en TFM más antiguos. Estrategia Polyfill, compatibilidad API.

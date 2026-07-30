@@ -1,0 +1,1 @@
+Inicialice y verifique un espacio de trabajo de flujo de trabajo de Avalanche con clones locales editables de Avalanche y PredictRLM en .trampoline-ai y la habilidad de creación de Avalanche instalada en el alcance del proyecto. Úselo solo cuando alguien solicite configurar, iniciar o preparar un espacio de trabajo; no diseña ni crea el flujo de trabajo del usuario.

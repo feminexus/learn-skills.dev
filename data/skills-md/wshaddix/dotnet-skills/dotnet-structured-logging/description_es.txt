@@ -1,0 +1,1 @@
+Diseño de tuberías de registro. Agregación, consultas estructuradas, muestreo, depuración de PII, correlación.

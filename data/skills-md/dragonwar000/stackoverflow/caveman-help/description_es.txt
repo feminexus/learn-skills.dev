@@ -1,0 +1,1 @@
+Tarjeta de referencia rápida para todos los modos, habilidades y comandos de los cavernícolas. Visualización de una sola vez, no modo persistente. Activador: /caveman-help, "ayuda del cavernícola", "qué comandos del cavernícola", "cómo uso el cavernícola".

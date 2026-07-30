@@ -1,0 +1,1 @@
+Creación de funciones de IA/LLM. Configuración del kernel semántico, complementos, plantillas de mensajes, almacenes de memoria, agentes.

@@ -1,0 +1,1 @@
+Utilice la CLI de Claude Code como copiloto de análisis en profundidad para el papel desde cero. Función principal: compresión del árbol de reclamaciones, detección de agujeros lógicos, auditoría de suficiencia de evidencia y juicio de revisión/enrutamiento empírico. También admite la colaboración de código genérico como alternativa.

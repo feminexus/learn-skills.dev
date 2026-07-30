@@ -1,0 +1,1 @@
+Estándares de desarrollo backend de Django REST Framework. Utilice esta habilidad cuando desarrolle proyectos de Django, implemente API REST con DRF ViewSets, serializadores o autenticación JWT.

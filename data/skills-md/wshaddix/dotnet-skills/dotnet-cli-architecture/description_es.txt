@@ -1,0 +1,1 @@
+Estructuración de capas de aplicaciones CLI. Separación comando/controlador/servicio, principios de clig.dev, códigos de salida.

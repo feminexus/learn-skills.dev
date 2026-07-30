@@ -1,0 +1,1 @@
+Realice una prueba de estrés de forma autónoma de un plan o diseño antes de su implementación. Úselo cuando el usuario diga "parrilla profunda" o solicite pruebas de presión, cuestionamiento de suposiciones o autocrítica.

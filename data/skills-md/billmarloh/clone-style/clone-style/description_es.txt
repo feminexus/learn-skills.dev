@@ -1,0 +1,1 @@
+Clona el estilo de diseño visual de un sitio web y aplícalo al proyecto actual. Extrae colores, tipografía, espaciado y patrones de componentes y luego reconstruye la interfaz de usuario para que coincida. Dispara con /clone-style <url>.

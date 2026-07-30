@@ -1,0 +1,1 @@
+Elección de protocolos interservicios. Matriz de decisión REST vs gRPC vs SignalR vs SSE, compensaciones.

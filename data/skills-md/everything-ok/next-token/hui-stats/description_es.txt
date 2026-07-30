@@ -1,0 +1,1 @@
+Muestra el uso de token local observado para la sesión actual de Claude Code. Lee el registro de sesión directamente. Se activa en /hui-stats. La salida se inyecta mediante un gancho de seguimiento de modo; El modelo no calcula números.

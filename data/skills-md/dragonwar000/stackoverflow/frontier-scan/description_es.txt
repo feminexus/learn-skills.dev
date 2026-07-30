@@ -1,0 +1,1 @@
+Quét biên giới agente-framework 30 ngày qua y đối chiếu overstack theo 8 trục (frontier-gap-scan runbook) - gọi INSTANTÁNEO, không phải cron. Chạy 5 WebSearch, chấm Ngang/Chớm/Thua, diff kỳ trước, plantear problema cho gap mới / cập nhật gap đã có, cập nhật informe. Activador: 'frontier scan', 'quét đối thủ', 'scout tuần', 'chúng ta thua gì', '/frontier-scan'.

@@ -1,0 +1,1 @@
+Úselo después de la revisión de funciones para archivar planes y documentos de investigación, actualizar el inventario de efectos y confirmar. Se activa al "finalizar", "concluir", "cerrar" o después de que se completa la revisión.

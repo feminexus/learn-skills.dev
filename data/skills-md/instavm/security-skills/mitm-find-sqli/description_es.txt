@@ -1,0 +1,1 @@
+Encuentre vulnerabilidades de inyección SQL en el tráfico capturado. Úselo cuando el usuario pregunte sobre la seguridad de la base de datos, ataques de inyección o extracción de datos.

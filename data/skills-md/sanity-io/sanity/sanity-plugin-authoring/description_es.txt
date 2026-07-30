@@ -1,0 +1,1 @@
+Explique y cree complementos de Sanity Studio utilizando las API de herramientas y complementos públicos. Úselo al crear complementos orientados al usuario, agregar herramientas a través de complementos o cuando un agente necesita comprender qué puede configurar un complemento de Sanity antes de aplicar el cableado del complemento predeterminado específico de monorepo.

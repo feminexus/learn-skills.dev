@@ -1,0 +1,1 @@
+Implementación de .NET desde GitHub Actions. Azure Web Apps, GitHub Pages, registros de contenedores.

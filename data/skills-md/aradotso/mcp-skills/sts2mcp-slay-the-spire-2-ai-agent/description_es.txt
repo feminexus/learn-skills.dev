@@ -1,0 +1,1 @@
+Controle y automatice el juego de Slay the Spire 2 a través de REST API o servidor MCP para agentes de IA

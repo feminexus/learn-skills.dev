@@ -1,0 +1,1 @@
+Controle las pestañas del navegador Chrome a través de MCP para la automatización web asistida por IA utilizando el servidor y la extensión Browser MCP

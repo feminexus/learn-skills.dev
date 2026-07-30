@@ -1,0 +1,1 @@
+Automatización de pruebas de navegador en .NET. Dramaturgo E2E, almacenamiento en caché del navegador CI, visor de seguimiento, codegen.

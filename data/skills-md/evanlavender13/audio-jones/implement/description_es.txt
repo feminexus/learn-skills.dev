@@ -1,0 +1,1 @@
+Utilícelo al ejecutar un plan de funciones con agentes paralelos basados ​​en oleadas. Se activa al "implementar este plan", "comenzar a construir" o cuando existe un plan en documentos/planes/ y el usuario quiere comenzar a codificar.

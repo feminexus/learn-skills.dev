@@ -1,0 +1,1 @@
+Tipos/elementos/secciones de Iblock, ORM compileEntity, propiedades, plantillas SEO. Úselo para el trabajo de iblock de contenido.

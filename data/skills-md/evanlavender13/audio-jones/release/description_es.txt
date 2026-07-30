@@ -1,0 +1,1 @@
+Úselo al crear una versión etiquetada con registro de cambios. Se activa al "liberar", "etiquetar un lanzamiento", "cortar un lanzamiento" o cuando está listo para publicar una nueva versión.

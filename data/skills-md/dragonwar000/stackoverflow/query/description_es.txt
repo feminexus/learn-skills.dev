@@ -1,0 +1,1 @@
+Sintetizar respuesta de wiki; persistir nuevos conocimientos como entradas de wiki. Trả lời kèm mục Evidencia trích dẫn edge ID (eid) của các cạnh trong đồ thị wiki thật sự chống lưng kết luận — dùng khi cần biết "căn cứ nào", "trích dẫn cạnh nào", "đường đi trong graph", "citar evidencia".

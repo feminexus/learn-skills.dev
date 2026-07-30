@@ -1,0 +1,1 @@
+Encuentre vulnerabilidades de suma de comprobación y firma. Úselo cuando el usuario pregunte sobre validación de hash, omisión de firma, manipulación de suma de verificación o debilidades criptográficas.

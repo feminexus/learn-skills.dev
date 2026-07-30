@@ -1,0 +1,1 @@
+Guía para utilizar OptimusKG, el gráfico de conocimiento biomédico, a través del cliente Python `optimuskg`. Utilícelo cuando cargue, consulte, filtre o analice datos de OptimusKG (genes, medicamentos, enfermedades, fenotipos, anatomía, vías y sus relaciones) como Polars DataFrames o un gráfico NetworkX, o cuando descargue el gráfico publicado de Harvard Dataverse.

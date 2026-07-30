@@ -1,0 +1,1 @@
+Manejo de secretos o configuración sensible. Secretos de usuario, variables de entorno, rotación.

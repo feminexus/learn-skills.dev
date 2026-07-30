@@ -1,0 +1,1 @@
+Elegir un enfoque de acceso a datos. Matriz de decisiones EF Core vs Dapper vs ADO.NET, compensaciones de rendimiento.

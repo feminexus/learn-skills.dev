@@ -1,0 +1,1 @@
+Úselo al iniciar o reanudar un archivo de plan, incluida la ejecución mixta local y delegada por hcom, mientras mantiene precisos los metadatos de verificación, estado del plan y transferencia.

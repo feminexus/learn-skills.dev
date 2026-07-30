@@ -1,0 +1,1 @@
+Diagnóstico de compilaciones lentas o fallas incrementales. Registros binarios, compilaciones paralelas, restauración.

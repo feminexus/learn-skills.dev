@@ -1,0 +1,1 @@
+Anula el comportamiento de truncamiento de LLM predeterminado. Hace cumplir la generación completa de código, prohíbe los patrones de marcadores de posición y maneja limpiamente las divisiones de límite de tokens. Aplicar a cualquier tarea que requiera resultados exhaustivos e íntegros.

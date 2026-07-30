@@ -1,0 +1,1 @@
+Agregar CI/CD a un proyecto .NET. Acciones de GitHub vs detección de Azure DevOps, plantillas de flujo de trabajo.

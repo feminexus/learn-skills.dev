@@ -1,0 +1,1 @@
+Úselo al agregar una entrada a docs/effects.md para un nuevo efecto visual

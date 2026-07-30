@@ -1,0 +1,1 @@
+Depure el tráfico cliente-servidor de MCP en tiempo real utilizando mcpsnoop, un proxy transparente para las comunicaciones del protocolo de contexto modelo.

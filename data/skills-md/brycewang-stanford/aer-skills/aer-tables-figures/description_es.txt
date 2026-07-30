@@ -1,0 +1,1 @@
+Úselo al construir o revisar tablas de regresión, tablas de estadísticas descriptivas o cifras después de estimar los resultados y antes de enviarlos para un manuscrito de AER, AER:Insights o AEJ. Implementa el estilo de la casa de las pestañas de libros AER, el diseño de la tabla de regresión y las convenciones de notas de figuras.

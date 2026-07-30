@@ -1,0 +1,1 @@
+La habilidad de gusto original v1, preservada para proyectos dependiendo de su comportamiento exacto. El valor predeterminado actual es "design-taste-frontend" (v2 experimental), que es una reescritura sustancial. Utilice este nombre de instalación v1 sólo si necesita compatibilidad exacta con versiones anteriores.

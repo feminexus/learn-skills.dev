@@ -1,0 +1,1 @@
+Evite los límites de la API de Figma transmitiendo datos de documentos en vivo desde el complemento Figma a herramientas de inteligencia artificial a través del servidor MCP para flujos de trabajo de diseño a código.

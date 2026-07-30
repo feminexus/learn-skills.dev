@@ -1,0 +1,1 @@
+Control periódico del estado de la wiki: huérfanos, enlaces perdidos, contradicciones, obsoletos (wiki→código VÀ de la wiki→derivación de la wiki), lagunas en el índice. Bước 0 là cổng no-op tất định (wiki-sync, 0 token): código không đổi kể từ neo thì kết luận "wiki actual" y dừng sớm hợp lệ.

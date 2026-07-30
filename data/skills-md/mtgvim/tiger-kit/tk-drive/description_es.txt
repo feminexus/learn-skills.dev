@@ -1,0 +1,1 @@
+[usuario] Prepare una fuente explícita y continúe automáticamente a través de implementación sellada, confirmaciones de unidades verificadas, verificación agregada y reflexión en una ejecución activa. Úselo solo cuando se seleccione explícitamente con una fuente o cuando se reanude la decisión pendiente de esta habilidad en la misma conversación.

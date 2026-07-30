@@ -1,0 +1,1 @@
+Estándares de desarrollo backend de ASP.NET Core. Utilice esta habilidad al desarrollar proyectos ASP.NET Core, implementar API REST, utilizar Entity Framework Core o autenticación JWT.

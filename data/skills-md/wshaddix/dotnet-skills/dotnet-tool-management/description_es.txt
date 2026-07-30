@@ -1,0 +1,1 @@
+Instalar o administrar herramientas .NET. Global, local, manifiestos, restauración, fijación de versiones.

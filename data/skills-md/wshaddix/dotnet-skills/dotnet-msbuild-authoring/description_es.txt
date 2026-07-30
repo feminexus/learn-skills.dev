@@ -1,0 +1,1 @@
+Creación de objetivos, accesorios o condiciones de MSBuild. Objetivos personalizados, incrementalidad, patrones de construcción.
