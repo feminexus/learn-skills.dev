@@ -1,0 +1,1 @@
+Pianifica avvisi automatizzati di documenti di ricerca da OpenAlex con riepiloghi giornalieri in cinese utilizzando OpenClaw cron

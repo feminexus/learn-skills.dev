@@ -1,0 +1,1 @@
+Genera un contratto di progettazione AI-SPEC.md per le fasi che implicano la creazione di sistemi di intelligenza artificiale.

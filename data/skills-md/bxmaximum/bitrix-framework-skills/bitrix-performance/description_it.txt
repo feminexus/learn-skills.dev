@@ -1,0 +1,1 @@
+Copre le prestazioni di Bitrix: sito composito, ottimizzazione delle query, replica/clustering, sharding, sessioni hot/cold. Applicato per l'ottimizzazione del carico elevato oltre la memorizzazione nella cache di base. Termini chiave: composito, NGINX, replica, sharding, ottimizzazione delle query.

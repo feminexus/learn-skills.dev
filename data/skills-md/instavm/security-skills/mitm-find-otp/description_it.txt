@@ -1,0 +1,1 @@
+Trova le vulnerabilità dell'implementazione OTP. Da utilizzare quando l'utente richiede informazioni su sicurezza OTP, bypass della verifica, sicurezza SMS o problemi di autenticazione a due fattori.

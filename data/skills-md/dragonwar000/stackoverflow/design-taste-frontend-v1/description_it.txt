@@ -1,0 +1,1 @@
+L'abilità di gusto v1 originale, conservata per i progetti in base al suo comportamento esatto. L'impostazione predefinita attuale è "design-taste-frontend" (v2 sperimentale), che rappresenta una riscrittura sostanziale. Utilizza questo nome di installazione v1 solo se hai bisogno dell'esatta compatibilità con le versioni precedenti.

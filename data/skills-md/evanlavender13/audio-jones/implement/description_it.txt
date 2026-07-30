@@ -1,0 +1,1 @@
+Da utilizzare quando si esegue un piano di funzionalità con agenti paralleli basati su wave. Si attiva su "implementa questo piano", "inizia a costruire" o quando esiste un piano in documenti/piani/ e l'utente desidera iniziare a scrivere codice.

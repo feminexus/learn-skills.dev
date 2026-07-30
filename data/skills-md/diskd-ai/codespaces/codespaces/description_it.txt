@@ -1,0 +1,1 @@
+Interroga `.belief_map.sexp` prima di modifiche non banali al codice per trovare i limiti del modulo, le dipendenze, il raggio di esplosione e i file minimi da leggere. Utilizzare per il rilevamento dell'architettura, l'analisi dell'impatto e i controlli dei confini.

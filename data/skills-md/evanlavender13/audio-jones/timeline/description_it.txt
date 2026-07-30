@@ -1,0 +1,1 @@
+Da utilizzare quando si genera una sequenza temporale delle tappe fondamentali del progetto dalla cronologia git. Si attiva su "sequenza temporale", "traguardi", "cronologia del progetto" o quando l'utente desidera vedere la storia di come si è evoluto il progetto.

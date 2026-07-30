@@ -1,0 +1,1 @@
+Onboarding della base di codice parallela: pipeline distillata di comprensione di qualsiasi cosa (scansione + cronologia git + analisi batch + livelli/tour, nessun plug-in), quindi arricchimento del dominio (Claude), wiki + HTML tramite opencode+DeepSeek Flash v4.

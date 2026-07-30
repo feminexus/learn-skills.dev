@@ -1,0 +1,1 @@
+Controlla, esegui il commit e invia le modifiche Git correnti con un ambito di commit convenzionale derivato dal ramo.

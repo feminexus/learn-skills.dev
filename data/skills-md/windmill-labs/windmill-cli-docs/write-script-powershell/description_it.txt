@@ -1,0 +1,1 @@
+DEVE essere utilizzato durante la scrittura di script PowerShell.

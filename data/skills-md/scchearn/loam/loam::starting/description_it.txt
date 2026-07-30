@@ -1,0 +1,1 @@
+Da utilizzare all'inizio o alla ripresa di un file del piano, inclusa l'esecuzione mista locale e delegata da hcom, mantenendo accurati la verifica, lo stato del piano e i metadati di trasferimento.

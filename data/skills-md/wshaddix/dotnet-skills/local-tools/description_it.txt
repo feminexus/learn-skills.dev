@@ -1,0 +1,1 @@
+Procedure consigliate per lavorare con gli strumenti locali .NET, tra cui la gestione dei manifesti, l'installazione degli strumenti e il controllo delle versioni. Da utilizzare durante la configurazione di dotnet-tools.json per un progetto, l'installazione o l'aggiornamento di strumenti locali o la gestione delle versioni degli strumenti tra i membri del team.

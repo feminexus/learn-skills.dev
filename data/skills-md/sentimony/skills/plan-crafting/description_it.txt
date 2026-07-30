@@ -1,0 +1,1 @@
+È NECESSARIO utilizzarlo quando un progetto approvato o requisiti stabiliti richiedono un piano di implementazione dettagliato in più fasi prima che inizino le modifiche al codice.

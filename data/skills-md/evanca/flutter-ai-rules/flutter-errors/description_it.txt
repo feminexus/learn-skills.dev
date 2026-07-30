@@ -1,0 +1,1 @@
+Da utilizzare quando si verificano errori di layout (overflow di RenderFlex, vincoli illimitati, RenderBox non disposto), errori di scorrimento o errori setState durante la compilazione.

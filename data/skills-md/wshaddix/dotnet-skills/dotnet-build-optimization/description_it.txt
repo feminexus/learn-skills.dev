@@ -1,0 +1,1 @@
+Diagnosi di build lente o errori incrementali. Log binari, build parallele, ripristino.

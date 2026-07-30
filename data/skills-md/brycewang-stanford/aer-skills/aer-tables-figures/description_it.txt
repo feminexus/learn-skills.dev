@@ -1,0 +1,1 @@
+Da utilizzare durante la costruzione o la revisione di tabelle di regressione, tabelle statistiche descrittive o cifre dopo la stima dei risultati e prima dell'invio per un manoscritto AER, AER:Insights o AEJ. Implementa lo stile house delle schede dei libri AER, il layout della tabella di regressione e le convenzioni delle figure e delle note.

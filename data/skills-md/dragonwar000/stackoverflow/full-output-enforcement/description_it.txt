@@ -1,0 +1,1 @@
+Sostituisce il comportamento di troncamento LLM predefinito. Impone la generazione completa del codice, vieta i modelli di segnaposto e gestisce le suddivisioni dei limiti dei token in modo pulito. Applicare a qualsiasi attività che richieda risultati esaustivi e integrali.

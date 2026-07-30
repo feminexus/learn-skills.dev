@@ -1,0 +1,1 @@
+Diagnosi dei problemi di prestazioni di .NET. contatori dotnet, dotnet-trace, dotnet-dump, grafici di fiamma.

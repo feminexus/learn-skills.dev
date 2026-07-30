@@ -1,0 +1,1 @@
+Containerizzazione delle app .NET. Dockerfile multifase, pubblicazione del contenitore SDK (.NET 8+), senza root.

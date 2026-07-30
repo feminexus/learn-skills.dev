@@ -1,0 +1,1 @@
+Vue 3 + standard di sviluppo TypeScript. Utilizza questa competenza quando crei applicazioni Vue 3 con Composition API, Pinia, UnoCSS e SCSS. Copre la denominazione, l'architettura CSS, la struttura dei componenti, i modelli API e la qualità del codice. Indipendente dalla libreria dell'interfaccia utente (Element Plus, Ant Design Vue, ecc.).

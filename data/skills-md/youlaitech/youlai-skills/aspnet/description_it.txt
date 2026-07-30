@@ -1,0 +1,1 @@
+Standard di sviluppo back-end ASP.NET Core. Utilizzare questa competenza durante lo sviluppo di progetti ASP.NET Core, l'implementazione di API REST, l'uso di Entity Framework Core o l'autenticazione JWT.

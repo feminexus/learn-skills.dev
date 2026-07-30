@@ -1,0 +1,1 @@
+Guida per l'aggiunta di nuovi pacchetti di cablaggio dell'SDK AI. Da utilizzare quando si crea un nuovo pacchetto @ai-sdk/harness-<name> che adatta il runtime dell'agente di codifica a HarnessV1.

@@ -1,0 +1,1 @@
+Da utilizzare quando si crea una versione contrassegnata con il registro delle modifiche. Si attiva su "rilascio", "contrassegna un rilascio", "taglia un rilascio" o quando sei pronto per pubblicare una nuova versione.

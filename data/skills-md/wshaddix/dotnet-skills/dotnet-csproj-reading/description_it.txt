@@ -1,0 +1,1 @@
+Lettura o modifica di file .csproj. Struttura in stile SDK, PropertyGroup/ItemGroup, CPM, oggetti di scena.

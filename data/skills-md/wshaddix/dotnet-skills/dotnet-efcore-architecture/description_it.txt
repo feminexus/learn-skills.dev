@@ -1,0 +1,1 @@
+Progettazione dell'architettura del livello dati. Divisione di lettura/scrittura, confini aggregati, governance N+1.

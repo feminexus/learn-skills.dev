@@ -1,0 +1,1 @@
+Configurazione di build/test .NET in Azure DevOps. Attività DotNetCoreCLI, artefatti, risultati dei test.

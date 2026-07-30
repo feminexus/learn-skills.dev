@@ -1,0 +1,1 @@
+Modelli di test end-to-end per le applicazioni Blazor usando Playwright, inclusi test dei componenti e spostamento delle pagine. Da usare quando si scrivono test E2E per le applicazioni Blazor, si testano le interazioni dei componenti Blazor con Playwright o si configura l'infrastruttura di test di Playwright per le app Blazor.

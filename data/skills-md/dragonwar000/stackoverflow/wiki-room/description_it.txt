@@ -1,0 +1,1 @@
+La mia stanza (subagente 1) è presente nella wiki nel contesto in cui si trova - profondità massima = 1, budget, interruttore. Trigger: 'mở room', 'context rot', 'nạp thêm chi tiết wiki', 'đào sâu wiki', '/wiki-room'.

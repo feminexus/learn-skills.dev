@@ -1,0 +1,1 @@
+Scrittura di attività MSBuild personalizzate. ITask, ToolTask, IIncrementalTask, attività in linea, UsingTask.

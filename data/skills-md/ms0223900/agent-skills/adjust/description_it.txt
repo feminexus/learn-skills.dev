@@ -1,0 +1,1 @@
+Modifica una funzionalità esistente: aggiorna gli Stati Uniti, testa la strategia, implementa, verifica, accetta. Da utilizzare quando l'utente chiede a 補一下／調整行為／多支援某能力 per qualcosa già spedito.

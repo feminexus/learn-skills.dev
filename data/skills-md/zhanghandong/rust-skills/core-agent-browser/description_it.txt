@@ -1,0 +1,1 @@
+Competenza di supporto interno per i flussi di lavoro CLI del browser dell'agente utilizzati da ruggine-learner, docs-researcher e crate-researcher. Utilizzare solo quando l'automazione del browser è esplicitamente richiesta.

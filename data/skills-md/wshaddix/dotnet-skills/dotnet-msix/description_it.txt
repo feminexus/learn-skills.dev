@@ -1,0 +1,1 @@
+Creazione del pacchetto di app MSIX. Creazione, firma, invio allo Store, sideload del programma di installazione dell'app, aggiornamento automatico.

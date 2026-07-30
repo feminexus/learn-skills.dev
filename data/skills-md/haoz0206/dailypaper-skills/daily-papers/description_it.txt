@@ -1,0 +1,3 @@
+Scopri e rivedi recenti documenti accademici, genera un'ossidiana quotidiana
+raccomandazione e creare note per documenti da leggere. Utilizzare per “今日论文推荐”,
+“过去3天论文推荐”, “过去一周论文推荐” o richieste equivalenti di quotidiani.

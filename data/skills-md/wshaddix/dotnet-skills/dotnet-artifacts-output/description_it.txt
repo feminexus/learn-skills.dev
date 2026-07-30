@@ -1,0 +1,1 @@
+Utilizzo del layout di output degli artefatti. UseArtifactsOutput, ArtifactsPath, impatto su CI e Docker.

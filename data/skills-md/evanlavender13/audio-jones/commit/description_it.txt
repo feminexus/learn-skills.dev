@@ -1,0 +1,1 @@
+Da utilizzare durante la creazione di un commit git per modifiche graduali o non graduali. Si attiva su "effettua il commit", "salva le modifiche" o quando il lavoro di implementazione viene completato e necessita del controllo della versione.

@@ -1,0 +1,1 @@
+Spiega e utilizza i concetti e le API principali di Truto (API unificate/proxy/personalizzate, account integrati, ambienti, webhook, flussi di connessione) e scrivi il codice dell'applicazione in base ad essi. Spiega cos'è ciascun concetto, come chiamarlo e i modelli di accesso ai dati per la base di codice dell'utente.

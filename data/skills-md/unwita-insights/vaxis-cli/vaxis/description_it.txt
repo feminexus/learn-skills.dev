@@ -1,0 +1,1 @@
+Utilizza Vaxis per richieste di creazione, aggiornamento, ispezione, spiegazione o condivisione di diagrammi di architettura, diagrammi a sirena, diagrammi di flusso, flussi di lavoro, diagrammi di sequenza, diagrammi ER, diagrammi di stato, roadmap e progetti di sistemi visivi.

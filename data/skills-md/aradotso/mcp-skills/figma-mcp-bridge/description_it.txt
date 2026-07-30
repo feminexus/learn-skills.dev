@@ -1,0 +1,1 @@
+Evita i limiti dell'API Figma trasmettendo in streaming i dati dei documenti in tempo reale dal plug-in Figma agli strumenti AI tramite il server MCP per flussi di lavoro dalla progettazione al codice

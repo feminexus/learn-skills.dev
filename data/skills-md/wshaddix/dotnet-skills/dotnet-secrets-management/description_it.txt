@@ -1,0 +1,1 @@
+Gestione di segreti o configurazioni sensibili. Segreti utente, variabili d'ambiente, rotazione.

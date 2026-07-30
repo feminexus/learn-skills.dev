@@ -1,0 +1,1 @@
+Scrivi, esegui e asserisci richieste HTTP in modo sicuro utilizzando i file di testo Hurl. Si attiva durante il test API, la generazione di richieste HTTP, la convalida REST/GraphQL o quando vengono menzionati i file .hurl. NON utilizzare questa skill per test dell'interfaccia utente/browser o per test di unità interne.

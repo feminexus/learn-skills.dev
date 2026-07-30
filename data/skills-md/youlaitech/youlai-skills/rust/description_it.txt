@@ -1,0 +1,1 @@
+Rust 后端开发规范. Utilizza questa competenza durante lo sviluppo di progetti web Rust, l'implementazione di API REST con Axum + SeaORM, l'autenticazione token JWT/Redis o il backend di amministrazione youlai-rust (PostgreSQL).

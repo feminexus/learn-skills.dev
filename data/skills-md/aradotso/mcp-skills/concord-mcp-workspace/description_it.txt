@@ -1,0 +1,1 @@
+Coordinamento condiviso dello stato di lavoro e delle attività per gli agenti di codifica AI utilizzando il Model Context Protocol

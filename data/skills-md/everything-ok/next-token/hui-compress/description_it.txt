@@ -1,0 +1,1 @@
+Riscrivi i file di memoria in linguaggio naturale supportati (CLAUDE.md, tutto, preferenze) in un formato hui conciso. Preserva la struttura protetta e scrive un backup FILE.original.md leggibile dall'uomo. Trigger: /hui-compress FILEPATH o "comprimere file di memoria"

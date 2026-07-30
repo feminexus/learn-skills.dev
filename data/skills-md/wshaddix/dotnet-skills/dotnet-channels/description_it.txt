@@ -1,0 +1,1 @@
+Utilizzo delle code produttore/consumatore. Canale<T>, limitato/illimitato, contropressione, modelli di drenaggio

@@ -1,0 +1,1 @@
+Utilizza il server MCP Solana pubblico di Vybe per interrogare dati blockchain, token, NFT e account Solana da Claude, Cursor o qualsiasi client MCP

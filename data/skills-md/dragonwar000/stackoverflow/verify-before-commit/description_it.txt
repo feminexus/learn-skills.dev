@@ -1,0 +1,1 @@
+Elimina ogni commit: verifica il tipo, lanugine, fumo, quindi promuovi la bozza su wiki

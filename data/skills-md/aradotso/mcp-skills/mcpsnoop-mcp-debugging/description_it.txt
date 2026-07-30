@@ -1,0 +1,1 @@
+Esegui il debug del traffico client-server MCP in tempo reale utilizzando mcpsnoop, un proxy trasparente per le comunicazioni Model Context Protocol

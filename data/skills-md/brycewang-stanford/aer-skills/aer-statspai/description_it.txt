@@ -1,0 +1,1 @@
+Da utilizzare quando l'identificazione aer ha corretto la progettazione, dopo la scelta della metodologia e prima delle cifre aer-robustness o aer-tables, per eseguire un'analisi del tracciato AER con StatsPAI, il motore Python nativo dell'agente e il server MCP per l'inferenza causale, la robustezza, la sensibilità e l'esportazione di tabelle pronte per la pubblicazione.

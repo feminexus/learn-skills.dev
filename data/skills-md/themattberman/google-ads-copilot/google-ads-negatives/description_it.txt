@@ -1,0 +1,1 @@
+Consiglia parole chiave a corrispondenza inversa per Google Ads con il tipo di corrispondenza, l'ambito e la cautela corretti. Estrae dati in tempo reale tramite MCP o funziona con esportazioni manuali. Produce sempre una bozza di parole chiave a corrispondenza inversa per la revisione umana.

@@ -1,0 +1,1 @@
+Standard di sviluppo backend del framework Django REST. Utilizza questa competenza durante lo sviluppo di progetti Django, l'implementazione di API REST con ViewSet DRF, serializzatori o autenticazione JWT.

@@ -1,0 +1,1 @@
+Clona lo stile di design visivo di un sito web e applicalo al progetto corrente. Estrae colori, tipografia, spaziatura e modelli dei componenti, quindi ricostruisce l'interfaccia utente in modo che corrisponda. Trigger con <url> in stile /clone.

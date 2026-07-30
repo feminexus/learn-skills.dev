@@ -1,0 +1,1 @@
+Trova endpoint enumerabili che perdono dati attraverso l'iterazione. Da utilizzare quando l'utente richiede informazioni sullo scraping dei dati, sull'accesso in blocco ai dati o sull'iterazione dei record.

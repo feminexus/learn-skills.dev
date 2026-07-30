@@ -1,0 +1,1 @@
+Scrivere benchmark. Configurazione di BenchmarkDotNet, diagnostica della memoria, linee di base, analisi dei risultati.

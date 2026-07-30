@@ -1,0 +1,1 @@
+Strutturazione dei livelli dell'app CLI. Separazione comando/gestore/servizio, principi clig.dev, codici di uscita.

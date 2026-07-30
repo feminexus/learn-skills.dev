@@ -1,0 +1,1 @@
+Creazione di app WinUI 3. Configurazione di Windows App SDK, modelli XAML, distribuzione MSIX/senza pacchetto, migrazione UWP.

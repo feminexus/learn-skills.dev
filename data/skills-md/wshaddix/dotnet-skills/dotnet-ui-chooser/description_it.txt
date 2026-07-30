@@ -1,0 +1,1 @@
+Selezione di un framework dell'interfaccia utente .NET. Albero decisionale in Blazor, MAUI, Uno, WinUI, WPF, WinForms.

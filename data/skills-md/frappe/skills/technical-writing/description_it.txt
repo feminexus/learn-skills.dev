@@ -1,0 +1,1 @@
+Scrivi in ​​prosa in "inglese tecnico semplificato". Questo vale per documentazione, README, commit, pull request, piani e note di rilascio. Non si applica a codici, identificatori, testi di marketing, saggi o qualsiasi cosa abbia bisogno di voce in capitolo.

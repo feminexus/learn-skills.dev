@@ -1,0 +1,1 @@
+Mostra l'utilizzo osservato del token locale per la sessione corrente di Claude Code. Legge direttamente il registro della sessione. Trigger su /hui-stats. L'output viene iniettato dall'hook mode-tracker; il modello non calcola i numeri.

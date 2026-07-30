@@ -1,0 +1,1 @@
+Scelta di un approccio di accesso ai dati. Matrice decisionale EF Core, Dapper e ADO.NET, compromessi in termini di prestazioni.

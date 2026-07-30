@@ -1,0 +1,1 @@
+Verifica i nomi del mondo di gioco, dei personaggi e dei luoghi rispetto ai riferimenti locali prima di scrivere i timestamp della storia. Caricato da anibon-timestamper quando lo streaming copre le partite post-interruzione.

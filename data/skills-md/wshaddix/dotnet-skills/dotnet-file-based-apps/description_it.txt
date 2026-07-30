@@ -1,0 +1,1 @@
+Esecuzione di C# senza un file di progetto (.NET 10 SDK). Direttive, comandi CLI, migrazione.

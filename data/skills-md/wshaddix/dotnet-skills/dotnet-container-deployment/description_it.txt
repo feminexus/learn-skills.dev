@@ -1,0 +1,1 @@
+Distribuzione di contenitori .NET. Sonde Kubernetes, Docker Compose per sviluppatori locali, integrazione CI/CD.

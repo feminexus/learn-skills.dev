@@ -1,0 +1,1 @@
+Automatizzazione dei test del browser in .NET. Drammaturgo E2E, memorizzazione nella cache del browser CI, visualizzatore di tracce, codegen.

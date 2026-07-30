@@ -1,0 +1,1 @@
+Da utilizzare durante la revisione di una funzionalità implementata rispetto al relativo documento di piano. Si attiva dopo il completamento dell'implementazione, su "Rivedi questo" o quando si controlla se il codice corrisponde alle specifiche.

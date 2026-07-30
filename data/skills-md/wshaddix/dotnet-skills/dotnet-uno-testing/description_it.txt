@@ -1,0 +1,1 @@
+Testare le app della piattaforma Uno. Drammaturgo per WASM, modelli specifici della piattaforma, responsabili del runtime.

@@ -1,0 +1,1 @@
+Scelta dei protocolli interservizi. Matrice decisionale REST vs gRPC vs SignalR vs SSE, compromessi.

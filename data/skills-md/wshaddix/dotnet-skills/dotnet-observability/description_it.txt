@@ -1,0 +1,1 @@
+Aggiunta di osservabilità. Tracce/metriche/log OpenTelemetry, controlli di integrità, metriche personalizzate.

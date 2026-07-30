@@ -1,0 +1,1 @@
+Visualizza le statistiche del progetto: fasi, piani, requisiti, metriche git e sequenza temporale

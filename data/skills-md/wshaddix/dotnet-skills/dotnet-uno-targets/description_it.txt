@@ -1,0 +1,1 @@
+Distribuzione delle app della piattaforma Uno. Indicazioni per destinazione per WASM, iOS, Android, macOS, Windows, Linux.

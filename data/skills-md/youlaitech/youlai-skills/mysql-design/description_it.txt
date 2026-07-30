@@ -1,0 +1,1 @@
+Standard di progettazione del database MySQL. Utilizzare questa competenza durante la progettazione di strutture di tabelle, tipi di campo, indici o convenzioni di denominazione per i database MySQL.

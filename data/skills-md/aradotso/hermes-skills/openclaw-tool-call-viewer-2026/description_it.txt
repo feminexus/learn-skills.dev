@@ -1,0 +1,1 @@
+Interfaccia basata su browser per visualizzare e filtrare la cronologia delle chiamate dello strumento di sessione OpenClaw con zero dipendenze per la distribuzione della rete locale.

@@ -1,0 +1,1 @@
+Trasforma i ticket grezzi in specifiche di sviluppo dell'agente AI leggibili dalla macchina chiarendo i requisiti e definendo criteri di accettazione e limiti tecnici. Da utilizzare quando l'utente incolla il contenuto del ticket o fa riferimento a ticket, storie utente o criteri di accettazione e desidera specifiche di implementazione pronte per l'intelligenza artificiale.

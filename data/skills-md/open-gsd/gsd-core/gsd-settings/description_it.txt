@@ -1,0 +1,1 @@
+Configura gli interruttori del flusso di lavoro GSD e il profilo del modello

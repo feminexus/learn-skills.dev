@@ -1,0 +1,1 @@
+Controlla le schede del browser Chrome tramite MCP per l'automazione web assistita dall'intelligenza artificiale utilizzando il server e l'estensione MCP del browser

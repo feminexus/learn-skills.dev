@@ -1,0 +1,1 @@
+Revisione completa di Google Ads che sintetizza monitoraggio, termini di ricerca, mappatura delle intenzioni, elementi negativi, struttura, RSA, decisioni sul budget e contesto PMax in un'unica lettura da parte dell'operatore. Estrae dati in tempo reale tramite MCP o funziona con esportazioni manuali. Produce un batch di bozze di azioni con priorità.

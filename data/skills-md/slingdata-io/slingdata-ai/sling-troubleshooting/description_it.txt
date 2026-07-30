@@ -1,0 +1,1 @@
+Eseguire il debug e risolvere i problemi di connessione, replica e API di Sling. Da utilizzare quando si riscontrano errori, si esegue il debug di errori di connessione, si risolvono problemi di autenticazione, si risolvono problemi di conversione di tipo, si gestiscono problemi di memoria/prestazioni o si risolvono i limiti di velocità API.

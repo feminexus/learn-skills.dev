@@ -1,0 +1,1 @@
+Da utilizzare quando l'utente chiede di analizzare il codice per la copertura del test, elencare i casi di test necessari o rivedere la strategia di test, SENZA generare codice di test effettivo.

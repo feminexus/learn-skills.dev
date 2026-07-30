@@ -1,0 +1,1 @@
+Usa il modello "pattern chuỏn" per il modello — pattern che si trova, come drift local, e come /sync-template come remote. Quindi version.json locale ↔ remoto ↔ disco (0 token, fail-open). Trigger: "controllo dello stato", "schema di controllo", "controllo della sincronizzazione", "/controllo dello stato".

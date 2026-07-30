@@ -1,0 +1,1 @@
+Individua le vulnerabilità dei callback di pagamento e dei webhook. Da utilizzare quando l'utente richiede informazioni sulla sicurezza dei pagamenti, sulla manomissione della richiamata, sulla convalida dell'hash o sulla manipolazione delle transazioni.

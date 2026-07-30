@@ -1,0 +1,1 @@
+Distribuzione di .NET dalle azioni GitHub. App Web di Azure, pagine GitHub, registri contenitori.

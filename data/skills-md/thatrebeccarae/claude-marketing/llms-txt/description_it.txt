@@ -1,0 +1,1 @@
+Genera e gestisci file llms.txt per la rilevabilità dell'intelligenza artificiale. Esegue la scansione dei repository per creare mappe di contenuti curate che aiutano i motori di risposta dell'intelligenza artificiale a far emergere il tuo progetto in modo accurato. Implementa la specifica llms.txt di Answer.AI.

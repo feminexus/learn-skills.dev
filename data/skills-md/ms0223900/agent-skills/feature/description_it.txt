@@ -1,0 +1,1 @@
+Implementare una funzionalità del prodotto seguendo il 測試策略（Test-First/Test-After/Exploratory）. Da utilizzare quando l'utente chiede di aggiungere, modificare o rimuovere una funzionalità o quando una modifica può avere un ampio impatto. Raggiungibile da "/next-task" quando si invia un'attività di funzionalità.

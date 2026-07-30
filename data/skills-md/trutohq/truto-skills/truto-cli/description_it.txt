@@ -1,0 +1,1 @@
+Strumento di amministrazione e debug per la piattaforma Truto. Utilizzalo per impostare integrazioni, gestire account, esplorare risorse, esportare dati ed eseguire il debug delle chiamate API dal terminale. Non genera codice dell'applicazione.

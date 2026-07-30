@@ -1,0 +1,1 @@
+Inizializza e verifica un'area di lavoro del flusso di lavoro Avalanche con cloni locali modificabili di Avalanche e PredictRLM in .trampoline-ai e la capacità di creazione di Avalanche installata nell'ambito del progetto. Da utilizzare solo quando qualcuno chiede di configurare, avviare o preparare un'area di lavoro; non progetta né crea il flusso di lavoro dell'utente.

@@ -1,0 +1,1 @@
+Tablet ORM D7, query ConditionTree, oggettivazione, scritture batch/unisci/eliminaByFilter. Utilizzare per la progettazione, le letture e la persistenza dell'entità.

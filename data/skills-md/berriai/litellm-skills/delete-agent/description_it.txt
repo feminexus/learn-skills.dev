@@ -1,0 +1,1 @@
+Elimina un agente AI da un proxy LiteLLM live. Richiedi l'agent_id e conferma prima di chiamare DELETE /v1/agents/{agent_id}.

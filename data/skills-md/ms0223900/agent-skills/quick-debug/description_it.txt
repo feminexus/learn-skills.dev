@@ -1,0 +1,1 @@
+Valutazione rapida di comportamenti inattesi: livello, prove, rischi, soluzione successiva. Utilizzare per stato errato, errori API, interfaccia utente instabile, prestazioni. Domande pure sul percorso di rendering → `/find-component-render-path`. Raggiungibile da "/fix" quando la causa principale è un comportamento/flusso di dati fuzzy.

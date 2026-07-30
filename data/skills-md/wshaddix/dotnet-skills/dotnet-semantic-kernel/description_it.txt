@@ -1,0 +1,1 @@
+Creazione di funzionalità AI/LLM. Configurazione del kernel semantico, plugin, modelli di prompt, archivi di memoria, agenti.

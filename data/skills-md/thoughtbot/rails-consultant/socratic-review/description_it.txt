@@ -1,0 +1,1 @@
+Sessione di revisione e refactoring del codice socratico: che si tratti del tuo codice, del PR di un compagno di squadra o di qualcosa che hai ereditato. Ti porta a vedere i problemi attraverso domande, nomi, odori e mosse precise, poi chiude con un piano concreto.

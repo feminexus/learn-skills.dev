@@ -1,0 +1,1 @@
+Mostra l'utilizzo reale dei token e i risparmi stimati per la sessione corrente. Legge direttamente dal registro della sessione di Claude Code: nessuna stima dell'intelligenza artificiale. Trigger su /caveman-stats. L'output viene iniettato dall'hook mode-tracker; il modello stesso non calcola i numeri.

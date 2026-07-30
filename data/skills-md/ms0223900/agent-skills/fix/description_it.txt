@@ -1,0 +1,1 @@
+Correggi gli errori ESLint, TypeScript, testa o crea con un chiaro output dello strumento: riproduci, classifica, ipotizza, correggi la causa principale, verifica nuovamente il verde. Da utilizzare quando l'utente incolla lint/tsc/test/build errori o dice 修這個錯誤／測試過不了／type error／build 失敗. Raggiungibile da "/next-task" in caso di esecuzioni non riuscite.

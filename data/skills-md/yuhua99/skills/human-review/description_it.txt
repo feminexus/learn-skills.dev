@@ -1,0 +1,1 @@
+Spiegare una modifica al codice a un revisore umano. Utilizzare solo quando l'utente dichiara esplicitamente che esaminerà la modifica da solo.

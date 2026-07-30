@@ -1,0 +1,1 @@
+Abilità frontend anti-slop per pagine di destinazione, portfolio e riprogettazioni. L'agente legge il brief, deduce la giusta direzione di progettazione e fornisce interfacce che non sembrano modellate. Sistemi di progettazione reali quando applicabile, audit prioritario sulle riprogettazioni, severi controlli pre-volo.

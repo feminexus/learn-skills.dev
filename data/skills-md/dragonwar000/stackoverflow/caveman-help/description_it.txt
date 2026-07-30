@@ -1,0 +1,1 @@
+Scheda di riferimento rapido per tutte le modalità, abilità e comandi dell'uomo delle caverne. Visualizzazione one-shot, non modalità persistente. Trigger: /caveman-help, "caveman help", "cosa comanda cavernicolo", "come faccio a usare cavernicolo".

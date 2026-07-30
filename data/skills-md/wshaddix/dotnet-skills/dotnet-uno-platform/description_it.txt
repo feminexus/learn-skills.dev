@@ -1,0 +1,1 @@
+Creazione di app della piattaforma Uno. Estensioni, pattern reattivo MVUX, controlli Toolkit, ricarica a caldo.

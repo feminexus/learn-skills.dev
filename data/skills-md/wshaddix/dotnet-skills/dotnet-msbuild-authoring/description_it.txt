@@ -1,0 +1,1 @@
+Creazione di destinazioni, oggetti di scena o condizioni di MSBuild. Obiettivi personalizzati, incrementalità, modelli di creazione.

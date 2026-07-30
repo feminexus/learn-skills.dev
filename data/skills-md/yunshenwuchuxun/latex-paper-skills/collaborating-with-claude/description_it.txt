@@ -1,0 +1,1 @@
+Utilizza la CLI di Claude Code come copilota di analisi approfondita per paper-from-zero. Ruolo primario: compressione dell'albero delle attestazioni, rilevamento dei buchi logici, verifica della sufficienza delle prove e giudizio di revisione/indirizzamento empirico. Supporta anche la collaborazione di codice generico come fallback.

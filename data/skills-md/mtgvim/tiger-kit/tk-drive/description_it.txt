@@ -1,0 +1,1 @@
+[utente] Prepara una fonte esplicita e continua automaticamente attraverso l'implementazione sigillata, i commit delle unità verificate, la verifica aggregata e la riflessione in un'unica esecuzione attiva. Da utilizzare solo se selezionato esplicitamente con una fonte o quando si riprende la decisione in sospeso di questa competenza nella stessa conversazione.

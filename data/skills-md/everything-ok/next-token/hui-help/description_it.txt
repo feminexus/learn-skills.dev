@@ -1,0 +1,1 @@
+Scheda di riferimento rapido per tutte le modalità, abilità e comandi hui. Visualizzazione one-shot, non modalità persistente. Trigger: /hui-help, "hui help", "cosa comanda hui", "come faccio a usare hui".

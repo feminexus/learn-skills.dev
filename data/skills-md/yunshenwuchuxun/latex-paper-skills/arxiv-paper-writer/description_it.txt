@@ -1,0 +1,1 @@
+Scrive articoli di revisione e sondaggio su ML/AI per arXiv utilizzando il modello IEEEtran LaTeX con citazioni BibTeX verificate. Si attiva quando il risultato finale è un documento di revisione, un sondaggio della letteratura o quando un progetto LaTeX esistente necessita di convalida o riparazione di citazioni.

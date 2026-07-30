@@ -1,0 +1,1 @@
+Aggiunta di CI/CD a un progetto .NET. Azioni GitHub e rilevamento di Azure DevOps, modelli di flusso di lavoro.

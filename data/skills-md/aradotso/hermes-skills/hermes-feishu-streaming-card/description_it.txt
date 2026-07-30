@@ -1,0 +1,1 @@
+Trasmetti in streaming le risposte degli agenti di Hermes Gateway a Feishu/Lark come schede interattive con aggiornamento in tempo reale con processo di pensiero, chiamate agli strumenti e interazioni nella scheda

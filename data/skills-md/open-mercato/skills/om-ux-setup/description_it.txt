@@ -1,0 +1,1 @@
+Estrai il contratto di progettazione del repository (token, registro dei componenti, archetipi dello schermo, convenzioni) in .uxproof/ in modo che ogni abilità UX venga giudicata rispetto al sistema di progettazione di QUESTO repository, qualunque esso sia. Esegui una volta per repository; rieseguire per aggiornare dopo le modifiche al sistema di progettazione.

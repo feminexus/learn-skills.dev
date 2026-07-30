@@ -1,0 +1,1 @@
+Utilizzalo dopo la revisione delle funzionalità per archiviare piani e documenti di ricerca, aggiornare l'inventario degli effetti ed eseguire il commit. Si attiva in caso di "finalizzazione", "conclusione", "chiusura" o al termine della revisione.

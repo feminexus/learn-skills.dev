@@ -1,0 +1,1 @@
+Rilascio degli strumenti CLI. GitHub Actions crea matrice, gestione temporanea degli artefatti, versioni, checksum.

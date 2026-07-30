@@ -1,0 +1,1 @@
+Modelli per la verifica delle istantanee delle e-mail nei test per garantire che il contenuto delle e-mail corrisponda agli output previsti. Da utilizzare durante il test del rendering della posta elettronica negli unit test, la verifica degli output del modello MJML o la garanzia della coerenza del contenuto della posta elettronica tra le modifiche al codice.

@@ -1,0 +1,1 @@
+CLI per Microsoft 365 (m365): modelli condivisi per autenticazione, installazione, formattazione dell'output e flag comuni. Da utilizzare quando l'utente menziona "accesso m365", "configurazione m365", "utente Microsoft 365", "stato m365", "utente Microsoft" o quando un'altra competenza m365-* necessita di un riferimento di autenticazione/modello comune.

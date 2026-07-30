@@ -1,0 +1,1 @@
+Impalca un nuovo caveau di Obsidian con impostazioni preconfigurate, mappe dei tasti e plugin principali. Da utilizzare quando l'utente desidera "configurare una nuova cripta di Obsidian", "creare una cripta di Obsidian" o "replicare la mia configurazione di Obsidian".

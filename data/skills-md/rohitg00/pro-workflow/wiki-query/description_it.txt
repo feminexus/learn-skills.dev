@@ -1,0 +1,1 @@
+Interroga wiki pro-workflow tramite il recupero SQLite FTS5 BM25. Restituisce i passaggi K con citazioni. Da utilizzare quando si risponde a una domanda che è già coperta da uno qualsiasi dei wiki dell'utente, quando l'utente dice "cosa dice il wiki su X", "chiedi al wiki", "cerca nei wiki" o prima di scrivere una nuova pagina wiki (per evitare duplicazioni).

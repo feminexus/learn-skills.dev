@@ -1,0 +1,1 @@
+Esegui commit git con l'analisi e la generazione di messaggi di commit convenzionali. Da utilizzare quando l'utente chiede di confermare le modifiche, scrivere un messaggio di commit o rivedere le modifiche graduali. Supporta il rilevamento automatico del tipo/ambito da diff, la generazione di messaggi e la gestione temporanea dei file in modo intelligente.

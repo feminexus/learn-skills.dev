@@ -1,0 +1,1 @@
+Utilizza questa competenza quando l'utente desidera creare, gestire, eseguire query o visualizzare una knowledge base Markdown locale. ThinkWiki può inizializzare un wiki, importare file o pagine Web, raccogliere elementi della posta in arrivo, rispondere dalla conoscenza esistente, salvare output di valore superiore e generare visualizzatori HTML e artefatti grafici.

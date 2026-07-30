@@ -1,0 +1,1 @@
+Disciplina dello sviluppo test-driven: RED-GREEN-REFACTOR. Scrivi prima un test fallito, guardalo fallire per il giusto motivo, scrivi un codice minimo da superare, guardalo passare, quindi esegui il refactoring. Si rifiuta di dichiarare "fatto" finché non esiste e viene superato un test. Trigger: /hui-tdd, "usa tdd", "scrivi prima il test", "refactoring rosso verde".

@@ -1,0 +1,1 @@
+Controlla i dispositivi Android dagli agenti AI utilizzando il server Another MCP. Da utilizzare quando viene richiesto di interagire, testare, automatizzare o acquisire screenshot di un dispositivo Android. Fornisce strumenti per input touch, immissione di testo, pressione di pulsanti, screenshot, avvio di app, comandi shell e gesti di scorrimento.

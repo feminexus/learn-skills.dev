@@ -1,0 +1,1 @@
+Competenze esperte per la gestione di ComfyUI (generazione di immagini/video/audio) tramite il server MCP comodeui-mcp: creazione di flussi di lavoro, gestione di modelli, modifica di grafici in linguaggio naturale e piano di controllo nativo dell'agente.

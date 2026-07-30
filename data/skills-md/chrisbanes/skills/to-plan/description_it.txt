@@ -1,0 +1,1 @@
+Da utilizzare quando un problema GitHub pronto richiede un piano di implementazione compatibile con il repository pubblicato come commento a un singolo problema per un flusso di lavoro di implementazione successivo.

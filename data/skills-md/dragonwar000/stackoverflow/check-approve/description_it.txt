@@ -1,0 +1,1 @@
+Sinh 1-liner để trace 1 l'approve/return/reject in DMS tren log BE (docker) + FE proxy, ghi ra file .sh cho user copy-paste lên product server. L'utente non risponde con "check approve", "check duyệt request <CODE>", "approve treo / không thấy lệnh duyệt", "/check-approve".

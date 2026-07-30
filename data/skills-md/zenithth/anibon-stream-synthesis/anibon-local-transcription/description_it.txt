@@ -1,0 +1,1 @@
+Trascrivi l'audio di YouTube localmente utilizzando Whisper.cpp quando YouTube non ha sottotitoli o didascalie automatiche. Percorso alternativo caricato da anibon-timestamper.

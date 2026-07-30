@@ -1,0 +1,1 @@
+Distribuisci llmwiki all'interno del tuo progetto: template pull, skill install, RTK, wiki seed, onboard

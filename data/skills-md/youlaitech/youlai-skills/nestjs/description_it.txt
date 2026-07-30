@@ -1,0 +1,1 @@
+Standard di sviluppo del backend NestJS. Utilizza questa competenza durante lo sviluppo di progetti NestJS, l'implementazione di API REST, l'utilizzo di TypeORM, l'autenticazione JWT o il controllo delle autorizzazioni.

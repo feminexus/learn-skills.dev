@@ -1,0 +1,1 @@
+Esegui programmi C# a file singolo come script per sperimentazioni rapide, prototipazione e test concettuali. Utilizzare quando l'utente desidera scrivere ed eseguire un piccolo programma C# senza creare un progetto completo.

@@ -1,0 +1,1 @@
+Da utilizzare durante la creazione o la manutenzione di una knowledge base Markdown locale kb-core@2 con informazioni canoniche e modelli di immissione delle conoscenze, metadati definiti dal pacchetto, convalida autonoma, filtri generici, tracciamento della provenienza o ricerca basata sui metadati.

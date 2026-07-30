@@ -1,0 +1,1 @@
+Progettazione di pipeline di log. Aggregazione, query strutturate, campionamento, scrubbing PII, correlazione.

@@ -1,0 +1,1 @@
+Configura e testa i servizi di rete comuni (HTTP, HTTPS, SNMP, SMB) per ambienti di laboratorio di test di penetrazione. Abilita esercitazioni pratiche con l'enumerazione dei servizi, l'analisi dei log e i test di sicurezza rispetto ai sistemi di destinazione configurati correttamente.

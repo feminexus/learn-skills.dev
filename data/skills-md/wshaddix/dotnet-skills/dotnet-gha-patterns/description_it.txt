@@ -1,0 +1,1 @@
+Progettazione dei flussi di lavoro di GitHub Actions. Flussi di lavoro riutilizzabili, azioni composite, build di matrici, memorizzazione nella cache.

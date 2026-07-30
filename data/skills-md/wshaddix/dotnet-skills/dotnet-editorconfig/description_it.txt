@@ -1,0 +1,1 @@
+Creazione di regole .editorconfig. Gravità IDE/CA, AnalysisLevel, globalconfig, applicazione dello stile del codice.

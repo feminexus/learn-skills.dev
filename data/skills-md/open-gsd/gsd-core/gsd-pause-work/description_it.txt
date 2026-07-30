@@ -1,0 +1,1 @@
+Crea un passaggio di contesto quando metti in pausa il lavoro a metà fase
