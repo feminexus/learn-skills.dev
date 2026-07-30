@@ -1,0 +1,1 @@
+NVIDIA GPU コンテナー ワークロードを実行するための Docker 規則 - NGC 認証、--gpus フラグ、マウント パターン、env-var パススルー、コンテナー検査、分割ディスク ホストのデータ ルートの再配置、および一般的なエラー モード。別のスキルが GPU ホスト上で nvcr.io コンテナまたは任意の docker run コマンドを実行する必要がある場合に使用します。トリガー キーワード — docker、docker run、nvcr.io、NGC、--gpus、nvidia-container-toolkit、コンテナ イメージ、docker login、docker pull。

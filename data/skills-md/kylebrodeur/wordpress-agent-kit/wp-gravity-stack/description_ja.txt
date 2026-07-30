@@ -1,0 +1,1 @@
+Gravity スタックのセットアップとオーケストレーションに使用します。完全なプラグイン スイート (Gravity Forms、SMTP、Connect、GravityView、Spellbook、Pod) の SatisPress/Composer 構成、.cursorrules および llms.txt テンプレートの読み取り、またはすべての製品がどのように組み合わされるかを理解します。製品固有の作業の場合は、代わりに個別のスキルをロードします。

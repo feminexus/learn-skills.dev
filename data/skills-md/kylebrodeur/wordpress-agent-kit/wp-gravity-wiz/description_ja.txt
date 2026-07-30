@@ -1,0 +1,1 @@
+Gravity Wiz 製品を操作する場合に使用します。Spellbook (Gravity Wiz プラットフォーム)、Gravity Perks (GP Populate Anything、Nested Forms、Limit Submissions などの 48 個以上のフォーム拡張プラグイン)、または個別の Perk のインストールまたは管理に使用します。 Gravity Shop (WooCommerce 統合) にも使用します。

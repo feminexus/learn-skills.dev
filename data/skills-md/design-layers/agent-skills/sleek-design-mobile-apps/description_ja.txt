@@ -1,0 +1,1 @@
+ユーザーがモバイル アプリや UI 画面をデザインしたい場合、Sleek (sleek.design) プロジェクトについて言及する場合、またはコード (HTML、React Native、SwiftUI) で Sleek デザインを実装する場合に使用します。
