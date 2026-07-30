@@ -1,0 +1,1 @@
+Covers Bitrix performance — composite site, query optimization, replication/clustering, sharding, hot/cold sessions. Applied for high-load optimization beyond basic caching. Key terms — composite, NGINX, replication, sharding, query optimization.

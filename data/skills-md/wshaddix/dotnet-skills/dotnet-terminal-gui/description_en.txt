@@ -1,0 +1,1 @@
+Building full TUI apps. Terminal.Gui v2: views, layout (Pos/Dim), menus, dialogs, bindings, themes.

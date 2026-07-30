@@ -1,0 +1,1 @@
+Rewrite supported natural-language memory files (CLAUDE.md, todos, preferences) into concise hui format. Preserves protected structure and writes a human-readable FILE.original.md backup. Trigger: /hui-compress FILEPATH or "compress memory file"

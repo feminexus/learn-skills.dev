@@ -1,0 +1,1 @@
+Publishing .NET artifacts from GitHub Actions. NuGet push, container images, signing, SBOM.

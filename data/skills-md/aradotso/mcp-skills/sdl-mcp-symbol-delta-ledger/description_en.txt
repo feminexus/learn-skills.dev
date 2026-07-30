@@ -1,0 +1,1 @@
+Policy-centered context budget layer that turns sprawling codebases into compact, high-signal context for AI coding agents using symbol graphs and precision tools

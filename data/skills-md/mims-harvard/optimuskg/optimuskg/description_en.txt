@@ -1,0 +1,1 @@
+Guide for using OptimusKG, the biomedical knowledge graph, through the `optimuskg` Python client. Use this when loading, querying, filtering, or analyzing OptimusKG data — genes, drugs, diseases, phenotypes, anatomy, pathways, and their relationships — as Polars DataFrames or a NetworkX graph, or when downloading the published graph from Harvard Dataverse.

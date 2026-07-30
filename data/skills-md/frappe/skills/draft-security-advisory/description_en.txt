@@ -1,0 +1,1 @@
+Turn a vulnerability report into a publication-ready GitHub Security Advisory.

@@ -1,0 +1,1 @@
+Authoring MSBuild targets, props, or conditions. Custom targets, incrementality, Build patterns.

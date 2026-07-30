@@ -1,0 +1,1 @@
+Shared work-state and task coordination for AI coding agents using the Model Context Protocol

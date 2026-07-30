@@ -1,0 +1,1 @@
+Releasing CLI tools. GitHub Actions build matrix, artifact staging, Releases, checksums.

@@ -1,0 +1,1 @@
+Django REST Framework backend development standards. Use this skill when developing Django projects, implementing REST APIs with DRF ViewSets, Serializers, or JWT authentication.

@@ -1,0 +1,1 @@
+Test-Driven Development discipline: RED-GREEN-REFACTOR. Write a failing test first, watch it fail for the right reason, write minimal code to pass, watch it pass, then refactor. Refuses to claim "done" until a test exists and passes. Trigger: /hui-tdd, "use tdd", "write the test first", "red green refactor".

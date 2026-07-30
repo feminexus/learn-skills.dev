@@ -1,0 +1,1 @@
+Use when reviewing one skill or a skill library for structural, safety, linkage, size, or static trigger-boundary problems.

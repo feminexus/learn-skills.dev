@@ -1,0 +1,1 @@
+Use when reviewing a PR, API, IPC channel, endpoint, parameter, type, config, or architectural extension point that adds or expands shared surface area, especially when consumers are absent, exports are unused or speculative, existing consumers are hack-heavy, forward compatibility is claimed, or multiple similar APIs may express one demand.

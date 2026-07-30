@@ -1,0 +1,4 @@
+Naval Ravikant's wisdom toolkit. Wealth, happiness, decisions, leverage, learning.
+Trigger: /naval, "what would Naval say", "Naval's advice"
+Naval Ravikant 方法论工具箱。财富、幸福、决策、杠杆、学习。
+触发方式：/naval、「Naval 怎么看」「Naval 的建议」

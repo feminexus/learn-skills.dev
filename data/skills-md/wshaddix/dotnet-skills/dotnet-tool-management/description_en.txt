@@ -1,0 +1,1 @@
+Installing or managing .NET tools. Global, local, manifests, restore, version pinning.

@@ -1,0 +1,1 @@
+[user] Prepare an explicit source and continue automatically through sealed implementation, verified unit commits, aggregate verification, and reflection in one active run. Use only when selected explicitly with a source, or when resuming this skill's pending decision in the same conversation.

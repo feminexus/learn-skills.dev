@@ -1,0 +1,1 @@
+Recommend negative keywords for Google Ads with the right match type, scope, and caution. Pulls live data via MCP or works with manual exports. Always produces a negative keyword draft for human review.

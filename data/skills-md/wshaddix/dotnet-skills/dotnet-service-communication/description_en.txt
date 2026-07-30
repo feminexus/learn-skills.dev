@@ -1,0 +1,1 @@
+Choosing inter-service protocols. REST vs gRPC vs SignalR vs SSE decision matrix, tradeoffs.

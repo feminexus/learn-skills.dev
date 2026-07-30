@@ -1,0 +1,1 @@
+Rapid triage of unexpected behavior — layer, evidence, risks, next fix. Use for wrong state, API errors, flaky UI, performance. Pure render-path questions → `/find-component-render-path`. Reachable by `/fix` when root cause is fuzzy behavior/data-flow.

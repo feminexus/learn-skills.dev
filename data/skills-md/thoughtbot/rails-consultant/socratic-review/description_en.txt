@@ -1,0 +1,1 @@
+Socratic code review and refactoring session — whether it's your own code, a teammate's PR, or something you inherited. Leads you to see the issues through questions, names smells and moves precisely, then closes with a concrete plan.

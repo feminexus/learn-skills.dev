@@ -1,0 +1,1 @@
+Use when executing a feature plan with wave-based parallel agents. Triggers on "implement this plan", "start building", or when a plan exists in docs/plans/ and user wants to begin coding.

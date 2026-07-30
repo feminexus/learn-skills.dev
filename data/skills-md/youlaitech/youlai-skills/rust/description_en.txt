@@ -1,0 +1,1 @@
+Rust 后端开发规范. Use this skill when developing Rust web projects, implementing REST APIs with Axum + SeaORM, JWT/Redis token authentication, or the youlai-rust admin backend (PostgreSQL).

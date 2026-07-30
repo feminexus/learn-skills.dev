@@ -1,0 +1,1 @@
+Ghi một SESSION EPISODE có cấu trúc (tầng nhớ episodic) vào memory store để phiên sau truy hồi được 'phiên trước làm gì' — theo NGỮ NGHĨA, không chỉ theo [[wikilink]]. Bọc mem-rank.py (engine). On-demand, KHÔNG auto-hook (ADR-004). Trigger: 'ghi episode', 'record episode', 'chốt phiên này vào nhớ', 'lưu lại phiên trước làm gì', 'session episode', '/record-episode'.

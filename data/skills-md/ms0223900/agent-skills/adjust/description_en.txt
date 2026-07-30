@@ -1,0 +1,1 @@
+Adjust an existing feature — update US, test strategy, implement, verify, accept. Use when the user asks to 補一下／調整行為／多支援某能力 for something already shipped.

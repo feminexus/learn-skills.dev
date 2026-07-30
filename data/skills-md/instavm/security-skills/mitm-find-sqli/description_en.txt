@@ -1,0 +1,1 @@
+Find SQL Injection vulnerabilities in captured traffic. Use when user asks about database security, injection attacks, or data extraction.

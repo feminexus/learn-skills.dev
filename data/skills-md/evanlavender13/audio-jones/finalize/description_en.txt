@@ -1,0 +1,1 @@
+Use after feature-review to archive plans and research docs, update effects inventory, and commit. Triggers on "finalize", "wrap up", "close out", or after review completes.

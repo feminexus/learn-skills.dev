@@ -1,0 +1,1 @@
+Scan local disks or selected roots for Git repositories and turn commits, changed files, and meaningful uncommitted work from a default or custom time range into a concise Chinese or English weekly report. Use when the user asks for a Git weekly report, work summary, Friday update, recent development summary, 周报, 本周工作总结, or multi-repository activity report.

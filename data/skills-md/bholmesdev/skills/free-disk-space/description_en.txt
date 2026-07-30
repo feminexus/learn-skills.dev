@@ -1,0 +1,1 @@
+Reclaim disk space on macOS by auditing and clearing build artifacts, package-manager caches, stale git worktrees, and offloading large media to an external drive. Use whenever the user complains about low storage, a full disk, "out of space" errors, or asks to clean up, offload, or free up their machine — even if they don't name specific folders.

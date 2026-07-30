@@ -1,0 +1,1 @@
+Reading or modifying .csproj files. SDK-style structure, PropertyGroup/ItemGroup, CPM, props.

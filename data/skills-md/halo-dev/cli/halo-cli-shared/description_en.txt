@@ -1,0 +1,1 @@
+Use when a task involves Halo CLI, Halo CMS command-line operations, or terminal-based Halo management. Also use when you need shared rules for profiles, JSON output, help discovery, config paths, and destructive actions. Trigger this skill whenever the user mentions 'halo', 'Halo CLI', or terminal operations for Halo CMS, even if the specific command area is not yet clear.

@@ -1,0 +1,1 @@
+Initialize and verify an Avalanche workflow workspace with editable local clones of Avalanche and PredictRLM under .trampoline-ai and the Avalanche authoring skill installed at project scope. Use only when someone asks to set up, bootstrap, or prepare a workspace; it does not design or create the user's workflow.

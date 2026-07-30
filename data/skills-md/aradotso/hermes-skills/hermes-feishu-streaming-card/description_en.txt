@@ -1,0 +1,1 @@
+Stream Hermes Gateway agent responses to Feishu/Lark as live-updating interactive cards with thinking process, tool calls, and in-card interactions

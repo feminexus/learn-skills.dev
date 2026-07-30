@@ -1,0 +1,1 @@
+Create context handoff when pausing work mid-phase

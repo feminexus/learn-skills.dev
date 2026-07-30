@@ -1,0 +1,1 @@
+Writing custom MSBuild tasks. ITask, ToolTask, IIncrementalTask, inline tasks, UsingTask.

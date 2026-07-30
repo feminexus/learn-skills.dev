@@ -1,0 +1,1 @@
+Write JSONata expressions for Truto config — unified API mapping overrides, custom unified models, environment integration overrides (auth/pagination/rate-limit/webhooks), sync job templates, workflows, daemon jobs, and scheduled actions. Documents the custom $functions added by @truto/truto-jsonata on top of standard JSONata.

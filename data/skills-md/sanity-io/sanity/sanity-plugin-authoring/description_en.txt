@@ -1,0 +1,1 @@
+Explain and create Sanity Studio plugins using the public plugin and tool APIs. Use when creating user-facing plugins, adding tools through plugins, or when an agent needs to understand what a Sanity plugin can configure before applying monorepo-specific default plugin wiring.

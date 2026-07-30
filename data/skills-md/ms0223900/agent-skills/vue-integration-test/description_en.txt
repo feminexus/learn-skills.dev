@@ -1,0 +1,1 @@
+Guides writing Vue 2 component integration tests with @vue/test-utils + Jest + Vuex. Use when the user wants to add a `.integration.test.ts`/`.js` for a Vue component, test rendered output against fixtures, or verify store-driven render paths.

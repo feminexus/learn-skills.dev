@@ -1,0 +1,1 @@
+Vue 3 + TypeScript development standards. Use this skill when building Vue 3 applications with Composition API, Pinia, UnoCSS and SCSS. Covers naming, CSS architecture, component structure, API patterns and code quality. UI-library agnostic (Element Plus, Ant Design Vue, etc).

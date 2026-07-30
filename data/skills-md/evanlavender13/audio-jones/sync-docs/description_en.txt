@@ -1,0 +1,1 @@
+Use when synchronizing codebase documentation after code changes. Triggers on "sync docs", "update documentation", "regenerate docs", or after significant implementation work.

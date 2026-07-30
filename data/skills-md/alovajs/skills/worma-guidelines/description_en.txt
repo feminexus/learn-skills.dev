@@ -1,0 +1,1 @@
+worma OpenAPI code generation and configuration. Use this skill whenever the user mentions worma config, API code generation, OpenAPI/Swagger integration, worma CLI, or migration from @alova/wormhole, axios, or ky. Trigger for questions about worma.config, npx worma init/gen, generating API code from OpenAPI specs, or switching from @alova/wormhole, axios, or ky to worma.

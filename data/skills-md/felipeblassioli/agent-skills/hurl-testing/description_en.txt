@@ -1,0 +1,1 @@
+Write, execute, and assert HTTP requests safely using Hurl text files. Triggers on API testing, HTTP request generation, REST/GraphQL validation, or when .hurl files are mentioned. Do NOT use this skill for UI/browser testing or for internal unit testing.

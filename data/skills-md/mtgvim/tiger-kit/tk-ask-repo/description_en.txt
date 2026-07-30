@@ -1,0 +1,1 @@
+[user] Answer an inbound question about this repository with source-located evidence — where a value comes from, how a flow works, whether something exists, what a change breaks, or which layer owns a problem. Use when a question arrives from outside the codebase and answering it requires investigation. Do not use to implement, to close decisions, or to estimate effort.

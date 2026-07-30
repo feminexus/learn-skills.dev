@@ -1,0 +1,1 @@
+Periodic wiki health check — orphans, missing links, contradictions, stale (wiki→wiki VÀ code→wiki drift), index gaps. Bước 0 là cổng no-op tất định (wiki-sync, 0 token) — code không đổi kể từ neo thì kết luận "wiki current" và dừng sớm hợp lệ.

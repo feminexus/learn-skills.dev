@@ -1,0 +1,1 @@
+逸尘自用的互联网研究总入口。用于跨平台且跨阶段，或用户尚未确定工具的研究任务，把“搜索发现、候选核验、内容归档、按需转写分析”路由到 yichen-unified-search、yichen-content-archive、yichen-bookmarks-export 与 yichen-asr。若用户只要求搜索、只处理已知链接、只导出私人收藏或只转写已有音视频，应直接使用对应子 Skill。Use when an internet-research request spans multiple stages, the correct child route is unclear, or the user explicitly invokes $yichen-web-research.

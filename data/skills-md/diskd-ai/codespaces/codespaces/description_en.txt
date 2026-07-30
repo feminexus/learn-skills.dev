@@ -1,0 +1,1 @@
+Query `.belief_map.sexp` before non-trivial code changes to find module boundaries, dependencies, blast radius, and the minimal files to read. Use for architecture discovery, impact analysis, and boundary checks.

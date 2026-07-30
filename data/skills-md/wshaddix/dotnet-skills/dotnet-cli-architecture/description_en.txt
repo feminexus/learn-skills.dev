@@ -1,0 +1,1 @@
+Structuring CLI app layers. Command/handler/service separation, clig.dev principles, exit codes.

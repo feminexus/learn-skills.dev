@@ -1,0 +1,1 @@
+Running C# without a project file (.NET 10 SDK). Directives, CLI commands, migration.

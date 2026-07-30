@@ -1,0 +1,1 @@
+Use Vaxis for requests to create, update, inspect, explain, or share architecture diagrams, Mermaid diagrams, flowcharts, workflows, sequence diagrams, ER diagrams, state diagrams, roadmaps, and visual system designs.

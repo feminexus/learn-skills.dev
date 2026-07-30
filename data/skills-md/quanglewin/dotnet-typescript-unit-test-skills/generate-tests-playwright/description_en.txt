@@ -1,0 +1,1 @@
+Use when the user asks to generate, create, or write Playwright tests (Component or API) for TypeScript/JavaScript code. Analyzes the target component or API route, produces a structured test case list for review, then generates Playwright specs using the Page Object Model (POM).

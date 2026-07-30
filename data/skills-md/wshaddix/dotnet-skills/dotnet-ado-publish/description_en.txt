@@ -1,0 +1,1 @@
+Publishing .NET artifacts from Azure DevOps. NuGet push, containers to ACR, pipeline artifacts.

@@ -1,0 +1,1 @@
+設計或審查 LiteLLM MCP Gateway、MCP permissions、toolsets、MCP REST API、Skills Gateway 與官方管理 skills。當任務要註冊工具來源、授權 agent 工具或發布 skills 時使用；一般 tool calling 與 guardrail 規則分別搭配 SDK 或安全技能。

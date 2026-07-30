@@ -1,0 +1,1 @@
+Explain and use Truto's core concepts and APIs — unified/proxy/custom APIs, integrated accounts, environments, webhooks, connection flows — and write application code against them. Covers what each concept is, how to call it, and data-access patterns for the user's codebase.

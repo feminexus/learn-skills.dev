@@ -1,0 +1,1 @@
+Full Google Ads review that synthesizes tracking, search terms, intent mapping, negatives, structure, RSAs, budget decisions, and PMax context into a single operator read. Pulls live data via MCP or works with manual exports. Produces a prioritized batch of action drafts.

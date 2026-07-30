@@ -1,0 +1,1 @@
+Execute git commits with conventional commit message analysis and generation. Use when the user asks to commit changes, write a commit message, or review staged changes. Supports auto-detecting type/scope from diff, generating messages, and staging files intelligently.

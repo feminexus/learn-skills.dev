@@ -1,0 +1,1 @@
+Detecting API changes in CI. PublicApiAnalyzers, Verify snapshots, breaking change enforcement.

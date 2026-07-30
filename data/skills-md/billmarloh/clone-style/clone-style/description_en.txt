@@ -1,0 +1,1 @@
+Clone a website's visual design style and apply it to the current project. Extracts colors, typography, spacing, and component patterns, then rebuilds the UI to match. Trigger with /clone-style <url>.

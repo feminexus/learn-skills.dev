@@ -1,0 +1,1 @@
+fontize 字体子集工具链的集成与用法指引：把 @fontize/nuxt、@fontize/vite 接入 Nuxt / 纯 Vite 项目，按声明的文本把 CJK 字体裁到实际渲染字符（约 17MB → 50KB 量级）；纠正 useText 写法、排查构建期缺字。当用户说「给 xxx 接入 @fontize/nuxt」「缩小标题字体体积」「字体子集」「裁剪字体」「useText 怎么用」「模板里 useText 不自动解 ref」「SPA 构建缺字」「生成后字体没裁」时触发

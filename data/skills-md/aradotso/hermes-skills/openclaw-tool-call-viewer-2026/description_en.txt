@@ -1,0 +1,1 @@
+Browser-based interface for viewing and filtering OpenClaw session tool call history with zero dependencies for local network deployment.

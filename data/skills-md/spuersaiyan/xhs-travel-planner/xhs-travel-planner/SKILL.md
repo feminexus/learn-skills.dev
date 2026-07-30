@@ -1,0 +1,100 @@
+---
+name: xhs-travel-planner
+description: Create source-backed travel itineraries from real 小红书/Xiaohongshu/RedNote notes after first opening a browser for the user to scan-code login, then turn the collected notes into deployable mobile-first single-file HTML pages with daily routes, expandable place cards, avoid-pit warnings, source citations, and 高德-first map links. Use when the user asks to research 小红书 travel notes, extract restaurants/attractions/hotels/避坑, make a route-checked trip plan, or generate a clickable travel planner webpage for GitHub Pages/mobile sharing.
+---
+
+# xhs-travel-planner
+
+## Core Workflow
+
+Use this skill to produce a source-backed, phone-friendly travel planner from real 小红书 notes. The final output is a deployable single-file `travel-plan.html` that can be renamed to `index.html` and published on GitHub Pages.
+
+1. Confirm the brief only when missing details block the itinerary: destination, dates or trip length, travelers, travel style, must-go places, budget, pace, and hotel/base area if known.
+2. Before searching, open the user's regular Chrome/Edge browser profile to 小红书 so an existing login can be reused. Prefer `python scripts/open_xhs_login.py --keyword "<destination> 美食 避坑"` when a local browser is available. If the regular profile is not logged in, require the user to scan-code login in that browser session. Do not accept account passwords, Cookie strings, or verification codes. Use `--isolated-profile` only when the user explicitly wants a separate browser profile.
+3. Gather real 小红书 notes only from the logged-in browser session. Open each retained note and record its traceable source metadata; do not use non-XHS web sources or unreadable search snippets as itinerary evidence.
+4. Do not bypass CAPTCHA, rate limits, robots controls, paywalls, or platform access restrictions. If the site asks for verification, ask the user to complete it in the browser.
+5. Keep source traceability. Every place, restaurant, route tip, and warning must link back to one or more source records whenever possible. For each retained XHS note, capture the platform-generated share link for mobile opening when the share UI exposes it; keep the browser page URL as desktop fallback.
+6. Extract and deduplicate places, restaurants, shops, neighborhoods, transport tips, reservation notes, opening-hour risks, queue warnings, price warnings, and "avoid" advice.
+7. Build a day-by-day route by clustering nearby items, checking map search/navigation links, and minimizing backtracking. Use 高德 links first and 百度 links as fallback.
+8. Generate `travel-plan.html` with `scripts/create_static_html.py`.
+9. Validate the itinerary with `scripts/validate_itinerary.py` before presenting it.
+
+## User Templates
+
+When the user asks how to use the skill or wants a reusable workflow, provide:
+
+- `assets/brief-template.md` as the fill-in user brief.
+- `references/prompt-templates.md` as the copy-paste 攻略提示词 set.
+- `assets/itinerary-template.json` as the skeleton for the structured itinerary.
+
+## Research Rules
+
+Read `references/xhs-research-workflow.md` before collecting notes. Use it for query patterns, credibility checks, and extraction rules.
+
+Minimum source standard:
+
+- Collect at least 8 opened notes for a one-day/narrow brief, 15 for a 2-4 day itinerary, and 20 for trips of 5 or more days. Only use fewer when the user supplied a fixed small source set or access is blocked; state that limitation.
+- Run several intent searches (route, food, avoid-pit, logistics, and key neighborhoods/attractions). Do not build the itinerary from a single result page.
+- Prioritize notes with visibly high engagement in the search results or opened note, especially likes and saves, while retaining useful lower-engagement notes for specific warnings or niche locations.
+- Record `id`, `platform`, `url`, `mobileShareUrl`, `title`, `author`, `publishedDate`, `capturedAt`, and visible `likes`, `collects`, `comments` when available. `mobileShareUrl` must come from the note's share/copy-link UI, typically an `xhslink.com` link; never construct it from the note ID.
+- Aim for multiple independent notes supporting important recommendations; a popular single note is not sufficient evidence by itself.
+- Mark recommendations as `confirmed` only when the source is specific enough to identify the place and reason.
+- Mark vague mentions, uncertain names, or unsourced AI inferences as `candidate`.
+- Preserve negative advice as `warnings`; do not bury it inside attraction notes.
+
+## Itinerary Data
+
+Use `references/itinerary-schema.md` as the canonical JSON contract. The top-level object must include:
+
+- `trip`: destination, dates or day count, travelers, style, base area, and assumptions.
+- `sources[]`: source records for 小红书 notes opened or verified in the logged-in browser session.
+- `places[]`: normalized places with category, area, address if known, source IDs, confidence, tags, and map links.
+- `warnings[]`: avoid-pit advice with severity, affected place/day when known, and source IDs.
+- `days[]`: ordered route items with time blocks, transport notes, map links, source IDs, and alternatives.
+
+Generate map links with:
+
+```bash
+python scripts/generate_map_links.py itinerary.json --write
+```
+
+Validate with:
+
+```bash
+python scripts/validate_itinerary.py itinerary.json
+```
+
+## HTML App Generation
+
+Read `references/html-app-spec.md` before creating the app.
+
+Default single-file output:
+
+```bash
+python scripts/generate_map_links.py itinerary.json --write
+python scripts/validate_itinerary.py itinerary.json
+python scripts/create_static_html.py itinerary.json travel-plan.html
+```
+
+To deploy on GitHub Pages, copy or upload `travel-plan.html` as `index.html` in the target Pages directory or repository root.
+
+The HTML page must be mobile-first and include:
+
+- The Tailwind CDN H5 layout specified in `references/html-app-spec.md`: cover hero, blue day tabs, compact route timeline, and bottom budget summary.
+- A `保存页面` button that downloads the generated HTML in the browser.
+- Expandable place details with 高德 and 百度 map buttons.
+- Source links placed inside each related place detail; use the captured mobile share link as the primary 小红书 button and the browser note URL only as a web fallback. Do not add a long standalone source list.
+- Daily and overall 避坑 information.
+- No standalone `数据边界` section; surface uncertainty only where it affects a place or warning.
+- Empty states for missing addresses, no warnings, and no source URL.
+
+## Quality Bar
+
+Before final delivery:
+
+- Confirm every non-obvious recommendation has a source ID or is labeled as an assumption/candidate.
+- Confirm retained XHS sources include a platform-generated mobile share link when available; if not, clearly label the webpage link as a mobile-risk fallback.
+- Confirm every displayed map button is generated from name plus city/area/address, or from coordinates when available.
+- Prefer practical route order over "top ranked" order when the two conflict.
+- Explain any unresolved uncertainty: unverified opening hours, possible seasonal closure, unclear branch, or missing exact address.
+- Run `quick_validate.py` on the skill when editing this skill itself.

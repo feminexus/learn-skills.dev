@@ -1,0 +1,1 @@
+使用 LiteLLM Python SDK 建立或審查 completion、streaming、structured output、tool calling、Responses API 與基礎成本追蹤。當任務是在 Python 程式內直接呼叫 LiteLLM 而非管理 Proxy 時使用；Proxy、virtual key、集中式預算或 gateway 維運改用對應專門技能。

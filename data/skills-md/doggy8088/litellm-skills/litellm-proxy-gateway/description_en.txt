@@ -1,0 +1,1 @@
+建立或審查 LiteLLM Proxy 的基礎拓樸、model alias、config.yaml、啟動方式與 OpenAI-compatible client。當任務是架設集中式模型入口或遷移既有 OpenAI client 時使用；成本治理、觀測、安全、可靠性與 MCP 細節必須搭配對應專門技能。

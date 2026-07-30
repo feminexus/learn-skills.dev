@@ -1,0 +1,1 @@
+設計或審查 LiteLLM virtual keys、spend tracking、budgets、rate limits、request tags 與 provider budget routing。當任務涉及用量限制、模型 allowlist、成本歸因或報表時使用；一般 Proxy 拓樸與觀測平台設定改用對應專門技能。

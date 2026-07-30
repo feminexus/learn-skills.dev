@@ -1,0 +1,1 @@
+Designing data layer architecture. Read/write split, aggregate boundaries, N+1 governance.

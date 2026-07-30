@@ -1,0 +1,1 @@
+NestJS backend development standards. Use this skill when developing NestJS projects, implementing REST APIs, using TypeORM, JWT authentication, or permission control.

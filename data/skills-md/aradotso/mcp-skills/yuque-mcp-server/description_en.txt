@@ -1,0 +1,1 @@
+MCP server for Yuque (语雀) knowledge base - search, create, and manage documents through AI assistants

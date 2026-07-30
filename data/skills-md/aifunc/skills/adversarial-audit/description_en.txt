@@ -1,0 +1,1 @@
+Use when the user asks for a deep adversarial audit of code changes, multi-model cross-validation to find single-model blind spots, red-team review of implementation quality, or independent verification of fixes. Requires two auditors with different models. Not for simple reviews, formatting, or low-risk changes.

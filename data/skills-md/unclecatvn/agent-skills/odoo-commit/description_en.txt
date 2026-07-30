@@ -1,0 +1,1 @@
+Guides Odoo-style commit creation following official Odoo git guidelines. Drafts `[TAG] module: short description` messages, checks whether to amend or create a new commit, stages files explicitly, commits via `git commit -F`, and keeps local history clean before PRs. Auto-invokes for commit-related requests in Odoo repositories and takes priority over generic commit skills.

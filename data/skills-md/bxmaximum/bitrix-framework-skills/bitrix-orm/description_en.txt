@@ -1,0 +1,1 @@
+D7 ORM tablets, ConditionTree queries, Objectify, batch/merge/deleteByFilter writes. Use for entity design, reads, and persistence.

@@ -1,0 +1,1 @@
+Verify game world, character, and location names against local references before writing story timestamps. Loaded by anibon-timestamper when the stream covers post-cutoff games.

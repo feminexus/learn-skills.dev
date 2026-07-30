@@ -1,0 +1,1 @@
+Guides writing React / Next.js component tests with React Testing Library (RTL) + @testing-library/user-event（不使用 Enzyme／shallow render）。Use when the user wants a component/integration test for a React or Next.js component, or asks to verify rendered output / user interaction against a component.

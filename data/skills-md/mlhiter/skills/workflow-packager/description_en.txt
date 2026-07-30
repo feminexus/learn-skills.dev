@@ -1,0 +1,1 @@
+回看最近 agent 会话、记忆、任务摘要、屏幕历史线索以及已有 skills/subagents/automations， 识别重复、耗时、易错、上下文重的手工流程，先向用户推荐最高置信、最小可用的 skill、subagent 或 automation 候选， 等用户明确确认后才创建或扩展。 当用户要求“回顾最近工作”“找值得沉淀的流程”“把重复工作包装成技能/子代理/自动化”“look across sessions/memories/history” 或类似个人工作流打包请求时使用。输出默认使用中文。

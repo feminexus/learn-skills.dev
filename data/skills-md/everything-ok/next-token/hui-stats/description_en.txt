@@ -1,0 +1,1 @@
+Show observed local token usage for current Claude Code session. Reads session log directly. Triggers on /hui-stats. Output is injected by mode-tracker hook; model does not compute numbers.

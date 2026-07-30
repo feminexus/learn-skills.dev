@@ -1,0 +1,1 @@
+Schedule automated research paper alerts from OpenAlex with daily Chinese summaries using OpenClaw cron

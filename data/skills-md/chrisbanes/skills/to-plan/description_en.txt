@@ -1,0 +1,1 @@
+Use when one ready GitHub issue needs a repository-aware implementation plan published as a single issue comment for a later implementation workflow.

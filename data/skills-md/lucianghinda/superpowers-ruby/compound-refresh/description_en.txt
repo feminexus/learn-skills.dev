@@ -1,0 +1,1 @@
+Use when docs/solutions/ learnings may be stale — after refactors, migrations, or dependency upgrades, when a retrieved learning feels outdated or contradicts a recently solved problem, when pattern docs no longer reflect current code, or when reviewing docs/solutions/ for accuracy.

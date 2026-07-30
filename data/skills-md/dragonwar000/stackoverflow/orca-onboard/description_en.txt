@@ -1,0 +1,1 @@
+Parallel codebase onboarding — distilled understand-anything pipeline (scan + git history + batch analyze + layers/tour, no plugin), then domain enrichment (Claude), wiki + HTML via opencode+DeepSeek Flash v4.

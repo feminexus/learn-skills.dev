@@ -1,0 +1,3 @@
+Discover and review recent academic papers, generate a daily Obsidian
+recommendation, and create notes for must-read papers. Use for “今日论文推荐”,
+“过去3天论文推荐”, “过去一周论文推荐”, or equivalent daily-paper requests.

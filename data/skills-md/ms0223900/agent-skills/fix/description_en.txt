@@ -1,0 +1,1 @@
+Fix ESLint, TypeScript, test, or build errors with clear tool output — reproduce, classify, hypothesize, patch root cause, re-verify green. Use when the user pastes lint/tsc/test/build failures or says 修這個錯誤／測試過不了／type error／build 失敗. Reachable by `/next-task` on failing runs.

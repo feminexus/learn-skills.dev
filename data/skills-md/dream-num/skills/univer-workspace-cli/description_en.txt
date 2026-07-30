@@ -1,0 +1,1 @@
+Use when installing or operating the independent Univer Workspace CLI application (`univer-workspace-cli`) for remote Workspace files, Personal or Team Spaces, task Worktrees, Sheet/Doc/Slide Units, Facade authoring, inspection, verification, import/export, screenshots, or review handoff. Do not use for local targets handled by `univer`.

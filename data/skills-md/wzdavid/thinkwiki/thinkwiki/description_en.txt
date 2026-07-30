@@ -1,0 +1,1 @@
+Use this skill when the user wants to create, maintain, query, or visualize a local Markdown knowledge base. ThinkWiki can initialize a wiki, import files or webpages, collect inbox items, answer from existing knowledge, save higher-value outputs, and generate HTML viewer and graph artifacts.

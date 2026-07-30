@@ -1,0 +1,1 @@
+Guidelines for writing TUnit tests in .NET, including setup, assertions, async testing, and best practices. Use when writing unit tests with TUnit framework, setting up TUnit in a .NET project, or migrating from other test frameworks to TUnit.

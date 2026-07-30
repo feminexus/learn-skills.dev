@@ -1,0 +1,1 @@
+Mở room (subagent 1 tầng) nạp chi tiết wiki khi context phiên chính đã rot — depth cap=1, budget cứng, circuit breaker. Trigger: 'mở room', 'context rot', 'nạp thêm chi tiết wiki', 'đào sâu wiki', '/wiki-room'.

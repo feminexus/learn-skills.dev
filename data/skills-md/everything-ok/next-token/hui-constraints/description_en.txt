@@ -1,0 +1,1 @@
+Evidence-first coding constraints for focused, safe, and verifiable technical work. Always active for technical tasks; guidance strength depends on host capabilities.

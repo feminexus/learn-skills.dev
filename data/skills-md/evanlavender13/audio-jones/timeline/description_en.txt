@@ -1,0 +1,1 @@
+Use when generating a project milestone timeline from git history. Triggers on "timeline", "milestones", "project history", or when the user wants to see the story of how the project evolved.

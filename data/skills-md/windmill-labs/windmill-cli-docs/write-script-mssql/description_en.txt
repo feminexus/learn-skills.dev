@@ -1,0 +1,1 @@
+MUST use when writing MS SQL Server queries.

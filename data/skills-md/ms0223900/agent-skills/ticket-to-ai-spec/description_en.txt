@@ -1,0 +1,1 @@
+Transforms raw tickets into machine-readable AI Agent development specs by clarifying requirements and defining acceptance criteria and technical boundaries. Use when the user pastes ticket content or references tickets, user stories, or acceptance criteria and wants AI-ready implementation specs.

@@ -1,0 +1,1 @@
+Autonomously stress-test a plan or design before implementation. Use when the user says "deep grill" or requests pressure-testing, assumption-challenging, or self-critique.

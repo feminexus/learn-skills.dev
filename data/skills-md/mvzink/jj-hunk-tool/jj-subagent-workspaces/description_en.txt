@@ -1,0 +1,1 @@
+Use when delegating a coding task to a subagent and you need an isolated working directory backed by jj. Covers picking a parent commit, creating a jj workspace, briefing the subagent on jj ground rules, integrating its commits back into the main stack, and cleaning up. Mechanism-agnostic — works for any subagent dispatch, including a plain shell `agent <prompt>` invocation.

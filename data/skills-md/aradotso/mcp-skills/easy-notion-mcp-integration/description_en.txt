@@ -1,0 +1,1 @@
+Connect AI agents to Notion using markdown instead of raw JSON through MCP server with 42 tools for reading, writing, and managing pages and databases

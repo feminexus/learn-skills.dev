@@ -1,0 +1,381 @@
+---
+name: truto
+description: Explain and use Truto's core concepts and APIs — unified/proxy/custom APIs, integrated accounts, environments, webhooks, connection flows — and write application code against them. Covers what each concept is, how to call it, and data-access patterns for the user's codebase.
+whenToUse: Explain or use Truto's core concepts and APIs — unified/proxy/custom APIs, webhooks, OAuth connection flows, integrated accounts, environments, and tenants — what they are, how to call them (e.g. /unified/{model}/{resource}?integrated_account_id=…), and how to set them up.
+---
+
+# Truto — Unified API Platform
+
+This is the reference for Truto's core concepts and APIs. Read it both to **explain** what something is (unified vs proxy vs custom API, integrated accounts, environments, webhooks, connection flows) and to **build** with it — API calls, webhook handlers, connection UIs, and data-access layers that run as part of the user's product.
+
+Answer concept and how-to questions from this skill and its [references](#references) rather than from memory. The [Core Concepts](#core-concepts) table below is the index: every concept links to the reference that defines it.
+
+There is nothing to *install* to use the unified, proxy, or custom API — you **call** them over HTTPS against a connected integrated account (e.g. `GET /unified/{model}/{resource}?integrated_account_id=…`). Setup means connecting an account, not installing an API. For admin setup, one-time debugging, and data exploration in the terminal, see the **Truto CLI** skill; for debugging a live workspace, see the **truto-operator** skill.
+
+**Important:** The Truto API token (`TRUTO_API_TOKEN`) must only be used on the backend. Never expose it to the browser or include it in client-side code.
+
+## When to Use
+
+- Explaining what a Truto concept is or how it works (unified/proxy/custom API, integrated account, environment, tenant, sync job, webhook, workflow)
+- Answering "how do I call/set up X" for any of the above
+- Writing API calls to read or write data through Truto (unified, proxy, or custom APIs)
+- Building a connection flow for end-users using Truto Link
+- Adding webhook handlers to receive real-time events from Truto
+- Implementing pagination, error handling, or retry logic for Truto API calls
+- Choosing between unified, proxy, and custom APIs for a use case
+
+## Install the Truto CLI (recommended)
+
+Before writing any code, install the **Truto CLI** — it's the fastest way to discover what an integration supports, connect a sandbox account, and try a unified API call without touching your application. Every workflow in this skill (calling the unified API, customizing mappings, overriding integrations per environment, debugging webhooks) has a CLI shortcut you can run in a single line, then port into code once it works.
+
+```bash
+# Linux / macOS
+curl -fsSL https://cli.truto.one/install.sh | bash
+truto login --token "$TRUTO_API_TOKEN"
+truto whoami -o json
+```
+
+```powershell
+# Windows (PowerShell)
+irm https://cli.truto.one/install.ps1 | iex
+truto login --token $env:TRUTO_API_TOKEN
+truto whoami -o json
+```
+
+For the full command surface, output formats, and admin workflows, see the [**Truto CLI** skill](../truto-cli/SKILL.md). For a guided Day-1 walkthrough that combines the CLI with the code in this skill, see [Getting Started](./references/getting-started.md).
+
+## Core Concepts
+
+
+| Concept                     | Description                                                                          | Reference                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| **Environment**             | Isolated workspace scoping all resources. API tokens are tied to one environment.    | [Core Resources](./references/core-resources.md)                       |
+| **Integration**             | A third-party tool definition (e.g., Salesforce, Jira, Slack).                       | [Core Resources](./references/core-resources.md)                       |
+| **Environment Integration** | An integration installed into a specific environment with optional config overrides. | [Core Resources](./references/core-resources.md)                       |
+| **Integrated Account**      | A connected instance of an integration for a specific tenant (end-user).             | [Core Resources](./references/core-resources.md)                       |
+| **Tenant**                  | An environment-scoped external identity (your customer / end-user) that owns integrated accounts. Managed via `/tenant` — created explicitly or auto-materialized on first connection. | [Core Resources](./references/core-resources.md#tenants)               |
+| **Unified API**             | Standardized CRUD endpoints across integrations using a common schema.               | [Unified API](./references/unified-api.md)                             |
+| **Proxy API**               | Pass-through to the native API of the underlying tool.                               | [Proxy & Custom API](./references/proxy-and-custom-api.md)             |
+| **Custom API**              | User-defined API endpoints with custom routing logic.                                | [Proxy & Custom API](./references/proxy-and-custom-api.md)             |
+| **Sync Job**                | Scheduled or on-demand data synchronization from integrated accounts.                | [Sync Jobs](./references/sync-jobs.md)                                 |
+| **Webhook**                 | HTTP callbacks for real-time event notifications.                                    | [Webhooks & Notifications](./references/webhooks-and-notifications.md) |
+| **Datastore**               | External storage destinations (MongoDB, GCS, S3, Qdrant) for sync job output.        | [Datastores](./references/datastores.md)                               |
+| **Workflow**                | Event-driven automation triggered by Truto events.                                   | [Workflows](./references/workflows.md)                                 |
+
+
+## Discover Capabilities Before Calling
+
+**Whenever you're about to write a `fetch()` to `/unified/...`, `/proxy/...`, or `/custom/...`, hit the capabilities endpoint first.** Resource and method names are integration-specific (HubSpot has `contacts`/`companies`/`deals`, Bigcommerce has `products`/`orders`/`customers`, etc.). Hard-coding them from memory is the most common LLM-introduced bug in Truto integration code — capabilities is the single source of truth.
+
+Two equivalent endpoints, both returning the same shape:
+
+```
+GET https://api.truto.one/integrated-account/{integrated_account_id}/capabilities[?type=proxy|unified|all]
+GET https://api.truto.one/integration/{integration_slug_or_id}/capabilities[?type=proxy|unified|all]
+```
+
+- Use the **integrated-account** variant when you have a connected account UUID and want to know what *that* account can do (factoring in env-level overrides).
+- Use the **integration** variant before any account is connected (catalog browsing, deciding which integrations to support).
+
+```typescript
+type CapabilitiesResponse = {
+  integration: { id: string; name: string; label: string; category: string };
+  environment_id?: string;
+  proxy: Array<{
+    resource: string;
+    methods: Array<{
+      method: "list" | "get" | "create" | "update" | "delete" | string;
+      name: string;
+      description: string | null;
+      has_description: boolean;
+      has_query_schema: boolean;
+      has_body_schema: boolean;
+      has_response_schema: boolean;
+      api_documentation_url: string | null;
+    }>;
+  }>;
+  unified: Array<{
+    model: string;
+    model_label: string;
+    resource: string;
+    description: string | null;
+    docs_url: string | null;
+    methods: string[];
+    env_overridden: boolean;
+  }>;
+  auth: {
+    formats: string[];
+    fields: Array<{ name: string; label: string; type: string; required: boolean }>;
+    documentation_link?: string;
+  };
+  ai_readiness: { proxy_methods: number; proxy_methods_with_descriptions: number; ai_ready_score: number };
+  account?: { id: string; status: string; authentication_method: string; is_blocked: boolean };
+};
+
+async function getCapabilities(accountId: string): Promise<CapabilitiesResponse> {
+  const res = await fetch(
+    `https://api.truto.one/integrated-account/${accountId}/capabilities?type=all`,
+    { headers: { Authorization: `Bearer ${process.env.TRUTO_API_TOKEN}` } }
+  );
+  if (!res.ok) throw new Error(`Capabilities failed: ${res.status}`);
+  return res.json();
+}
+
+const caps = await getCapabilities(accountId);
+const proxyResources = caps.proxy.map(r => r.resource);
+const unifiedRoutes = caps.unified.map(u => `${u.model}/${u.resource}`);
+
+// Build calls only for routes the account actually exposes:
+if (caps.unified.some(u => u.model === "crm" && u.resource === "contacts" && u.methods.includes("list"))) {
+  const r = await fetch(
+    `https://api.truto.one/unified/crm/contacts?integrated_account_id=${accountId}`,
+    { headers: { Authorization: `Bearer ${process.env.TRUTO_API_TOKEN}` } }
+  );
+}
+```
+
+Capabilities responses are cheap and stable per integration version. **Cache them per `integration_id` server-side** (see [Discovering Capabilities](./references/discovering-capabilities.md) for the full reference, query-param filters, caching guidance, and patterns for both endpoints). The companion CLI command is `truto capabilities <slug-or-uuid>` — same shape, instant to try in a terminal before porting into code.
+
+## Getting Started
+
+> **Day 0 — install the CLI first** (see [Install the Truto CLI](#install-the-truto-cli-recommended) above). Most of what's described below is faster to *try* through the **Truto CLI** before wiring it into code, then port the same call into your application. The full Day-1 walkthrough lives at [Getting Started](./references/getting-started.md); the steps below are the canonical flow you'll port into your application.
+
+### 1. Get an API Token
+
+Create an API token in the [Truto Dashboard](https://app.truto.one). API tokens can only be created through the dashboard — not via the API or CLI.
+
+Store it as a server-side environment variable (`TRUTO_API_TOKEN`). This token must **only be used on the backend** — never send it to the browser.
+
+### 2. Create a Backend Route for Link Tokens
+
+Your backend needs an endpoint that generates link tokens for the Truto Link connection flow. This route should handle **both** new connections and reconnections from the start — this prevents users from creating duplicate accounts when an existing connection fails.
+
+```typescript
+app.post("/api/truto/link-token", async (req, res) => {
+  const { tenantId, integratedAccountId } = req.body;
+
+  // Reconnect an existing account, or create a new one
+  const body = integratedAccountId
+    ? { integrated_account_id: integratedAccountId, persist_previous_context: true }
+    : { tenant_id: tenantId };
+
+  const response = await fetch("https://api.truto.one/link-token", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${process.env.TRUTO_API_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(body),
+  });
+
+  const { link_token } = await response.json();
+  res.json({ linkToken: link_token });
+});
+```
+
+The shape is the same in every framework — a server-side `fetch` to `POST /link-token` carrying the API token. [Getting Started](./references/getting-started.md#step-5--write-the-link-token-route-in-your-app) has the same route written for **Next.js Route Handlers** and **Hono / Cloudflare Workers**; pick the variant that matches your stack and adapt the snippet.
+
+When reconnecting, pass `integrated_account_id` instead of `tenant_id`. This updates the existing account's credentials in place — the same `integrated_account_id` is preserved, so all sync jobs, webhooks, and references remain intact. Setting `persist_previous_context: true` keeps any custom context from the previous connection.
+
+### 3. Embed Truto Link in Your Frontend
+
+Install the [Truto Link SDK](https://www.npmjs.com/package/@truto/truto-link-sdk) to embed the connection flow in your UI:
+
+```bash
+npm install @truto/truto-link-sdk
+```
+
+Then use it in your frontend. The same `authenticate()` call works for both new connections and reconnections — the difference is in the link token your backend generates:
+
+```typescript
+import authenticate from "@truto/truto-link-sdk";
+
+async function getLinkToken(body: Record<string, string>) {
+  const res = await fetch("/api/truto/link-token", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  const { linkToken } = await res.json();
+  return linkToken;
+}
+
+async function openTrutoLink(linkToken: string) {
+  try {
+    const result = await authenticate(linkToken);
+    console.log("Connected:", result.integrated_account_id);
+    return result;
+  } catch (err) {
+    if (err === "closed") {
+      console.log("User closed the connection dialog");
+    } else {
+      console.error("Connection failed:", err);
+    }
+    throw err;
+  }
+}
+
+// New connection
+const linkToken = await getLinkToken({ tenantId: "tenant-123" });
+await openTrutoLink(linkToken);
+
+// Reconnect an existing account (e.g., expired OAuth token)
+const reconnectToken = await getLinkToken({ integratedAccountId: "existing-account-id" });
+await openTrutoLink(reconnectToken);
+```
+
+See the **Truto Link SDK** skill for the full SDK reference, including popup mode, same-window redirects, RapidForm, file pickers, and error handling.
+
+### 4. Listen for the Account to Become Active
+
+After a user connects, the account goes through post-install and validation steps before it's ready. Set up a [webhook](./references/webhooks-and-notifications.md) to listen for the `integrated_account:active` event — this tells you the account is connected and ready for API calls. See [Connection Flow](./references/connection-flow.md) for the full lifecycle and all events.
+
+```typescript
+// Backend webhook handler
+app.post("/webhooks/truto", async (req, res) => {
+  const event = req.body;
+
+  switch (event.event_type) {
+    case "integrated_account:active":
+      // Account is ready — store the integrated_account_id,
+      // start syncing data, enable features for this tenant
+      await onAccountReady(event.payload);
+      break;
+
+    case "integrated_account:post_install_error":
+    case "integrated_account:validation_error":
+      // Connection failed — notify the user or retry
+      await onAccountError(event.payload);
+      break;
+  }
+
+  res.sendStatus(200);
+});
+```
+
+You can also use **Truto Workflows** to automatically trigger actions (like starting a sync job) when an account becomes active. See [Workflows](./references/workflows.md) for details.
+
+> **Tip while developing.** You don't need to wait for the webhook to grab a working `integrated_account_id` — list connected accounts from the CLI with `truto accounts list -o json` (or filter to sandboxes with `--is_sandbox true`) and copy one out. Use that ID to test the unified-API steps below before the webhook plumbing is in place.
+
+### 5. Read Data via the Unified API
+
+Once an account is active, fetch normalized data:
+
+```typescript
+const accountId = "<integrated_account_id>";
+
+const response = await fetch(
+  `https://api.truto.one/unified/crm/contacts?integrated_account_id=${accountId}`,
+  {
+    headers: {
+      "Authorization": `Bearer ${process.env.TRUTO_API_TOKEN}`,
+    },
+  }
+);
+
+const { result, next_cursor } = await response.json();
+```
+
+### 6. Write Data
+
+```typescript
+const response = await fetch(
+  `https://api.truto.one/unified/crm/contacts?integrated_account_id=${accountId}`,
+  {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${process.env.TRUTO_API_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      first_name: "Jane",
+      last_name: "Doe",
+      email: "jane@example.com",
+    }),
+  }
+);
+```
+
+### 7. Use the Proxy API for Native Access
+
+When you need integration-specific fields not in the unified schema:
+
+```typescript
+const response = await fetch(
+  `https://api.truto.one/proxy/contacts?integrated_account_id=${accountId}`,
+  {
+    headers: {
+      "Authorization": `Bearer ${process.env.TRUTO_API_TOKEN}`,
+    },
+  }
+);
+```
+
+## When to Use Unified vs Proxy vs Custom API
+
+
+| Use Case                                         | API               | Why                                                             |
+| ------------------------------------------------ | ----------------- | --------------------------------------------------------------- |
+| Standardized CRUD across integrations            | **Unified**       | Same request/response schema regardless of the underlying tool  |
+| Access native API features not in unified schema | **Proxy**         | Full access to the tool's native endpoints                      |
+| Custom business logic or transformations         | **Custom**        | Define your own endpoints with custom routing                   |
+| Bulk data operations with dependencies           | **Batch Request** | Execute multiple API calls with dependency graph in one request |
+
+
+## Authentication
+
+All API requests use Bearer token authentication. The API token must only be used server-side. See [Authentication](./references/authentication.md) for details on API tokens, link tokens, and integrated account tokens.
+
+## References
+
+### Start here
+
+| Document                                                                 | Topics                                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [Getting Started](./references/getting-started.md)                       | Day-1 tutorial: CLI install → login → connect a sandbox → write the link-token route → first unified API call → port the same call into code |
+
+### Customization (the most-used "extend the platform" surfaces)
+
+| Document                                                                 | Topics                                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [Authoring Integrations](./references/authoring-integrations.md)         | Author a brand-new integration definition from scratch: full `integration.config` schema, all five credential formats, resources/methods, pagination, rate-limit, inbound webhook receiver, lifecycle actions, plus `truto integrations init/validate/create` workflow and an Acme CRM worked example |
+| [Customizing Integrations](./references/customizing-integrations.md)     | Per-environment HTTP-layer overrides: auth, pagination, rate-limit, webhook, and `override.resources`. API and CLI `update` replace `override` wholesale — always send the complete object; `override-*` helpers fetch+merge one slot for you |
+| [Unified API Customization](./references/unified-api-customization.md)   | Modifying existing unified API mappings per environment, per-account overrides, creating your own custom unified models |
+
+### Core API surface
+
+| Document                                                                 | Topics                                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [Discovering Capabilities](./references/discovering-capabilities.md)     | **Read first when writing data-access code.** `/integration/<slug>/capabilities` and `/integrated-account/<id>/capabilities` endpoints, response TypeScript type, query-param filters, caching guidance, common patterns (route guards, dynamic UI, "what can this account do?") |
+| [Unified API](./references/unified-api.md)                               | Unified CRUD, meta endpoints, pagination, SuperQuery                                    |
+| [Proxy & Custom API](./references/proxy-and-custom-api.md)               | Proxy pass-through, custom endpoints, **authoring custom-API handlers**, batch requests |
+| [Authentication](./references/authentication.md)                         | API tokens, link tokens, integrated account tokens, auth patterns                       |
+| [MCP Tokens](./references/mcp-tokens.md)                                 | MCP protocol tokens for AI agents, tool filtering, expiration                           |
+| [Connection Flow](./references/connection-flow.md)                       | Connection lifecycle, reconnecting accounts, webhook events, post-connection automation |
+| [Core Resources](./references/core-resources.md)                         | Environments, integrations, integrated accounts, tenants, teams                          |
+| [Integrated Account Context](./references/integrated-account-context.md) | Context field lifecycle, credentials, instance config, usage in APIs/sync/workflows     |
+
+### Automation & data movement
+
+| Document                                                                 | Topics                                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [Sync Jobs](./references/sync-jobs.md)                                   | Sync jobs, runs, cron triggers, templates, run state                                    |
+| [Webhooks & Notifications](./references/webhooks-and-notifications.md)   | Webhooks, notification destinations, inbound webhooks                                   |
+| [Datastores](./references/datastores.md)                                 | External storage destinations (MongoDB, GCS, S3, Qdrant) for sync job output            |
+| [Workflows](./references/workflows.md)                                   | Event-driven automations triggered by Truto events                                      |
+| [Daemon Jobs](./references/daemon-jobs.md)                               | Background processing tasks and runs                                                    |
+
+### Operational
+
+| Document                                                                 | Topics                                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [Files & Logs](./references/files-and-logs.md)                           | File uploads and API/operation log queries                                              |
+| [Static Gates](./references/static-gates.md)                             | Embeddable connection entry points                                                      |
+
+
+## Companion Skills
+
+- **Truto CLI** — for setup tasks (creating integrations, connecting test accounts, exploring resources, debugging API calls). The CLI is an admin and debugging tool you run in the terminal; this skill is for the integration code that lives in your application.
+- **Truto Link SDK** — for embedding the Truto connection UI in a frontend application using `@truto/truto-link-sdk` (popup mode, RapidForm, file pickers, error handling).
+- **truto-jsonata** — for writing JSONata expressions inside Truto config: unified API mapping overrides (`response_mapping`, `query_mapping`, `request_body_mapping`, `error_mapping`, etc.), custom unified model definitions, per-account overrides, environment integration overrides (auth/pagination/rate-limit/webhooks), sync job templates, workflows, daemon jobs, and scheduled actions. Documents the custom `$` functions added by `@truto/truto-jsonata` on top of standard JSONata. Pair with [Unified API Customization](./references/unified-api-customization.md) when modifying unified mappings — use **`truto jsonata eval`** to test any expression locally (see [Iterate locally](./references/unified-api-customization.md#3-iterate-locally)).
+

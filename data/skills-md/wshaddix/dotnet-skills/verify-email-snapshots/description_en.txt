@@ -1,0 +1,1 @@
+Patterns for verifying email snapshots in tests to ensure email content matches expected outputs. Use when testing email rendering in unit tests, verifying MJML template outputs, or ensuring email content consistency across code changes.

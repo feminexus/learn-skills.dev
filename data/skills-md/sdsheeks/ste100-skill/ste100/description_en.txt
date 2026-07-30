@@ -1,0 +1,1 @@
+Write technical documentation in Simplified Technical English (ADS-STE100). Use when creating, editing, or reviewing maintenance manuals, technical guides, SOPs, or any aerospace/defense/engineering documentation that requires controlled language.

@@ -1,0 +1,1 @@
+Choosing CLI output format. AOT vs framework-dependent, RID matrix, single-file, dotnet tool.

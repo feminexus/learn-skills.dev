@@ -1,0 +1,1 @@
+Use when creating a tagged release with changelog. Triggers on "release", "tag a release", "cut a release", or when ready to publish a new version.

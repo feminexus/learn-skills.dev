@@ -1,0 +1,1 @@
+Use when reviewing an implemented feature against its plan document. Triggers after implementation completes, on "review this", or when checking if code matches specification.

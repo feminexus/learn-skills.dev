@@ -1,0 +1,1 @@
+Check, commit, and push current Git changes with a branch-derived Conventional Commit scope.

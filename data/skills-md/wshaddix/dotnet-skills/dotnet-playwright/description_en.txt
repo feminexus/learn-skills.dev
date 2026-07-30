@@ -1,0 +1,1 @@
+Automating browser tests in .NET. Playwright E2E, CI browser caching, trace viewer, codegen.

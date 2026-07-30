@@ -1,0 +1,1 @@
+Adding observability. OpenTelemetry traces/metrics/logs, health checks, custom metrics.
