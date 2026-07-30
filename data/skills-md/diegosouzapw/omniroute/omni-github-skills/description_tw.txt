@@ -1,0 +1,1 @@
+從包含 SKILL.md、CLAUDE.md、.cursorrules 和類似代理技能文件的 GitHub 儲存庫中搜尋、評分、掃描和匯入代理技能。發現 160 多個提供者類別的社區技能，透過啟發式評分評估相關性，檢查惡意軟體或硬編碼機密，並安裝到 Hermes、Claude Code、Gemini CLI 或 OpenCode 代理目錄中。

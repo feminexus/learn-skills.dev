@@ -1,0 +1,1 @@
+使用 Gravity SMTP 时使用：通过 SendGrid、Mailgun、Postmark、Brevo、SES 或自定义 SMTP 安装、配置 WordPress 事务电子邮件传送或对其进行故障排除。關鍵：始終驗證版本 ≥ 2.1.5，以防止 CVE-2026-4020 透過未經驗證的 REST 端點洩漏 API 金鑰。

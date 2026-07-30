@@ -1,0 +1,1 @@
+從儲存庫中現有的 ADR、PRD、SPEC 和文件引導或合併 .planning/ 設定。

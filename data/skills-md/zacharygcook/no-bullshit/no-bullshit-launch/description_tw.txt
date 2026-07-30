@@ -1,0 +1,1 @@
+明確引用 MVP 發布心態，將「無廢話」技能與對最小的真正可行產品的無情關注相結合。僅當使用者明確呼叫「$no-bullshit-launch」、要求使用「no-bullshit-launch」技能或明確開啟 no-bullshit-launch 模式時才使用。切勿從啟動、交付、規劃、確定優先順序或建置 MVP 的普通請求中自動觸發。

@@ -1,0 +1,1 @@
+用於執行 NVIDIA GPU 容器工作負載的 Docker 約定 — NGC 驗證、--gpus 標誌、安裝模式、env-var 直通、容器檢查、分割磁碟主機的資料根重定位以及常見錯誤模式。當其他技能需要在 GPU 主機上執行 nvcr.io 容器或任何 docker run 指令時使用。觸發關鍵字 — docker、docker run、nvcr.io、NGC、--gpus、nvidia-container-toolkit、容器映像、docker login、docker pull。

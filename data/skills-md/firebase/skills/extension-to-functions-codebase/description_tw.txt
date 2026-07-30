@@ -1,0 +1,1 @@
+將已安裝的 Firebase 擴充功能（或擴充來源）轉換為獨立的 Cloud Functions for Firebase 程式碼庫或可發佈的 npm 套件的技能，包括將觸發器從 V1 升級到 V2 以及配置生命週期掛鉤和聲明性安全性

@@ -1,0 +1,1 @@
+可選：用於 WP Engine 託管工作流程 — 基於 SSH 的 git Push、透過 SSH 閘道的遠端 WP-CLI、具有安全門禁部署到開發/登台/生產的 GitHub Actions CI/CD、透過 wpe-labs Claude Code 技能管理安裝/網域/快取/備份，以及 WP Engine API 存取。需要 SSH 密钥设置和 WPE_USERNAME/WPE_PASSWORD 环境变量才能进行 API 操作。

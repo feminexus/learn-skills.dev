@@ -1,0 +1,1 @@
+用於 Gravity 堆疊設定和編排：完整外掛程式套件的 SatisPress/Composer 設定（Gravity Forms、SMTP、Connect、GravityView、Spellbook、Pods）、閱讀 .cursorrules 和 llms.txt 模板，或了解所有產品如何組合在一起。對於特定於產品的工作，請載入個人技能。
