@@ -1,0 +1,1 @@
+ASP.NET Core 后端开发标准。在开发 ASP.NET Core 项目、实现 REST API、使用 Entity Framework Core 或 JWT 身份验证时使用此技能。

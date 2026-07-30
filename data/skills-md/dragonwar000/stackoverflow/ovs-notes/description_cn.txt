@@ -1,0 +1,1 @@
+查看器发行说明溢出 TỨC THÌ（kiểu /release-notes của Claude CLI）。 Gõ /ovs-notes → liệt kê NGAY 变更日志 OVERSTACK 框架（最新优先） để chọn & đọc; /ovs-notes <version|latest> in đầy đủ; /ovs-notes --here = 发布项目。只读，KHÔNG 副作用 — KHÁC /ship（quy trình CẮT 发布）。触发器：/ovs-notes、'xem 发行说明'、'发行说明 bản nào'、'changelog'、'các bản đã ra'、'bản mới nhất có gì'。

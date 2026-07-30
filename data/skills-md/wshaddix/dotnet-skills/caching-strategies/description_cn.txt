@@ -1,0 +1,1 @@
+ASP.NET Core Razor Pages 应用程序的全面缓存模式。涵盖输出缓存、响应缓存、内存缓存、Redis 分布式缓存、缓存失效策略和 HybridCache (.NET 9+)。在 Razor Pages 应用程序中实现缓存、在内存和分布式缓存之间进行选择或通过缓存优化应用程序性能时使用。

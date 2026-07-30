@@ -1,0 +1,1 @@
+Antigravity/OpenCode调度、技能安装、AgentMemory、RTK令牌代理参考——不是循环技能

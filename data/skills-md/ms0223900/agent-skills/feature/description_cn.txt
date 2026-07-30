@@ -1,0 +1,1 @@
+按照美国测试策略（Test-First/Test-After/Exploratory）实现产品功能。当用户要求添加、更改或删除功能时，或者更改可能产生广泛影响时使用。分派功能任务时可通过“/next-task”访问。

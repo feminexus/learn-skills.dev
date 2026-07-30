@@ -1,0 +1,1 @@
+从 wiki 综合答案；将新见解保留为 wiki 条目。 Trả lời kèm mục 证据 trích dẫn 边缘 ID (eid) của các cạnh trong đồ thị wiki thật sự chống lưng kết luận — dùng khi cần biết “căn cứ nào”、“trích dẫn cạnh nào”、“đường đi trong graph”、“引用证据”。

@@ -1,0 +1,1 @@
+当遇到布局错误（RenderFlex 溢出、无界约束、RenderBox 未布局）、滚动错误或 setState-during-build 错误时使用。

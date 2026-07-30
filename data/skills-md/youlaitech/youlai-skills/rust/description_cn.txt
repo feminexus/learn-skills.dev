@@ -1,0 +1,1 @@
+Rust 开发规范。在开发 Rust Web 项目、使用 Axum + SeaORM、JWT/Redis 令牌身份验证或 youlai-rust 管理后端 (PostgreSQL) 实现 REST API 时，请使用此技能。

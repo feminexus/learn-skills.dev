@@ -1,0 +1,1 @@
+容器化 .NET 应用程序。多阶段 Dockerfile、SDK 容器发布 (.NET 8+)、无根。

@@ -1,0 +1,1 @@
+指南使用 React 测试库 (RTL) + @testing-library/user-event 编写 React / Next.js 组件测试（不使用 Enzyme／浅渲染）。当用户想要对 React 或 Next.js 组件进行组件/集成测试，或要求验证组件的渲染输出/用户交互时使用。

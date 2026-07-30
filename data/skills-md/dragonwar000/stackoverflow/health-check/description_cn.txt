@@ -1,0 +1,1 @@
+Kiểm tra sức khỏe“pattern chuẩn”của 模板 — 模式 đã đủ chưa，có 漂移本地 không，và có cần /sync-template từ 远程 không。所以 version.json 本地 ↔ 远程 ↔ 磁盘（0 令牌，失败打开）。触发器：“健康检查”、“检查模式”、“cầnsync chưa”、“/health-check”。

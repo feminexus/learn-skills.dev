@@ -1,0 +1,1 @@
+添加新的 AI SDK 线束包的指南。在创建新的 @ai-sdk/harness-<name> 包时使用，该包使编码代理运行时适应 HarnessV1。

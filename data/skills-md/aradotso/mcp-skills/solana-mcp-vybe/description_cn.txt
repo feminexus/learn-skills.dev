@@ -1,0 +1,1 @@
+使用 Vybe 的公共 Solana MCP 服务器从 Claude、Cursor 或任何 MCP 客户端查询 Solana 区块链数据、代币、NFT 和帐户

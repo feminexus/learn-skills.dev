@@ -1,0 +1,1 @@
+Entity Framework Core 最佳实践包括默认情况下的 NoTracking、导航集合的查询拆分、迁移管理、专用迁移服务、拦截器、编译查询和连接弹性。在新项目中设置 EF Core、优化查询性能、管理数据库迁移、将 EF Core 与 .NET Aspire 集成或调试更改跟踪问题时使用。

@@ -1,0 +1,1 @@
+当 YouTube 没有字幕或自动字幕时，使用 Whisper.cpp 在本地转录 YouTube 音频。由 anibon-timestamper 加载的替代路径。

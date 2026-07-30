@@ -1,0 +1,1 @@
+巡演 — Claude tự diễn cho 用户 xem 马具 chặn mình theo thời gian thực trên 项目 thật。 Hai độ dài —“短”= 3 cảnh (R1·R2·R3)，“满”= 10 (R1–R10)。 Tự phát hiện PoC 供应商中立 (cách CHÍNH) 干草吊带生产。这是演示。触发：“harnesstour”、“xemharnesslàmgì”、“/harness-tour”、“testshort”、“testfull”。

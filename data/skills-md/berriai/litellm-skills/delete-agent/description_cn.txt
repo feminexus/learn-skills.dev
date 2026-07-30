@@ -1,0 +1,1 @@
+从实时 LiteLLM 代理中删除 AI 代理。在调用 DELETE /v1/agents/{agent_id} 之前询问 agent_id 并确认。

@@ -1,0 +1,1 @@
+针对 iOS/Catalyst 优化 MAUI。原生 AOT 管道、大小/启动增益、库差距、修剪。

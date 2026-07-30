@@ -1,0 +1,1 @@
+当用户要求生成、创建或编写代码单元测试时使用。分析目标代码，生成结构化测试用例列表以供审核，然后生成测试代码。支持 C#/.NET（xUnit、NSubstitute、AwesomeAssertions）和 TypeScript/JavaScript（Vitest 或 Jest）。

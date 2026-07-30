@@ -1,0 +1,1 @@
+PPTX-from-layouts 管道的步骤 1。分析 PowerPoint 模板以发现其真正的幻灯片母版布局并发出布局目录 + 渲染配置。当用户想要“使用我自己的 PowerPoint 模板”、“查看我的幻灯片有哪些布局”、“载入模板”、“配置此 pptx”时或在根据自定义（非内章）模板创作幻灯片之前使用。与 pptx-author（步骤 2）和 pptx-from-layouts（步骤 3）配对。

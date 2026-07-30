@@ -1,0 +1,1 @@
+样式 thiết kế Supademo cho 应用内产品之旅（dùng kèm 技能指南 — 组件 gốc 0 依赖项）：闪光灯热点脉冲、工具提示卡、步数计数器 + 导航按钮、进度条、主题标记 — quy ra 食谱 Tailwind/CSS dùng ngay。触发器：“/tour-guide-supademo”、“tour kiểu Supademo”、“style superademo”、“blinker hotspot”。 Quy ước：风格蒸馏 từ sản phẩm khác sẽ là Skill riêng /tour-guide-<tên>。

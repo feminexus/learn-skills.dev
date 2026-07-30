@@ -1,0 +1,1 @@
+当 PUBLIC Salla 应用程序要审核（App Store 列表）时使用：通过 app_publish 逐步发布的掌握技巧。它读取当前草稿，将每个步骤路由给其所有者，并在干净的验证加上合作伙伴的明确确认后发送给管理员审核。私人应用程序从门户发布 - 请参阅 salla-app-builder。交接：列表/图像 → salla-app-ui-builder；定价+计费周期→salla-app-billing；范围 → salla-app-auth； webhooks → salla-webhooks；设置 → 萨拉应用程序设置。

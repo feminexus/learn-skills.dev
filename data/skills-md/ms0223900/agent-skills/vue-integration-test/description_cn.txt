@@ -1,0 +1,1 @@
+指南使用 @vue/test-utils + Jest + Vuex 编写 Vue 2 组件集成测试。当用户想要为 Vue 组件添加 `.integration.test.ts`/`.js`、根据固定装置测试渲染输出或验证存储驱动的渲染路径时使用。

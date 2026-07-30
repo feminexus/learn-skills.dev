@@ -1,0 +1,1 @@
+Ghi một SESSION EPISODE có cấu trúc (tầng nhớ episodic) vào memory store để phiên sau truy hồi được 'phiên trước làm gì' — theo NGỮ NGHĨA, không chỉ西奥[[维基链接]]。 Bọc mem-rank.py（引擎）。按需 KHÔNG 自动挂机 (ADR-004)。触发器：“ghi Episode”、“记录剧集”、“chốt phiên này vào nhớ”、“lưu lại phiên trước làm gì”、“会话剧集”、“/record-episode”。

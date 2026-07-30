@@ -1,0 +1,1 @@
+读取或修改 .csproj 文件。 SDK风格的结构，PropertyGroup/ItemGroup，CPM，道具。

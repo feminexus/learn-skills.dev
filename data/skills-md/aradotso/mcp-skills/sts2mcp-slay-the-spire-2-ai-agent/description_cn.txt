@@ -1,0 +1,1 @@
+通过 AI 代理的 REST API 或 MCP 服务器控制和自动化 Slay the Spire 2 游戏玩法

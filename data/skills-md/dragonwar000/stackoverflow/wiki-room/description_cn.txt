@@ -1,0 +1,1 @@
+Mở room (subagent 1 tầng) nạp chi tiết wiki khi context phiên chính đã rot — 深度上限=1，预算cứng，断路器。触发器：“mở room”、“context rot”、“nạp thêm chi tiết wiki”、“đào sâu wiki”、“/wiki-room”。

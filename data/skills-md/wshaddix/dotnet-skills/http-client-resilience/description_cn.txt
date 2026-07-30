@@ -1,0 +1,1 @@
+IHttpClientFactory 模式与 Polly 一起用于重试、断路器、超时和弹性 HTTP 通信。包括 HTTP 客户端配置和错误处理的最佳实践。在 ASP.NET Core 中配置弹性 HTTP 客户端、使用 Polly 实施重试策略或为外部服务调用设置断路器时使用。

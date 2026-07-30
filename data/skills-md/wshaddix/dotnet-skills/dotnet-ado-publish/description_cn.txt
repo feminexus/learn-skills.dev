@@ -1,0 +1,1 @@
+从 Azure DevOps 发布 .NET 项目。 NuGet 推送、ACR 容器、管道工件。

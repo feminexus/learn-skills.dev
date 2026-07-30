@@ -1,0 +1,1 @@
+显示当前 Claude Code 会话观察到的本地令牌使用情况。直接读取会话日志。在 /hui-stats 上触发。输出由 mode-tracker hook 注入；模型不计算数字。

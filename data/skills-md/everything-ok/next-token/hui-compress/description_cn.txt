@@ -1,0 +1,1 @@
+将支持的自然语言内存文件（CLAUDE.md、todos、preferences）重写为简洁的 hui 格式。保留受保护的结构并写入人类可读的 FILE.original.md 备份。触发器：/hui-compress FILEPATH 或“压缩内存文件”

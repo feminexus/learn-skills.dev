@@ -1,0 +1,1 @@
+涵盖 Bitrix 中的日期和时间 — Bitrix\Main\Type\Date 和 DateTime、通过内核掩码解析和格式化、日期算术、通过 toUserTime/disableUserTime/enableUserTime 的时区、Context::getCulture() 和区域设置格式、转换为时间戳。在构建计划、转换时区、比较日期、使用 ORM 字段 DateField 和 DatetimeField 时应用。关键术语 — 日期、日期时间、toUserTime、格式、时区、文化、日期字段、时间戳。

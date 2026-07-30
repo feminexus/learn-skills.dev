@@ -1,0 +1,1 @@
+Vue 3 + TypeScript 开发标准。使用 Composition API、Pinia、UnoCSS 和 SCSS 构建 Vue 3 应用程序时，请使用此技能。涵盖命名、CSS 架构、组件结构、API 模式和代码质量。 UI 库无关（Element Plus、Ant Design Vue 等）。

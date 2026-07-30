@@ -1,0 +1,1 @@
+为 Truto 配置编写 JSONata 表达式 - 统一 API 映射覆盖、自定义统一模型、环境集成覆盖（auth/pagination/rate-limit/webhooks）、同步作业模板、工作流程、守护进程作业和计划操作。记录 @truto/truto-jsonata 在标准 JSONata 之上添加的自定义 $functions。

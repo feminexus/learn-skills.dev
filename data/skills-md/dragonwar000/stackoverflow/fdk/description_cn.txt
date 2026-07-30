@@ -1,0 +1,1 @@
+前门点播框架 HOẶC 提炼/作者技能 — 独立，可用于项目 nào（không phụ thuộc 文件存储库本地）。 Gọi khi đang sửa chính 框架，hoặc đang viết/chưng cất một 技能trong phiên của dự án khác。 KHÔNG dùng cho dev tính năng dự án thường (đó là phần lớn phiên — ADR-004)。

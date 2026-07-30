@@ -1,0 +1,1 @@
+将所有悬而未决的问题、未解决的矛盾、陈旧的主张和现有记忆中的知识差距浮出水面并进行分类。当用户想要查看哪些内容仍处于开放状态、哪些内容需要关注、哪些内容尚未解决或哪些内容仍需要研究或摄取时，请使用此选项。不将不完整的目标归类为记忆差距。不适用于回答问题、解决问题或添加新材料；使用 /loam::querying-memory、/loam::linting-memory、/loam::amending-memory、/loam::adding-to-memory 或 /loam::learning-from-session。

@@ -1,0 +1,1 @@
+MCP 服务器将 AI 助手连接到 Shopify Admin GraphQL API，以进行产品、订单、客户、库存和元字段管理

@@ -1,0 +1,1 @@
+在任何表面上创建、改进 Seedance 2.0 视频或进行故障排除时应使用此技能 - Dreamina、Jimeng、CapCut、Doubao、Volcengine/Ark、BytePlus、Runway's Seedance 路线、fal 或第三方提供商/路由器表面（例如 EvoLink、OpenRouter、Kie.ai、PiAPI、LaoZhang、Runware、ModelsLab、AI/ML API、MuAPI、SeeGen 和 Segmind） -包括文本/图像/视频/视频参考提示、第一帧/最后一帧、对话、口型同步和音频、IP 安全重写、API、定价和型号 ID 问题以及 zh/ja/ko/es/ru 提示工作。不适用于非 Seedance 模特（Sora、Veo、Kling、Runway 自己的 Gen 模特）或仅图像提示。

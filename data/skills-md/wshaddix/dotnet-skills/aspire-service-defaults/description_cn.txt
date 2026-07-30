@@ -1,0 +1,1 @@
+为 Aspire 应用程序创建共享 ServiceDefaults 项目。集中所有服务的 OpenTelemetry、运行状况检查、弹性和服务发现配置。在构建基于 Aspire 的分布式应用程序、需要跨服务的一致可观察性或配置 HttpClient 弹性和服务发现时使用。

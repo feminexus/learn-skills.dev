@@ -1,0 +1,1 @@
+Ghi và kiểm 出处（nguồn + sha256 校验和）cho 技能 — dùng khi 'cài Skill từ ngoài', 'skill này từ đâu', 'audit nguồn Skill', 'checksum Skill', 'supply-chain Skill', phát hiện Skill bị sửa lén; bổ trợ orca-sec-scans。 Chạy fdk/tools/skill-provenance.py。 /技能来源

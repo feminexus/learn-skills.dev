@@ -1,0 +1,1 @@
+D7 ORM 片、ConditionTree 查询、Objectify、batch/merge/deleteByFilter 写入。用于实体设计、读取和持久化。

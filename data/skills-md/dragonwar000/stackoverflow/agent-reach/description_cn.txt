@@ -1,0 +1,4 @@
+当用户想要研究/搜索/查找/查找互联网上的任何内容时必须使用 - 例如“研究这个主题”、“深入研究 X”、“在网络上搜索 X”、“看看人们对 X 的评价”、“查找这个”。
+当用户提及任何平台或分享任何 URL/链接时也必须使用：Twitter/X、Reddit、Facebook、Instagram、YouTube、GitHub、Bilibili、小红书、小鱼洲播客、LinkedIn/jobs/recruiting、V2EX、雪球（股票）、RSS。
+15 个平台，多后端路由（OpenCLI / 每平台 CLI / API）。 6 个通道的零配置。运行“agent-reach doctor --json”来查看现在哪个后端为每个平台提供服务。
+不适合：撰写报告/分析/翻译（此技能仅获取互联网内容）；发帖/评论/点赞（写操作）；已经安装了专用技能的平台（首选该技能）。

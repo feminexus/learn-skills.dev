@@ -1,0 +1,1 @@
+终极 GIF 创建器：AI 视频转 GIF (Veo 3.1)、程序化动画 (Remotion)、AI 图像序列组装 (Gemini/FLUX.2)、动画 SVG 转透明 GIF (Playwright)、视频转换和 GIF 编辑/优化。调色板优化、完美循环、特定于平台的尺寸、抖动控制。当用户说“gif”、“创建 gif”、“制作 gif”、“动画 gif”、“转换为 gif”、“优化 gif”、“来自视频的 gif”、“meme gif”、“反应 gif”、“加载旋转器 gif”、“徽标动画 gif”、“透明 gif”、“svg 到 gif”或“/gif”时使用。

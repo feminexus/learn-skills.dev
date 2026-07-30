@@ -1,0 +1,1 @@
+通过“optimuskg”Python 客户端使用 OptimusKG（生​​物医学知识图）的指南。在加载、查询、过滤或分析 OptimusKG 数据（基因、药物、疾病、表型、解剖学、通路及其关系）作为 Polars DataFrames 或 NetworkX 图时，或者从Harvard Dataverse 下载已发布的图时，请使用此功能。

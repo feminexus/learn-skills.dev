@@ -1,0 +1,1 @@
+规则精确的 Roblox 货币化 — 游戏通行证、开发者产品 (ProcessReceipt) 和订阅（GetUserSubscriptionStatusAsync、PromptSubscriptionPurchase）。涵盖销售流程、PlayerAdded 上的服务器权威授权和购买完成、PolicyService 门控（ArePaidRandomItemsRestricted、IsEligibleToPurchaseSubscription、中国政策）、个性化以及与持久数据的集成。用于任何购买、福利或经常性福利。

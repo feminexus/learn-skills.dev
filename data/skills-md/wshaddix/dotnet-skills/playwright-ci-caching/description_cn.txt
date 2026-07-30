@@ -1,0 +1,1 @@
+通过缓存 Playwright 浏览器二进制文件和依赖项来优化 CI/CD 管道，以加快测试执行速度。在 CI/CD 管道中设置 Playwright、通过缓存浏览器二进制文件减少构建时间或为 Playwright 测试配置 GitHub Actions 或 Azure DevOps 时使用。

@@ -1,0 +1,1 @@
+在 Azure DevOps 中配置 .NET 构建/测试。 DotNetCoreCLI 任务、工件、测试结果。

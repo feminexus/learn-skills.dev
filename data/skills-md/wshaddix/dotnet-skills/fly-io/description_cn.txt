@@ -1,0 +1,1 @@
+使用 Flyctl CLI、fly.toml 配置、Fly Machines、Fly Volumes、专用网络、机密、运行状况检查、自动缩放和 GitHub Actions CI/CD 在 Fly.io 平台上部署、配置和管理应用程序。将任何应用程序部署到 Fly.io、编写或修改 Fly.toml 配置、管理 Fly Machines 或 Volumes、配置网络（公共服务、私有 6PN、Flycast、自定义域、TLS）、设置机密、配置运行状况检查、设置自动停止/自动启动或基于指标的自动缩放、使用 GitHub Actions 进行部署、管理 Fly Postgres 数据库或准备在 Fly.io 上进行生产的应用程序时使用。

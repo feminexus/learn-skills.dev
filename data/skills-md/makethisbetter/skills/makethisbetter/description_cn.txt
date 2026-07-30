@@ -1,0 +1,1 @@
+设置、验证和管理来自 Claude Code 的 MakeThisBetter 反馈。当用户运行 /makethisbetter 后运行 setup、setup-auth、login、signup、list、pick、dismiss、resolve 或任何反馈管理命令时使用。还会触发 MakeThisBetter 设置、列出待处理的反馈、选择要修复的反馈、跳过反馈、将反馈标记为已解决或将 PR 链接到反馈。

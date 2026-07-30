@@ -1,0 +1,1 @@
+适用于 Zoho Cliq 的 SprintCX OpenClaw 通道插件 — 将 OpenClaw 代理连接到 Zoho Cliq，支持每个代理机器人、Markdown 转换、流媒体和群聊支持
