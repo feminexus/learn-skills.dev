@@ -1,0 +1,1 @@
+.csproj 파일을 읽거나 수정합니다. SDK 스타일 구조, PropertyGroup/ItemGroup, CPM, props.

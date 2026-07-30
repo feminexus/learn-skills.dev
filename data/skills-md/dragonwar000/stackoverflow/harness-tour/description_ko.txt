@@ -1,0 +1,1 @@
+둘러보기 — ​​Claude tự diễn cho 사용자 xem 하네스 chặn mình theo thời gian thực trên 프로젝트 thật. Hai độ dài — "짧음" = 3칸(R1·R2·R3), "전체" = 10(R1–R10). PoC 공급업체 중립(cách CHÍNH) 건초 하네스 생산을 시작했습니다. 데모를 살펴보세요. 트리거: "하네스 투어", "xem 하네스 làm gì", "/harness-tour", "짧은 테스트", "전체 테스트".

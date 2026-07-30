@@ -1,0 +1,1 @@
+구성 요소 테스트 및 페이지 탐색을 포함하여 Playwright를 사용하는 Blazor 애플리케이션에 대한 엔드투엔드 테스트 패턴입니다. Blazor 애플리케이션에 대한 E2E 테스트를 작성하거나, Playwright와의 Blazor 구성 요소 상호 작용을 테스트하거나, Blazor 앱에 대한 Playwright 테스트 인프라를 설정할 때 사용합니다.

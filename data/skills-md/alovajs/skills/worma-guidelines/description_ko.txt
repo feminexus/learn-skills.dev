@@ -1,0 +1,1 @@
+worma OpenAPI 코드 생성 및 구성. 사용자가 worma 구성, API 코드 생성, OpenAPI/Swagger 통합, worma CLI 또는 @alova/wormhole, axios 또는 ky로부터의 마이그레이션을 언급할 때마다 이 기술을 사용하십시오. worma.config, npx worma init/gen, OpenAPI 사양에서 API 코드 생성, @alova/wormhole, axios 또는 ky에서 worma로의 전환에 대한 질문을 트리거합니다.

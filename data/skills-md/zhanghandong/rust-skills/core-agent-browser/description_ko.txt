@@ -1,0 +1,1 @@
+Rust-learner, docs-researcher 및 crate-researcher가 사용하는 에이전트-브라우저 CLI 워크플로에 대한 내부 지원 기술입니다. 브라우저 자동화가 명시적으로 필요한 경우에만 사용하십시오.

@@ -1,0 +1,1 @@
+주기적인 위키 상태 점검 — 고아, 누락된 링크, 모순, 부실(위키→위키 VÀ 코드→위키 드리프트), 색인 간격. Bùớc 0 là cổng no-op tất định (wiki-sync, 0 토큰) — code không đổi kể từ neo thì kết luận "wiki current" 및 à dừng sớm hợp lđ.

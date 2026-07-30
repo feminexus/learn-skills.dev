@@ -1,0 +1,1 @@
+RunComfy에서 Wan 2.7(Wan-AI의 주력 모션 모델)을 사용하여 텍스트-비디오를 생성합니다. Wan 2.7의 장점(다중 참조 조절, `audio_url`을 통한 오디오 기반 립싱크, 더 부드러운 전환, 신속한 확장), 지속 시간/해상도/종횡비 스키마, 대신 HappyHorse 1.0/Seedance 2.0/Kling/LTX 2로 라우팅할 시기를 문서화합니다. 로컬 RunComfy CLI를 통해 `runcomfy run wan-ai/wan-2-7/text-to-video`를 호출합니다. "wan", "wan 2.7", "wan-2-7", "wan video" 또는 이 모델을 사용하여 비디오를 생성하라는 명시적인 요청을 트리거합니다.

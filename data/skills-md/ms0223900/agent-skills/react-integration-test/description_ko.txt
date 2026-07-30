@@ -1,0 +1,1 @@
+React Testing Library(RTL) + @testing-library/user-event(不使用 Enzyme/shallow render)를 사용하여 React/Next.js 구성 요소 테스트를 작성하는 방법을 안내합니다. 사용자가 React 또는 Next.js 구성 요소에 대한 구성 요소/통합 테스트를 원하거나 구성 요소에 대한 렌더링된 출력/사용자 상호 작용을 확인하도록 요청할 때 사용합니다.

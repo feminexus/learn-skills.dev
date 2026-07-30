@@ -1,0 +1,1 @@
+"pattern chuẩn" của template — 패턴은 로컬 코드로 이동하고, 로컬 코드는 드리프트하고, /sync-template은 원격 코드로 사용합니다. 따라서 version.json 로컬 ⇔ 원격 ⇔ 디스크(0 토큰, 페일오픈)입니다. 트리거: "상태 확인", "패턴 확인", "동기화 확인", "/health-check".

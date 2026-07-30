@@ -1,0 +1,1 @@
+Playwright 브라우저 바이너리 및 종속성을 캐싱하여 CI/CD 파이프라인을 최적화하여 테스트 실행 속도를 높입니다. CI/CD 파이프라인에서 Playwright를 설정하거나, 브라우저 바이너리를 캐싱하여 빌드 시간을 줄이거나, Playwright 테스트를 위해 GitHub Actions 또는 Azure DevOps를 구성할 때 사용합니다.

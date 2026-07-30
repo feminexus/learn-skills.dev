@@ -1,0 +1,1 @@
+1줄짜리 추적 1단계 승인/반환/거부 của DMS trên 로그 BE(docker) + FE 프록시, ghi ra 파일 .sh cho 사용자 복사-붙여넣기/제품 서버. Dùng khi 사용자는 "viết lđenh check 승인", "check duyet 요청 <CODE>", "approve treo / không thấy lđenh duyet", "/check-approve"를 입력합니다.

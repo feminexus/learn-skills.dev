@@ -1,0 +1,1 @@
+ASP.NET Core 백엔드 개발 표준. ASP.NET Core 프로젝트 개발, REST API 구현, Entity Framework Core 사용 또는 JWT 인증 시 이 기술을 사용하세요.

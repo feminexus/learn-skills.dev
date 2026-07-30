@@ -1,0 +1,1 @@
+프론트 도어 온디맨드 cho phát triển 프레임워크 HOẶC distill/author một Skill — SELF-CONTAINED, chạy đuat KỲ project nào(không phụ thuộc file repo-local). 당신이 프레임워크에 대해 잘 알고 있다면, 실제로는 기술을 사용하는 데 도움이 될 것입니다. KHÔNG dùng cho dev tính năng dự án thong (đó là phần lớn phiên — ADR-004).

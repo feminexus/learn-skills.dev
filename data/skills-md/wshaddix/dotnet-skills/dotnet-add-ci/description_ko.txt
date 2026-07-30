@@ -1,0 +1,1 @@
+.NET 프로젝트에 CI/CD 추가. GitHub Actions와 Azure DevOps 감지, 워크플로 템플릿.

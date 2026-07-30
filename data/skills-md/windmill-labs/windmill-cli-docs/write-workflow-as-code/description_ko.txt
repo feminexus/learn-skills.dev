@@ -1,0 +1,1 @@
+워크플로, 작업, 단계, 절전, 승인, taskScript, taskFlow, task_script 또는 task_flow를 사용하여 Windmill Workflow-as-Code 스크립트를 작성하거나 수정할 때 사용해야 합니다.

@@ -1,0 +1,1 @@
+뷰어 릴리스 노트가 TỨC THÌ(Kiểu /release-notes của Claude CLI)를 초과합니다. Gõ /ovs-notes → liđ kê NGAY 변경 로그 OVERSTACK 프레임워크(최신 항목부터) để chọn & đọc; /ovs-notes <version|latest> in đầy đủ; /ovs-notes --here = 프로젝트를 릴리스합니다. 읽기 전용, KHÔNG 부작용 — KHÁC /ship(quy trình CẮT 릴리스). 트리거: /ovs-notes, 'xem 릴리스 노트', '릴리스 노트 bản nào', 'changelog', 'các bản đã ra', 'bản mới nhất có gì'.

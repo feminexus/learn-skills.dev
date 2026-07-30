@@ -1,0 +1,1 @@
+Salla 앱 수명 주기 웹훅 이벤트 - 판매자가 설치, 업데이트, 제거, 평가판 및 구독할 때 Salla가 실행하는 이벤트입니다. `app.installed`, `app.store.authorize`, `app.updated`, `app.uninstalled`, `app.trial.*` 또는 `app.subscription.*`을 처리할 때 사용합니다. 설치 시 프로비저닝; 제거 시 정리; 또는 판매자 상태 시스템을 구축합니다(설치됨 → 시험판 → 활성 → 만료 → 제거됨). salla-webhooks(서명, 멱등성, fast 200) 및 salla-app-auth(토큰 저장소)를 기반으로 구축됩니다. 요금제/평가판 상태 및 권한 → salla-app-billing.

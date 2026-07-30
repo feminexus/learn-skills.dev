@@ -1,0 +1,1 @@
+CI에서 API 변경 사항을 감지합니다. PublicApiAnalyzers, 스냅샷 확인, 변경 적용 중단.

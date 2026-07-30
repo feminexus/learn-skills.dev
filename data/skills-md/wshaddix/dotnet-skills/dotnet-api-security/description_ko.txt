@@ -1,0 +1,1 @@
+API 인증 구현 ID, OAuth/OIDC, JWT 전달자, 암호키(WebAuthn), CORS, 속도 제한.

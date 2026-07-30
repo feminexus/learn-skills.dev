@@ -1,0 +1,1 @@
+.editorconfig 규칙 작성. IDE/CA 심각도, AnalysisLevel, globalconfig, 코드 스타일 적용.

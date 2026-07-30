@@ -1,0 +1,1 @@
+모든 미해결 질문, 해결되지 않은 모순, 오래된 주장, 기존 기억과의 지식 격차를 표면화하고 분류합니다. 사용자가 아직 열려 있는 항목, 주의가 필요한 항목, 해결되지 않은 항목, 아직 조사나 수집이 필요한 항목을 확인하려는 경우 이 기능을 사용하세요. 불완전한 목표를 기억 공백으로 분류하지 않습니다. 질문에 답변하거나, 문제를 해결하거나, 새로운 자료를 추가하기 위한 것이 아닙니다. /loam::querying-memory, /loam::linting-memory, /loam::amending-memory, /loam::adding-to-memory 또는 /loam::learning-from-session을 사용하세요.

@@ -1,0 +1,1 @@
+Mở room (하위 에이전트 1개) nạp chi tiết wiki khi context phiên chính đã rot — 깊이 한도=1, 예산 총, 회로 차단기. 트리거: 'mở room', 'context rot', 'nạp thêm chi tiết wiki', 'đào sâu wiki', '/wiki-room'.

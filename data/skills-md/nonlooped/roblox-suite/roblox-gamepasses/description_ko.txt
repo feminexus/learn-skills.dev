@@ -1,0 +1,1 @@
+규칙에 따라 정확한 Roblox 수익 창출 — 게임 패스, 개발자 제품(ProcessReceipt) 및 구독(GetUserSubscriptionStatusAsync, PromptSubscriptionPurchase). 판매 흐름, PlayerAdded에 대한 서버 권한 부여 및 구매 완료, PolicyService 게이팅(ArePaidRandomItemsRestricted, IsEligibleToPurchaseSubscription, 중국 정책), 개인화 및 영구 데이터와의 통합을 다룹니다. 구매, 특전, 반복 혜택에 사용하세요.

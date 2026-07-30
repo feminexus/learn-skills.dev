@@ -1,0 +1,1 @@
+Antigravity/OpenCode 디스패치, 스킬 설치, AgentMemory, RTK 토큰 프록시에 대한 참조 — 루프 스킬 아님

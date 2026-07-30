@@ -1,0 +1,1 @@
+Model Context Protocol을 사용하여 AI 코딩 에이전트에 대한 작업 상태 공유 및 작업 조정

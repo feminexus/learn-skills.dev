@@ -1,0 +1,1 @@
+Bitrix의 날짜 및 시간 — Bitrix\Main\Type\Date 및 DateTime, 커널 마스크를 통한 구문 분석 및 형식화, 날짜 산술, toUserTime/disableUserTime/enableUserTime을 통한 시간대, Context::getCulture() 및 로케일 형식, 타임스탬프로 변환을 다룹니다. 일정 작성, 시간대 변환, 날짜 비교, ORM 필드 DateField 및 DatetimeField 작업 시 적용됩니다. 주요 용어 — 날짜, DateTime, toUserTime, 형식, 시간대, 문화, DateField, 타임스탬프.

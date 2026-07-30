@@ -1,0 +1,1 @@
+Seedance 2.0 모델(기본값: doubao-seedance-2.0)을 사용하여 공개 reAPI API를 통해 비디오를 생성합니다. https://reapi.ai의 REAPI_API_KEY 또는 REAPI_KEY가 필요합니다.

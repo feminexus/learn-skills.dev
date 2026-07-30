@@ -1,0 +1,1 @@
+Deno 프로젝트에서 코드를 작성, 실행, 구성, 검토 또는 디버깅할 때 또는 새 프로젝트를 스캐폴딩할 때 사용합니다. deno 설치 및 deno 추가, package.json 및 node_modules 지원, npm 및 JSR 패키지, 권한(package.json, tsconfig.json 및 deno.json 전체에 구성이 속함), 작업 공간, 내장 도구 체인(fmt, lint, test, check, bench, compile) 및 게시를 통한 종속성 관리를 다룹니다.

@@ -1,0 +1,1 @@
+스타일 thiết kế Supademo cho 인앱 제품 둘러보기(dùng kèm 스킬 투어 가이드 — 구성 요소 gốc 0 종속성): 깜박이 핫스팟 펄스, 툴팁 카드, 걸음 수 카운터 + 탐색 버튼, 진행률 표시줄, 테마 토큰 — quy ra recipe Tailwind/CSS dùng ngay. 트리거: "/tour-guide-supademo", "tour kiểu Supademo", "style supademo", "blinker hotspot". 질문: 스타일 증류는 /tour-guide-<tên> 기술에 따라 다릅니다.

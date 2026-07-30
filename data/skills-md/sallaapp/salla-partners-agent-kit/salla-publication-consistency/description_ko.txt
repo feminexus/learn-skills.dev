@@ -1,0 +1,1 @@
+PUBLIC Salla 앱을 검토할 때 사용합니다(App Store 목록): app_publish를 통한 단계별 게시를 위한 마스터 스킬입니다. 현재 초안을 읽고, 각 단계를 소유자에게 전달하고, 명확한 유효성 검사와 파트너의 명시적인 확인을 거쳐 관리자 검토로 HARD-GATES를 보냅니다. 비공개 앱은 포털에서 게시됩니다. salla-app-builder를 참조하세요. 핸드오프: 목록/이미지 → salla-app-ui-builder; 가격 책정 + 결제 주기 → salla-app-billing; 범위 → salla-app-auth; 웹훅 → salla-webhooks; 설정 → salla-app-설정.

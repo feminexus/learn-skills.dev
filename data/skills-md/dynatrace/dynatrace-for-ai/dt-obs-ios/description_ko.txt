@@ -1,0 +1,1 @@
+Swift Package Manager를 사용하여 iOS 프로젝트에서 Dynatrace iOS SDK(OneAgent)를 설정합니다. SPM 종속성 추가, Dynatrace.plist 구성 파일 생성, import 문 추가, 개인 정보 보호 옵트인 코드 추가 및 프로젝트 빌드를 자동화합니다. 사용자가 iOS 앱에서 Dynatrace 모니터링을 통합, 설치, 추가 또는 설정하려는 경우 이 기술을 사용하세요. 키워드: Dynatrace, iOS, SDK, OneAgent, 설정, 설치, 통합, SPM, Swift 패키지 관리자, Info.plist, DTXApplicationID, DTXBeaconURL, 모바일 모니터링, RUM.

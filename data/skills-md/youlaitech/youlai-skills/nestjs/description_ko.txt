@@ -1,0 +1,1 @@
+NestJS 백엔드 개발 표준. NestJS 프로젝트를 개발하고, REST API를 구현하고, TypeORM, JWT 인증 또는 권한 제어를 사용할 때 이 기술을 사용하세요.

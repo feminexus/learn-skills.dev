@@ -1,0 +1,1 @@
+GitHub Actions에서 .NET 아티팩트 게시. NuGet 푸시, 컨테이너 이미지, 서명, SBOM.

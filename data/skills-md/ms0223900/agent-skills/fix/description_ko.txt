@@ -1,0 +1,1 @@
+명확한 도구 출력으로 ESLint, TypeScript, 테스트 또는 빌드 오류를 수정합니다(재현, 분류, 가설 설정, 근본 원인 패치, 녹색 재확인). 사용자가 lint/tsc/test/build failures를 붙여넣거나 修這個錯誤/測試過不了/type error/build 失敗라고 말할 때 사용합니다. 실행 실패 시 `/next-task`를 통해 연결할 수 있습니다.

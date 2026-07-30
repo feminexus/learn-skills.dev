@@ -1,0 +1,1 @@
+Vòng xử lý SỰ CỐ 일류 — dùng khi có 버그, lỗi 런타임, hành vi sai, "treo 승인", 회귀, 사고 생성. DHiều phối 분류 → 재현 우선 게이트(chua tái hiđen đuợc thì CHτA đùợc sửa) → khoanh vùng(코드 그래프/충격 확인/양분법) → fix qua safe-change với bằng chứng đỏ→xanh → 증류 kép (wiki 사건 + 실패-플라이휠 + 문제 트리). KHÔNG dùng cho tính năng mới(đó là Proposal/orca-workflow).

@@ -1,0 +1,1 @@
+서비스 간 프로토콜 선택. REST vs gRPC vs SignalR vs SSE 결정 매트릭스, 장단점.

@@ -1,0 +1,1 @@
+Iblock 유형/요소/섹션, ORM compileEntity, 속성, SEO 템플릿. 콘텐츠 iblock 작업에 사용합니다.

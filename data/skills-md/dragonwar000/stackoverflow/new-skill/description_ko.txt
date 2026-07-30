@@ -1,0 +1,1 @@
+fdk/tools/new-skill.py를 통해 두 게시 트리(skills/<name>/SKILL.md 및 해당 바이트 동일 llmwiki 미러)에 한 번에 새로운 기술을 스캐폴드한 다음 정확한 명령을 인쇄하여 큐레이트된 표면(LOOP_MAP, market.json, AGENT.md/CLAUDE.md)에 등록합니다. 사용자가 "기술 만들기", "새 기술 추가", "기술 발판", "새 기술 만들기", "새 기술"이라고 말하거나 /new-skill을 호출할 때 사용합니다.

@@ -1,0 +1,1 @@
+Ghi một SESSION EPISODE có cấu trúc (tầng nhớ 에피소드) vào 메모리 저장소 để phiên sau truy hồi đùợc 'phiên truac làm gì' — theo NGỮ NGHĨA, không chỉ theo [[위키링크]]. mem-rank.py(엔진). 주문형 KHÔNG 자동 후크(ADR-004). 트리거: 'ghi 에피소드', '녹화 에피소드', 'chốt phiên này vào nhớ', 'lùu lại phiên trùớc làm gì', '세션 에피소드', '/record-episode'.

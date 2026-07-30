@@ -1,0 +1,1 @@
+에이전트 프레임워크 30개 이상과 오버스택 8개 항목(프론티어-갭-스캔 런북) — 인스턴트, 즉 cron이 필요합니다. Chạy 5 WebSearch, chấm Ngang/Chớm/Thua, diff kỳ truac, raise-issue cho gap mới / cập nhật gap đã có, cập nhật 보고서. 트리거: '프론티어 스캔', 'quét đối thủ', 'scout tuần', 'chúng ta thua gì', '/frontier-scan'.

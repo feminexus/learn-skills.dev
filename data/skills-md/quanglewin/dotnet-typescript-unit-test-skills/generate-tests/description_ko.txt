@@ -1,0 +1,1 @@
+사용자가 코드에 대한 단위 테스트를 생성, 생성 또는 작성하도록 요청할 때 사용합니다. 대상 코드를 분석하고 검토할 구조화된 테스트 사례 목록을 생성한 다음 테스트 코드를 생성합니다. C#/.NET(xUnit, NSubstitute, AwesomeAssertions) 및 TypeScript/JavaScript(Vitest 또는 Jest)를 지원합니다.

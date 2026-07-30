@@ -1,0 +1,1 @@
+브랜치에서 파생된 Conventional Commit 범위를 사용하여 현재 Git 변경 사항을 확인, 커밋, 푸시합니다.

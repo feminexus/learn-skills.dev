@@ -1,0 +1,1 @@
+Microsoft 365(m365)용 CLI: 인증, 설치, 출력 형식 지정 및 일반 플래그에 대한 공유 패턴입니다. 사용자가 "m365 login", "m365 setup", "đăng nhập Microsoft 365", "m365 status", "kết nối Microsoft"를 언급하거나 다른 m365-* 기술에 인증/공통 패턴 참조가 필요할 때 사용합니다.

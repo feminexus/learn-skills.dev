@@ -1,0 +1,1 @@
+'optimuskg' Python 클라이언트를 통해 생명의학 지식 그래프인 OptimusKG를 사용하기 위한 가이드입니다. OptimusKG 데이터(유전자, 약물, 질병, 표현형, 해부학, 경로 및 이들의 관계)를 Polars DataFrames 또는 NetworkX 그래프로 로드, 쿼리, 필터링 또는 분석하거나 Harvard Dataverse에서 게시된 그래프를 다운로드할 때 이 기능을 사용하세요.

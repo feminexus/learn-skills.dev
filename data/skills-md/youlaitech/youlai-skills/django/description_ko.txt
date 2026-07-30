@@ -1,0 +1,1 @@
+Django REST Framework 백엔드 개발 표준. Django 프로젝트를 개발하고 DRF ViewSet, Serializer 또는 JWT 인증을 사용하여 REST API를 구현할 때 이 기술을 사용하세요.

@@ -1,0 +1,1 @@
+모델 컨텍스트 프로토콜(Model Context Protocol) 통신을 위한 투명 프록시인 mcpsnoop를 사용하여 MCP 클라이언트-서버 트래픽을 실시간으로 디버그합니다.

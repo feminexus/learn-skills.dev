@@ -1,0 +1,1 @@
+Claude Code의 MakeThisBetter 피드백을 설정, 인증 및 관리하세요. 사용자가 /makethisbetter를 실행한 후 setup, setup-auth, login, signup, list, 선택, 해제, 해결 또는 피드백 관리 명령을 실행할 때 사용합니다. 또한 MakeThisBetter 설정, 보류 중인 피드백 나열, 수정할 피드백 선택, 피드백 건너뛰기, 해결된 피드백 표시 또는 PR을 피드백에 연결 시 트리거됩니다.

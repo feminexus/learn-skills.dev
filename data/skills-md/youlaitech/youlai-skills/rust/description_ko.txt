@@ -1,0 +1,1 @@
+러스트(Rust) 后端开发规范. Rust 웹 프로젝트를 개발하고, Axum + SeaORM, JWT/Redis 토큰 인증 또는 youlai-rust 관리 백엔드(PostgreSQL)를 사용하여 REST API를 구현할 때 이 기술을 사용하세요.

@@ -1,0 +1,1 @@
+Sắp xếp gọn kho tài liđu LOCAL (llmwiki/html/ + wiki/sources/draft/) khi phình to. 기본 — PROMOTE bản chất quý lên wiki ADR/개념(여행, sống sót 클론), ARCHIVE 렌더링 임시(cặp 제안서 đã xong, bản bị thay thế, 보고서 cũ → 아카이브/), KEEP canonical — rồi RE-INDEX 그건 그렇고. khi "dọn docs", "sắp xếp/merge tài liđu", "tidy docs", "html/draft quá nhiều", "/docs-curate"를 트리거합니다.

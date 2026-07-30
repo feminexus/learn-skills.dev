@@ -1,0 +1,1 @@
+GitHub Actions에서 .NET 배포. Azure Web Apps, GitHub 페이지, 컨테이너 레지스트리.

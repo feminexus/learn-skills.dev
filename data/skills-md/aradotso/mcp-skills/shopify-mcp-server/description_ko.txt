@@ -1,0 +1,1 @@
+제품, 주문, 고객, 재고 및 메타필드 관리를 위해 AI 도우미를 Shopify Admin GraphQL API에 연결하는 MCP 서버

@@ -1,0 +1,1 @@
+flyctl CLI, fly.toml 구성, Fly Machines, Fly Volumes, 개인 네트워킹, 비밀, 상태 확인, 자동 크기 조정 및 GitHub Actions CI/CD를 사용하여 Fly.io 플랫폼에서 애플리케이션을 배포, 구성 및 관리합니다. Fly.io에 애플리케이션 배포, fly.toml 구성 작성 또는 수정, Fly 머신 또는 볼륨 관리, 네트워킹 구성(공공 서비스, 개인 6PN, Flycast, 사용자 정의 도메인, TLS), 비밀 설정, 상태 확인 구성, 자동 중지/자동 시작 또는 메트릭 기반 자동 크기 조정 설정, GitHub Actions로 배포, Fly Postgres 데이터베이스 관리 또는 Fly.io에서 프로덕션용 앱 준비 시 사용합니다.

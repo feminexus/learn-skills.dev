@@ -1,0 +1,1 @@
+원격 Workspace 파일, 개인 또는 팀 공간, 작업 작업 트리, 시트/문서/슬라이드 단위, Facade 작성, 검사, 검증, 가져오기/내보내기, 스크린샷 또는 검토 전달을 위한 독립적인 Univer Workspace CLI 애플리케이션(`univer-workspace-cli`)을 설치하거나 운영할 때 사용합니다. 'univer'가 처리하는 로컬 대상에는 사용하지 마세요.

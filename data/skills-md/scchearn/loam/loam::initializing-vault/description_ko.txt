@@ -1,0 +1,1 @@
+사전 구성된 설정, 키맵 및 핵심 플러그인을 사용하여 새로운 Obsidian Vault를 비계하세요. 사용자가 "새 Obsidian 저장소 설정", "Obsidian 저장소 만들기" 또는 "내 Obsidian 설정 복제"를 원할 때 사용합니다.

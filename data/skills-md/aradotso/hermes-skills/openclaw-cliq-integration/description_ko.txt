@@ -1,0 +1,1 @@
+Zoho Cliq용 SprintCX OpenClaw 채널 플러그인 — 에이전트별 봇, 마크다운 변환, 스트리밍 및 그룹 채팅 지원을 통해 OpenClaw 에이전트를 Zoho Cliq에 연결합니다.

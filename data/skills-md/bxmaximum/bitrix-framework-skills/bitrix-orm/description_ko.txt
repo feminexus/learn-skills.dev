@@ -1,0 +1,1 @@
+D7 ORM 태블릿, ConditionTree 쿼리, Objectify, 일괄/병합/삭제ByFilter 쓰기. 엔터티 디자인, 읽기 및 지속성에 사용됩니다.

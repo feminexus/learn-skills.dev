@@ -1,0 +1,1 @@
+병렬 코드베이스 온보딩 — 무엇이든 이해할 수 있는 파이프라인(스캔 + git 기록 + 배치 분석 + 레이어/투어, 플러그인 없음), 도메인 강화(Claude), wiki + HTML(opencode+DeepSeek Flash v4를 통해).

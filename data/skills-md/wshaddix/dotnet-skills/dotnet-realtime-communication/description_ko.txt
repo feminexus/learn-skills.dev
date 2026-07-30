@@ -1,0 +1,1 @@
+실시간 기능 구축. SignalR 허브, SSE(.NET 10), JSON-RPC 2.0, gRPC 스트리밍, 확장.

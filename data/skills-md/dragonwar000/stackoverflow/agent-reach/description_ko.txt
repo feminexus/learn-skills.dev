@@ -1,0 +1,4 @@
+사용자가 인터넷에서 무엇이든 조사/검색/조회/찾기를 원할 때 사용해야 합니다. "이 주제를 조사하세요", "X에 대해 자세히 알아보세요", "웹에서 X를 검색하세요", "사람들이 X에 대해 뭐라고 말하는지 보세요", "이것을 찾아보세요".
+또한 사용자가 Twitter/X, Reddit, Facebook, Instagram, YouTube, GitHub, Bilibili, XiaoHongShu, Xiaoyuzhou Podcast, LinkedIn/jobs/recruiting, V2EX, Xueqiu(주식), RSS와 같은 플랫폼을 언급하거나 URL/링크를 공유하는 경우에도 사용해야 합니다.
+15개 플랫폼, 다중 백엔드 라우팅(OpenCLI/플랫폼별 CLI/API). 6개 채널에 대한 구성이 없습니다. 'agent-reach doctor --json'을 실행하여 현재 어떤 백엔드가 각 플랫폼에 서비스를 제공하는지 확인하세요.
+해당되지 않음: 보고서 작성/분석/번역(이 기술은 인터넷 콘텐츠만 가져옴) 게시/댓글 달기/좋아요 표시(쓰기 작업) 이미 전용 스킬이 설치된 플랫폼(해당 스킬 선호)
