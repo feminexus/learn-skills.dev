@@ -1,0 +1,1 @@
+建構即時功能。 SignalR 集線器、SSE (.NET 10)、JSON-RPC 2.0、gRPC 流、擴充。

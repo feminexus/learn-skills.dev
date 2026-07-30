@@ -1,0 +1,1 @@
+當使用者要求為 TypeScript/JavaScript 程式碼產生、建立或編寫 Playwright 測試（元件或 API）時使用。分析目標元件或 API 路由，產生結構化測試案例清單以供審核，然後使用頁面物件模型 (POM) 產生 Playwright 規格。

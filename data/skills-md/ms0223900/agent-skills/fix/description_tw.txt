@@ -1,0 +1,1 @@
+使用清晰的工具輸出修復 ESLint、TypeScript、測試或建置錯誤 — 重現、分類、假設、修補根本原因、重新驗證綠色。当用户粘贴 lint/tsc/test/build 失败或说修改这个错误／测试过不了／type error／build 失败时使用。运行失败时可通过“/next-task”进行访问。

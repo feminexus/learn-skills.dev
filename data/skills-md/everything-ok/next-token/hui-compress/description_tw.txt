@@ -1,0 +1,1 @@
+將支援的自然語言記憶體檔案（CLAUDE.md、todos、preferences）重寫為簡潔的 hui 格式。保留受保護的結構並寫入人類可讀的 FILE.original.md 備份。觸發器：/hui-compress FILEPATH 或“壓縮記憶體檔案”

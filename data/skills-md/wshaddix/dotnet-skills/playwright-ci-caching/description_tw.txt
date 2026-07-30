@@ -1,0 +1,1 @@
+透過快取 Playwright 瀏覽器二進位檔案和相依性來優化 CI/CD 管道，以加快測試執行速度。在 CI/CD 管道中設定 Playwright、透過快取瀏覽器二進位檔案減少建置時間或為 Playwright 測試配置 GitHub Actions 或 Azure DevOps 時使用。

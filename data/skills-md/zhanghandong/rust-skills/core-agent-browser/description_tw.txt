@@ -1,0 +1,1 @@
+rust-learner、docs-researcher 和 crate-researcher 使用的代理瀏覽器 CLI 工作流程的內部支援技能。僅當明確需要瀏覽器自動化時才使用。

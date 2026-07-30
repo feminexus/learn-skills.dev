@@ -1,0 +1,1 @@
+Quét biên giới agent-framework 30 ngày qua và đối chiếu overstack theo 8 trục (frontier-gap-scan runbook) — gọi INSTANT，không phải cron。 Chạy 5 WebSearch，chấm Ngang/Chớm/Thua，diff kỳ trước，提出问题 cho差距mới / cập nhật差距đã có，cập nhật报告。觸發：「前沿掃描」、「quét đối thủ」、「scout tuần」、「chúng ta thua gì」、「/frontier-scan」。

@@ -1,0 +1,1 @@
+透過 fdk/tools/new-skill.py 將新技能同時支架到兩個發布樹中 - Skills/<name>/SKILL.md 加上其位元組相同的 llmwiki 鏡像 - 然後列印確切的命令以在策劃的表面上註冊它（LOOP_MAP、marketplace.json、AGENT.md/CLAUDE.md）。當用戶說「創建技能」、「新增技能」、「建立技能」、「創建新技能」、「新技能」或呼叫 /new-skill 時使用。

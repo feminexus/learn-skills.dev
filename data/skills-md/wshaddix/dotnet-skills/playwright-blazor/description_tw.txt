@@ -1,0 +1,1 @@
+使用 Playwright 對 Blazor 應用程式進行端到端測試模式，包括元件測試和頁面導航。在為 Blazor 應用程式編寫 E2E 測試、測試 Blazor 元件與 Playwright 的互動或為 Blazor 應用程式設定 Playwright 測試基礎設施時使用。

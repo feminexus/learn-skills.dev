@@ -1,0 +1,1 @@
+指南使用 React 測試函式庫 (RTL) + @testing-library/user-event 撰寫 React / Next.js 元件測試（不使用 Enzyme/淺渲染）。當使用者想要對 React 或 Next.js 元件進行元件/整合測試，或要求驗證元件的渲染輸出/使用者互動時使用。

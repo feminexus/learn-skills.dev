@@ -1,0 +1,1 @@
+新增新的 AI SDK 線束包的指南。在建立新的 @ai-sdk/harness-<name> 套件時使用，該套件可使編碼代理執行時間適應 HarnessV1。

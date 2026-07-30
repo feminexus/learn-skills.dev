@@ -1,0 +1,1 @@
+涵蓋 Bitrix 中的日期和時間 — Bitrix\Main\Type\Date 和 DateTime、透過核心遮罩解析和格式化、日期算術、透過 toUserTime/disableUserTime/enableUserTime 的時區、Context::getCulture() 和區域設定格式、轉換為時間戳記。在建置計劃、轉換時區、比較日期、使用 ORM 欄位 DateField 和 DatetimeField 時套用。關鍵術語 — 日期、日期時間、toUserTime、格式、時區、文化、日期欄位、時間戳記。

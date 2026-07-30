@@ -1,0 +1,1 @@
+ASP.NET Core Razor Pages 應用程式的全面快取模式。涵蓋輸出快取、回應快取、記憶體快取、Redis 分散式快取、快取失效策略和 HybridCache (.NET 9+)。在 Razor Pages 應用程式中實現快取、在記憶體和分散式快取之間進行選擇或透過快取優化應用程式效能時使用。

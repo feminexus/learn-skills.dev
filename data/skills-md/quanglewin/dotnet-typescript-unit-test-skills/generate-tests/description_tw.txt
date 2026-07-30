@@ -1,0 +1,1 @@
+當使用者要求產生、建立或編寫程式碼單元測試時使用。分析目標程式碼，產生結構化測試案例清單以供審核，然後產生測試程式碼。支援 C#/.NET（xUnit、NSubstitute、AwesomeAssertions）和 TypeScript/JavaScript（Vitest 或 Jest）。

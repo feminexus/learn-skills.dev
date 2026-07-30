@@ -1,0 +1,1 @@
+Sắp xếp gọn kho tài liệu LOCAL (llmwiki/html/ + wiki/sources/draft/) khi phình to。 Ba tầng — 推廣 bản chất quý lên wiki ADR/概念（旅行、sống sót 克隆）、存檔渲染短暫（cặp 提案 đã xong、bản bị thay thặp 提案 đã xong、bản bị thay thặp 提案 đã xong、bản bị thay thặp 提案 đã xong、bản bị thay thế. đủ。觸發 khi "dọn docs"、"sắp xếp/merge tài liệu"、"tidy docs"、"html/draft quá nhiều"、"/docs-curate"。

@@ -1,0 +1,1 @@
+透過在目標伺服器上執行的 Jenkins INBOUND AGENT 部署 docker-compose 應用程式（沒有來自控制器的 SSH），並使用 Docker 秘密「L3」強化 — 運行時秘密存在於 tmpfs 上，並且永遠不會出現在「dockerspect」或「.env」中。當使用者需要「透過 jenkins 代理部署」、「no-ssh 部署」、「agent thay vì ssh」、「docker Secrets L3」、「ẩn Secret khỏi dockerspect」、「secret không nằm trên đđ編碼從真正的 1:1 運行中學到的問題（Java 21、0444 秘密權限、0400 檔案憑證、代理使用者需要 docker+sudo）。

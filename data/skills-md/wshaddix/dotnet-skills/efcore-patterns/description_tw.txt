@@ -1,0 +1,1 @@
+Entity Framework Core 最佳實踐包括預設的 NoTracking、導航集合的查詢拆分、遷移管理、專用遷移服務、攔截器、編譯查詢和連接彈性。在新專案中設定 EF Core、最佳化查詢效能、管理資料庫遷移、將 EF Core 與 .NET Aspire 整合或偵錯變更追蹤問題時使用。

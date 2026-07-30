@@ -1,0 +1,1 @@
+針對多個 TFM 或在較舊的 TFM 上使用較新的 C#。 Polyfill 策略，API 相容。

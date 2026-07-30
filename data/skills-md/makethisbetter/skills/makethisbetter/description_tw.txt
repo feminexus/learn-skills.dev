@@ -1,0 +1,1 @@
+設定、驗證和管理來自 Claude Code 的 MakeThisBetter 回饋。當使用者執行 /makethisbetter 後執行 setup、setup-auth、login、signup、list、pick、dismiss、resolve 或任何回饋管理指令時使用。也會觸發 MakeThisBetter 設定、列出待處理的回饋、選擇要修復的回饋、跳過回饋、將回饋標記為已解決或將 PR 連結到回饋。

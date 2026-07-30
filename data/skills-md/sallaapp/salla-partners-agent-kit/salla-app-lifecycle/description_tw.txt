@@ -1,0 +1,1 @@
+Salla 应用程序生命周期 Webhook 事件 - Salla 在商家安装、更新、卸载、试用和订阅时触发的事件。在處理 `app.installed`、`app.store.authorize`、`app.updated`、`app.uninstalled`、`app.Trial.*` 或 `app.subscription.*` 時使用；安裝時配置；卸載時清理；或建置商家狀態機（安裝→試用活動→過 →試用期）。基于 salla-webhooks（签名、幂等性、fast 200）和 salla-app-auth（令牌存储）构建。计划/试用状态和权利 → salla-app-billing。

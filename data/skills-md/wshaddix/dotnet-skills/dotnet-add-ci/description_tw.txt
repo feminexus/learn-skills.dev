@@ -1,0 +1,1 @@
+将 CI/CD 添加到 .NET 项目。 GitHub Actions 與 Azure DevOps 偵測、工作流程範本。

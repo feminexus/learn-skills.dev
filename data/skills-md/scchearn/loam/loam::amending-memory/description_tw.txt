@@ -1,0 +1,1 @@
+當新的證據顯示 wiki 錯誤、陳舊、不完整或矛盾時，更正或更新現有 wiki 內容。當代理程式發現 wiki 說 X 但我們現在知道 Y 時，當程式碼或現實世界的變更使 wiki 聲明無效時，或當使用者要求修復或修改 wiki 時，請使用此選項。不適用於新增來源、例行學習捕獲、結構標準化或健康檢查；使用 /loam::adding-to-memory、/loam::learning-from-session、/loam::normalizing-memory 或 /loam::linting-memory。

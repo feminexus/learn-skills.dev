@@ -1,0 +1,1 @@
+Vòng xử lý SỰ CỐ 一流 — dùng khi có bug、lỗi 運行時、hành vi sai、「批准 treo」、回歸、事件產生。 Điều phối 分類 → 重現第一個門 (chưa tái hiện được thì CHƯA được sửa) → khoanh vùng (LΏ/影響檢查/修正等đỏ→xanh → distill kép（維基事件+故障飛輪+問題樹）。 KHÔNG dùng cho tính năng mới (đó là suggest/orca-workflow)。

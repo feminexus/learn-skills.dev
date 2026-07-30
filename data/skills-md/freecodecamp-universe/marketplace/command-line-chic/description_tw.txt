@@ -1,0 +1,1 @@
+freeCodeCamp 的“Command-line Chic”UI 設計系統和美學準則。每當建置、設計樣式或審查任何外觀和感覺應該像 freeCodeCamp 產品的 UI（Web 應用程式、儀表板、登陸頁面、管理工具、元件庫或主題）時，請套用這些規則。當使用者提到 freeCodeCamp 樣式、fCC 設計、「命令列別緻」、fCC 的深色主題開發或要求遵循 freeCodeCamp 視覺識別的 UI 時，請使用此技能。即使使用者沒有明確提及設計系統，也可以在處理任何 freeCodeCamp 儲存庫、為 freeCodeCamp 專案做出貢獻或為 freeCodeCamp 員工建立工具和儀表板時使用。

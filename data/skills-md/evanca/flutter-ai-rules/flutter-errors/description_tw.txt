@@ -1,0 +1,1 @@
+當遇到佈局錯誤（RenderFlex 溢位、無界約束、RenderBox 未佈局）、捲動錯誤或 setState-during-build 錯誤時使用。

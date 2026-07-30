@@ -1,0 +1,1 @@
+部署 .NET 容器。 Kubernetes 探針、用於本地開發的 Docker Compose、CI/CD 整合。

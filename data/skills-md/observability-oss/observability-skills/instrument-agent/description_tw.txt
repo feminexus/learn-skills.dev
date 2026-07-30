@@ -1,0 +1,1 @@
+將 Progress Observability 工具新增至現有的 AI 代理程式或 LLM 應用程式（Python、TypeScript/JavaScript 或 .NET，包括 LangChain、LangGraph、LlamaIndex、CrewAI、OpenAI Agents、Haystack、MCP 伺服器和 Microsoft.Extensions.AI）中，盡可能減少差異追蹤。當用戶要求“檢測我的代理”、“添加可觀察性”、“向此存儲庫添加跟踪/遙測”、“將其連接到進度可觀察性”，或者在平台上擁有他們想要的現有未檢測項目時使用。不适用于从头开始创建项目 - 这只会编辑已经存在的代码。

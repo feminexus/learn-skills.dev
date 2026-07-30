@@ -1,0 +1,1 @@
+實作 API 身份驗證。身分、OAuth/OIDC、JWT 承載、金鑰 (WebAuthn)、CORS、速率限制。

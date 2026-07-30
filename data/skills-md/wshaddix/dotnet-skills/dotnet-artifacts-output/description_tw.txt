@@ -1,0 +1,1 @@
+使用工件輸出佈局。 UseArtifactsOutput、ArtifactsPath，對CI和Docker的影響。

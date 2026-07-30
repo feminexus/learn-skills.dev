@@ -1,0 +1,1 @@
+在 Deno 專案中編寫、運行、配置、檢查或偵錯程式碼時，或建置新專案時使用。涵蓋 deno install 和 deno add 的依賴管理、package.json 和 node_modules 支援、npm 和 JSR 套件、權限（其中配置屬於 package.json、tsconfig.json 和 deno.json）、工作區、內建工具鏈（fmt、lint、test、check、bench、compile）和發布。

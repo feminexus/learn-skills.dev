@@ -1,0 +1,1 @@
+使用 .trampoline-ai 下的 Avalanche 和 PredictRLM 的可編輯本地克隆以及在專案範圍內安裝的 Avalanche 創作技能來初始化和驗證 Avalanche 工作流程工作區。僅當有人要求設定、引導或準備工作區時使用；它不設計或建立使用者的工作流程。

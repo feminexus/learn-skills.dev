@@ -1,0 +1,1 @@
+在當前工作區中創建或擴展黑曜石友好的 Markdown wiki 腳手架。當使用者想要在使用「/loam::adding-to-memory」新增來源之前建立一個 wiki、建立一個知識庫、建立一個研究庫或建立一個即時 Markdown 筆記圖時，可以使用此選項。將目標標識為同級工作流程工件，而不是 wiki 內容。不適用於導入或標準化現有的類記憶語料庫；為此使用 /loam::normalizing-memory 。

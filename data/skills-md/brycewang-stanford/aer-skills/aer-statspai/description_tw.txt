@@ -1,0 +1,1 @@
+當 aer-identification 修復了設計時，在方法選擇之後、aer-robustness 或 aer-tables-figures 之前，使用 StatsPAI 運行 AER 追蹤分析 — StatsPAI 是代理原生 Python 引擎和 MCP 伺服器，用於因果推理、穩健性、敏感性和可發布的表導出。

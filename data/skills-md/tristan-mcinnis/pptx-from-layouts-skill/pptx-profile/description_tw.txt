@@ -1,0 +1,1 @@
+PPTX-from-layouts 管道的步驟 1。分析 PowerPoint 範本以發現其真正的幻燈片母版佈局並發出佈局目錄 + 渲染配置。當使用者想要「使用我自己的 PowerPoint 範本」、「檢視我的投影片有哪些版面」、「載入範本」、「設定此 pptx」或在根據自訂（非內章）範本創作投影片之前使用。與 pptx-author（步驟 2）和 pptx-from-layouts（步驟 3）配對。

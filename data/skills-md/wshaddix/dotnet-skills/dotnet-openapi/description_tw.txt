@@ -1,0 +1,1 @@
+產生 OpenAPI 文件。 MS.AspNetCore.OpenApi (.NET 9+)、Swashbuckle 遷移、NSwag。

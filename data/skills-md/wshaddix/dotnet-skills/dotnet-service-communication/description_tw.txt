@@ -1,0 +1,1 @@
+選擇服務間協定。 REST vs gRPC vs SignalR vs SSE 決策矩陣，權衡。

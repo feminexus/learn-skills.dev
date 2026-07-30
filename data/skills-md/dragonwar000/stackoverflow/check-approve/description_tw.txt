@@ -1,0 +1,1 @@
+Sinh sẵn 1-liner để trace 1 lệnh 批准/返回/拒絕 của DMS trên log BE (docker) + FE proxy, ghi ra file .sh cho 使用者複製貼上到產品伺服器。 Dùng khi 使用者 nói「viết lệnh 檢查批准」、「檢查 duyệt 請求 <代碼>」、「批准 treo / không thấy lệnh duyệt」、「/check-approve」。

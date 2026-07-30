@@ -1,0 +1,1 @@
+定期 wiki 健康檢查 — 孤立連結、缺失連結、矛盾、過時（wiki → wiki VÀ 程式碼 → wiki 漂移）、索引差距。 Bước 0 là cổng no-op tất định (wiki-sync, 0 token) — 代碼 không đổi kể tịnh (wiki-c neo luận “wiki current

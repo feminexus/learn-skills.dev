@@ -1,0 +1,1 @@
+使用 IEEEtran LaTeX 範本和經過驗證的 BibTeX 引文為 arXiv 撰寫 ML/AI 評論和調查論文。當交付成果是評論論文、文獻調查或現有 LaTeX 專案需要引文驗證或修復時觸發。

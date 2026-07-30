@@ -1,0 +1,1 @@
+在 RunComfy 上使用 Wan 2.7（Wan-AI 的旗艦運動模型）產生文字到影片。記錄 Wan 2.7 的優勢（多參考調節、透過「audio_url」進行音訊驅動的唇形同步、更平滑的過渡、提示擴展）、持續時間/解析度/寬高比模式，以及何時路由到 HappyHorse 1.0 / Seedance 2.0 / Kling / LTX 2。透過本地 RunComfy CLI 調用“runco​​mfy run wan-ai/wan-2-7/text-to-video”。在「wan」、「wan 2.7」、「wan-2-7」、「wan video」或任何使用此模型產生影片的明確要求時觸發。

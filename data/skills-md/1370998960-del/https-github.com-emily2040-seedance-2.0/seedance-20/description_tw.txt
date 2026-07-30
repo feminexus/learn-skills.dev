@@ -1,0 +1,1 @@
+在任何表面上建立、改進 Seedance 2.0 視訊或進行故障排除時應使用此技能 - Dreamina、Jimeng、CapCut、Doubao、Volcengine/Ark、BytePlus、Runway's Seedance 路線、fal 或第三方提供者/路由器表面（例如 EvoLink、OpenRouter、Kieo. API. Segmind） -包括文字/圖像/視訊/視訊參考提示、第一幀/最後一幀、對話、口型同步和音訊、IP 安全重寫、API、定價和型號 ID 問題以及 zh/ja/ko/es/ru 提示工作。不適用於非 Seedance 模特兒（Sora、Veo、Kling、Runway 自己的 Gen 模特兒）或僅圖像提示。

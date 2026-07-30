@@ -1,0 +1,1 @@
+worma OpenAPI 程式碼產生和配置。每當使用者提到 worma 設定、API 程式碼產生、OpenAPI/Swagger 整合、worma CLI 或從 @alova/wormhole、axios 或 ky 遷移時，請使用此技能。觸發有關 worma.config、npx worma init/gen、根據 OpenAPI 規範產生 API 程式碼或從 @alova/wormhole、axios 或 ky 切換到 worma 的問題。

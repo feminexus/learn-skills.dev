@@ -1,0 +1,1 @@
+Salla 應用程式貨幣化：計劃和插件位於出版物的定價部分（沒有單獨的定價端點），由 Salla 計費。在為應用程式定價、追蹤計劃/插件狀態或按權利限制功能時使用。追蹤 app.subscription.* / app.Trial.* 事件的狀態（一個系列 — item_type 分割計畫與插件），透過 salla_apps action=subscriptions 進行協調，根據餘額計量使用情況。簽名 → salla-webhooks；令牌 → salla-app-auth；接線 → salla-app-lifecycle；應用內購買 UI → salla-addon-purchase / salla-addon-purchase-embedded。

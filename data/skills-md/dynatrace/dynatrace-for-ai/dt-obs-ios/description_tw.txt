@@ -1,0 +1,1 @@
+使用 Swift Package Manager 在 iOS 專案中設定 Dynatrace iOS SDK (OneAgent)。自動新增 SPM 依賴項、建立 Dynatrace.plist 設定檔、新增導入語句、新增隱私權選擇加入程式碼以及建置專案。當使用者想要在其 iOS 應用程式中整合、安裝、新增或設定 Dynatrace 監控時，請使用此技能。關鍵字：Dynatrace、iOS、SDK、OneAgent、設定、安裝、整合、SPM、Swift 套件管理器、Info.plist、DTXApplicationID、DTXBeaconURL、行動監控、RUM。

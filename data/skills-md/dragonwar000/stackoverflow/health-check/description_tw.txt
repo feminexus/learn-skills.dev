@@ -1,0 +1,1 @@
+Kiểm tra sức khỏe「pattern chuẩn」của 模板 — 模式 đã đủ chưa，có 漂移本地 không，và có cần /sync-template tỻ 遠程 khng。所以 version.json 本機 ↔ 遠端 ↔ 磁碟（0 令牌，失敗開啟）。觸發器：「健康檢查」、「檢查模式」、「cầnsync chưa」、「/health-check」。

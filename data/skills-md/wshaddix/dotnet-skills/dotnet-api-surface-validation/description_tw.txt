@@ -1,0 +1,1 @@
+檢測 CI 中的 API 變更。 PublicApiAnalyzers，驗證快照，破壞變更執行。

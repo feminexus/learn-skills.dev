@@ -1,0 +1,1 @@
+風格 thiết kế Supademo cho 應用內產品之旅（dùng kèm 技能指南 — 組件 gốc 0 依賴項）：閃光燈熱點脈衝、工具提示卡、步數計數器 + 導航按鈕、進度條、主題標記 — quy ra 食譜 Tailwind/Cay dùng ngng觸發器：「/tour-guide-supademo」、「tour kiểu Supademo」、「style superademo」、「blinker hotspot」。 Quy ước：風格蒸餾 từ sản phẩm khác sẽ là Skill riêng /tour-guide-<tên>。

@@ -1,0 +1,1 @@
+查詢 @lynx-js/css-defines compat_data 以透過渲染後端和 Lynx 版本來檢查 Lynx CSS 屬性和巢狀功能/值支持，或檢查是否有較新的資料集版本。當詢問 Lynx 或 ReactLynx 是否支援 CSS、哪些後端支援 CSS、何時添加支援、樣式變更是否相容、捆綁資料是否是最新的或檢查原始定義 JSON 時，請使用。
