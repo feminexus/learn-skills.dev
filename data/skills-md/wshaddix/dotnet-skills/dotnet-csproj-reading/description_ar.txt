@@ -1,0 +1,1 @@
+قراءة أو تعديل ملفات .csproj. هيكل على غرار SDK، PropertyGroup/ItemGroup، CPM، الدعائم.

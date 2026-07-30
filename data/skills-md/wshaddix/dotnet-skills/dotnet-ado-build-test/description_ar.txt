@@ -1,0 +1,1 @@
+تكوين بناء/اختبار .NET في Azure DevOps. مهمة DotNetCoreCLI، والتحف، ونتائج الاختبار.

@@ -1,0 +1,1 @@
+إنشاء وتكوين كود Worma OpenAPI. استخدم هذه المهارة عندما يذكر المستخدم تكوين Worma، أو إنشاء كود API، أو تكامل OpenAPI/Swagger، أو Worma CLI، أو الترحيل من @alova/wormhole، أو axios، أو ky. قم بتشغيل الأسئلة حول worma.config، أو npx worma init/gen، أو إنشاء كود API من مواصفات OpenAPI، أو التبديل من @alova/wormhole، أو axios، أو ky إلى worma.

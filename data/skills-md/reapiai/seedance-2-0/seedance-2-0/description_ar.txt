@@ -1,0 +1,1 @@
+أنشئ مقاطع فيديو من خلال واجهات برمجة تطبيقات reAPI العامة باستخدام نماذج Seedance 2.0 (الافتراضي: doubao-seedance-2.0). يتطلب REAPI_API_KEY أو REAPI_KEY من https://reapi.ai.

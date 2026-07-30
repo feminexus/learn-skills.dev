@@ -1,0 +1,1 @@
+احذف وكيل AI من وكيل LiteLLM المباشر. اطلب agent_id وقم بالتأكيد قبل الاتصال بـ DELETE /v1/agents/{agent_id}.

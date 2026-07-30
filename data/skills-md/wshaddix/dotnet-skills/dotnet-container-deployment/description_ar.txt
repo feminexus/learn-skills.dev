@@ -1,0 +1,1 @@
+نشر حاويات .NET. تحقيقات Kubernetes وDocker Compose للتطوير المحلي وتكامل CI/CD.

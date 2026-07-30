@@ -1,0 +1,1 @@
+تحديد إطار عمل .NET UI. شجرة القرار عبر Blazor وMAUI وUno وWinUI وWPF وWinForms.

@@ -1,0 +1,1 @@
+باستخدام تخطيط الانتاج التحف. UseArtifactsOutput وArtifactsPath والتأثير على CI وDocker.

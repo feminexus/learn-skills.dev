@@ -1,0 +1,1 @@
+قم بتنزيل الملف المحلي (llmwiki/html/ + wiki/sources/draft/) إلى. Ba tầng — PROMOTE bản chất quý lên wiki ADR/concept (travel, sống sót clone)، عرض ARCHIVE سريع الزوال (cặpقترح đà xong، bản bị thay thế، report cũ → archive/)، KEEP canonical — rồi إعادة الفهرس đầy đủ. قم بتشغيل "ملفات المستندات"، "ملف/دمج الملفات"، "مستندات مرتبة"، "html/draft quá nhiều"، "/docs-curate".

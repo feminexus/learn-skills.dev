@@ -1,0 +1,1 @@
+يجب استخدامه عند كتابة أو تعديل البرامج النصية لـ Windmill Workflow-as-Code باستخدام سير العمل، أو المهمة، أو الخطوة، أو السكون، أو الموافقات، أو TaskScript، أو TaskFlow، أو Task_script، أو Task_flow.

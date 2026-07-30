@@ -1,0 +1,1 @@
+نشر تطبيقات منصة Uno. إرشادات لكل هدف لـ WASM وiOS وAndroid وmacOS وWindows وLinux.

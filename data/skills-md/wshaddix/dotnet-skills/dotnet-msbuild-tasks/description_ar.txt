@@ -1,0 +1,1 @@
+كتابة مهام MSBuild المخصصة. ITask، ToolTask، IIncrementalTask، المهام المضمنة، UsingTask.

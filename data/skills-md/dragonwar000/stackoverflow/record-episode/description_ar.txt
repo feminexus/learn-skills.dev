@@ -1,0 +1,1 @@
+Ghi một SESSION EPISODE có cấu trúc (tầng nhớ episodic) vào Memory store để phiên sau truy hồi được 'phiên trước làm gì' — theo NGỮ NGHĨA, không تشو ثيو [[wikilink]]. Bọc mem-rank.py (المحرك). حسب الطلب، خطاف KHÔNG التلقائي (ADR-004). المشغل: "حلقة ghi"، "حلقة تسجيل"، "chốt phiên này vào nhớ"، "lưu lại phiên trước làm gì"، "حلقة الجلسة"، "/ سجل الحلقة".

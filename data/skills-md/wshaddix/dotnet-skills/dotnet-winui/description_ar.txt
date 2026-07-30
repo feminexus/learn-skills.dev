@@ -1,0 +1,1 @@
+بناء تطبيقات WinUI 3. إعداد Windows App SDK، وأنماط XAML، ونشر MSIX/unpackaged، وترحيل UWP.

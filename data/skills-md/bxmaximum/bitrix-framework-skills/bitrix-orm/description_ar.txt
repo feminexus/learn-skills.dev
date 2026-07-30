@@ -1,0 +1,1 @@
+أقراص D7 ORM، استعلامات ConditionTree، Objectify، يكتب الدفعة/الدمج/deleteByFilter. يستخدم لتصميم الكيان والقراءة والمثابرة.

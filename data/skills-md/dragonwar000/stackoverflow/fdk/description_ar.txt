@@ -1,0 +1,1 @@
+الباب الأمامي حسب الطلب لإطار عمل HOẶC التقطير/مهارة المؤلف - مكتفية ذاتيًا، chạy được ở BẤT KỲ project nào (không phụ thuộc file repo-local). إطار العمل هذا، وهو عبارة عن مهارة / مهارة متعددة في إطار العمل. KHÔNG dùng cho dev tính năng dự án thường (đó là phần lớn phiên — ADR-004).

@@ -1,0 +1,1 @@
+معايير تطوير الواجهة الخلفية لـ Django REST Framework. استخدم هذه المهارة عند تطوير مشاريع Django، أو تنفيذ REST APIs باستخدام DRF ViewSets، أو Serializers، أو مصادقة JWT.

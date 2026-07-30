@@ -1,0 +1,1 @@
+استخدم خادم Vybe's Solana MCP العام للاستعلام عن بيانات Solana blockchain والرموز المميزة وNFTs والحسابات من Claude أو Cursor أو أي عميل MCP
