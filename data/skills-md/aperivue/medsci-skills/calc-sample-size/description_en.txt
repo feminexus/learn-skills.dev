@@ -1,0 +1,1 @@
+Interactive sample size calculator for medical research. Decision-tree guided test selection, reproducible R/Python code, effect size interpretation, and IRB-ready justification text. Supports diagnostic accuracy, agreement, proportions, continuous outcomes, survival, ANOVA, logistic regression, and non-inferiority/equivalence designs.

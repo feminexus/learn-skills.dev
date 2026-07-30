@@ -1,0 +1,1 @@
+Look up publicly discoverable contact data for up to 50 Instagram, TikTok, or YouTube creators with bounded concurrent WaveInflu requests. Use when a user supplies supported creator profile URLs and asks for public emails or contact links. Returned contact data is not ownership-verified. Do not use for private or guessed personal email discovery.

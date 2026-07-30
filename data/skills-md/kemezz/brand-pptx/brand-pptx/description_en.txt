@@ -1,0 +1,1 @@
+テンプレート PPTX と theme.json から、自社ブランド準拠の PowerPoint を生成・編集する。テンプレートを複製しレイアウトを選択 → プレースホルダーを差し替え、KPI カード・進捗バー・ステップフロー・テーブルなどの視覚パーツを自動配置する。Triggers: PPT, PPTX, PowerPoint, presentation, slides, deck, スライド, プレゼン, 資料作成

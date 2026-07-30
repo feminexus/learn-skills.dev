@@ -1,0 +1,1 @@
+Optional: Use for WP Engine hosting workflows — SSH-based git push, remote WP-CLI via SSH gateway, GitHub Actions CI/CD with safety-gated deploys to dev/staging/production, managing installs/domains/cache/backups via the wpe-labs Claude Code skills, and WP Engine API access. Requires SSH key setup and WPE_USERNAME/WPE_PASSWORD env vars for API operations.

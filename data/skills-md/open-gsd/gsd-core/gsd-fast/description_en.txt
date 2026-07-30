@@ -1,0 +1,1 @@
+Execute a trivial task inline — no subagents, no planning overhead

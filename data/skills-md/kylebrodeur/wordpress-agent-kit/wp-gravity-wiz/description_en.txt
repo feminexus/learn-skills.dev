@@ -1,0 +1,1 @@
+Use when working with Gravity Wiz products: installing or managing Spellbook (the Gravity Wiz platform), Gravity Perks (48+ form enhancement plugins like GP Populate Anything, Nested Forms, Limit Submissions), or any individual perk. Also use for Gravity Shop (WooCommerce integration).

@@ -1,0 +1,1 @@
+Use for Gravity stack setup and orchestration: SatisPress/Composer configuration for the full plugin suite (Gravity Forms, SMTP, Connect, GravityView, Spellbook, Pods), reading the .cursorrules and llms.txt templates, or understanding how all products fit together. For product-specific work, load the individual skill instead.

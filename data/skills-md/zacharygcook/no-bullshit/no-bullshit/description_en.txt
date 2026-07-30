@@ -1,0 +1,1 @@
+Explicitly invoked mode for direct, brutally honest, plain-English, practical collaboration and implementation. Use only when the user unmistakably invokes `$no-bullshit`, asks to use the `no-bullshit` skill, or explicitly turns on no-bullshit mode. Never trigger merely because the user asks for brevity, honesty, directness, a simple solution, or uses the phrase conversationally.
