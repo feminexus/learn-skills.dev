@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn der Benutzer Unit-Tests für Code generieren, erstellen oder schreiben möchte. Analysiert den Zielcode, erstellt eine strukturierte Testfallliste zur Überprüfung und generiert dann Testcode. Unterstützt C#/.NET (xUnit, NSubstitute, AwesomeAssertions) und TypeScript/JavaScript (Vitest oder Jest).

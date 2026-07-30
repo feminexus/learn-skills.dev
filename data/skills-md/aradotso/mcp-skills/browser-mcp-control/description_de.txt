@@ -1,0 +1,1 @@
+Steuern Sie Chrome-Browser-Registerkarten über MCP für eine KI-gestützte Webautomatisierung mithilfe des Browser-MCP-Servers und der Browser-Erweiterung

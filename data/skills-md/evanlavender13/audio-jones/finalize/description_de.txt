@@ -1,0 +1,1 @@
+Verwenden Sie sie nach der Funktionsüberprüfung, um Pläne und Recherchedokumente zu archivieren, das Effektinventar zu aktualisieren und einen Commit durchzuführen. Wird bei „Abschließen“, „Abschließen“, „Abschließen“ oder nach Abschluss der Überprüfung ausgelöst.

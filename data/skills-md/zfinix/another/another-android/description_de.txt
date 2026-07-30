@@ -1,0 +1,1 @@
+Steuern Sie Android-Geräte von KI-Agenten über den anderen MCP-Server. Verwenden Sie diese Funktion, wenn Sie aufgefordert werden, mit einem Android-Gerät zu interagieren, es zu testen, zu automatisieren oder Screenshots davon zu machen. Bietet Tools für Touch-Eingabe, Texteingabe, Tastendrücke, Screenshots, App-Start, Shell-Befehle und Wischgesten.

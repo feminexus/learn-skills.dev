@@ -1,0 +1,1 @@
+Der ursprüngliche v1-Geschmacksskill, der abhängig von seinem genauen Verhalten für Projekte beibehalten wird. Der aktuelle Standardwert ist „design-taste-frontend“ (v2 experimentell), was eine wesentliche Neufassung darstellt. Verwenden Sie diesen v1-Installationsnamen nur, wenn Sie eine genaue Abwärtskompatibilität benötigen.

@@ -1,0 +1,1 @@
+Expertenwissen für die Steuerung von ComfyUI (Bild-/Video-/Audio-Generierung) über den Comfyui-mcp-MCP-Server – Workflow-Erstellung, Modellverwaltung, Bearbeitung von Diagrammen in natürlicher Sprache und agentennative Steuerungsebene.

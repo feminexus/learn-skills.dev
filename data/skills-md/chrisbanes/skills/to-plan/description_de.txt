@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn ein fertiges GitHub-Issue einen Repository-fähigen Implementierungsplan benötigt, der als einzelner Issue-Kommentar für einen späteren Implementierungsworkflow veröffentlicht wird.

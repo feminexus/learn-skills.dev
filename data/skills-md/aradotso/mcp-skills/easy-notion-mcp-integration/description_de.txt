@@ -1,0 +1,1 @@
+Verbinden Sie KI-Agenten mithilfe von Markdown anstelle von rohem JSON über den MCP-Server mit Notion mit 42 Tools zum Lesen, Schreiben und Verwalten von Seiten und Datenbanken

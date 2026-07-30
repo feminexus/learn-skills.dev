@@ -1,0 +1,1 @@
+Ausrichtung auf mehrere TFMs oder Verwendung von neuerem C# auf älteren TFMs. Polyfill-Strategie, API-kompatibel.

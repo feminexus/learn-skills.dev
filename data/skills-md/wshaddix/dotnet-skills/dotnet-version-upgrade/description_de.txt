@@ -1,0 +1,1 @@
+Upgrade von .NET auf ein neueres TFM. LTS-zu-LTS, bereitgestellt über STS, Vorschau, Upgrade-Pfade.

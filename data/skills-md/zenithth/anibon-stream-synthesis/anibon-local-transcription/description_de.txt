@@ -1,0 +1,1 @@
+Transkribieren Sie YouTube-Audio lokal mit whisper.cpp, wenn YouTube keine Untertitel oder automatischen Untertitel hat. Alternativer Pfad, geladen von anibon-timestamper.

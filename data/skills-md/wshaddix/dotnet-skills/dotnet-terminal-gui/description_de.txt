@@ -1,0 +1,1 @@
+Erstellen vollständiger TUI-Apps. Terminal.Gui v2: Ansichten, Layout (Pos/Dim), Menüs, Dialoge, Bindungen, Themen.

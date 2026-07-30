@@ -1,0 +1,1 @@
+Erkennen von API-Änderungen in CI. PublicApiAnalyzers, Snapshots überprüfen, Änderungsdurchsetzung unterbrechen.

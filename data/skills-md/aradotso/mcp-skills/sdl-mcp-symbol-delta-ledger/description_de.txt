@@ -1,0 +1,1 @@
+Richtlinienzentrierte Kontextbudgetschicht, die umfangreiche Codebasen mithilfe von Symboldiagrammen und Präzisionswerkzeugen in kompakten, signalstarken Kontext für KI-Codierungsagenten umwandelt

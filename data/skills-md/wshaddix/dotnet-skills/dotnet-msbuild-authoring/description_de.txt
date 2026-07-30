@@ -1,0 +1,1 @@
+Erstellen von MSBuild-Zielen, Requisiten oder Bedingungen. Benutzerdefinierte Ziele, Inkrementalität, Build-Muster.

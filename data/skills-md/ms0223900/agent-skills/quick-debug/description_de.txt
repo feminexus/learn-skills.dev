@@ -1,0 +1,1 @@
+Schnelle Triage von unerwartetem Verhalten – Ebene, Beweise, Risiken, nächste Lösung. Verwendung bei falschem Status, API-Fehlern, fehlerhafter Benutzeroberfläche und Leistung. Reine Renderpfad-Fragen → `/find-component-render-path`. Erreichbar über „/fix“, wenn die Ursache ein unscharfes Verhalten/Datenfluss ist.

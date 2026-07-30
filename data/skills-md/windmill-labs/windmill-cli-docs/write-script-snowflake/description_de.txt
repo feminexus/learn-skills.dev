@@ -1,0 +1,1 @@
+MUSS beim Schreiben von Snowflake-Abfragen verwendet werden.

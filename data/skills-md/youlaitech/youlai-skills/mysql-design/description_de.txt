@@ -1,0 +1,1 @@
+Designstandards für MySQL-Datenbanken. Nutzen Sie diese Fertigkeit beim Entwerfen von Tabellenstrukturen, Feldtypen, Indizes oder Namenskonventionen für MySQL-Datenbanken.

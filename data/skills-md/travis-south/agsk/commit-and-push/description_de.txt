@@ -1,0 +1,1 @@
+Überprüfen, committen und pushen Sie aktuelle Git-Änderungen mit einem vom Zweig abgeleiteten konventionellen Commit-Bereich.

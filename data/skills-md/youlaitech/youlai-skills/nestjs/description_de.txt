@@ -1,0 +1,1 @@
+NestJS-Backend-Entwicklungsstandards. Nutzen Sie diese Fähigkeit, wenn Sie NestJS-Projekte entwickeln, REST-APIs implementieren, TypeORM, JWT-Authentifizierung oder Berechtigungskontrolle verwenden.

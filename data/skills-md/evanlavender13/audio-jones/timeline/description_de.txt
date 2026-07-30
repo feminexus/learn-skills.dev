@@ -1,0 +1,1 @@
+Wird zum Generieren einer Projektmeilenstein-Zeitleiste aus dem Git-Verlauf verwendet. Wird bei „Zeitleiste“, „Meilensteinen“, „Projektverlauf“ ausgelöst oder wenn der Benutzer die Geschichte der Projektentwicklung sehen möchte.

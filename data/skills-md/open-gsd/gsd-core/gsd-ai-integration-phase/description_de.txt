@@ -1,0 +1,1 @@
+Generieren Sie einen AI-SPEC.md-Designvertrag für Phasen, die den Aufbau von KI-Systemen beinhalten.

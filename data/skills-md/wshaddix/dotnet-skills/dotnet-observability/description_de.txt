@@ -1,0 +1,1 @@
+Beobachtbarkeit hinzufügen. OpenTelemetry-Traces/Metriken/Protokolle, Gesundheitsprüfungen, benutzerdefinierte Metriken.

@@ -1,0 +1,1 @@
+Konfigurieren und testen Sie gängige Netzwerkdienste (HTTP, HTTPS, SNMP, SMB) für Penetrationstest-Laborumgebungen. Ermöglichen Sie praktische Übungen mit Dienstaufzählung, Protokollanalyse und Sicherheitstests anhand ordnungsgemäß konfigurierter Zielsysteme.

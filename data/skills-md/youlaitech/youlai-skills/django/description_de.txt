@@ -1,0 +1,1 @@
+Django REST Framework Backend-Entwicklungsstandards. Nutzen Sie diese Fähigkeit, wenn Sie Django-Projekte entwickeln, REST-APIs mit DRF ViewSets, Serializern oder JWT-Authentifizierung implementieren.

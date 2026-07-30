@@ -1,0 +1,1 @@
+Schreiben Sie unterstützte Speicherdateien in natürlicher Sprache (CLAUDE.md, Aufgaben, Einstellungen) in ein prägnantes Hui-Format um. Behält die geschützte Struktur bei und schreibt ein für Menschen lesbares FILE.original.md-Backup. Auslöser: /hui-compress FILEPATH oder „Speicherdatei komprimieren“

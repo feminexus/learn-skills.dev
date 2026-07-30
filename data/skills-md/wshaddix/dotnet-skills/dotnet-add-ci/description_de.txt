@@ -1,0 +1,1 @@
+Hinzufügen von CI/CD zu einem .NET-Projekt. GitHub-Aktionen vs. Azure DevOps-Erkennung, Workflow-Vorlagen.

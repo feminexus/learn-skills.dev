@@ -1,0 +1,1 @@
+Beheben Sie ESLint-, TypeScript-, Test- oder Build-Fehler mit klarer Tool-Ausgabe – reproduzieren, klassifizieren, Hypothesen aufstellen, Grundursache beheben, grün erneut überprüfen. Verwenden Sie diese Option, wenn der Benutzer lint/tsc/test/build-Fehler einfügt oder „修這個錯誤／測試過不了／type error／build 失敗“ sagt. Erreichbar über „/next-task“ bei fehlgeschlagenen Ausführungen.

@@ -1,0 +1,1 @@
+Browserbasierte Schnittstelle zum Anzeigen und Filtern des Anrufverlaufs des OpenClaw-Sitzungstools ohne Abhängigkeiten für die Bereitstellung im lokalen Netzwerk.

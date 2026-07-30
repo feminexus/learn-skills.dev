@@ -1,0 +1,1 @@
+Debuggen und beheben Sie Sling-Verbindungs-, Replikations- und API-Probleme. Verwenden Sie diese Option, wenn Sie auf Fehler stoßen, Verbindungsfehler debuggen, Authentifizierungsprobleme beheben, Typkonvertierungsprobleme lösen, Speicher-/Leistungsprobleme behandeln oder API-Ratenbeschränkungen beheben.

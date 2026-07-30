@@ -1,0 +1,1 @@
+MCP-Server, der KI-Assistenten mit der Shopify Admin GraphQL-API für die Verwaltung von Produkten, Bestellungen, Kunden, Inventar und Metafeldern verbindet

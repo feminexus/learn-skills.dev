@@ -1,0 +1,1 @@
+Führen Sie einzelne C#-Programme als Skripte aus, um schnell zu experimentieren, Prototypen zu erstellen und Konzepte zu testen. Verwenden Sie diese Option, wenn der Benutzer ein kleines C#-Programm schreiben und ausführen möchte, ohne ein vollständiges Projekt zu erstellen.

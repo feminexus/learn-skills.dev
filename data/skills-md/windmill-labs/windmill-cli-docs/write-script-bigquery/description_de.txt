@@ -1,0 +1,1 @@
+MUSS beim Schreiben von BigQuery-Abfragen verwendet werden.

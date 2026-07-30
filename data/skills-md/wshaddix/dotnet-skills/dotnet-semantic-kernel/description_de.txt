@@ -1,0 +1,1 @@
+Erstellen von KI/LLM-Funktionen. Semantischer Kernel-Setup, Plugins, Eingabeaufforderungsvorlagen, Speicherspeicher, Agenten.

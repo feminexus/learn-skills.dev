@@ -1,0 +1,1 @@
+Iblock-Typen/Elemente/Abschnitte, ORM-CompileEntity, Eigenschaften, SEO-Vorlagen. Für Content-iblock-Arbeiten verwenden.

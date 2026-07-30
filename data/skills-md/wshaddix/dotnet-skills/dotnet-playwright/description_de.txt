@@ -1,0 +1,1 @@
+Browsertests in .NET automatisieren. Playwright E2E, CI-Browser-Caching, Trace-Viewer, Codegen.

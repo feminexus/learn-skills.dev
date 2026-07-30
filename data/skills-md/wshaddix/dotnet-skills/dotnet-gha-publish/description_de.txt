@@ -1,0 +1,1 @@
+Veröffentlichen von .NET-Artefakten aus GitHub-Aktionen. NuGet-Push, Containerbilder, Signierung, SBOM.

@@ -1,0 +1,1 @@
+Klonen Sie den visuellen Designstil einer Website und wenden Sie ihn auf das aktuelle Projekt an. Extrahiert Farben, Typografie, Abstände und Komponentenmuster und erstellt dann die Benutzeroberfläche entsprechend neu. Auslösen mit /clone-style <URL>.

@@ -1,0 +1,1 @@
+Anti-Slop-Frontend-Fähigkeit für Landingpages, Portfolios und Redesigns. Der Agent liest das Briefing, leitet die richtige Designrichtung ab und versendet Schnittstellen, die nicht wie eine Vorlage aussehen. Gegebenenfalls reale Designsysteme, Audit-First bei Neudesigns, strenge Prüfung vor dem Flug.

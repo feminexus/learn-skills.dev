@@ -1,0 +1,1 @@
+Erstellen von .editorconfig-Regeln. IDE/CA-Schweregrad, AnalysisLevel, Globalconfig, Durchsetzung des Codestils.

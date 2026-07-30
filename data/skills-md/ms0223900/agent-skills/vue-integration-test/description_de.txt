@@ -1,0 +1,1 @@
+Anleitungen zum Schreiben von Vue 2-Komponentenintegrationstests mit @vue/test-utils + Jest + Vuex. Verwenden Sie diese Option, wenn der Benutzer eine „.integration.test.ts“/„.js“ für eine Vue-Komponente hinzufügen, die gerenderte Ausgabe anhand von Fixtures testen oder speichergesteuerte Renderpfade überprüfen möchte.

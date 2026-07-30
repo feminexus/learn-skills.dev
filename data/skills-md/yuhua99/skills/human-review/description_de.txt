@@ -1,0 +1,1 @@
+Erklären Sie einem menschlichen Prüfer eine Codeänderung. Verwenden Sie diese Option nur, wenn der Benutzer ausdrücklich angibt, dass er die Änderung selbst überprüfen wird.

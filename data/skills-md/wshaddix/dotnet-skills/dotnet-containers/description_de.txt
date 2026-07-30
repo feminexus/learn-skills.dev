@@ -1,0 +1,1 @@
+Containerisieren von .NET-Apps. Mehrstufige Docker-Dateien, SDK-Container-Veröffentlichung (.NET 8+), rootless.

@@ -1,0 +1,1 @@
+Entwerfen einer Datenschichtarchitektur. Lese-/Schreibaufteilung, Aggregatgrenzen, N+1-Governance.

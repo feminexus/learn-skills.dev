@@ -1,0 +1,1 @@
+Verwendung von Producer/Consumer-Warteschlangen. Kanal<T>, begrenzt/unbegrenzt, Gegendruck, Ablaufmuster

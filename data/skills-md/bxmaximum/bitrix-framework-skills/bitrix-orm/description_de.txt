@@ -1,0 +1,1 @@
+D7 ORM-Tablets, ConditionTree-Abfragen, Objectify, Batch/Merge/DeleteByFilter-Schreibvorgänge. Verwendung für Entitätsdesign, Lesevorgänge und Persistenz.

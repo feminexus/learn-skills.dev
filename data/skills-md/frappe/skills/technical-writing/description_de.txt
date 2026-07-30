@@ -1,0 +1,1 @@
+Schreiben Sie Prosa in „Simplified Technical English“. Dies gilt für Dokumentation, READMEs, Commits, Pull Request, Pläne und Versionshinweise. Sie gilt nicht für Code, Identifikatoren, Marketingtexte, Aufsätze oder alles, was eine Stimme benötigt.

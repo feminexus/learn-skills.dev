@@ -1,0 +1,1 @@
+Erstellen Sie ein Gerüst für einen neuen Obsidian-Tresor mit vorkonfigurierten Einstellungen, Tastaturbelegungen und Kern-Plugins. Verwenden Sie diese Option, wenn der Benutzer „einen neuen Obsidian-Tresor einrichten“, „einen Obsidian-Tresor erstellen“ oder „mein Obsidian-Setup replizieren“ möchte.

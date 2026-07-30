@@ -1,0 +1,1 @@
+Verwenden des Ausgabelayouts für Artefakte. UseArtifactsOutput, ArtifactsPath, Auswirkungen auf CI und Docker.

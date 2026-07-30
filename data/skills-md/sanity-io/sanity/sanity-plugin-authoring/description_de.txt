@@ -1,0 +1,1 @@
+Erklären und erstellen Sie Sanity Studio-Plugins mithilfe der öffentlichen Plugin- und Tool-APIs. Verwenden Sie diese Option, wenn Sie benutzerorientierte Plugins erstellen, Tools über Plugins hinzufügen oder wenn ein Agent verstehen muss, was ein Sanity-Plugin konfigurieren kann, bevor er eine monorepospezifische Standard-Plugin-Verkabelung anwendet.

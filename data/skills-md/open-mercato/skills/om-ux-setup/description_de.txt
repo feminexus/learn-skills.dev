@@ -1,0 +1,1 @@
+Extrahieren Sie den Designvertrag des Repositorys (Tokens, Komponentenregistrierung, Bildschirmarchetypen, Konventionen) in .uxproof/, damit jede UX-Fähigkeit anhand des Designsystems DIESES Repos beurteilt wird, was auch immer es ist. Einmal pro Repository ausführen; Nach Änderungen am Designsystem zur Aktualisierung erneut ausführen.

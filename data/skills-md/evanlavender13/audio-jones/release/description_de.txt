@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie eine mit Tags versehene Version mit Änderungsprotokoll erstellen. Wird bei „Veröffentlichung“, „Tag einer Veröffentlichung“, „Ausschneiden einer Veröffentlichung“ oder bei der Bereitschaft zur Veröffentlichung einer neuen Version ausgelöst.

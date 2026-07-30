@@ -1,0 +1,1 @@
+Integrieren Sie den Live-Tennis-API-MCP-Server, um KI-Agenten Tennisergebnisse, Quoten und Gewinnwahrscheinlichkeiten in Echtzeit bereitzustellen

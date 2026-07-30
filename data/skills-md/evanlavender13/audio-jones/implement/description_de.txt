@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie einen Funktionsplan mit wellenbasierten parallelen Agenten ausführen. Wird ausgelöst bei „diesen Plan implementieren“, „mit dem Erstellen beginnen“ oder wenn ein Plan in docs/plans/ vorhanden ist und der Benutzer mit dem Codieren beginnen möchte.

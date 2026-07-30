@@ -1,0 +1,1 @@
+Zeigen Sie die tatsächliche Token-Nutzung und die geschätzten Einsparungen für die aktuelle Sitzung an. Liest direkt aus dem Claude Code-Sitzungsprotokoll – keine KI-Schätzung. Wird auf /caveman-stats ausgelöst. Die Ausgabe wird vom Mode-Tracker-Hook injiziert; Das Modell selbst berechnet die Zahlen nicht.

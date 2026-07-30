@@ -1,0 +1,1 @@
+Die SESSION EPISODE ist eine episodische Episode, in der die Erinnerung gespeichert ist [[Wikilink]]. Von mem-rank.py (Engine). Auf Anfrage, automatischer KHÔNG-Hook (ADR-004). Auslöser: „Ghi-Episode“, „Episode aufzeichnen“, „Episode aufzeichnen“, „Episode aufzeichnen“, „Episode aufzeichnen“, „/Episode aufzeichnen“.

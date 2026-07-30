@@ -1,0 +1,1 @@
+Wird beim Erstellen eines Git-Commits für bereitgestellte oder nicht bereitgestellte Änderungen verwendet. Wird ausgelöst, wenn „dies festschreiben“, „meine Änderungen speichern“ oder wenn die Implementierungsarbeit abgeschlossen ist und eine Versionskontrolle erforderlich ist.

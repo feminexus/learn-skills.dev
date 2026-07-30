@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn der Benutzer Code auf Testabdeckung analysieren, die benötigten Testfälle auflisten oder die Teststrategie überprüfen möchte – OHNE tatsächlichen Testcode zu generieren.

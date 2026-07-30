@@ -1,0 +1,1 @@
+Sokratische Codeüberprüfungs- und Refactoring-Sitzung – egal, ob es sich um Ihren eigenen Code, die PR eines Teamkollegen oder etwas handelt, das Sie geerbt haben. Führt Sie durch Fragen dazu, die Probleme zu erkennen, benennt Gerüche und Bewegungen präzise und schließt dann mit einem konkreten Plan ab.

@@ -1,0 +1,1 @@
+Dies ist ein einzeiliger Trace 1 zum Genehmigen/Zurückgeben/Ablehnen des DMS-Protokolls BE (Docker) + FE-Proxy, Erstellen einer .sh-Datei für den Benutzer zum Kopieren/Einfügen auf dem Produktserver. Dies bedeutet für den Benutzer „Prüfung genehmigen“, „Prüfung muss <CODE> anfordern“, „Treo / Prüfung genehmigen“, „/check-approve“.

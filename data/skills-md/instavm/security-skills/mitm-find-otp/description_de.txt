@@ -1,0 +1,1 @@
+Finden Sie Schwachstellen bei der OTP-Implementierung. Verwenden Sie diese Option, wenn der Benutzer nach OTP-Sicherheit, Überprüfungsumgehung, SMS-Sicherheit oder Problemen mit der Zwei-Faktor-Authentifizierung fragt.

@@ -1,0 +1,1 @@
+Fragen Sie Pro-Workflow-Wikis über den SQLite FTS5 BM25-Abruf ab. Gibt Top-K-Passagen mit Zitaten zurück. Verwenden Sie diese Option, wenn Sie eine Frage beantworten, die bereits in einem der Wikis des Benutzers behandelt wird, wenn der Benutzer sagt: „Was sagt das Wiki über

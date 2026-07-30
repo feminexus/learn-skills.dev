@@ -1,0 +1,1 @@
+Verwenden Sie Vaxis für Anfragen zum Erstellen, Aktualisieren, Überprüfen, Erklären oder Teilen von Architekturdiagrammen, Mermaid-Diagrammen, Flussdiagrammen, Arbeitsabläufen, Sequenzdiagrammen, ER-Diagrammen, Zustandsdiagrammen, Roadmaps und visuellen Systemdesigns.

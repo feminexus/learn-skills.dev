@@ -1,0 +1,1 @@
+Löschen Sie einen KI-Agenten von einem Live-LiteLLM-Proxy. Fragen Sie nach der agent_id und bestätigen Sie diese, bevor Sie DELETE /v1/agents/{agent_id} aufrufen.

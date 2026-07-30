@@ -1,0 +1,1 @@
+Initialisieren und überprüfen Sie einen Avalanche-Workflow-Arbeitsbereich mit bearbeitbaren lokalen Klonen von Avalanche und PredictRLM unter .trampoline-ai und dem im Projektumfang installierten Avalanche-Authoring-Skill. Nur verwenden, wenn jemand einen Arbeitsbereich einrichten, booten oder vorbereiten möchte; Es entwirft oder erstellt nicht den Arbeitsablauf des Benutzers.

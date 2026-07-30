@@ -1,0 +1,1 @@
+Umgehen Sie die Beschränkungen der Figma-API, indem Sie Live-Dokumentdaten vom Figma-Plugin über den MCP-Server für Design-to-Code-Workflows an KI-Tools streamen

@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie eine implementierte Funktion anhand ihres Plandokuments überprüfen. Wird nach Abschluss der Implementierung, bei „Überprüfen“ oder bei der Überprüfung, ob der Code mit der Spezifikation übereinstimmt, ausgelöst.

@@ -1,0 +1,1 @@
+Professionelle Browserautomatisierung für Claude Code-, Codex- und MCP-Clients, unterstützt durch DrissionPage MCP Server

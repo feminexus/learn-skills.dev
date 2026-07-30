@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn der Benutzer Playwright-Tests (Komponente oder API) für TypeScript-/JavaScript-Code generieren, erstellen oder schreiben möchte. Analysiert die Zielkomponente oder API-Route, erstellt eine strukturierte Testfallliste zur Überprüfung und generiert dann Playwright-Spezifikationen mithilfe des Page Object Model (POM).

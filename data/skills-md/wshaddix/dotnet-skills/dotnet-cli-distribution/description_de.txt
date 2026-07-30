@@ -1,0 +1,1 @@
+Auswählen des CLI-Ausgabeformats. AOT vs. Framework-abhängiges, RID-Matrix-, Einzeldatei-, Dotnet-Tool.

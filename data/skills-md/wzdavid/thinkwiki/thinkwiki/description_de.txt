@@ -1,0 +1,1 @@
+Verwenden Sie diese Fähigkeit, wenn der Benutzer eine lokale Markdown-Wissensdatenbank erstellen, verwalten, abfragen oder visualisieren möchte. ThinkWiki kann ein Wiki initialisieren, Dateien oder Webseiten importieren, Posteingangselemente sammeln, aus vorhandenem Wissen antworten, höherwertige Ausgaben speichern und HTML-Viewer- und Diagrammartefakte generieren.

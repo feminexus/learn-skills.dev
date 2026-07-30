@@ -1,0 +1,1 @@
+Finden Sie aufzählbare Endpunkte, die durch Iteration Daten verlieren. Verwenden Sie diese Option, wenn der Benutzer nach Data Scraping, Massendatenzugriff oder Iteration durch Datensätze fragt.

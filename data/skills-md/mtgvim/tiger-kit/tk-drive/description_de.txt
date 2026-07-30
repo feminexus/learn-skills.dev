@@ -1,0 +1,1 @@
+[Benutzer] Bereiten Sie eine explizite Quelle vor und fahren Sie automatisch mit versiegelter Implementierung, überprüften Unit-Commits, aggregierter Überprüfung und Reflexion in einem aktiven Lauf fort. Nur verwenden, wenn dies explizit mit einer Quelle ausgewählt wird oder wenn die ausstehende Entscheidung dieser Fertigkeit im selben Gespräch fortgeführt wird.

@@ -1,0 +1,1 @@
+Finden Sie SQL-Injection-Schwachstellen im erfassten Datenverkehr. Verwenden Sie diese Option, wenn der Benutzer nach Datenbanksicherheit, Injektionsangriffen oder Datenextraktion fragt.

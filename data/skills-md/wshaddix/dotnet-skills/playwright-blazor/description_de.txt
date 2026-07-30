@@ -1,0 +1,1 @@
+End-to-End-Testmuster für Blazor-Anwendungen mit Playwright, einschließlich Komponententests und Seitennavigation. Verwenden Sie diese Option, wenn Sie E2E-Tests für Blazor-Anwendungen schreiben, Blazor-Komponenteninteraktionen mit Playwright testen oder eine Playwright-Testinfrastruktur für Blazor-Apps einrichten.

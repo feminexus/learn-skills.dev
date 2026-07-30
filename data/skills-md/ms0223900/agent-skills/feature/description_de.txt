@@ -1,0 +1,1 @@
+Implementieren Sie eine Produktfunktion gemäß dem US-Standard „Test-First/Test-After/Exploratory“. Verwenden Sie diese Option, wenn der Benutzer eine Funktion hinzufügen, ändern oder entfernen möchte oder wenn eine Änderung möglicherweise weitreichende Auswirkungen hat. Erreichbar über „/next-task“, wenn eine Feature-Aufgabe gesendet wird.

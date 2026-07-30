@@ -1,0 +1,1 @@
+Veröffentlichen von .NET-Artefakten aus Azure DevOps. NuGet-Push, Container zu ACR, Pipeline-Artefakte.

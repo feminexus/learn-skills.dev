@@ -1,0 +1,1 @@
+Regelmäßige Wiki-Gesundheitsprüfung – Waisen, fehlende Links, Widersprüche, veraltet (Wiki→Wiki-VÀ-Code→Wiki-Drift), Indexlücken. Neues 0-Loch-No-Op-Protokoll (Wiki-Synchronisierung, 0-Token) – Code, der neu ist, um „Wiki aktuell“ zu verwenden und ein Update durchzuführen.

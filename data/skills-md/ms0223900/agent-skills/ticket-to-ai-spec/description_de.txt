@@ -1,0 +1,1 @@
+Wandelt Rohtickets in maschinenlesbare KI-Agent-Entwicklungsspezifikationen um, indem Anforderungen geklärt und Akzeptanzkriterien und technische Grenzen definiert werden. Verwenden Sie diese Option, wenn der Benutzer Ticketinhalte einfügt oder auf Tickets, User Stories oder Akzeptanzkriterien verweist und KI-fähige Implementierungsspezifikationen wünscht.

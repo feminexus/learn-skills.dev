@@ -1,0 +1,1 @@
+MCP-Server für die Browserautomatisierung mithilfe natürlicher Sprache durch kogiQA, der es KI-Agenten ermöglicht, mit Webseiten ohne Selektoren zu interagieren

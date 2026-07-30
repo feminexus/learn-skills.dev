@@ -1,0 +1,1 @@
+Sie MÜSSEN dies verwenden, wenn ein genehmigtes Design oder festgelegte Anforderungen einen detaillierten mehrstufigen Implementierungsplan erfordern, bevor Codeänderungen beginnen.

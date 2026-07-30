@@ -1,0 +1,1 @@
+Erstellen von Mermaid-Diagrammen für .NET. Architektur, Sequenz, Klasse, Bereitstellung, ER, Flussdiagramme.

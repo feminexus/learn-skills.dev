@@ -1,0 +1,1 @@
+Front-Door-On-Demand-Lösung für das Drei-Framework HOẶC-Destillation/Autor-Machalität – SELF-CONTAINED, mit dem Namen „BẤT KỲ Project“ (mit Datei-Repo-lokal). Wenn Sie ein Chinesisch-Framework haben, müssen Sie Ihr Wissen/Ihre Fähigkeiten in die Praxis umsetzen. KHÔNG dùng cho dev tính năng dự án thường (đó là phần lớn phiên – ADR-004).

@@ -1,0 +1,1 @@
+Strukturierung der CLI-App-Ebenen. Befehls-/Handler-/Diensttrennung, clig.dev-Prinzipien, Exit-Codes.

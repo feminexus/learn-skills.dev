@@ -1,0 +1,1 @@
+Umgang mit Geheimnissen oder sensiblen Konfigurationen. Benutzergeheimnisse, Umgebungsvariablen, Rotation.

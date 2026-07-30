@@ -1,0 +1,1 @@
+Admin- und Debugging-Tool für die Truto-Plattform. Zum Einrichten von Integrationen, zum Verwalten von Konten, zum Erkunden von Ressourcen, zum Exportieren von Daten und zum Debuggen von API-Aufrufen vom Terminal aus. Generiert keinen Anwendungscode.

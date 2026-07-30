@@ -1,0 +1,1 @@
+MUSS beim Schreiben von Go-Skripten verwendet werden.

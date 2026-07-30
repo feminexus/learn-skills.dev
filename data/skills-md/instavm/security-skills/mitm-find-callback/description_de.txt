@@ -1,0 +1,1 @@
+Finden Sie Sicherheitslücken bei Zahlungsrückrufen und Webhooks. Verwenden Sie diese Option, wenn der Benutzer nach Zahlungssicherheit, Rückrufmanipulation, Hash-Validierung oder Transaktionsmanipulation fragt.

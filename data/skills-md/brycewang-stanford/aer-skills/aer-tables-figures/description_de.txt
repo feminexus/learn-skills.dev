@@ -1,0 +1,1 @@
+Verwenden Sie es, wenn Sie Regressionstabellen, deskriptive Statistiktabellen oder Zahlen erstellen oder überarbeiten, nachdem die Ergebnisse geschätzt wurden und bevor Sie ein AER-, AER:Insights- oder AEJ-Manuskript einreichen. Implementiert den AER-Booktabs-Hausstil, das Layout der Regressionstabelle und die Konventionen für Abbildungen und Notizen.

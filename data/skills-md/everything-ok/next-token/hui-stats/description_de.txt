@@ -1,0 +1,1 @@
+Zeigt die beobachtete lokale Token-Nutzung für die aktuelle Claude Code-Sitzung an. Liest das Sitzungsprotokoll direkt. Wird auf /hui-stats ausgelöst. Die Ausgabe wird durch den Mode-Tracker-Hook injiziert; Das Modell berechnet keine Zahlen.

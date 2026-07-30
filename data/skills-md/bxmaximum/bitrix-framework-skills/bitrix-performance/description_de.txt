@@ -1,0 +1,1 @@
+Deckt die Leistung von Bitrix ab – zusammengesetzte Site, Abfrageoptimierung, Replikation/Clustering, Sharding, Hot/Cold-Sitzungen. Wird für eine Hochlastoptimierung angewendet, die über das grundlegende Caching hinausgeht. Schlüsselbegriffe – Composite, NGINX, Replikation, Sharding, Abfrageoptimierung.

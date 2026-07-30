@@ -1,0 +1,1 @@
+.NET-Tools installieren oder verwalten. Global, lokal, Manifeste, Wiederherstellung, Versionsfixierung.

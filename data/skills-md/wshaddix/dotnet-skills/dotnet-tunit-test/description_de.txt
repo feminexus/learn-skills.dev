@@ -1,0 +1,1 @@
+Richtlinien zum Schreiben von TUnit-Tests in .NET, einschließlich Einrichtung, Behauptungen, asynchronem Testen und Best Practices. Verwenden Sie diese Option, wenn Sie Unit-Tests mit dem TUnit-Framework schreiben, TUnit in einem .NET-Projekt einrichten oder von anderen Test-Frameworks auf TUnit migrieren.

@@ -1,0 +1,1 @@
+Leitfaden zum Hinzufügen neuer AI SDK-Harness-Pakete. Verwenden Sie diese Option, wenn Sie ein neues @ai-sdk/harness-<name>-Paket erstellen, das eine Coding-Agent-Laufzeit an HarnessV1 anpasst.

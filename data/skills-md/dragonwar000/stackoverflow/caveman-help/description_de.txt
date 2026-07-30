@@ -1,0 +1,1 @@
+Kurzübersichtskarte für alle Höhlenmensch-Modi, Fertigkeiten und Befehle. One-Shot-Anzeige, kein permanenter Modus. Auslöser: /caveman-help, „caveman help“, „was Caveman befiehlt“, „wie verwende ich Caveman“.

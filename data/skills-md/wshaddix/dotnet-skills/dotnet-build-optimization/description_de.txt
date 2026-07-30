@@ -1,0 +1,1 @@
+Diagnose langsamer Builds oder inkrementeller Fehler. Binäre Protokolle, parallele Builds, Wiederherstellung.

@@ -1,0 +1,1 @@
+Generieren einer API-Dokumentation. DocFX-Setup, OpenAPI-as-docs, Dokumentcode-Synchronisierung, versionierte Dokumente.

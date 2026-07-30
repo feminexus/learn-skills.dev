@@ -1,0 +1,1 @@
+Generieren und verwalten Sie llms.txt-Dateien für die KI-Erkennbarkeit. Durchsucht Repos, um kuratierte Inhaltskarten zu erstellen, die KI-Antwort-Engines dabei helfen, Ihr Projekt präzise darzustellen. Implementiert die llms.txt-Spezifikation von Answer.AI.

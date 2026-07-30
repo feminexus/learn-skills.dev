@@ -1,0 +1,1 @@
+Ausführen von C# ohne Projektdatei (.NET 10 SDK). Anweisungen, CLI-Befehle, Migration.

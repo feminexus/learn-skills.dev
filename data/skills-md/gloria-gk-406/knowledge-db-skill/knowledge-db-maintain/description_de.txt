@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie eine lokale kb-core@2-Markdown-Wissensdatenbank mit kanonischen Informationen und Wissenseintragsvorlagen, paketdefinierten Metadaten, eigenständiger Validierung, generischen Filtern, Herkunftsverfolgung oder metadatenorientierter Suche erstellen oder verwalten.

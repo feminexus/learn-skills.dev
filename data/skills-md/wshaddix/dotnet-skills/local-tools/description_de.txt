@@ -1,0 +1,1 @@
+Best Practices für die Arbeit mit lokalen .NET-Tools, einschließlich Manifestverwaltung, Toolinstallation und Versionierung. Verwenden Sie diese Option, wenn Sie dotnet-tools.json für ein Projekt einrichten, lokale Tools installieren oder aktualisieren oder Toolversionen für alle Teammitglieder verwalten.

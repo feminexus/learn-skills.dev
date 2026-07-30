@@ -1,0 +1,1 @@
+CLI für Microsoft 365 (m365): Gemeinsame Muster für Authentifizierung, Installation, Ausgabeformatierung und allgemeine Flags. Verwenden Sie diese Option, wenn der Benutzer „m365-Anmeldung“, „m365-Setup“, „Microsoft 365-Konto hinzufügen“, „m365-Status“, „für ein Microsoft-Konto“ erwähnt oder wenn ein anderer m365-*-Skill eine Authentifizierung/gemeinsame Musterreferenz benötigt.

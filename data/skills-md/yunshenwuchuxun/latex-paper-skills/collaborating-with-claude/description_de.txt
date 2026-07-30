@@ -1,0 +1,1 @@
+Nutzen Sie die Claude Code CLI als Tiefenanalyse-Copilot für Paper-from-Zero. Hauptaufgabe: Komprimierung des Anspruchsbaums, Erkennung logischer Lücken, Prüfung der Evidenzgenügsamkeit und Überprüfung/empirische Routing-Beurteilung. Unterstützt auch generische Code-Zusammenarbeit als Fallback.

@@ -1,0 +1,1 @@
+API-Authentifizierung implementieren. Identität, OAuth/OIDC, JWT-Träger, Passkeys (WebAuthn), CORS, Ratenbegrenzung.

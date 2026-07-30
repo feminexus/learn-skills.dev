@@ -1,0 +1,1 @@
+Fragen Sie „.belief_map.sexp“ vor nicht trivialen Codeänderungen ab, um Modulgrenzen, Abhängigkeiten, Explosionsradius und die minimal zu lesenden Dateien zu finden. Verwendung für Architekturerkennung, Auswirkungsanalyse und Grenzprüfungen.

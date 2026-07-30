@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn aer-identification das Design festgelegt hat, nach der Auswahl der Methodik und vor aer-robustness oder aer-tables-figures, um eine AER-Track-Analyse mit StatsPAI durchzuführen – der agentennativen Python-Engine und dem MCP-Server für kausale Schlussfolgerung, Robustheit, Sensitivität und publikationsbereiten Tabellenexport.

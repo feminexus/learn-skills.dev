@@ -1,0 +1,1 @@
+Es handelt sich um ein Agent-Framework 30-Paket, mit dem Sie Overstack theo 8 (Frontier-Gap-Scan-Runbook) erstellen können – SOFORT, mit Cron-Code. Version 5: WebSearch, Benutzername/Benutzername/Thua, Diff-Suche, Erhöhung des Problems bei Gap Mới / Cập Nhật Gap, Cập Nhật Report. Auslöser: 'frontier scan', 'quét đối thủ', 'scout tuần', 'chúng ta thua gì', '/frontier-scan'.

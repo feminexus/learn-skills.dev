@@ -1,0 +1,1 @@
+Es handelt sich um eine Vorlage mit dem Namen „pattern chuẩn“ – ein Muster, das lokal driftet und /sync-template für Remote-Inhalte verwendet. Also version.json lokal ↔ remote ↔ Festplatte (0 Token, Fail-Open). Auslöser: „Health Check“, „Check Pattern“, „Cần Sync Chưa“, „/Health-Check“.

@@ -1,0 +1,1 @@
+Mit Hurl-Textdateien können Sie HTTP-Anfragen sicher schreiben, ausführen und bestätigen. Löst API-Tests, HTTP-Anforderungsgenerierung, REST/GraphQL-Validierung oder die Erwähnung von .hurl-Dateien aus. Verwenden Sie diesen Skill NICHT für UI-/Browsertests oder für interne Unit-Tests.

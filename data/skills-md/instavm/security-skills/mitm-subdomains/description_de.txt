@@ -1,0 +1,1 @@
+Zählen Sie Subdomains aus dem erfassten Datenverkehr auf. Verwenden Sie diese Option, wenn der Benutzer nach der Erkennung von Subdomänen, der Zuordnung von Angriffsflächen oder der Aufklärung von Domänen fragt.

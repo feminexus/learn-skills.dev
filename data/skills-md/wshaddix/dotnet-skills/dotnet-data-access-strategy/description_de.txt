@@ -1,0 +1,1 @@
+Auswahl eines Datenzugriffsansatzes. EF Core vs. Dapper vs. ADO.NET Entscheidungsmatrix, Leistungskompromisse.

@@ -1,0 +1,1 @@
+Paralleles Codebase-Onboarding – destillierte „Alles verstehen“-Pipeline (Scan + Git-Verlauf + Batch-Analyse + Ebenen/Tour, kein Plugin), dann Domain-Anreicherung (Claude), Wiki + HTML über Opencode + DeepSeek Flash v4.

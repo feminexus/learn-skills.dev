@@ -1,0 +1,1 @@
+Verwalten des .NET-Release-Lebenszyklus. NBGV-Versionierung, SemVer, Änderungsprotokolle, Vorabversion, Verzweigung.

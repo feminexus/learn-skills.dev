@@ -1,0 +1,1 @@
+Interner Support-Skill für Agent-Browser-CLI-Workflows, die von Rust-Learner, Docs-Researcher und Crate-Researcher verwendet werden. Nur verwenden, wenn die Browserautomatisierung ausdrücklich erforderlich ist.

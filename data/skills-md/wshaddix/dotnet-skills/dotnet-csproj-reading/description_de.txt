@@ -1,0 +1,1 @@
+Lesen oder Ändern von .csproj-Dateien. Struktur im SDK-Stil, PropertyGroup/ItemGroup, CPM, Requisiten.

@@ -1,0 +1,1 @@
+Erklären und verwenden Sie die Kernkonzepte und APIs von Truto – einheitliche/Proxy-/benutzerdefinierte APIs, integrierte Konten, Umgebungen, Webhooks, Verbindungsflüsse – und schreiben Sie Anwendungscode dafür. Behandelt, was jedes Konzept ist, wie es aufgerufen wird und Datenzugriffsmuster für die Codebasis des Benutzers.

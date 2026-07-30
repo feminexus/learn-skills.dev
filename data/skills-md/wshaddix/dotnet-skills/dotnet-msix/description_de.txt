@@ -1,0 +1,1 @@
+Verpacken von MSIX-Apps. Erstellung, Signierung, Store-Einreichung, App-Installer-Seitenladen, automatische Aktualisierung.

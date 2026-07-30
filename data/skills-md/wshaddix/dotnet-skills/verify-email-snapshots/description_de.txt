@@ -1,0 +1,1 @@
+Muster zur Überprüfung von E-Mail-Snapshots in Tests, um sicherzustellen, dass der E-Mail-Inhalt mit den erwarteten Ausgaben übereinstimmt. Verwenden Sie es, wenn Sie das E-Mail-Rendering in Unit-Tests testen, MJML-Vorlagenausgaben überprüfen oder die Konsistenz von E-Mail-Inhalten über Codeänderungen hinweg sicherstellen.

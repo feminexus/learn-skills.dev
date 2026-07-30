@@ -1,0 +1,1 @@
+Überschreibt das standardmäßige LLM-Kürzungsverhalten. Erzwingt die vollständige Codegenerierung, verbietet Platzhaltermuster und verarbeitet Token-Limit-Aufteilungen sauber. Bewerben Sie sich für jede Aufgabe, die eine umfassende, ungekürzte Ausgabe erfordert.

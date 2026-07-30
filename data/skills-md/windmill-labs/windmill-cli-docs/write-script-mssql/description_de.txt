@@ -1,0 +1,1 @@
+MUSS beim Schreiben von MS SQL Server-Abfragen verwendet werden.

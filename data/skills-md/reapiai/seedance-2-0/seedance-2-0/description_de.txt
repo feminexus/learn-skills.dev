@@ -1,0 +1,1 @@
+Generieren Sie Videos über öffentliche reAPI-APIs mit Seedance 2.0-Modellen (Standard: doubao-seedance-2.0). Erfordert REAPI_API_KEY oder REAPI_KEY von https://reapi.ai.

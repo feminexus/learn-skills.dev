@@ -1,0 +1,1 @@
+Veröffentlichung von CLI-Tools. GitHub Actions Build-Matrix, Artefakt-Staging, Releases, Prüfsummen.

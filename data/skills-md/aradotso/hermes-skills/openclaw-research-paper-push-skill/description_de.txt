@@ -1,0 +1,1 @@
+Planen Sie automatisierte Benachrichtigungen zu Forschungspapieren von OpenAlex mit täglichen chinesischen Zusammenfassungen mithilfe des OpenClaw-Crons

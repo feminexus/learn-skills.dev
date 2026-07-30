@@ -1,0 +1,1 @@
+Mein Raum (Subagent 1 Teil) für den Wiki-Kontext und den verfügbaren Kontext – Tiefenobergrenze = 1, Budgetbegrenzung, Leistungsschalter. Auslöser: „mở room“, „context rot“, „nạp thêm chi tiết wiki“, „đào sâu wiki“, „/wiki-room“.

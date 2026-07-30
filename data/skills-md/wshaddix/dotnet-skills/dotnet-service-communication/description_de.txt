@@ -1,0 +1,1 @@
+Auswahl dienstübergreifender Protokolle. REST vs. gRPC vs. SignalR vs. SSE-Entscheidungsmatrix, Kompromisse.

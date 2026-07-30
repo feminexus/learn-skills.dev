@@ -1,0 +1,1 @@
+Stellen Sie sicher, dass Sie LOCAL (llmwiki/html/ + wiki/sources/draft/) erhalten. Weiter – PROMOTE für Wiki-Inhalte ADR/Konzept (Reisen, Klonen), ARCHIV rendern ephemeral (Vorschlagsvorschlag, Bản Bị thay thế, Bericht → archivieren/), KEEP canonical – NEU INDEXIEREN đầy đủ. Trigger-Khi „dọn docs“, „sắp xếp/merge tài liệu“, „tidy docs“, „html/draft quá nhiều“, „/docs-curate“.

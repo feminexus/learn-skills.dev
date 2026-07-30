@@ -1,0 +1,1 @@
+Finden Sie Schwachstellen in Prüfsummen und Signaturen. Verwenden Sie diese Option, wenn der Benutzer nach Hash-Validierung, Signaturumgehung, Prüfsummenmanipulation oder kryptografischen Schwachstellen fragt.

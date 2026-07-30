@@ -1,0 +1,1 @@
+Verwenden Sie diese Option, wenn Sie eine neue Sitzung starten und mit einer vorherigen Übergabe fortfahren möchten – liest das neueste nicht wiederhergestellte Übergabedokument und stellt den Sitzungskontext wieder her
