@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T10:20:50Z",
+  "updatedAt": "2026-08-02T05:59:01Z",
   "skillsUpdatedAt": "2026-07-30T07:09:36.998Z",
-  "primaryIndexUpdatedAt": "2026-07-30T10:20:05.375Z",
-  "searchIndexUpdatedAt": "2026-07-30T10:20:50Z",
+  "primaryIndexUpdatedAt": "2026-08-02T05:58:53Z",
+  "searchIndexUpdatedAt": "2026-08-02T05:59:01Z",
   "feedUpdatedAt": "2026-07-30T07:09:36.998Z",
   "categoryIndexUpdatedAt": "2026-07-30T10:20:42Z",
   "firstSeenUpdatedAt": "2026-07-30T10:20:05.375Z",
@@ -16,27 +16,27 @@
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-07-30T10:20:05.375Z",
-      "bytes": 56839997,
-      "sha256": "7d0f8c611694937eabd4ca2c582b784767fc53a0fb84f4e77535d5ea4c411126"
+      "updatedAt": "2026-08-02T05:58:53Z",
+      "bytes": 56840189,
+      "sha256": "10ee39c6b2d81ad83de553bfdb7d9e8136b1f4313d24873a74b9376372cd5092"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-07-30T10:20:50Z",
-      "bytes": 187449210,
-      "sha256": "0164e87692c5b1684734bab338ae7272ddfbfc437c932d5d038ef097749cbaf6",
+      "updatedAt": "2026-08-02T05:59:01Z",
+      "bytes": 187583029,
+      "sha256": "3704df50b62bf84d66debb8334b593c70c87cc88beb950f9d9dfa5b44ba349af",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-07-30T10:20:50Z",
-          "bytes": 99997775,
-          "sha256": "1085e146df2997e4b3c0b1db036e6d04ec9ec88e31089168514792c648d79572"
+          "updatedAt": "2026-08-02T05:59:01Z",
+          "bytes": 99999992,
+          "sha256": "26d5a47a26af4040cee9711d1c64ad7bada98dc734c35df7aa5dd73fc93d1f23"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-07-30T10:20:50Z",
-          "bytes": 87451435,
-          "sha256": "6ced028c4279ecd1a5c82a654f7dc8ad8e59e177deb775813f4d8606cbcac95c"
+          "updatedAt": "2026-08-02T05:59:01Z",
+          "bytes": 87583037,
+          "sha256": "90e84e8a2482ab3e38515743f5a49ba1da62d774f096468ca090967a5b778673"
         }
       ]
     },
