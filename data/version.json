@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:19:27Z",
+  "updatedAt": "2026-09-27T08:57:32Z",
   "skillsUpdatedAt": "2026-07-30T07:09:36.998Z",
-  "primaryIndexUpdatedAt": "2026-09-20T08:19:19Z",
-  "searchIndexUpdatedAt": "2026-09-20T08:19:27Z",
+  "primaryIndexUpdatedAt": "2026-09-27T08:57:24Z",
+  "searchIndexUpdatedAt": "2026-09-27T08:57:32Z",
   "feedUpdatedAt": "2026-07-30T07:09:36.998Z",
   "categoryIndexUpdatedAt": "2026-07-30T10:20:42Z",
   "firstSeenUpdatedAt": "2026-07-30T10:20:05.375Z",
@@ -16,27 +16,27 @@
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-09-20T08:19:19Z",
-      "bytes": 56841317,
-      "sha256": "a484ab6403a125af0d3b8455bdd56e62e645a958158e71f238a947cf1fb0f003"
+      "updatedAt": "2026-09-27T08:57:24Z",
+      "bytes": 56841387,
+      "sha256": "4ef3dbac38fe94e452a6639781d2508c6fc6dbb719b27ec98a4c51c2e505a7f0"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-09-20T08:19:27Z",
-      "bytes": 187584155,
-      "sha256": "ff8603dfcc1c7bcf3eee986df5e0c7f1d07fbfb0781f04ac15e51e3100b0908a",
+      "updatedAt": "2026-09-27T08:57:32Z",
+      "bytes": 187584225,
+      "sha256": "b3b6736015f22cbd68d0117b616daa591c21fb4d9a5ae5abce813f8d30cb6b09",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-09-20T08:19:27Z",
-          "bytes": 99999356,
-          "sha256": "4c38a60e7b4cbf4ce6e6d5c6944f6de5eb543d68b83dafc29436f12f6466ad81"
+          "updatedAt": "2026-09-27T08:57:32Z",
+          "bytes": 99999426,
+          "sha256": "aa167ff5853e956ccbc428f29d7da38935786ec4869cc9bfba17c1c9b14bb370"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-09-20T08:19:27Z",
+          "updatedAt": "2026-09-27T08:57:32Z",
           "bytes": 87584799,
-          "sha256": "9373fd89081c4f513491700bb51272adca9511da1890ac06786787bdbf085ae3"
+          "sha256": "99feabcbbe595fe0468e862ba65c7e9f89443a13767ffc1bee642b1b56c547f6"
         }
       ]
     },
