@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:21:10Z",
+  "updatedAt": "2026-10-11T09:42:35Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -163478,7 +163478,7 @@
       "skillId": "paddleocr-doc-parsing",
       "title": "paddleocr-doc-parsing",
       "link": "https://github.com/aidenwu0209/paddleocr-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 394,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/aidenwu0209/paddleocr-skills/paddleocr-doc-parsing/description_en.txt",
       "skillMdPath": "data/skills-md/aidenwu0209/paddleocr-skills/paddleocr-doc-parsing/SKILL.md"
@@ -186914,7 +186914,7 @@
       "skillId": "codex-subagent",
       "title": "codex-subagent",
       "link": "https://github.com/am-will/codex-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 309,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/am-will/codex-skills/codex-subagent/description_en.txt",
       "skillMdPath": "data/skills-md/am-will/codex-skills/codex-subagent/SKILL.md"
@@ -201386,7 +201386,7 @@
       "skillId": "example-skill",
       "title": "example-skill",
       "link": "https://github.com/anthropics/claude-plugins-official",
-      "installsAllTime": 0,
+      "installsAllTime": 198,
       "firstSeenAt": "2026-02-12T14:54:23.092Z",
       "description": "data/skills-md/anthropics/claude-plugins-official/example-skill/description_en.txt",
       "skillMdPath": "data/skills-md/anthropics/claude-plugins-official/example-skill/SKILL.md"
@@ -229454,7 +229454,7 @@
       "skillId": "tool-ui",
       "title": "tool-ui",
       "link": "https://github.com/assistant-ui/tool-ui",
-      "installsAllTime": 0,
+      "installsAllTime": 760,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/assistant-ui/tool-ui/tool-ui/description_en.txt",
       "skillMdPath": "data/skills-md/assistant-ui/tool-ui/tool-ui/SKILL.md"
@@ -270662,7 +270662,7 @@
       "skillId": "agile-coach",
       "title": "agile-coach",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 267,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/agile-coach/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/agile-coach/SKILL.md"
@@ -270722,7 +270722,7 @@
       "skillId": "brand-strategist",
       "title": "brand-strategist",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 767,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/brand-strategist/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/brand-strategist/SKILL.md"
@@ -270758,7 +270758,7 @@
       "skillId": "cfo-advisor",
       "title": "cfo-advisor",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 450,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/cfo-advisor/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/cfo-advisor/SKILL.md"
@@ -270782,7 +270782,7 @@
       "skillId": "cmo-advisor",
       "title": "cmo-advisor",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 258,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/cmo-advisor/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/cmo-advisor/SKILL.md"
@@ -270854,7 +270854,7 @@
       "skillId": "coo-advisor",
       "title": "coo-advisor",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 197,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/coo-advisor/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/coo-advisor/SKILL.md"
@@ -270890,7 +270890,7 @@
       "skillId": "data-analyst",
       "title": "data-analyst",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 589,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/data-analyst/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/data-analyst/SKILL.md"
@@ -270902,7 +270902,7 @@
       "skillId": "data-scientist",
       "title": "data-scientist",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 431,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/data-scientist/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/data-scientist/SKILL.md"
@@ -270962,7 +270962,7 @@
       "skillId": "design-system-lead",
       "title": "design-system-lead",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 255,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/design-system-lead/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/design-system-lead/SKILL.md"
@@ -271010,7 +271010,7 @@
       "skillId": "growth-marketer",
       "title": "growth-marketer",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 427,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/growth-marketer/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/growth-marketer/SKILL.md"
@@ -271022,7 +271022,7 @@
       "skillId": "hr-business-partner",
       "title": "hr-business-partner",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 390,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/hr-business-partner/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/hr-business-partner/SKILL.md"
@@ -271070,7 +271070,7 @@
       "skillId": "marketing-analyst",
       "title": "marketing-analyst",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 307,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/marketing-analyst/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/marketing-analyst/SKILL.md"
@@ -271166,7 +271166,7 @@
       "skillId": "operations-manager",
       "title": "operations-manager",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 321,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/operations-manager/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/operations-manager/SKILL.md"
@@ -271214,7 +271214,7 @@
       "skillId": "product-manager",
       "title": "product-manager",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 121,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/product-manager/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/product-manager/SKILL.md"
@@ -271238,7 +271238,7 @@
       "skillId": "product-strategist",
       "title": "product-strategist",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 281,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/product-strategist/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/product-strategist/SKILL.md"
@@ -271250,7 +271250,7 @@
       "skillId": "program-manager",
       "title": "program-manager",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 257,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/program-manager/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/program-manager/SKILL.md"
@@ -271322,7 +271322,7 @@
       "skillId": "sales-operations",
       "title": "sales-operations",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 282,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/sales-operations/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/sales-operations/SKILL.md"
@@ -271358,7 +271358,7 @@
       "skillId": "senior-architect",
       "title": "senior-architect",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 233,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/senior-architect/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/senior-architect/SKILL.md"
@@ -271370,7 +271370,7 @@
       "skillId": "senior-backend",
       "title": "senior-backend",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 288,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/senior-backend/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/senior-backend/SKILL.md"
@@ -271442,7 +271442,7 @@
       "skillId": "senior-frontend",
       "title": "senior-frontend",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 338,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/senior-frontend/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/senior-frontend/SKILL.md"
@@ -271454,7 +271454,7 @@
       "skillId": "senior-fullstack",
       "title": "senior-fullstack",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 307,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/senior-fullstack/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/senior-fullstack/SKILL.md"
@@ -271478,7 +271478,7 @@
       "skillId": "senior-mobile",
       "title": "senior-mobile",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 307,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/senior-mobile/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/senior-mobile/SKILL.md"
@@ -271550,7 +271550,7 @@
       "skillId": "seo-specialist",
       "title": "seo-specialist",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 235,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/seo-specialist/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/seo-specialist/SKILL.md"
@@ -271586,7 +271586,7 @@
       "skillId": "solutions-architect",
       "title": "solutions-architect",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 360,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/solutions-architect/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/solutions-architect/SKILL.md"
@@ -271598,7 +271598,7 @@
       "skillId": "talent-acquisition",
       "title": "talent-acquisition",
       "link": "https://github.com/borghei/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 342,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/borghei/claude-skills/talent-acquisition/description_en.txt",
       "skillMdPath": "data/skills-md/borghei/claude-skills/talent-acquisition/SKILL.md"
@@ -303398,7 +303398,7 @@
       "skillId": "system-admin",
       "title": "system-admin",
       "link": "https://github.com/chaterm/terminal-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 551,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/chaterm/terminal-skills/system-admin/description_en.txt",
       "skillMdPath": "data/skills-md/chaterm/terminal-skills/system-admin/SKILL.md"
@@ -330842,7 +330842,7 @@
       "skillId": "tailwindcss-development",
       "title": "tailwindcss-development",
       "link": "https://github.com/coollabsio/coolify",
-      "installsAllTime": 0,
+      "installsAllTime": 231,
       "firstSeenAt": "2026-02-15T07:17:52.649Z",
       "description": "data/skills-md/coollabsio/coolify/tailwindcss-development/description_en.txt",
       "skillMdPath": "data/skills-md/coollabsio/coolify/tailwindcss-development/SKILL.md"
@@ -364682,7 +364682,7 @@
       "skillId": "bioinformatics-fundamentals",
       "title": "bioinformatics-fundamentals",
       "link": "https://github.com/delphine-l/claude_global",
-      "installsAllTime": 0,
+      "installsAllTime": 439,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/delphine-l/claude_global/bioinformatics-fundamentals/description_en.txt",
       "skillMdPath": "data/skills-md/delphine-l/claude_global/bioinformatics-fundamentals/SKILL.md"
@@ -423278,7 +423278,7 @@
       "skillId": "creating-reanimated-animations",
       "title": "creating-reanimated-animations",
       "link": "https://github.com/estevg/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 838,
       "firstSeenAt": "2026-02-15T07:17:52.649Z",
       "description": "data/skills-md/estevg/skills/creating-reanimated-animations/description_en.txt",
       "skillMdPath": "data/skills-md/estevg/skills/creating-reanimated-animations/SKILL.md"
@@ -443138,7 +443138,7 @@
       "skillId": "firebase-firestore-basics",
       "title": "firebase-firestore-basics",
       "link": "https://github.com/firebase/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 1565,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/firebase/skills/firebase-firestore-basics/description_en.txt",
       "skillMdPath": "data/skills-md/firebase/skills/firebase-firestore-basics/SKILL.md"
@@ -477662,7 +477662,7 @@
       "skillId": "publish-to-social",
       "title": "Publish to Social",
       "link": "https://github.com/gitroomhq/agent-media",
-      "installsAllTime": 0,
+      "installsAllTime": 1,
       "firstSeenAt": "2026-06-17T04:54:17.559Z",
       "description": "data/skills-md/gitroomhq/agent-media/publish-to-social/description_en.txt",
       "skillMdPath": "data/skills-md/gitroomhq/agent-media/publish-to-social/SKILL.md"
@@ -788378,7 +788378,7 @@
       "skillId": "react-pdf",
       "title": "react-pdf",
       "link": "https://github.com/molefrog/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 726,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/molefrog/skills/react-pdf/description_en.txt",
       "skillMdPath": "data/skills-md/molefrog/skills/react-pdf/SKILL.md"
@@ -811970,7 +811970,7 @@
       "skillId": "aiogram-framework",
       "title": "aiogram-framework",
       "link": "https://github.com/narumiruna/telegram-bot",
-      "installsAllTime": 0,
+      "installsAllTime": 367,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/narumiruna/telegram-bot/aiogram-framework/description_en.txt",
       "skillMdPath": "data/skills-md/narumiruna/telegram-bot/aiogram-framework/SKILL.md"
@@ -847742,7 +847742,7 @@
       "skillId": "strategic-planning",
       "title": "strategic-planning",
       "link": "https://github.com/ognjengt/founder-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 975,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/ognjengt/founder-skills/strategic-planning/description_en.txt",
       "skillMdPath": "data/skills-md/ognjengt/founder-skills/strategic-planning/SKILL.md"
@@ -862934,7 +862934,7 @@
       "skillId": "financial-document-parser",
       "title": "financial-document-parser",
       "link": "https://github.com/onewave-ai/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 422,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/onewave-ai/claude-skills/financial-document-parser/description_en.txt",
       "skillMdPath": "data/skills-md/onewave-ai/claude-skills/financial-document-parser/SKILL.md"
@@ -863798,7 +863798,7 @@
       "skillId": "seo-content-optimizer",
       "title": "seo-content-optimizer",
       "link": "https://github.com/onewave-ai/claude-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 488,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/onewave-ai/claude-skills/seo-content-optimizer/description_en.txt",
       "skillMdPath": "data/skills-md/onewave-ai/claude-skills/seo-content-optimizer/SKILL.md"
@@ -953666,7 +953666,7 @@
       "skillId": "domain",
       "title": "domain",
       "link": "https://github.com/railwayapp/railway-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 766,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/railwayapp/railway-skills/domain/description_en.txt",
       "skillMdPath": "data/skills-md/railwayapp/railway-skills/domain/SKILL.md"
@@ -953678,7 +953678,7 @@
       "skillId": "new",
       "title": "new",
       "link": "https://github.com/railwayapp/railway-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 786,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/railwayapp/railway-skills/new/description_en.txt",
       "skillMdPath": "data/skills-md/railwayapp/railway-skills/new/SKILL.md"
@@ -953690,7 +953690,7 @@
       "skillId": "templates",
       "title": "templates",
       "link": "https://github.com/railwayapp/railway-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 716,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/railwayapp/railway-skills/templates/description_en.txt",
       "skillMdPath": "data/skills-md/railwayapp/railway-skills/templates/SKILL.md"
@@ -1021730,7 +1021730,7 @@
       "skillId": "airtable-automation",
       "title": "airtable-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 232,
       "firstSeenAt": "2026-02-12T14:54:23.092Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/airtable-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/airtable-automation/SKILL.md"
@@ -1057766,7 +1057766,7 @@
       "skillId": "tailwind-patterns",
       "title": "tailwind-patterns",
       "link": "https://github.com/srbhr/resume-matcher",
-      "installsAllTime": 0,
+      "installsAllTime": 170,
       "firstSeenAt": "2026-02-12T14:54:23.092Z",
       "description": "data/skills-md/srbhr/resume-matcher/tailwind-patterns/description_en.txt",
       "skillMdPath": "data/skills-md/srbhr/resume-matcher/tailwind-patterns/SKILL.md"
@@ -1074974,7 +1074974,7 @@
       "skillId": "svelte-code-writer",
       "title": "svelte-code-writer",
       "link": "https://github.com/sveltejs/mcp",
-      "installsAllTime": 0,
+      "installsAllTime": 11780,
       "firstSeenAt": "2026-02-14T06:48:27.052Z",
       "description": "data/skills-md/sveltejs/mcp/svelte-code-writer/description_en.txt",
       "skillMdPath": "data/skills-md/sveltejs/mcp/svelte-code-writer/SKILL.md"
@@ -1102058,7 +1102058,7 @@
       "skillId": "cloudbase-agent-ts",
       "title": "cloudbase-agent-ts",
       "link": "https://github.com/tencentcloudbase/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 420,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/tencentcloudbase/skills/cloudbase-agent-ts/description_en.txt",
       "skillMdPath": "data/skills-md/tencentcloudbase/skills/cloudbase-agent-ts/SKILL.md"
@@ -1111970,7 +1111970,7 @@
       "skillId": "godot-particles",
       "title": "godot-particles",
       "link": "https://github.com/thedivergentai/gd-agentic-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 552,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/thedivergentai/gd-agentic-skills/godot-particles/description_en.txt",
       "skillMdPath": "data/skills-md/thedivergentai/gd-agentic-skills/godot-particles/SKILL.md"
@@ -1112186,7 +1112186,7 @@
       "skillId": "godot-shaders-basics",
       "title": "godot-shaders-basics",
       "link": "https://github.com/thedivergentai/gd-agentic-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 648,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/thedivergentai/gd-agentic-skills/godot-shaders-basics/description_en.txt",
       "skillMdPath": "data/skills-md/thedivergentai/gd-agentic-skills/godot-shaders-basics/SKILL.md"
@@ -1118738,7 +1118738,7 @@
       "skillId": "ai-tech-rss-fetch",
       "title": "ai-tech-rss-fetch",
       "link": "https://github.com/tiangong-ai/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 233,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/tiangong-ai/skills/ai-tech-rss-fetch/description_en.txt",
       "skillMdPath": "data/skills-md/tiangong-ai/skills/ai-tech-rss-fetch/SKILL.md"
@@ -1121954,7 +1121954,7 @@
       "skillId": "tinybird-typescript-sdk-guidelines",
       "title": "tinybird-typescript-sdk-guidelines",
       "link": "https://github.com/tinybirdco/tinybird-agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 984,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/tinybirdco/tinybird-agent-skills/tinybird-typescript-sdk-guidelines/description_en.txt",
       "skillMdPath": "data/skills-md/tinybirdco/tinybird-agent-skills/tinybird-typescript-sdk-guidelines/SKILL.md"
@@ -1140266,7 +1140266,7 @@
       "skillId": "debug-generated-project",
       "title": "debug-generated-project",
       "link": "https://github.com/tuist/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 512,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/tuist/agent-skills/debug-generated-project/description_en.txt",
       "skillMdPath": "data/skills-md/tuist/agent-skills/debug-generated-project/SKILL.md"
@@ -1140278,7 +1140278,7 @@
       "skillId": "fix-flaky-tests",
       "title": "fix-flaky-tests",
       "link": "https://github.com/tuist/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 500,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/tuist/agent-skills/fix-flaky-tests/description_en.txt",
       "skillMdPath": "data/skills-md/tuist/agent-skills/fix-flaky-tests/SKILL.md"
@@ -1151546,7 +1151546,7 @@
       "skillId": "skill-auditor",
       "title": "skill-auditor",
       "link": "https://github.com/useai-pro/openclaw-skills-security",
-      "installsAllTime": 0,
+      "installsAllTime": 693,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/useai-pro/openclaw-skills-security/skill-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/useai-pro/openclaw-skills-security/skill-auditor/SKILL.md"
@@ -1157042,7 +1157042,7 @@
       "skillId": "json-render-react-native",
       "title": "json-render-react-native",
       "link": "https://github.com/vercel-labs/json-render",
-      "installsAllTime": 0,
+      "installsAllTime": 142,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/vercel-labs/json-render/json-render-react-native/description_en.txt",
       "skillMdPath": "data/skills-md/vercel-labs/json-render/json-render-react-native/SKILL.md"
@@ -1161734,7 +1161734,7 @@
       "skillId": "daily-news-60s",
       "title": "daily-news-60s",
       "link": "https://github.com/vikiboss/60s-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 487,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/vikiboss/60s-skills/daily-news-60s/description_en.txt",
       "skillMdPath": "data/skills-md/vikiboss/60s-skills/daily-news-60s/SKILL.md"
@@ -1178210,7 +1178210,7 @@
       "skillId": "seo-aeo-audit",
       "title": "seo-aeo-audit",
       "link": "https://github.com/warpdotdev/oz-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 620,
       "firstSeenAt": "2026-02-13T09:32:51.337Z",
       "description": "data/skills-md/warpdotdev/oz-skills/seo-aeo-audit/description_en.txt",
       "skillMdPath": "data/skills-md/warpdotdev/oz-skills/seo-aeo-audit/SKILL.md"
@@ -1187330,7 +1187330,7 @@
       "skillId": "postgresql-expert-best-practices-code-review",
       "title": "postgresql-expert-best-practices-code-review",
       "link": "https://github.com/wispbit-ai/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 382,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/wispbit-ai/skills/postgresql-expert-best-practices-code-review/description_en.txt",
       "skillMdPath": "data/skills-md/wispbit-ai/skills/postgresql-expert-best-practices-code-review/SKILL.md"
@@ -1187342,7 +1187342,7 @@
       "skillId": "python-expert-best-practices-code-review",
       "title": "python-expert-best-practices-code-review",
       "link": "https://github.com/wispbit-ai/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 659,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/wispbit-ai/skills/python-expert-best-practices-code-review/description_en.txt",
       "skillMdPath": "data/skills-md/wispbit-ai/skills/python-expert-best-practices-code-review/SKILL.md"
@@ -1187354,7 +1187354,7 @@
       "skillId": "rust-expert-best-practices-code-review",
       "title": "rust-expert-best-practices-code-review",
       "link": "https://github.com/wispbit-ai/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 249,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/wispbit-ai/skills/rust-expert-best-practices-code-review/description_en.txt",
       "skillMdPath": "data/skills-md/wispbit-ai/skills/rust-expert-best-practices-code-review/SKILL.md"
@@ -1197386,7 +1197386,7 @@
       "skillId": "fund-assistant",
       "title": "fund-assistant",
       "link": "https://github.com/xer97/fund-assistant",
-      "installsAllTime": 0,
+      "installsAllTime": 426,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/xer97/fund-assistant/fund-assistant/description_en.txt",
       "skillMdPath": "data/skills-md/xer97/fund-assistant/fund-assistant/SKILL.md"
@@ -1215062,7 +1215062,7 @@
       "skillId": "memory",
       "title": "memory",
       "link": "https://github.com/yonatangross/orchestkit",
-      "installsAllTime": 0,
+      "installsAllTime": 746,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/yonatangross/orchestkit/memory/description_en.txt",
       "skillMdPath": "data/skills-md/yonatangross/orchestkit/memory/SKILL.md"
@@ -1231550,7 +1231550,7 @@
       "skillId": "youtube-search",
       "title": "youtube-search",
       "link": "https://github.com/zeropointrepo/youtube-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 925,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/zeropointrepo/youtube-skills/youtube-search/description_en.txt",
       "skillMdPath": "data/skills-md/zeropointrepo/youtube-skills/youtube-search/SKILL.md"
