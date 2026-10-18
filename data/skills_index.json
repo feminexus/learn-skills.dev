@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T09:42:35Z",
+  "updatedAt": "2026-10-18T07:47:11Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -371786,7 +371786,7 @@
       "skillId": "personal-statement",
       "title": "personal-statement",
       "link": "https://github.com/diamondhuntersa/personal-statement-skill",
-      "installsAllTime": 0,
+      "installsAllTime": 1,
       "firstSeenAt": "2026-03-13T23:43:35.142Z",
       "description": "data/skills-md/diamondhuntersa/personal-statement-skill/personal-statement/description_en.txt",
       "skillMdPath": "data/skills-md/diamondhuntersa/personal-statement-skill/personal-statement/SKILL.md"
@@ -664994,7 +664994,7 @@
       "skillId": "ln-651-query-efficiency-auditor",
       "title": "ln-651-query-efficiency-auditor",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 380,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-651-query-efficiency-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-651-query-efficiency-auditor/SKILL.md"
@@ -839762,7 +839762,7 @@
       "skillId": "manage-mcp",
       "title": "manage-mcp",
       "link": "https://github.com/nuxt-modules/mcp-toolkit",
-      "installsAllTime": 0,
+      "installsAllTime": 213,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/nuxt-modules/mcp-toolkit/manage-mcp/description_en.txt",
       "skillMdPath": "data/skills-md/nuxt-modules/mcp-toolkit/manage-mcp/SKILL.md"
@@ -847706,7 +847706,7 @@
       "skillId": "prd-generator",
       "title": "prd-generator",
       "link": "https://github.com/ognjengt/founder-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 1096,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/ognjengt/founder-skills/prd-generator/description_en.txt",
       "skillMdPath": "data/skills-md/ognjengt/founder-skills/prd-generator/SKILL.md"
@@ -896306,7 +896306,7 @@
       "skillId": "oracle-codex",
       "title": "oracle-codex",
       "link": "https://github.com/paulrberg/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 189,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/paulrberg/agent-skills/oracle-codex/description_en.txt",
       "skillMdPath": "data/skills-md/paulrberg/agent-skills/oracle-codex/SKILL.md"
@@ -938690,7 +938690,7 @@
       "skillId": "prompt-agent",
       "title": "prompt-agent",
       "link": "https://github.com/prompt-security/clawsec",
-      "installsAllTime": 0,
+      "installsAllTime": 138,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/prompt-security/clawsec/prompt-agent/description_en.txt",
       "skillMdPath": "data/skills-md/prompt-security/clawsec/prompt-agent/SKILL.md"
@@ -957290,7 +957290,7 @@
       "skillId": "maestro-e2e",
       "title": "maestro-e2e",
       "link": "https://github.com/raphaelbarbosaqwerty/maestro-dev-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 530,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/raphaelbarbosaqwerty/maestro-dev-skills/maestro-e2e/description_en.txt",
       "skillMdPath": "data/skills-md/raphaelbarbosaqwerty/maestro-dev-skills/maestro-e2e/SKILL.md"
@@ -969470,7 +969470,7 @@
       "skillId": "greenlight",
       "title": "greenlight",
       "link": "https://github.com/revylai/greenlight",
-      "installsAllTime": 0,
+      "installsAllTime": 334,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/revylai/greenlight/greenlight/description_en.txt",
       "skillMdPath": "data/skills-md/revylai/greenlight/greenlight/SKILL.md"
@@ -983750,7 +983750,7 @@
       "skillId": "persistent-memory",
       "title": "persistent-memory",
       "link": "https://github.com/ropl-btc/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 751,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/ropl-btc/agent-skills/persistent-memory/description_en.txt",
       "skillMdPath": "data/skills-md/ropl-btc/agent-skills/persistent-memory/SKILL.md"
@@ -1027862,7 +1027862,7 @@
       "skillId": "gmail-automation",
       "title": "gmail-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 323,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/gmail-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/gmail-automation/SKILL.md"
@@ -1035242,7 +1035242,7 @@
       "skillId": "whatsapp-automation",
       "title": "whatsapp-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 233,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/whatsapp-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/whatsapp-automation/SKILL.md"
@@ -1042934,7 +1042934,7 @@
       "skillId": "ai-automation-workflows",
       "title": "ai-automation-workflows",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-automation-workflows/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-automation-workflows/SKILL.md"
@@ -1042946,7 +1042946,7 @@
       "skillId": "ai-avatar-video",
       "title": "ai-avatar-video",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 14,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-avatar-video/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-avatar-video/SKILL.md"
@@ -1042958,7 +1042958,7 @@
       "skillId": "ai-content-pipeline",
       "title": "ai-content-pipeline",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-content-pipeline/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-content-pipeline/SKILL.md"
@@ -1042970,7 +1042970,7 @@
       "skillId": "ai-image-generation",
       "title": "ai-image-generation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 14,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-image-generation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-image-generation/SKILL.md"
@@ -1042982,7 +1042982,7 @@
       "skillId": "ai-marketing-videos",
       "title": "ai-marketing-videos",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-marketing-videos/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-marketing-videos/SKILL.md"
@@ -1042994,7 +1042994,7 @@
       "skillId": "ai-music-generation",
       "title": "ai-music-generation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-music-generation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-music-generation/SKILL.md"
@@ -1043006,7 +1043006,7 @@
       "skillId": "ai-podcast-creation",
       "title": "ai-podcast-creation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-podcast-creation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-podcast-creation/SKILL.md"
@@ -1043018,7 +1043018,7 @@
       "skillId": "ai-product-photography",
       "title": "ai-product-photography",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-product-photography/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-product-photography/SKILL.md"
@@ -1043030,7 +1043030,7 @@
       "skillId": "ai-rag-pipeline",
       "title": "ai-rag-pipeline",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-rag-pipeline/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-rag-pipeline/SKILL.md"
@@ -1043042,7 +1043042,7 @@
       "skillId": "ai-social-media-content",
       "title": "ai-social-media-content",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 7,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-social-media-content/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-social-media-content/SKILL.md"
@@ -1043054,7 +1043054,7 @@
       "skillId": "ai-video-generation",
       "title": "ai-video-generation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 14,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-video-generation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-video-generation/SKILL.md"
@@ -1043066,7 +1043066,7 @@
       "skillId": "ai-voice-cloning",
       "title": "ai-voice-cloning",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/ai-voice-cloning/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/ai-voice-cloning/SKILL.md"
@@ -1043078,7 +1043078,7 @@
       "skillId": "app-store-screenshots",
       "title": "app-store-screenshots",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/app-store-screenshots/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/app-store-screenshots/SKILL.md"
@@ -1043090,7 +1043090,7 @@
       "skillId": "background-removal",
       "title": "background-removal",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/background-removal/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/background-removal/SKILL.md"
@@ -1043102,7 +1043102,7 @@
       "skillId": "book-cover-design",
       "title": "book-cover-design",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/book-cover-design/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/book-cover-design/SKILL.md"
@@ -1043114,7 +1043114,7 @@
       "skillId": "case-study-writing",
       "title": "case-study-writing",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/case-study-writing/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/case-study-writing/SKILL.md"
@@ -1043126,7 +1043126,7 @@
       "skillId": "character-design-sheet",
       "title": "character-design-sheet",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/character-design-sheet/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/character-design-sheet/SKILL.md"
@@ -1043138,7 +1043138,7 @@
       "skillId": "competitor-teardown",
       "title": "competitor-teardown",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/competitor-teardown/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/competitor-teardown/SKILL.md"
@@ -1043150,7 +1043150,7 @@
       "skillId": "content-repurposing",
       "title": "content-repurposing",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/content-repurposing/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/content-repurposing/SKILL.md"
@@ -1043162,7 +1043162,7 @@
       "skillId": "customer-persona",
       "title": "customer-persona",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/customer-persona/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/customer-persona/SKILL.md"
@@ -1043174,7 +1043174,7 @@
       "skillId": "data-visualization",
       "title": "data-visualization",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/data-visualization/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/data-visualization/SKILL.md"
@@ -1043186,7 +1043186,7 @@
       "skillId": "dialogue-audio",
       "title": "dialogue-audio",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/dialogue-audio/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/dialogue-audio/SKILL.md"
@@ -1043198,7 +1043198,7 @@
       "skillId": "email-design",
       "title": "email-design",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/email-design/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/email-design/SKILL.md"
@@ -1043210,7 +1043210,7 @@
       "skillId": "explainer-video-guide",
       "title": "explainer-video-guide",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/explainer-video-guide/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/explainer-video-guide/SKILL.md"
@@ -1043222,7 +1043222,7 @@
       "skillId": "flux-image",
       "title": "flux-image",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/flux-image/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/flux-image/SKILL.md"
@@ -1043234,7 +1043234,7 @@
       "skillId": "google-veo",
       "title": "google-veo",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/google-veo/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/google-veo/SKILL.md"
@@ -1043246,7 +1043246,7 @@
       "skillId": "image-to-video",
       "title": "image-to-video",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/image-to-video/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/image-to-video/SKILL.md"
@@ -1043258,7 +1043258,7 @@
       "skillId": "image-upscaling",
       "title": "image-upscaling",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/image-upscaling/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/image-upscaling/SKILL.md"
@@ -1043282,7 +1043282,7 @@
       "skillId": "landing-page-design",
       "title": "landing-page-design",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/landing-page-design/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/landing-page-design/SKILL.md"
@@ -1043294,7 +1043294,7 @@
       "skillId": "linkedin-content",
       "title": "linkedin-content",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/linkedin-content/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/linkedin-content/SKILL.md"
@@ -1043306,7 +1043306,7 @@
       "skillId": "llm-models",
       "title": "llm-models",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/llm-models/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/llm-models/SKILL.md"
@@ -1043318,7 +1043318,7 @@
       "skillId": "logo-design-guide",
       "title": "logo-design-guide",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/logo-design-guide/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/logo-design-guide/SKILL.md"
@@ -1043330,7 +1043330,7 @@
       "skillId": "newsletter-curation",
       "title": "newsletter-curation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/newsletter-curation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/newsletter-curation/SKILL.md"
@@ -1043342,7 +1043342,7 @@
       "skillId": "og-image-design",
       "title": "og-image-design",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/og-image-design/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/og-image-design/SKILL.md"
@@ -1043354,7 +1043354,7 @@
       "skillId": "pitch-deck-visuals",
       "title": "pitch-deck-visuals",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/pitch-deck-visuals/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/pitch-deck-visuals/SKILL.md"
@@ -1043366,7 +1043366,7 @@
       "skillId": "press-release-writing",
       "title": "press-release-writing",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/press-release-writing/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/press-release-writing/SKILL.md"
@@ -1043378,7 +1043378,7 @@
       "skillId": "product-changelog",
       "title": "product-changelog",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/product-changelog/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/product-changelog/SKILL.md"
@@ -1043390,7 +1043390,7 @@
       "skillId": "product-hunt-launch",
       "title": "product-hunt-launch",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/product-hunt-launch/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/product-hunt-launch/SKILL.md"
@@ -1043402,7 +1043402,7 @@
       "skillId": "product-photography",
       "title": "product-photography",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/product-photography/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/product-photography/SKILL.md"
@@ -1043414,7 +1043414,7 @@
       "skillId": "prompt-engineering",
       "title": "prompt-engineering",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/prompt-engineering/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/prompt-engineering/SKILL.md"
@@ -1043462,7 +1043462,7 @@
       "skillId": "seo-content-brief",
       "title": "seo-content-brief",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/seo-content-brief/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/seo-content-brief/SKILL.md"
@@ -1043474,7 +1043474,7 @@
       "skillId": "social-media-carousel",
       "title": "social-media-carousel",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 7,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/social-media-carousel/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/social-media-carousel/SKILL.md"
@@ -1043486,7 +1043486,7 @@
       "skillId": "speech-to-text",
       "title": "speech-to-text",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/speech-to-text/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/speech-to-text/SKILL.md"
@@ -1043498,7 +1043498,7 @@
       "skillId": "storyboard-creation",
       "title": "storyboard-creation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/storyboard-creation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/storyboard-creation/SKILL.md"
@@ -1043510,7 +1043510,7 @@
       "skillId": "talking-head-production",
       "title": "talking-head-production",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/talking-head-production/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/talking-head-production/SKILL.md"
@@ -1043522,7 +1043522,7 @@
       "skillId": "technical-blog-writing",
       "title": "technical-blog-writing",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/technical-blog-writing/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/technical-blog-writing/SKILL.md"
@@ -1043534,7 +1043534,7 @@
       "skillId": "text-to-speech",
       "title": "text-to-speech",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/text-to-speech/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/text-to-speech/SKILL.md"
@@ -1043546,7 +1043546,7 @@
       "skillId": "twitter-automation",
       "title": "twitter-automation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 14,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/twitter-automation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/twitter-automation/SKILL.md"
@@ -1043558,7 +1043558,7 @@
       "skillId": "twitter-thread-creation",
       "title": "twitter-thread-creation",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/twitter-thread-creation/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/twitter-thread-creation/SKILL.md"
@@ -1043570,7 +1043570,7 @@
       "skillId": "video-ad-specs",
       "title": "video-ad-specs",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/video-ad-specs/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/video-ad-specs/SKILL.md"
@@ -1043582,7 +1043582,7 @@
       "skillId": "video-prompting-guide",
       "title": "video-prompting-guide",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/video-prompting-guide/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/video-prompting-guide/SKILL.md"
@@ -1043606,7 +1043606,7 @@
       "skillId": "youtube-thumbnail-design",
       "title": "youtube-thumbnail-design",
       "link": "https://github.com/skill-zero/s",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/skill-zero/s/youtube-thumbnail-design/description_en.txt",
       "skillMdPath": "data/skills-md/skill-zero/s/youtube-thumbnail-design/SKILL.md"
