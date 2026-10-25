@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T07:47:11Z",
+  "updatedAt": "2026-10-25T08:07:12Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -179030,7 +179030,7 @@
       "skillId": "angular-best-practices-material",
       "title": "angular-best-practices-material",
       "link": "https://github.com/alfredoperez/angular-best-practices",
-      "installsAllTime": 0,
+      "installsAllTime": 506,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-material/description_en.txt",
       "skillMdPath": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-material/SKILL.md"
@@ -179042,7 +179042,7 @@
       "skillId": "angular-best-practices-ngrx",
       "title": "angular-best-practices-ngrx",
       "link": "https://github.com/alfredoperez/angular-best-practices",
-      "installsAllTime": 0,
+      "installsAllTime": 592,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-ngrx/description_en.txt",
       "skillMdPath": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-ngrx/SKILL.md"
@@ -473330,7 +473330,7 @@
       "skillId": "skill-writer",
       "title": "Skill Writer",
       "link": "https://github.com/getsentry/warden",
-      "installsAllTime": 0,
+      "installsAllTime": 5,
       "firstSeenAt": "2026-02-20T17:12:12.936Z",
       "description": "data/skills-md/getsentry/warden/skill-writer/description_en.txt",
       "skillMdPath": "data/skills-md/getsentry/warden/skill-writer/SKILL.md"
@@ -560498,7 +560498,7 @@
       "skillId": "competitor-teardown",
       "title": "competitor-teardown",
       "link": "https://github.com/inference-sh/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/inference-sh/skills/competitor-teardown/description_en.txt",
       "skillMdPath": "data/skills-md/inference-sh/skills/competitor-teardown/SKILL.md"
@@ -560510,7 +560510,7 @@
       "skillId": "content-repurposing",
       "title": "content-repurposing",
       "link": "https://github.com/inference-sh/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 6,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/inference-sh/skills/content-repurposing/description_en.txt",
       "skillMdPath": "data/skills-md/inference-sh/skills/content-repurposing/SKILL.md"
@@ -560606,7 +560606,7 @@
       "skillId": "image-to-video",
       "title": "image-to-video",
       "link": "https://github.com/inference-sh/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/inference-sh/skills/image-to-video/description_en.txt",
       "skillMdPath": "data/skills-md/inference-sh/skills/image-to-video/SKILL.md"
@@ -561074,7 +561074,7 @@
       "skillId": "youtube-thumbnail-design",
       "title": "youtube-thumbnail-design",
       "link": "https://github.com/inference-sh/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/inference-sh/skills/youtube-thumbnail-design/description_en.txt",
       "skillMdPath": "data/skills-md/inference-sh/skills/youtube-thumbnail-design/SKILL.md"
@@ -591938,7 +591938,7 @@
       "skillId": "gsc",
       "title": "gsc",
       "link": "https://github.com/jdrhyne/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 241,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/jdrhyne/agent-skills/gsc/description_en.txt",
       "skillMdPath": "data/skills-md/jdrhyne/agent-skills/gsc/SKILL.md"
@@ -634322,7 +634322,7 @@
       "skillId": "kernel-agent-browser",
       "title": "kernel-agent-browser",
       "link": "https://github.com/kernel/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 1170,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/kernel/skills/kernel-agent-browser/description_en.txt",
       "skillMdPath": "data/skills-md/kernel/skills/kernel-agent-browser/SKILL.md"
@@ -634370,7 +634370,7 @@
       "skillId": "kernel-typescript-sdk",
       "title": "kernel-typescript-sdk",
       "link": "https://github.com/kernel/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 399,
       "firstSeenAt": "2026-02-12T07:14:54.545Z",
       "description": "data/skills-md/kernel/skills/kernel-typescript-sdk/description_en.txt",
       "skillMdPath": "data/skills-md/kernel/skills/kernel-typescript-sdk/SKILL.md"
@@ -776054,7 +776054,7 @@
       "skillId": "tooluniverse-pharmacovigilance",
       "title": "tooluniverse-pharmacovigilance",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 420,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-pharmacovigilance/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-pharmacovigilance/SKILL.md"
@@ -776138,7 +776138,7 @@
       "skillId": "tooluniverse-precision-oncology",
       "title": "tooluniverse-precision-oncology",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 423,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-precision-oncology/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-precision-oncology/SKILL.md"
@@ -776246,7 +776246,7 @@
       "skillId": "tooluniverse-protein-therapeutic-design",
       "title": "tooluniverse-protein-therapeutic-design",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 398,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-protein-therapeutic-design/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-protein-therapeutic-design/SKILL.md"
@@ -776282,7 +776282,7 @@
       "skillId": "tooluniverse-rare-disease-diagnosis",
       "title": "tooluniverse-rare-disease-diagnosis",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 406,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-rare-disease-diagnosis/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-rare-disease-diagnosis/SKILL.md"
@@ -779810,7 +779810,7 @@
       "skillId": "secondme",
       "title": "secondme",
       "link": "https://github.com/mindverse/second-me-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 253,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mindverse/second-me-skills/secondme/description_en.txt",
       "skillMdPath": "data/skills-md/mindverse/second-me-skills/secondme/SKILL.md"
@@ -779834,7 +779834,7 @@
       "skillId": "secondme-init",
       "title": "secondme-init",
       "link": "https://github.com/mindverse/second-me-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 120,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mindverse/second-me-skills/secondme-init/description_en.txt",
       "skillMdPath": "data/skills-md/mindverse/second-me-skills/secondme-init/SKILL.md"
@@ -779846,7 +779846,7 @@
       "skillId": "secondme-nextjs",
       "title": "secondme-nextjs",
       "link": "https://github.com/mindverse/second-me-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 122,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mindverse/second-me-skills/secondme-nextjs/description_en.txt",
       "skillMdPath": "data/skills-md/mindverse/second-me-skills/secondme-nextjs/SKILL.md"
@@ -779858,7 +779858,7 @@
       "skillId": "secondme-prd",
       "title": "secondme-prd",
       "link": "https://github.com/mindverse/second-me-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 121,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mindverse/second-me-skills/secondme-prd/description_en.txt",
       "skillMdPath": "data/skills-md/mindverse/second-me-skills/secondme-prd/SKILL.md"
@@ -779870,7 +779870,7 @@
       "skillId": "secondme-reference",
       "title": "secondme-reference",
       "link": "https://github.com/mindverse/second-me-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 118,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mindverse/second-me-skills/secondme-reference/description_en.txt",
       "skillMdPath": "data/skills-md/mindverse/second-me-skills/secondme-reference/SKILL.md"
@@ -807722,7 +807722,7 @@
       "skillId": "n8n-conventions",
       "title": "n8n-conventions",
       "link": "https://github.com/n8n-io/n8n",
-      "installsAllTime": 0,
+      "installsAllTime": 433,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/n8n-io/n8n/n8n-conventions/description_en.txt",
       "skillMdPath": "data/skills-md/n8n-io/n8n/n8n-conventions/SKILL.md"
@@ -845294,7 +845294,7 @@
       "skillId": "browsing",
       "title": "browsing",
       "link": "https://github.com/obra/superpowers-chrome",
-      "installsAllTime": 0,
+      "installsAllTime": 405,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/obra/superpowers-chrome/browsing/description_en.txt",
       "skillMdPath": "data/skills-md/obra/superpowers-chrome/browsing/SKILL.md"
@@ -845882,7 +845882,7 @@
       "skillId": "commodities-quote",
       "title": "commodities-quote",
       "link": "https://github.com/octagonai/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 825,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/octagonai/skills/commodities-quote/description_en.txt",
       "skillMdPath": "data/skills-md/octagonai/skills/commodities-quote/SKILL.md"
@@ -847694,7 +847694,7 @@
       "skillId": "outreach-specialist",
       "title": "outreach-specialist",
       "link": "https://github.com/ognjengt/founder-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 1307,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/ognjengt/founder-skills/outreach-specialist/description_en.txt",
       "skillMdPath": "data/skills-md/ognjengt/founder-skills/outreach-specialist/SKILL.md"
@@ -1026386,7 +1026386,7 @@
       "skillId": "dotnet-backend",
       "title": "dotnet-backend",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 352,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/dotnet-backend/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/dotnet-backend/SKILL.md"
@@ -1027970,7 +1027970,7 @@
       "skillId": "google-calendar-automation",
       "title": "google-calendar-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 551,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/google-calendar-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/google-calendar-automation/SKILL.md"
@@ -1028726,7 +1028726,7 @@
       "skillId": "instagram-automation",
       "title": "instagram-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 660,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/instagram-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/instagram-automation/SKILL.md"
@@ -1031114,7 +1031114,7 @@
       "skillId": "outlook-automation",
       "title": "outlook-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 466,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/outlook-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/outlook-automation/SKILL.md"
@@ -1033214,7 +1033214,7 @@
       "skillId": "shopify-automation",
       "title": "shopify-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 204,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/shopify-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/shopify-automation/SKILL.md"
@@ -1034198,7 +1034198,7 @@
       "skillId": "telegram-automation",
       "title": "telegram-automation",
       "link": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 467,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/sickn33/antigravity-awesome-skills/telegram-automation/description_en.txt",
       "skillMdPath": "data/skills-md/sickn33/antigravity-awesome-skills/telegram-automation/SKILL.md"
@@ -1066970,7 +1066970,7 @@
       "skillId": "gsap-master",
       "title": "gsap-master",
       "link": "https://github.com/su69ar/rdnax-gsap-master",
-      "installsAllTime": 0,
+      "installsAllTime": 259,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/su69ar/rdnax-gsap-master/gsap-master/description_en.txt",
       "skillMdPath": "data/skills-md/su69ar/rdnax-gsap-master/gsap-master/SKILL.md"
@@ -1088738,7 +1088738,7 @@
       "skillId": "shopify-polaris-web-components",
       "title": "shopify-polaris-web-components",
       "link": "https://github.com/tamiror6/shopify-app-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 212,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/tamiror6/shopify-app-skills/shopify-polaris-web-components/description_en.txt",
       "skillMdPath": "data/skills-md/tamiror6/shopify-app-skills/shopify-polaris-web-components/SKILL.md"
@@ -1129802,7 +1129802,7 @@
       "skillId": "auto-skill",
       "title": "auto-skill",
       "link": "https://github.com/toolsai/auto-skill",
-      "installsAllTime": 0,
+      "installsAllTime": 343,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/toolsai/auto-skill/auto-skill/description_en.txt",
       "skillMdPath": "data/skills-md/toolsai/auto-skill/auto-skill/SKILL.md"
@@ -1135850,7 +1135850,7 @@
       "skillId": "styling-nativewind-v4-expo",
       "title": "styling-nativewind-v4-expo",
       "link": "https://github.com/tristanmanchester/agent-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 410,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/tristanmanchester/agent-skills/styling-nativewind-v4-expo/description_en.txt",
       "skillMdPath": "data/skills-md/tristanmanchester/agent-skills/styling-nativewind-v4-expo/SKILL.md"
@@ -1151534,7 +1151534,7 @@
       "skillId": "setup-auditor",
       "title": "setup-auditor",
       "link": "https://github.com/useai-pro/openclaw-skills-security",
-      "installsAllTime": 0,
+      "installsAllTime": 469,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/useai-pro/openclaw-skills-security/setup-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/useai-pro/openclaw-skills-security/setup-auditor/SKILL.md"
@@ -1156706,7 +1156706,7 @@
       "skillId": "autoship",
       "title": "autoship",
       "link": "https://github.com/vercel-labs/autoship",
-      "installsAllTime": 0,
+      "installsAllTime": 699,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/vercel-labs/autoship/autoship/description_en.txt",
       "skillMdPath": "data/skills-md/vercel-labs/autoship/autoship/SKILL.md"
@@ -1161794,7 +1161794,7 @@
       "skillId": "weather-query",
       "title": "weather-query",
       "link": "https://github.com/vikiboss/60s-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 822,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/vikiboss/60s-skills/weather-query/description_en.txt",
       "skillMdPath": "data/skills-md/vikiboss/60s-skills/weather-query/SKILL.md"
@@ -1176662,7 +1176662,7 @@
       "skillId": "send-email",
       "title": "send-email",
       "link": "https://github.com/wangyendt/wayne-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 652,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/wangyendt/wayne-skills/send-email/description_en.txt",
       "skillMdPath": "data/skills-md/wangyendt/wayne-skills/send-email/SKILL.md"
@@ -1208654,7 +1208654,7 @@
       "skillId": "team",
       "title": "team",
       "link": "https://github.com/yeachan-heo/oh-my-claudecode",
-      "installsAllTime": 0,
+      "installsAllTime": 878,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/yeachan-heo/oh-my-claudecode/team/description_en.txt",
       "skillMdPath": "data/skills-md/yeachan-heo/oh-my-claudecode/team/SKILL.md"
@@ -1231490,7 +1231490,7 @@
       "skillId": "video-transcript",
       "title": "video-transcript",
       "link": "https://github.com/zeropointrepo/youtube-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 879,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/zeropointrepo/youtube-skills/video-transcript/description_en.txt",
       "skillMdPath": "data/skills-md/zeropointrepo/youtube-skills/video-transcript/SKILL.md"
@@ -1241762,7 +1241762,7 @@
       "skillId": "videocut-subtitle",
       "title": "videocut-subtitle",
       "link": "https://github.com/zrt-ai-lab/opencode-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 531,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/zrt-ai-lab/opencode-skills/videocut-subtitle/description_en.txt",
       "skillMdPath": "data/skills-md/zrt-ai-lab/opencode-skills/videocut-subtitle/SKILL.md"
