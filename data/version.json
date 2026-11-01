@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T08:07:19Z",
+  "updatedAt": "2026-11-01T10:05:11Z",
   "skillsUpdatedAt": "2026-07-30T07:09:36.998Z",
-  "primaryIndexUpdatedAt": "2026-10-25T08:07:12Z",
-  "searchIndexUpdatedAt": "2026-10-25T08:07:19Z",
+  "primaryIndexUpdatedAt": "2026-11-01T10:05:03Z",
+  "searchIndexUpdatedAt": "2026-11-01T10:05:11Z",
   "feedUpdatedAt": "2026-07-30T07:09:36.998Z",
   "categoryIndexUpdatedAt": "2026-07-30T10:20:42Z",
   "firstSeenUpdatedAt": "2026-07-30T10:20:05.375Z",
@@ -16,27 +16,27 @@
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-10-25T08:07:12Z",
-      "bytes": 56841730,
-      "sha256": "0ac9211c8a30a73e353bb3670fe94c0c1d1080c8f3634b0134400ecdb131c013"
+      "updatedAt": "2026-11-01T10:05:03Z",
+      "bytes": 56841756,
+      "sha256": "3ce916818fe1d2775df2bdec63ccf349567148a9de6af44bf5b36445f76af466"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-10-25T08:07:19Z",
-      "bytes": 187584568,
-      "sha256": "17b09fdbf79c3bb3d8d68811d5df95ce5ea58a7893d9af4da13b0ba23764c0b2",
+      "updatedAt": "2026-11-01T10:05:11Z",
+      "bytes": 187584594,
+      "sha256": "ef469b6a50ebc60c15a269d6cabd9e77de2574fa0b48f43574de7a809833ef86",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-10-25T08:07:19Z",
-          "bytes": 99999557,
-          "sha256": "757c5a715afa860a1b0b0525cd29af6aeba16d9f2cef1b33877535dc3daeab47"
+          "updatedAt": "2026-11-01T10:05:11Z",
+          "bytes": 99999571,
+          "sha256": "65fcc693d8da24690fa1fd04c859ce84d09c109c14d794ac18e03b7ec424035d"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-10-25T08:07:19Z",
-          "bytes": 87585011,
-          "sha256": "3dc649c114db7ff3d1744d590e332e1b612602e6d7f86cb33b3a9f06a86ed698"
+          "updatedAt": "2026-11-01T10:05:11Z",
+          "bytes": 87585023,
+          "sha256": "738c63b4b2f31d3d0c3d1b66268526b09bd14d281b472295e2085ced41fdb7df"
         }
       ]
     },

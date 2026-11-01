@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:07:12Z",
+  "updatedAt": "2026-11-01T10:05:03Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -631550,7 +631550,7 @@
       "skillId": "clawpilot",
       "title": "clawpilot",
       "link": "https://github.com/kcchien/clawpilot",
-      "installsAllTime": 0,
+      "installsAllTime": 264,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/kcchien/clawpilot/clawpilot/description_en.txt",
       "skillMdPath": "data/skills-md/kcchien/clawpilot/clawpilot/SKILL.md"
@@ -647402,7 +647402,7 @@
       "skillId": "kreuzberg",
       "title": "kreuzberg",
       "link": "https://github.com/kreuzberg-dev/kreuzberg",
-      "installsAllTime": 0,
+      "installsAllTime": 764,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/kreuzberg-dev/kreuzberg/kreuzberg/description_en.txt",
       "skillMdPath": "data/skills-md/kreuzberg-dev/kreuzberg/kreuzberg/SKILL.md"
@@ -664922,7 +664922,7 @@
       "skillId": "ln-643-api-contract-auditor",
       "title": "ln-643-api-contract-auditor",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 379,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-643-api-contract-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-643-api-contract-auditor/SKILL.md"
@@ -664982,7 +664982,7 @@
       "skillId": "ln-650-persistence-performance-auditor",
       "title": "ln-650-persistence-performance-auditor",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 369,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-650-persistence-performance-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-650-persistence-performance-auditor/SKILL.md"
@@ -665006,7 +665006,7 @@
       "skillId": "ln-652-transaction-correctness-auditor",
       "title": "ln-652-transaction-correctness-auditor",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 370,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-652-transaction-correctness-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-652-transaction-correctness-auditor/SKILL.md"
@@ -665018,7 +665018,7 @@
       "skillId": "ln-653-runtime-performance-auditor",
       "title": "ln-653-runtime-performance-auditor",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 371,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-653-runtime-performance-auditor/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-653-runtime-performance-auditor/SKILL.md"
@@ -665162,7 +665162,7 @@
       "skillId": "ln-724-artifact-cleaner",
       "title": "ln-724-artifact-cleaner",
       "link": "https://github.com/levnikolaevich/claude-code-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 364,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/levnikolaevich/claude-code-skills/ln-724-artifact-cleaner/description_en.txt",
       "skillMdPath": "data/skills-md/levnikolaevich/claude-code-skills/ln-724-artifact-cleaner/SKILL.md"
@@ -704426,7 +704426,7 @@
       "skillId": "floor-plan",
       "title": "floor-plan",
       "link": "https://github.com/markdown-viewer/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 213,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/markdown-viewer/skills/floor-plan/description_en.txt",
       "skillMdPath": "data/skills-md/markdown-viewer/skills/floor-plan/SKILL.md"
@@ -704450,7 +704450,7 @@
       "skillId": "wireframe",
       "title": "wireframe",
       "link": "https://github.com/markdown-viewer/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 283,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/markdown-viewer/skills/wireframe/description_en.txt",
       "skillMdPath": "data/skills-md/markdown-viewer/skills/wireframe/SKILL.md"
@@ -775082,7 +775082,7 @@
       "skillId": "setup-tooluniverse",
       "title": "setup-tooluniverse",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 445,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/setup-tooluniverse/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/setup-tooluniverse/SKILL.md"
@@ -775178,7 +775178,7 @@
       "skillId": "tooluniverse-binder-discovery",
       "title": "tooluniverse-binder-discovery",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 392,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-binder-discovery/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-binder-discovery/SKILL.md"
@@ -775478,7 +775478,7 @@
       "skillId": "tooluniverse-drug-repurposing",
       "title": "tooluniverse-drug-repurposing",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 398,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-drug-repurposing/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-drug-repurposing/SKILL.md"
@@ -775778,7 +775778,7 @@
       "skillId": "tooluniverse-infectious-disease",
       "title": "tooluniverse-infectious-disease",
       "link": "https://github.com/mims-harvard/tooluniverse",
-      "installsAllTime": 0,
+      "installsAllTime": 382,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-infectious-disease/description_en.txt",
       "skillMdPath": "data/skills-md/mims-harvard/tooluniverse/tooluniverse-infectious-disease/SKILL.md"
