@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:05:03Z",
+  "updatedAt": "2026-11-08T09:54:25Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -425882,7 +425882,7 @@
       "skillId": "find-skills",
       "title": "find-skills",
       "link": "https://github.com/evgyur/find-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 310,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/evgyur/find-skills/find-skills/description_en.txt",
       "skillMdPath": "data/skills-md/evgyur/find-skills/find-skills/SKILL.md"
@@ -471182,7 +471182,7 @@
       "skillId": "convex-quickstart",
       "title": "convex-quickstart",
       "link": "https://github.com/get-convex/convex-agent-plugins",
-      "installsAllTime": 0,
+      "installsAllTime": 219,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/get-convex/convex-agent-plugins/convex-quickstart/description_en.txt",
       "skillMdPath": "data/skills-md/get-convex/convex-agent-plugins/convex-quickstart/SKILL.md"
@@ -524594,7 +524594,7 @@
       "skillId": "android-adb",
       "title": "android-adb",
       "link": "https://github.com/httprunner/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 997,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/httprunner/skills/android-adb/description_en.txt",
       "skillMdPath": "data/skills-md/httprunner/skills/android-adb/SKILL.md"
@@ -530906,7 +530906,7 @@
       "skillId": "slides-generator",
       "title": "slides-generator",
       "link": "https://github.com/hummingbot/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 377,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/hummingbot/skills/slides-generator/description_en.txt",
       "skillMdPath": "data/skills-md/hummingbot/skills/slides-generator/SKILL.md"
@@ -560666,7 +560666,7 @@
       "skillId": "landing-page-design",
       "title": "landing-page-design",
       "link": "https://github.com/inference-sh/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 11,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/inference-sh/skills/landing-page-design/description_en.txt",
       "skillMdPath": "data/skills-md/inference-sh/skills/landing-page-design/SKILL.md"
@@ -585002,7 +585002,7 @@
       "skillId": "page-monitoring",
       "title": "page-monitoring",
       "link": "https://github.com/jamditis/claude-skills-journalism",
-      "installsAllTime": 0,
+      "installsAllTime": 615,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/jamditis/claude-skills-journalism/page-monitoring/description_en.txt",
       "skillMdPath": "data/skills-md/jamditis/claude-skills-journalism/page-monitoring/SKILL.md"
@@ -585014,7 +585014,7 @@
       "skillId": "pdf-design",
       "title": "pdf-design",
       "link": "https://github.com/jamditis/claude-skills-journalism",
-      "installsAllTime": 0,
+      "installsAllTime": 527,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/jamditis/claude-skills-journalism/pdf-design/description_en.txt",
       "skillMdPath": "data/skills-md/jamditis/claude-skills-journalism/pdf-design/SKILL.md"
@@ -599378,7 +599378,7 @@
       "skillId": "social-push",
       "title": "social-push",
       "link": "https://github.com/jihe520/social-push",
-      "installsAllTime": 0,
+      "installsAllTime": 383,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/jihe520/social-push/social-push/description_en.txt",
       "skillMdPath": "data/skills-md/jihe520/social-push/social-push/SKILL.md"

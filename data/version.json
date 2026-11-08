@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T10:05:11Z",
+  "updatedAt": "2026-11-08T09:54:34Z",
   "skillsUpdatedAt": "2026-07-30T07:09:36.998Z",
-  "primaryIndexUpdatedAt": "2026-11-01T10:05:03Z",
-  "searchIndexUpdatedAt": "2026-11-01T10:05:11Z",
+  "primaryIndexUpdatedAt": "2026-11-08T09:54:25Z",
+  "searchIndexUpdatedAt": "2026-11-08T09:54:34Z",
   "feedUpdatedAt": "2026-07-30T07:09:36.998Z",
   "categoryIndexUpdatedAt": "2026-07-30T10:20:42Z",
   "firstSeenUpdatedAt": "2026-07-30T10:20:05.375Z",
@@ -16,27 +16,27 @@
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-11-01T10:05:03Z",
-      "bytes": 56841756,
-      "sha256": "3ce916818fe1d2775df2bdec63ccf349567148a9de6af44bf5b36445f76af466"
+      "updatedAt": "2026-11-08T09:54:25Z",
+      "bytes": 56841771,
+      "sha256": "85b3d7676967e158e7bdcbb4f16e404f2a408098b0dff23835f902f4b4f63358"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-11-01T10:05:11Z",
-      "bytes": 187584594,
-      "sha256": "ef469b6a50ebc60c15a269d6cabd9e77de2574fa0b48f43574de7a809833ef86",
+      "updatedAt": "2026-11-08T09:54:34Z",
+      "bytes": 187584609,
+      "sha256": "8ca1012db254fa58286630fb9156de91fba6a912e98667267737556cfb024ad3",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-11-01T10:05:11Z",
-          "bytes": 99999571,
-          "sha256": "65fcc693d8da24690fa1fd04c859ce84d09c109c14d794ac18e03b7ec424035d"
+          "updatedAt": "2026-11-08T09:54:34Z",
+          "bytes": 99999586,
+          "sha256": "aa2947e4c837c899cfb923cfeecb17fb557d47dd5589190d06cfce0488ec1ada"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-11-01T10:05:11Z",
+          "updatedAt": "2026-11-08T09:54:34Z",
           "bytes": 87585023,
-          "sha256": "738c63b4b2f31d3d0c3d1b66268526b09bd14d281b472295e2085ced41fdb7df"
+          "sha256": "e17fd4921033759f60738caf56ac5a483311868389d3b08b76e0b2fe84c8f77b"
         }
       ]
     },
