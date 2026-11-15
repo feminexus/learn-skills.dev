@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:54:25Z",
+  "updatedAt": "2026-11-15T10:23:50Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -265118,7 +265118,7 @@
       "skillId": "github-explorer",
       "title": "github-explorer",
       "link": "https://github.com/blessonism/github-explorer-skill",
-      "installsAllTime": 0,
+      "installsAllTime": 294,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/blessonism/github-explorer-skill/github-explorer/description_en.txt",
       "skillMdPath": "data/skills-md/blessonism/github-explorer-skill/github-explorer/SKILL.md"
@@ -304322,7 +304322,7 @@
       "skillId": "realtime-monitor",
       "title": "realtime-monitor",
       "link": "https://github.com/chengzuopeng/stock-sdk-mcp",
-      "installsAllTime": 0,
+      "installsAllTime": 339,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/chengzuopeng/stock-sdk-mcp/realtime-monitor/description_en.txt",
       "skillMdPath": "data/skills-md/chengzuopeng/stock-sdk-mcp/realtime-monitor/SKILL.md"
@@ -304334,7 +304334,7 @@
       "skillId": "stock-analyst",
       "title": "stock-analyst",
       "link": "https://github.com/chengzuopeng/stock-sdk-mcp",
-      "installsAllTime": 0,
+      "installsAllTime": 735,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/chengzuopeng/stock-sdk-mcp/stock-analyst/description_en.txt",
       "skillMdPath": "data/skills-md/chengzuopeng/stock-sdk-mcp/stock-analyst/SKILL.md"
@@ -332750,7 +332750,7 @@
       "skillId": "software-security",
       "title": "software-security",
       "link": "https://github.com/cosai-oasis/project-codeguard",
-      "installsAllTime": 0,
+      "installsAllTime": 236,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/cosai-oasis/project-codeguard/software-security/description_en.txt",
       "skillMdPath": "data/skills-md/cosai-oasis/project-codeguard/software-security/SKILL.md"
@@ -400010,7 +400010,7 @@
       "skillId": "eachlabs-image-edit",
       "title": "eachlabs-image-edit",
       "link": "https://github.com/eachlabs/skills",
-      "installsAllTime": 0,
+      "installsAllTime": 798,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/eachlabs/skills/eachlabs-image-edit/description_en.txt",
       "skillMdPath": "data/skills-md/eachlabs/skills/eachlabs-image-edit/SKILL.md"
@@ -411554,7 +411554,7 @@
       "skillId": "seedance-storyboard",
       "title": "seedance-storyboard",
       "link": "https://github.com/elementsix/elementsix-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 918,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/elementsix/elementsix-skills/seedance-storyboard/description_en.txt",
       "skillMdPath": "data/skills-md/elementsix/elementsix-skills/seedance-storyboard/SKILL.md"

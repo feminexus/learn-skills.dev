@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T09:54:34Z",
+  "updatedAt": "2026-11-15T10:23:59Z",
   "skillsUpdatedAt": "2026-07-30T07:09:36.998Z",
-  "primaryIndexUpdatedAt": "2026-11-08T09:54:25Z",
-  "searchIndexUpdatedAt": "2026-11-08T09:54:34Z",
+  "primaryIndexUpdatedAt": "2026-11-15T10:23:50Z",
+  "searchIndexUpdatedAt": "2026-11-15T10:23:59Z",
   "feedUpdatedAt": "2026-07-30T07:09:36.998Z",
   "categoryIndexUpdatedAt": "2026-07-30T10:20:42Z",
   "firstSeenUpdatedAt": "2026-07-30T10:20:05.375Z",
@@ -16,27 +16,27 @@
     },
     "primaryIndex": {
       "path": "data/skills_index.json",
-      "updatedAt": "2026-11-08T09:54:25Z",
-      "bytes": 56841771,
-      "sha256": "85b3d7676967e158e7bdcbb4f16e404f2a408098b0dff23835f902f4b4f63358"
+      "updatedAt": "2026-11-15T10:23:50Z",
+      "bytes": 56841783,
+      "sha256": "b8618884f1adfbeb6ae03a37454e21a40bcbbc8751a9f2c0510050fa9aeb56ca"
     },
     "searchIndex": {
       "path": "data/skills_search_index.json",
-      "updatedAt": "2026-11-08T09:54:34Z",
-      "bytes": 187584609,
-      "sha256": "8ca1012db254fa58286630fb9156de91fba6a912e98667267737556cfb024ad3",
+      "updatedAt": "2026-11-15T10:23:59Z",
+      "bytes": 187584621,
+      "sha256": "62612e1a67516d22d4c4f5a6ce7d31f9211218a291100606f517a9752a2adb48",
       "parts": [
         {
           "path": "data/skills_search_index.json",
-          "updatedAt": "2026-11-08T09:54:34Z",
-          "bytes": 99999586,
-          "sha256": "aa2947e4c837c899cfb923cfeecb17fb557d47dd5589190d06cfce0488ec1ada"
+          "updatedAt": "2026-11-15T10:23:59Z",
+          "bytes": 99999598,
+          "sha256": "8814c1aabe977df8b66248a2377179816da4f15e0eff84e521d4115f2464df39"
         },
         {
           "path": "data/skills_search_index2.json",
-          "updatedAt": "2026-11-08T09:54:34Z",
+          "updatedAt": "2026-11-15T10:23:59Z",
           "bytes": 87585023,
-          "sha256": "e17fd4921033759f60738caf56ac5a483311868389d3b08b76e0b2fe84c8f77b"
+          "sha256": "b73263288a3c186cbdfe2d91ccf4280f21d0797185a0008ac48837f74efee1b3"
         }
       ]
     },
