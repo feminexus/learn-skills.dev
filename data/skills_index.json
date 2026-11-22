@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T10:23:50Z",
+  "updatedAt": "2026-11-22T10:46:34Z",
   "sourceUpdatedAt": "2026-07-30T07:09:36.998Z",
   "providerId": "mixed",
   "count": 103007,
@@ -179054,7 +179054,7 @@
       "skillId": "angular-best-practices-primeng",
       "title": "angular-best-practices-primeng",
       "link": "https://github.com/alfredoperez/angular-best-practices",
-      "installsAllTime": 0,
+      "installsAllTime": 974,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-primeng/description_en.txt",
       "skillMdPath": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-primeng/SKILL.md"
@@ -179090,7 +179090,7 @@
       "skillId": "angular-best-practices-signalstore",
       "title": "angular-best-practices-signalstore",
       "link": "https://github.com/alfredoperez/angular-best-practices",
-      "installsAllTime": 0,
+      "installsAllTime": 593,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-signalstore/description_en.txt",
       "skillMdPath": "data/skills-md/alfredoperez/angular-best-practices/angular-best-practices-signalstore/SKILL.md"
@@ -205214,7 +205214,7 @@
       "skillId": "pdf",
       "title": "pdf",
       "link": "https://github.com/appautomaton/document-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 722,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/appautomaton/document-skills/pdf/description_en.txt",
       "skillMdPath": "data/skills-md/appautomaton/document-skills/pdf/SKILL.md"
@@ -205226,7 +205226,7 @@
       "skillId": "pptx",
       "title": "pptx",
       "link": "https://github.com/appautomaton/document-skills",
-      "installsAllTime": 0,
+      "installsAllTime": 866,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/appautomaton/document-skills/pptx/description_en.txt",
       "skillMdPath": "data/skills-md/appautomaton/document-skills/pptx/SKILL.md"
@@ -228170,7 +228170,7 @@
       "skillId": "ai-collaboration-standards",
       "title": "ai-collaboration-standards",
       "link": "https://github.com/asiaostrich/universal-dev-standards",
-      "installsAllTime": 0,
+      "installsAllTime": 3,
       "firstSeenAt": "2026-02-11T07:20:33.786Z",
       "description": "data/skills-md/asiaostrich/universal-dev-standards/ai-collaboration-standards/description_en.txt",
       "skillMdPath": "data/skills-md/asiaostrich/universal-dev-standards/ai-collaboration-standards/SKILL.md"
